@@ -1,0 +1,1863 @@
+EJ.PDF
+
+Competing technologies, increasing returns, and lock-in by historical events
+
+QUALIT~1.PDF
+
+Evaluating the cost of software quality
+
+DESTRAD3.PDF
+
+Efficiency of complexity allocation in software design: an empirican evaluation
+
+ECONOM~1.HTM
+
+Economic penalty of extra pounds to middle-aged women
+
+theeco~1.htm
+
+The Economic Cost of Obesity to Women and Men in their 50s and 60s
+
+SOFTWA~1.PDF
+
+Software cost estimation with incomplete data
+
+MCFADD~1.PDF
+COGECON.HTM
+
+Rationality for economists?
+
+UVA-CS~1.PDF
+
+The structure and value of modularity in software design
+
+VBRI.PDF
+
+Value based software reuse investment
+
+WILES9~1.PDF
+
+Economic models of software reuse: a survey, comparison and partial validation
+
+PsychologyEconomicsRabin.pdf
+
+Psychology and economics
+
+ASE2000.PDF
+
+Value-based decision model for renewal processes in software maintenance
+
+A094.HTM
+
+Circular No. A-94 Revised (Transmittal Memo No. 64)
+
+WP-DAN~1.PDF
+
+Economic preferences or attitude expressions? An analysis of dollar responses to public issues
+
+CHAOS1~1.PDF (paper, cited) d
+
+CHAOS: A recipe for success
+
+chaosp1.htm chaosp2.htm chaosp3.htm chaosp4.htm chaos_1994.txt chaos_report_1994.pdf (paper, not used) d
+
+The Chaos Report (1994)
+
+useofada.htm
+
+Memorandum on the use of the Ada Programming Language
+
+Astebro_ExcessEntry.pdf
+
+Independent inventors: Overconfident and excessive optimists?
+
+TradeoffProductivityQuality.pdf
+
+Trade-offs between productivity and quality in selecting software development practices
+
+XPOptionsPaper.pdf
+
+Keeping your options open: extreme programming and economics of flexibility
+
+Premrajetal.pdf
+
+Productivity of software projects by business sector: an empirical analysis of trends
+
+Empiricaleconstandards.pdf (paper+emailed, not used) d
+
+The empirical economics of standards
+
+economics-of-standardization.pdf
+
+The economics of standards: An update
+
+ada_c_econ.htm (paper, not used) d
+
+Quantifying the debate: Ada vs. C++
+
+report02-3.pdf
+
+The Economic impacts of inadequate infrastructure for software testing
+
+sassenbug.pdf
+
+Design of a methodology to support software release decisions
+
+inconsistency_est.pdf (paper, done) d
+
+Inconsistency of expert judgment-based estimates of software development effort
+
+expertsubmitnovember2002.pdf
+
+A review of studies on expert estimation of software development effort
+
+isese06.pdf
+
+A literature survey of the quality economics of defect-detection techniques
+
+TUD-SERG-2008-017.pdf (paper, not used) d
+
+Assessing the value of coding standards: An empirical study
+
+val_of_staticanal.pdf (paper, done) d
+
+On the value of static analysis for fault detection in software
+
+10.1.1.136.1710.pdf
+
+A comparison of cross-company and within-compnay effort estimation models for web applications
+
+03_Kitchenham.pdf
+
+Why comparative effort prediction studies may be invalid
+
+article2.pdf
+
+Problems and issues in application software maintenance management
+
+p33.pdf (promisedata/boetticher, not used) d
+
+Using correlation and accuracy for identifying good estimators
+
+10.1.1.129.5662.pdf
+
+Determining the distribution of maintenance categories: Survey versus measurement
+
+dp2009-05.pdf
+
+Software effort estimation: Harmonizing algorithms and domain knowledge in an integrated data mining approach
+
+icst08.pdf
+
+An evaluation of two bug pattern tools for Java
+
+capers-defects2008.pdf
+
+Measuring defect potentials and defect removal efficiency
+
+radlinski_isat2008.pdf
+
+Estimating productivity and defect rates based on environmental factors
+
+costdrive-evol.pdf
+
+Understaning cost drivers of software evolution: A quantitative and qualitative investigation of change effort in two evolving software systems
+
+simula_4.pdf
+
+Are we more productive now?  Analyzing change tasks to assess productivity trends during software evolution
+
+04enough.pdf (NASA promise, not used) d
+
+Software estimation models: When is enough data enough?
+
+10.1.1.112.8862.pdf
+
+Cross versus within-company cost estimation studies: A systematic review
+
+10.1.1.145.9271.pdf
+
+Is this cost estimate reliable?  The relationship between homogeneity of analogues and estimation reliability
+
+10.1.1.65.3080.pdf
+
+Assessing the reliability of a human estimator
+
+empirical_Jorgensen.pdf (paper, partial) d
+
+An empirical study of software project bidding
+
+estimation-biases.pdf (SendAway2013.xls+email for more details, done) d
+
+Software development estimation biases: The role of interdependence
+
+estimation-strat.pdf
+
+Selection of effort estimation strategies
+
+format-proj-bidding.pdf (empirical_Jorgensen, other) d
+
+The effects of the format of software project bidding
+
+irrelev-info.pdf
+
+The impact of irrelevant and misleading information on software development effort estimates: A randomised controlled field experiment
+
+bidding-select.pdf
+
+How to avoid selecting providers with bids based on over-optimistic cost estimates
+
+systematic-costest.pdf
+
+A systematic review of software development cost estimation studies
+
+crit-chaos94.pdf
+
+How large are software cost overruns? A review of the 1994 CHAOS report
+
+chaos.pdf
+
+The rise and fall of the Chaos report figures
+
+simula_23.pdf
+
+Forecasting of software development work effort: Evidence on expert judgement and formal methods
+
+m10-07.pdf
+
+2010 Discount rates for OMB circular No A-94
+
+bmmsr09.pdf
+
+Evaluating the relation between coding standard violations and faults within and across software versions
+
+MISQES~2.PDF
+
+Why software projects escalate: An empirical analysis and test of four theorectical models
+
+MISQES~1.PDF (confidential) d
+
+A cross-cultural study on escalation of commitment behavior in software projects
+
+USCCSE~1.PDF
+
+Incorporating Bayesian analysis to improve the accuracy of COCOMO II and its quality model extension
+
+MGK_09_EJIS.pdf
+
+Another road to IT turnover: the entrepreneurial path
+
+Estimating Software 1997.pdf
+
+Estimating software project effort using analogies
+
+28_ElEmam+Koru2008.pdf (cited) d
+
+A replicated survey of IT software project failures
+
+10.1.1.143.4001.pdf (paper, extract???, faded away) d
+
+Quantifying IT forecast quality
+
+ISESE2006.pdf
+
+Cross-company and single-company effort models using ISBSG database: A further replicated study
+
+Little06.pdf (Aangepast, partial) d
+
+Schedule Estimation and Uncertainty Surrounding the Cone of Uncertainty
+
+Dunn_PhD_06JUN11.pdf (paper, done) d
+
+An Investigation of the Factors Affecting the Lifecycle Costs of COTS-Based Systems
+
+10.1.1.116.5313.pdf  (paper, done) d
+
+Software Lifetime and its Evolution Process over Generations
+
+pimodelfinal.pdf
+
+An effort prediction interval approach based on the empirical distribution of previous estimation accuracy
+
+CostBenefitsofUML.pdf
+
+A realistic empirical evaluation of the costs and benefits of UML in software maintenance
+
+BetterSureThanSafe.pdf (paper+created file, not used) d
+
+Better sure than safe?  Overconfidence in judgement based software development effort prediction intervals
+
+lit-rev-soft-quality-cost.pdf
+
+A systematic literature review of software quality cost research
+
+softwareguidebook2010.pdf
+
+Software development cost estimating guidebook
+
+worth40.pdf (Worth03, cited) d
+
+What is your software worth?
+
+10.1.1.115.3376.pdf (paper+created file, not used) d
+
+Expert estimation of web-developer projects: Are software professionals in technical roles more optimistic than those in non-technical toles?
+
+inherit_jss2003.pdf (not used) d
+
+A controlled experiment on inheritance depth as a cost factor for code maintenance
+
+icse-v2.pdf
+
+Where is the best effort estimator?
+
+PGI_CEM93_AvgBid.pdf
+
+Average-bid method - competitive bidding strategy
+
+Eveleens_PhD.pdf (Aangepast, email for others, other) d
+
+IT forecast quality in measure and number
+
+military_size_time.pdf
+
+Software cost and productivity measurement
+
+rofpc.pdf (confidential, extracted, partial) d
+
+Reliability of function point counts
+
+EstimatingAgileProjectError.pdf (paper+emailed, faded away) d
+
+Estimating agile software project effort: An empirical study
+
+ModelingSoftwareBiddingRisks.pdf
+
+Modeling software bidding risks
+
+200004-Ferens.pdf (paper, not used) d
+
+Does calibration improve predictive accuracy?
+
+10.1.1.201.6971.pdf
+
+A preliminary risk-based software bidding model
+
+Buettner-PhD.pdf (appendix+DR_Data.xlsx, partial) d
+Buettner-PhD-errata.pdf
+
+Designing an optimal software intensive system acquisition: A game thoretic approach
+
+estimation-error.pdf (Regression-models, other) d
+
+Reasons for software effort estimation error: Impact of respondent role, information collection approach, and data analysis method
+
+Ourada-MSc.pdf (paper, cited) d
+
+Software cost estimating models: A calibration, validation, and comparison
+
+a209849.pdf
+
+Estimating the cost of Ada software development
+
+K87.pdf (paper, not used) d
+
+An Empirical Validation of Software Cost Estimation Models
+
+lazear-gibbs-2007.pdf
+
+Personnel economics for managers
+
+mri.pdf
+
+Balancing time-to-market and quality in embedded systems
+
+SPIP-2008-01.pdf (paper, not used) d
+
+Estimating fixing effort and schedule based on defect injection distribution
+
+internetmiscreants.pdf
+
+An inquiry into the nature and causes of the wealth of internet miscreants
+
+fife-MSc.pdf (paper+created file, not used) d
+
+Predicting software development cost for command and control systems
+
+CalibratingSWCostModel.pdf
+
+Calibrating software cost models to department of defense databases - A review of ten studies
+
+DevModels.pdf (paper+RK31-surveycostestim, done) d
+
+A comparison of software project overruns - Flexible versus sequential development models
+
+stephan-MSc.pdf (paper+file, not used) d
+
+The use of statistical measures to validate system dynamics models
+
+Regression-models.pdf (paper+created file, done) d
+
+Regression Models of Software Development Effort Estimation Accuracy and Bias
+
+CADA_ART.PDF (paper, not used) d
+
+Comparing development costs of C and Ada
+
+P338-M~1.PDF
+
+Software reuse economics: cost-benefit analysis on a large scale Ada project
+
+etd-0429108-155454.pdf (not used) d
+
+A study on the interactive effects among software project duration, risk factors and project performance
+
+MSR2012_Bettenburg.pdf (IST2012-replication, not used) d
+
+Think locally, act globally: Improving defect and effort prediction models
+
+fed.pdf (done) d
+
+Benchmarking the expected loss of a federal IT portfolio
+
+Libra project.pdf
+
+New IT systems for magistrates' courts: the Libra project
+
+bp.pdf
+
+IT portfolio management: A banker's perspective on IT
+
+IT-projects_sink-swim.pdf (paper, not used) d
+
+IT projects: sink or swim?
+
+IBM-queensland_2010_Report_No.7.pdf (paper, not used) d
+
+Information systems governance and control, including the Queensland health implementation of continuity project.  Report to parliament No 7 for 2010
+
+IBM-queensland_5413T2967.pdf (paper, partial) d
+
+Queensland health payroll system commission of inquiry report
+
+IBM-queensland_KPMG_audit.pdf (paper, not used) d
+
+Review of the Queensland health payroll system
+
+Managing-the-risk-of-legacy-ICT.pdf (paper, cited) d
+
+Managing the risks of legacy ICT in public service delivery
+
+105-ict-contracts.pdf (paper, cited) d
+
+Cost overruns, delays and terminations: 105 outsources public sector ICT projects
+
+JAPAASPUBLISHED.pdf (paper, done) d
+1303.6604.pdf (paper, cited) d
+
+Underestimating cost in public works projects: Error or lie?
+
+SoftEngjan10.pdf (paper, partial) d
+
+Variability and Reproducibility in Software Engineering: A Study of Four Companies that Developed the Same System
+
+Wachs_3.pdf
+
+When planners lie with numbers
+
+FlyvbjergUncomfortableKnowledge.pdf
+
+How planners deal with uncomfortable knowledge: The dubious ethics of the American Planning Association
+
+paper12_CAIS_RealOptions_IT.pdf
+
+Using real options analysis for evaluating uncertain investments in information technology: insights from the ICIS 2001 debate
+
+McDonaldSiegel86.pdf
+
+The value of waiting to invest
+
+EconScience.pdf
+
+The economics of science
+
+simula_RTM.pdf (file not used+paper, partial) d
+
+Effort estimation: Software effort estimation by analogy and "regression toward the mean"
+
+simula_anchor-dev.pdf (partial) d
+
+The impact of customer expectation on software development effort estimates
+
+ATR-2004_8311-1.pdf (paper, partial) d
+
+Software cost and productivity model
+
+Bernheisel-MSc.pdf (paper, not used) d
+
+Calibration and validation of the COCOMO II.1997.0 cost/schedule estimating model to the space and missile systems center database
+
+Shrum-MSc.pdf (done) d
+
+Calibration and validation of the checkpoint model to the air force electronic systems center software database
+
+NASALessonsLearned_Gruhl.pdf (paper, partial) d
+
+Lessons learned, cost/schedule assessment guide
+
+cos.pdf
+
+Managing Software Reuse Economics: An Integrated ROI-based Model
+
+Fichman_2000_Incentives.pdf
+
+Incentive Compatibility and Systematic Software Reuse
+
+Life-cycle-costing-book.pdf
+
+Life cycle costing for engineers
+
+1995_11.pdf
+
+Scale and context effects in the valuation of transport safety
+
+2002_25.pdf
+
+Public perceptions of risk and preference-based values of safety
+
+gupea_2077_18845_1.pdf
+
+Value of statistical life and cause of accident: A choice experiment
+
+RK31-surveycostestim.pdf (paper+file, done) d
+
+A survey of software estimation in the Norwegian industry
+
+SPLC 2011-final (5).pdf (paper, not used) d
+
+Towards the integration of quality attributes into a software product line cost model
+
+airpollution_reduction.pdf
+
+Valuation of health benefits associated with reduction in air pollution
+
+green_book_complete.pdf
+
+The green book: Appraisal and evaluation in central government
+
+Amazon EC2 SLA.htm
+
+Amazon EC2 Service Level Agreement
+
+ipm.pdf
+
+Quantitative IT portfolio management
+
+eth-154-02.pdf
+
+Security econometrics - the dynamics of (in)security
+
+simula23.pdf
+
+A strong focus on low prices when selecting software providers increases the likelihood of failure in software outsourcing projects
+
+sw_cost_manual.pdf
+
+Software development cost estimating handbook (US DOD)
+
+simula_04.pdf (paper+file, done) d
+
+Eliminating over-confidence in software development effort estimates
+
+179.pdf
+
+HM Revenue and Customs: ASPIRE - the re-competition of outsourced IT services
+
+Real_Opt_Freq_errors.pdf
+
+Valuing real options: frequently made errors
+
+HowisonHerbslebCSCW2013-Final.pdf
+
+Incentives and integration in scientific software production
+
+HowisonHerbslebSciSoftCscw2011.pdf
+
+Scientific software production: Incentives and collaboration
+
+how_to_be_a_successful_app_dev.pdf
+
+How to be a successful App developer: Lessons from the simulation of an App ecosystem
+
+IEEESoftware_ROI.pdf
+
+The incremental funding method - A data driven approach to software development
+
+Archives_Data_Feeds.pdf
+
+USAspending.gov data feeds and archives data dictionary
+
+research-dev.pdf
+
+Revenue guidelines for research and development tax credit
+
+Molokken_PhD.pdf
+
+Effort and schedule estimation of software development projects
+
+ADA300694.pdf (paper, not used) d
+
+A calibration of the revic software cost estimating model
+
+ADA301603.pdf (paper, not used) d
+
+Calibration of the software cycle model (SLIM) to the space and missile systems center (SMC) software database (SWDB)
+
+a300703 (paper, not used) d
+
+Calibration of the system evaluation and estimation of resources software estimation model (SEER-SIM) for the air force space and missile systems center (SMC)
+
+a301377.pdf (paper, not used) d
+
+Calibration of the Price S software cost model
+
+a319518.pdf (paper, not used) d
+
+Calibration of the checkpoint model to the space and missile systems center (SMC) software database (SWDB)
+
+a329958.pdf (paper, not used) d
+
+Calibration and validation of the Sage software cost/schedule estimating system to united states air force databases
+
+Introducing Open Salaries at Buffer Our Transparent Formula and All Individual Salaries Buffer Open.htm
+
+Introducing Open Salaries at Buffer: Our Transparent Formula and All Individual Salaries
+
+10.1.1.85.1534.pdf
+
+Impact of Economics on Compiler Optimization
+
+SSRN-id2221896.pdf ame_11_07_larkin.pdf (paper, done) d
+
+The Cost of High-Powered Incentives: Employee Gaming in Enterprise Software Sales
+
+simula1.pdf (paper, not used) d
+
+Failure Factors of Software Projects at a Global Outsourcing Marketplace
+
+CCGrid-untruthful_stability.pdf
+
+The Effects of Untruthful Bids on User Utilities and Stability in Computing Markets
+
+Del_Rio_CAISE_2015.pdf
+
+Modelling Service Level Agreements for Business Process Outsourcing Services?
+
+The Economics of Product Line Development.html (paper, not used) d
+
+The Economics of Product Line Development
+
+cloud_efficiency_study.pdf (paper, cited) d
+
+The energy efficiency potential of cloud-based software: A U.S. case study
+
+iglesias_jpdc12.pdf (SETI..., not used) d
+
+Long-term availability prediction for groups of volunteer resources
+
+HPL-2005-107R1.pdf
+
+Cost Model for Planning, Development and Operation of a Data Center
+
+HPL-2014-55.pdf
+
+Boiling the frog optimally: an experiment on survivor curve shapes and internet revenue
+
+speech495.pdf
+
+The short long
+
+sqj95.pdf (paper, not used) d
+
+Soft Factors and their Impact on Time to Market
+
+simula3.pdf
+
+The Influence of Selection Bias on Effort Overruns in Software Development Projects
+
+Distimo_2012.pdf (app market, paper, not used) d
+
+2012 year in review
+
+R_Quantitative_Finance-book.pdf
+
+Introduction to R for Quantitative Finance
+
+Potdar_ICSME2014.pdf (not used) d
+
+An Exploratory Study on Self-Admitted Technical Debt
+
+simula_0a.pdf (partial) d
+
+The Relationship between Customer Collaboration and Software Project Overruns
+
+0211.pdf (done) d
+
+Intertemporal pricing and price discrimination: a semiparametric hedonic analysis of the personal computer market
+
+Bass_1967_New_Product_Growth_Model.pdf
+Bass_1969_New_Product_Growth_Model.pdf
+
+A NEW PRODUCT GROWTH MODEL FOR CONSUMER DURABLE
+
+Bass and Bass 2004.pdf (IBM..., other) d
+
+IT Waves: Two Completed Generational Diffusion Models
+
+Bass and Bass 2004 AS.pdf
+
+IT Waves: Two Completed Generational Diffusion Models – Appendices Supplement
+
+Bass and Bass 2004 SS.pdf
+
+IT Waves: Two Completed Generational Diffusion Models – Software Supplement
+
+Bass and Bass 2001.pdf (IBM SIU Phister.xls, cited) d
+
+Diffusion of Technology Generations: A Model of Adoption and Repeat Sales
+
+10741_norton_bass.pdf (DRAMTFSC-dram.xls, not used) d
+
+A diffusion theory model of adoption and substitution for successive generations of high-technology products
+
+vandermerwe_engineering_2015.pdf
+
+An engineering approach to an integrated value proposition design framework
+
+JMPiracyArticle.pdf (paper+MPRA_..., done) d
+
+Software piracy: Estimation of lost sales and the impact on software diffusion
+
+MahajanMuller1996.pdf (paper+file, not used) d
+
+Timing, Diffusion, and Substitution of Successive Generations of Technological Innovations: The IBM Mainframe Case
+
+d1324.pdf (paper+file, partial) d
+
+The Progress of Computing
+
+computing_June2006.pdf (nordhaus..., history, done) d
+
+An Economic History of Computing (a revised version of the above)
+
+nordhaus_computers_jeh_2007.pdf (nordhause, history, done) d
+
+Two centuries of productivity growth in computing (a further revised version)
+
+a-better-days-work_book.pdf
+
+A better day's work
+
+16.pdf (paper+file, partial) d
+
+A Case Study Research on Software Cost Estimation Using Experts’ Estimates, Wideband Delphi, and Planning Poker Technique
+
+0907-file1.pdf (paper, not used) d
+
+Estimation accuracy in large is programs - insights from a descriptive case study
+
+Damm_diss.pdf (paper, not used) d
+
+Early and Cost-Effective Software Fault Detection
+
+10.1.1.91.500.pdf
+
+Causes of Inaccurate Software Development Cost Estimates
+
+ThomasMorwitz2005.pdf
+
+Penny Wise and Pound Foolish:Effect in Price Cognition The Left-Digit
+
+Pricing_Soft_Prod_Man.pdf
+
+Pricing for Software Product Managers
+
+Shihab_IST2013.pdf (not used) d
+
+Is Lines of Code a Good Measure of Effort in Effort-Aware Models?
+
+incomplete.pdf (cited) d
+
+Bidding for Incomplete Contracts: An Empirical Analysis of Adaptation Costs∗
+incomplete-20100396_app.pdf
+
+Appendix for: Bidding for Incomplete Contracts: An Empirical Analysis of Adaptation Costs∗
+
+upgrades.pdf (email, done) d
+
+Information goods upgrades: theory and evidence
+
+CEVG-FC11.pdf
+
+All About The Benjamins: An empirical study on incentivizing users to ignore security advice
+
+Psychology of Pricing  A Gigantic List of Strategies.htm
+
+The Psychology of Pricing: A Gigantic List of Strategies
+
+The Gumroad Blog - A Penny Saved  Psychological Pricing.htm
+
+A Penny Saved: Psychological Pricing
+
+MPRA_paper_46036.pdf (done) d
+
+Variable marginal propensities to pirate and the diffusion of computer software
+
+EaseofBudgetEstimation.pdf
+
+Will I Spend More in 12 Months or a Year? {The} Effect of Ease of Estimation and Confidence on Budget Estimates
+
+w2227.pdf (paper, done) d
+
+The Postwar Evolution of Computer Prices
+
+art2full.pdf (paper, see w2227, done) d
+
+Computer manufacturing enters a new era of growth
+
+0fcfd51091adb.pdf (paper+file, not used) d
+
+The incentives of a monopolist to degrade interoperability: Theory and evidence from PCs
+
+10.1.1.579.5924.pdf (paper+file, not used) d
+
+Estimating Hedonic Price Indexes for Personal Computers in Russia
+
+10.1.1.683.2132.pdf
+
+Uncertainty, Risk, and Information Value in Software Requirements and Architecture
+
+p104-poo-caamano.pdf (paper, cited) d
+
+Software Patents: A Replication Study
+
+10381_1985-1989.pdf (paper, not used) d
+
+Quality-Adjusted Price Indexes for Computer Processors and Selected Peripheral Equipment
+
+19034803-MIT.pdf (Berndt, other) d
+
+Rapid change in the personal computer market a quality-adjusted hedonic price index 1976-1987
+
+w3378.pdf (emailed, Berndt, not used) d
+
+Price indexes for microcomputers: an exploratory study
+
+reading_berndt_hedonics.pdf (Berndt, other) d
+
+Hedonics for personal computers: a reexamination of selected econometric issues
+
+NASA-Cost-Handbook/
+
+NASA-Cost-Handbook
+
+Simula.simula.2762.pdf (email???, faded away) d
+
+Fallacies and biases when adding effort estimates
+
+cale1979.pdf (paper+file, done) d
+
+Price/Performance Patterns of U.S. Computer Systems
+
+1391146.pdf
+
+The Handbook of Business Valuation and Intellectual Property Analysis
+
+qualityweek-overprecision.pdf (email, not used) d
+
+The Use of Precision of Software Development Effort Estimates to Communicate Uncertainty
+
+a085323.pdf (paper, not used) d
+
+Evaluation of software life cycle data from the PAVE PAWS project
+
+a073357.pdf (paper, not used) d
+
+PAVE PAWS modern programming data collection system
+
+20030228.pdf (cited) d
+
+Performance Measures for Computers
+
+a174335.pdf (paper, not used) d
+
+Developing software size estimating relationships based on functional descriptions of the software
+
+ADA047674.pdf (paper, not used) d
+
+A quantitative analysis of estimating accuracy in software development
+
+d0666.pdf
+
+Defense Acquisitions: {DOD} Has Paid Billions in Award and Incentive Fees Regardless of Acquisition Outcomes
+
+wolverton1974.pdf (paper, cited) d
+
+The Cost of Developing Large-Scale Software
+
+norden1958.pdf
+
+Curve Fitting for a Model of Applied Research and Development Scheduling
+
+walston1977.pdf (paper, not used) d
+
+A method of programmingmeasurement and estimation
+
+project_failure.pdf
+
+Software developer perceptions about software project failure: a case study
+
+a151551.pdf (paper+file, not used) d
+
+An application of the Rayleigh Distribution to Contract Cost Data
+
+R3560.pdf
+
+Understanding the Outcomes of Megaprojects: A Quantitative Analysis of Very Large Civilian Projects
+
+firm-age.pdf (paper+BusinessDynamicsStats, not used) d
+
+Investigating the Exponential Age Distribution of Firms
+
+redblack.pdf
+
+The red and the black: Mental accounting of savings and debt
+
+SSRN-id2137174.pdf (paper, not used) d
+
+NewContract Design Choices in IT Outsourcing: Lessons from Software Development OutsourcingContracts
+
+ADA565798.pdf
+
+Data Rights Valuation in Software Acquisitions
+
+11-973-returns-higher-ed.pdf
+
+The Returns to Higher Education Qualifications
+
+nosko_cpu.pdf (paper, emailed, faded away) d
+
+Competition and Quality Choice in the CPU Market∗
+
+SSRN-id2763975.pdf
+
+A journal is a club: A new economic model for scholarly publishing
+
+MeasureAppDevProduct.pdf
+
+Measuring application development productivity
+
+misq.pdf (emailed, faded away) d
+
+System life expectancy and the maintenance effort: Exploring the equilibrium
+
+2015-data-science-salary-survey.pdf (paper, not used) d
+
+2015 Data Science Salary 2015
+
+6496973.pdf
+
+INCENTIVES AND ADAPTATION: EVIDENCE FROM HIGHWAY PROCUREMENT IN MINNESOTA
+
+Simula.simula.126.pdf
+
+Interpretation problems related to the use of regression models to decide on economy of scale in software development
+
+Arrow-Learning-by-Doing.pdf
+
+The Economic Implications of Learning by Doing
+
+curva-de-aprendizaje-en-TPM.pdf (paper+file, not used) d
+
+Learning curve analysis in total productive maintenance
+
+D0006870.A3.pdf
+
+Statistical Methods for Learning Curves and Cost Analysis
+
+Learn_Forget_Models_App.pdf
+
+Learning and Forgetting Models and Their Applications
+
+Ngwenyama-Learning-Curve.pdf
+
+Using the learning curve to maximize IT productivity: A decision analysis model for timing software upgrades
+
+637801.pdf (paper, not used) d
+
+CURRENT RESULTS FROM THE ANALYSIS OF COST DATA FOR COMPUTER PROGRAMMING (aug 1966)
+
+a044609.pdf (paper, not used) d
+
+SOFTWARE COST ESTIMATION STUDY Guidelines for Improved Software Cost Estimating
+
+a047674.pdf (paper, not used) d
+
+A QUANTITATIVE ANALYSIS OF ESTIMATING ACCURACY IN SOFTWARE DEVELOPMENT
+
+AD0603707.pdf (paper, cited) d
+
+FACTORS THAT AFFECT THE COST OF COMPUTER PROGRAMMING VOLUME I
+
+AD0607546.pdf (paper, cited) d
+
+FACTORS THAT AFFECT THE COST OF COMPUTER PROGRAMMING VOLUME II
+
+AD0637801.pdf (paper, not used) d
+
+CURRENT RESULTS FROM THE ANALYSIS OF COST DATA FOR COMPUTER PROGRAMMING
+
+wp4.pdf (not used) d
+
+The First Update of the Maddison Project Re-Estimating Growth Before 1820
+
+spectral analysis of economic cycles.pdf (maddison, done) d
+
+A Spectral Analysis of World GDP Dynamics: Kondratieff Waves, Kuznets Swings, Juglar and Kitchin Cycles in Global Economic Development, and the 2008–2009 Economic Crisis
+
+w13420.pdf
+
+Psychology and economics: evidence from the field
+
+kirby1995.pdf (paper, cited) d
+
+Preference reversals due to myopic discounting of delayed reward
+
+DRAMTFSC.pdf (done) d
+
+DRAMs as Model Organisms for Study of Technological Evolution
+
+10.1.1.470.3863.pdf
+
+Software Economics: How Do the Results of Intellectual Efforts Enter the Global Market Place
+
+c7798.pdf ??d
+
+Price Indexes for Microcomputers: An Exploratory Study
+
+EPS2010202MKT9789058922373.pdf
+
+Marketing Modeling for New Products
+
+EvolvingMobileCommerce.pdf (paper, not used) d
+
+The evolving state of mobile commerce
+
+w16167.pdf (paper, not used) d
+
+Human capital and the Indian software industry
+
+RedQueenSuccessBias.pdf (emailed) d
+
+The Red Queen, Success Bias, and Organizational Inertia
+
+Facebook10K2013.pdf (paper, done) d
+
+FACEBOOK INC, 2013 FORM 10-K
+
+Facebook10K2015.pdf (paper, done) d
+
+FACEBOOK INC, 2015 FORM 10-K
+
+065-098.pdf (maddison, done) d
+
+Kondratieff Waves in the Global Studies Perspective
+
+fas86.pdf
+
+Statement of Financial Accounting Standards No. 86
+
+finlab_software_2010dec.pdf (paper, not used) d
+
+Capitalization of Software Development Costs: Accounting Practices in the Software Industry during 2009
+
+finlab_software_2006may.pdf (paper, done) d
+
+Capitalization of Software Development Costs: {A} Survey of Accounting Practices in the Software Industry
+
+finlab_software_2016jan.pdf (paper, done) d
+
+Capitalization of Software Development Costs: {Accounting} Practices in the Software Industry, 2014 and 2015
+
+94doc02b.pdf (paper, not used) d
+
+Total Quantities and Unit Procurement Cost numbers and costs of all major U.S. weapons funded from 1974 through 1994 and requested for 1995
+
+cf_techfirms_2009.pdf (paper, not used) d
+
+Cash flow trends in several technology industries
+
+ITLaborProductivity.pdf (emailed, confidential) d
+
+The Productivity of Information Technology Investments: New Evidence from IT Labor Data
+
+234316554-MIT.pdf (paper, not used) d
+
+Pricing and licensing of software products and services: A study on industry trends
+
+1404.1990.pdf
+
+Estimating the Accuracy of the Return on Investment (ROI) Performance Evaluations
+
+UK-intangible-assets.pdf (paper, Haskel 2014-03, done) d
+
+Estimating UK investment in intangible assets and Intellectual Property Rights
+
+4228288-eng.pdf (paper, not used) d
+
+Capitalization of Software in the National Accounts (Canada)
+
+breakdownofsoftw00bann.pdf (paper, not used) d
+
+Breakdown of software expenditures in the Department of Defense, United States, and in the world (1991-1992)
+
+measCapRDnationalAcc.pdf
+
+Changes to National Accounts: Measuring and Capitalising Research and Development
+
+pwc-global-100-software-leaders.pdf (paper+file, done) d
+
+PwC Global 100 Software Leaders 2011
+
+pwc-global-100-software-leaders-2014.pdf (paper+file, done) d
+
+PwC Global 100 Software Leaders 2012
+
+global-100-software-leaders-2016.pdf (paper+file, done) d
+
+PwC Global 100 Software Leaders 2014
+
+global-100-software-leaders-2010.pdf (paper, not used) d
+
+PwC Global 100 Software Leaders 2009
+
+etude_global_software_leaders_2016.pdf (paper, not used) d
+
+France Software Leaders 100 2016
+
+WorldCapitalFixedAssetsGuide2016.pdf
+
+Worldwide Capital and Fixed Assets Guide 2016
+
+spotprice-acmsmall.pdf
+
+Deconstructing Amazon EC2 Spot Instance Pricing
+
+SSRN-id2911742.pdf
+
+Amazon’s Antitrust Paradox
+
+ssrn-id1011232.pdf
+
+Do Consumers Perceive Precise Prices to be Lower Than Round Prices? Evidence from Laboratory and Market Data
+
+Haskel 2014-03.pdf (paper, partial) d
+
+Estimating UK investment in intangible assets and Intellectual Property Rights Discussion paper 2014/3
+
+Farrell_klempererWP.pdf
+
+Coordination and Lock-in: Competition with Switching Costs and Network Effects
+
+Erim-Bliek-lr-.pdf
+
+Empirical studies on the economic impact of trust
+
+enigma_benefits_costs.pdf (paper, emailed, faded away) d
+
+The enigma of evaluation: benefits, costs and risks of IT in Australian small–medium-sized enterprises
+
+102723290-05-01-acc.pdf (paper, not used) d
+
+Memories worldwide 1993
+
+102723327-05-01-acc.pdf (paper, not used) d
+
+Embedded microcomponents worldwide 1996
+
+9152-59.pdf (paper, not used) d
+
+The cost of developing and maintain the monitoring and control software of large ground-based telescopes
+
+Biddle13+Like Everyone Else.pdf
+
+Like Everyone Else, Twitter Hides from U.S.  Taxes in Ireland
+
+Infosys-AR-01.pdf (paper, not used) d
+
+Infosys annual report 2001
+
+Infosys-AR-02.pdf (paper, not used) d
+
+Infosys annual report 2002
+
+Kim_s_thesis.pdf
+
+The Classification of Information and Communication Technology Investment in Financial Accounting
+
+Becker_Human_Capital.pdf
+
+Investment in Human Capital: A Theoretical Analysis
+
+software_AL.pdf
+
+The Value Relevance of Intangibles: {The} Case of Software Capitalization
+
+Prudhomme-Sanga-Yu2005.pdf (paper, not used) d
+
+A computer software price index using scanner data
+
+10.1.1.509.9982.pdf
+
+Information Technology and Economic Performance: A Critical Review of the Empirical Evidence
+
+359.pdf
+
+The Primary, Secondary, Tertiary and Quaternary Sectors of the Economy
+
+Merlo_background1.pdf
+
+A Stochastic Model of Sequential Bargaining with Complete Information
+
+Vaporware.pdf (done) d
+
+Truth or consequences: An analysis of vaporware and new product announcements
+
+ch1.pdf
+
+Asymmetric Information
+
+farrell1988.pdf
+
+Dynamic competitionwith switching costs
+
+RUSSOFT_Survey_8_en.pdf (paper, not used) d
+
+RUSSIAN SOFTWARE DEVELOPING INDUSTRY AND SOFTWARE EXPORTS 8th annual survey
+
+RUSSOFT_Survey_9_en.pdf (paper, not used) d
+
+RUSSIAN SOFTWARE DEVELOPING INDUSTRY AND SOFTWARE EXPORTS 9th annual survey
+
+RUSSOFT_Survey_10_en.pdf (paper, not used) d
+
+2013 RUSSIAN SOFTWARE DEVELOPING INDUSTRY AND SOFTWARE EXPORTS
+
+RUSSOFT_Survey_11_en.pdf(paper, not used) d
+
+2014 Export of Russian Software Development Industry 11-th Annual Survey
+
+RUSSOFT_Survey_12_en.pdf (paper, not used) d
+
+2015 Export of Russian Software Development Industry 12-th Annual Survey
+
+RUSSOFT_Survey_13_en.pdf (paper, cited) d
+
+2016 Export of Russian Software Development Industry 13-th Annual Survey
+
+RUSSOFT_Survey_14_en.pdf (paper, not used) d
+
+2017 Export of Russian Software Development Industry 14-th Annual Survey
+
+SEG_Monthly_Flash_Rep_Apr2014.pdf (paper, not used) d
+
+Software Equity Group Flash Report Select M&A Transactions and Valuations and Financial and Valuation Performance of 250+ Publicly Traded Software, SaaS and Internet Companies by Product Category April 2014
+
+SEG_Monthly_Flash_Rep_Jan2014_red.pdf (paper, not used) d
+
+Software Equity Group Flash Report Select M&A Transactions and Valuations and Financial and Valuation Performance of 250+ Publicly Traded Software, SaaS and Internet Companies by Product Category January 2014
+
+SL_01-15-05.pdf (paper, not used) d
+
+Soft-letter Jan 2005 (return on equity)
+
+SL_02-28-05.pdf (paper, not used) d
+
+Soft-letter Feb 2005 (CTO compensation)
+
+SL_06_30_2007.pdf (paper, not used) d
+
+Soft-letter Jun 2007 (CTO compensation)
+
+SL_12-31-05.pdf (paper, not used) d
+
+Soft-letter Dec 2005 (CEO compensation)
+
+SL_02_28_2007.pdf (paper, not used) d
+
+Soft-letter Feb 2007 (Operating income per employee)
+
+SL_10_15_2006.pdf (paper, not used) d
+
+Soft-letter Oct 2006 (Operating income per employee)
+
+SL_07_31_2009.pdf (paper, not used) d
+
+Soft-letter Jul 2009 (Revenue per employee)
+
+SL_08_31_2010.pdf (paper, not used) d
+
+Soft-letter Aug 2010 (Revenue per employee)
+
+SL_06_15_2009.pdf (paper, not used) d
+
+Soft-letter Jun 2009 (General & Administrative)
+
+SL_07_31_2010.pdf (paper, not used) d
+
+Soft-letter Jul 2009 (General & Administrative)
+
+SL_07_15_2010.pdf (paper, not used) d
+
+Soft-letter Jul 2010 (Sales and marketing)
+
+SL_09_15_2010.pdf (paper, not used) d
+
+Soft-letter Sep 2010 (M&A)
+
+themarketforlemons.pdf
+
+The Market for "Lemons": Quality Uncertainty and the Market Mechanism
+
+econinvent-3.pdf
+
+The British Industrial Revolution in Global Perspective: How Commerce Created The Industrial Revolution and Modern Economic Growth
+
+195971.pdf (done) d
+
+Multiyear Leasing And Government-Wide Purchasing Of Automatic Data Processing Equipment Should Result In Significant Savings
+
+0298od.pdf (paper, not used) d
+
+Price Indexes for Selected Semiconductors, 1976-96
+
+aizcorbe_kortum.pdf (emailed, faded away) d
+
+Moore’s Law and the Semiconductor Industry: A Vintage Model
+
+vc-enemy-is-us-report.pdf
+
+“WE HAVE MET THE ENEMY... AND HE IS US” Lessons from Twenty Years of the Kauffman Foundation’s  Investments in Venture Capital Funds and The Triumph of Hope over Experience
+
+Martin2014-SREP.pdf (not used) d
+
+Chimpanzee choice rates in competitive games match equilibrium game theory predictions
+
+ABES-Publicacao-Mercado-2016.pdf (paper, not used) d
+
+Brazillian software market scenario and trends 2016
+
+n200418.pdf
+
+Firm Size Distributions An overview of steady-state distributions resulting from firm dynamics models
+
+mpuvqa.pdf (paper, cited) d
+
+An Alternative Methodology: Valuing Quality Change for Microprocessors in the PPI
+
+Business_Of_Scaling.pdf
+
+The Business of Scaling
+
+200237pap.pdf (paper, not used) d
+
+The Role of Semiconductor Inputs in IT Hardware Price Decline: Computers vs. Communications
+
+CostingTechniques.pdf
+
+Costing a Product by Old and New Techniques: Different Wines for Different Occasions
+
+RAND_MG413.pdf
+
+Systems Engineering and Program Management Trends and Costs for Aircraft and Guided Weapons Programs
+
+Economic-Of-Computers-book.pdf (paper, not used) d
+
+The Economics of computers
+
+survey-software-investment-uk.pdf
+
+Survey-based measures of software investment in the UK
+
+Peukert-Switch.pdf (done) d
+
+Switching Costs and Information Technology: The Case of IT Outsourcing
+
+SSRN-id3248217.pdf (Peukert-Switch, other) d
+
+Determinants and Heterogeneity of Switching Costs in IT Outsourcing: Estimates from Firm-Level Data
+
+37620159.pdf (paper, not used) d
+
+Technology OECD Information 2002 Outlook ICTs AND THE INFORMATION ECONOMY
+
+piracy_HICSS.pdf (email, done) d
+
+On the Reliability of Software Piracy Statistics
+
+a144100.pdf
+
+An overview of cost accounting practices used for u.s. defense weapon systems
+
+10.2757@23011831.pdf
+
+An Integrative Model of Information Systems Spending Growth
+
+OECD_Dig_economy2015.pdf (paper, cited) d
+
+OECD Digital Economy Outlook 2015
+
+itoutlook2010.pdf (paper, not used) d
+
+OECD Information Technology Outlook 2010
+
+average_versus_best.pdf didcomputertechn93181gree.pdf (paper, partial) d
+
+Did Computer Technology Diffuse Quickly?: {Best} and Average Practice in Mainframe Computers, 1968-1983
+
+measuringperform93180luzi.pdf (paper, not used) d
+
+Measuring the Performance of a Protected Infant Industry: The Case of Brazilian Microcomputers.
+
+w5138.pdf (paper, not used) d
+
+How much batter is bigger, faster & cheaper? Buyer benefits from innovation in mainframe computers in the 1980s
+
+w5726.pdf (paper, not used) d
+
+Market segmentation and the sources of rents from innovation: personal computers in the late 1980’s
+
+w6124.pdf (paper, not used) d
+
+Dynamic modeling of the product life cycle in the commercial mainframe computer market, 1968-1982
+
+stavins1995.pdf (paper, extract???, faded away) d
+
+Model entry and exit in a differentiated-product industry: the personal computer market
+
+ProductTechStrategies.pdf (extracted, not used) d
+
+Product technology strategies and firm survival: the personal computer industry 1974-1994
+
+203a113a0c4e8e90cc9.pdf (paper, not used) d
+
+Estimating demand elasticities in a differentiated product industry: The personal computer market
+
+2015_Mozilla_Audited_Financial.pdf
+
+MOZILLA FOUNDATION AND SUBSIDIARY DECEMBER 31, 2015 AND 2014
+
+2015_Mozilla_Foundation_Forms_990.pdf
+
+MOZILLA FOUNDATION Return  of  Organization  Exempt  From  Income Tax
+ 
+PhaseIIBPrelimReportFinal.pdf (not used) d
+
+Return on Investment of Independent Verification and Validation Study Preliminary Phase IIB Report
+
+Business_Cycles.pdf (maddison, done) d
+
+Business Cycles, Long Waves and Phases of Capital Development
+
+09e038.pdf (paper, not used) d
+
+Software Patent and its Impact on Software Innovation in Japan
+
+WuLehighIntel.pdf
+
+Extending Bass for Improved New Product Forecasting
+
+10.1.1.587.6758.pdf (paper, not used) d
+
+Technological Extinctions of Industrial Firms: An Inquiry into their Nature and Causes
+
+1854_NS_1987.pdf (paper, not used) d
+
+Parsimonious Modeling of Yield Curves
+
+2001-025.pdf (paper, not used) d
+
+Fixing Swiss Potholes The Importance of Improvements
+
+NiercRpt19.pdf
+
+Software and computer services employment in the uk regions and ireland, 1995-99
+
+w15799.pdf
+
+DECODING MICROSOFT: INTANGIBLE CAPITAL AS A SOURCE OF COMPANY GROWTH
+
+2015-Software-SaaS-Report.pdf (paper, not used) d
+
+OPEXEngine 2015 Software and SaaS Industry Report & Benchmarks
+
+disasters_annreview.pdf
+
+The Economics of Natural Disasters
+
+campbellkelly2008.pdf (paper, cited) d
+
+Economic Perspectives on the History of the Computer Time-Sharing Industry, 1965–1985
+
+P2000-2.pdf (paper+files, done) d
+
+Recognition of Business and Government Expenditures for Software as Investment: Methodology and Quantitative Impacts, 1959-98
+
+SoftwarePatentsFunctionalClaiming.pdf
+
+SOFTWARE PATENTS AND THE RETURN OF FUNCTIONAL CLAIMING
+
+204591.pdf
+
+UNITED STATES OF AMERICA, et al., v. ORACLE CORPORATION
+
+Telex Corp. v. International Business Machines.htm
+
+Telex Corp. v. International Business MacHines Corp., 367 F. Supp. 258 (N.D. Okla. 1973)
+
+e5a4abf7b6834e.pdf (partial) d
+
+Economic Perspectives on Software Design: ∗ PC Operating Systems and Platforms
+
+SSRN-id2933177.pdf
+
+Will The Growth of Uber Increase Economic Welfare?
+
+facts.pdf
+
+The Facts of Economic Growth
+
+1708.00992.pdf
+
+Testing as an Investment
+
+1.5007621.pdf (paper, cited) d
+
+Moore's law realities for recording systems and memory storage components: HDD, tape, NAND, and optical
+
+session-6-kenneth-flamm.pdf (paper, not used) d
+
+Measuring Moore's Law: Evidence from Price, Cost, and Quality Indexes
+
+lockincostsofswi91133gree.pdf
+
+Lock-In and the Costs of Switching Mainframe Computer Vendors: What Do Buyers See?
+
+p1483-allodiA.pdf (paper, not used) d
+
+Economic Factors of Vulnerability Trade and Exploitation
+
+unpan012285.pdf (paper, not used) d
+
+The Uneven Profile of Indian Software Exports
+
+Quality-Adj-Price-Laptop.pdf (paper, done) d
+
+What We Are Paying for: A Quality Adjusted Price Index for Laptop Microprocessors
+
+1a42eb6557008323453e.pdf (paper, not used) d
+
+Ain’t it “Suite”? Strategic Bundling in the PC Office Software Market
+
+RAND_RGSD184.pdf
+
+Astronomical Odds A Policy Framework for the Cosmic Impact Hazard
+
+335303788330.pdf
+
+Measuring Investment in Software
+
+tetcs-14.pdf
+
+Then and Now: On The Maturity of the Cybercrime Markets The lesson that black-hat marketeers learned
+
+334811030426.pdf
+
+Report of the OECD Task Force on Software Measurement in the National Accounts
+
+twerp079.pdf (paper, not used) d
+
+MERGER AND TECHNOLOGICAL PROGRESSIVENESS: THE CASE OF THE BRITISH COMPUTER INDUSTRY
+
+sec12-final101.pdf (paper, done) d
+
+AdSplit: Separating smartphone advertising from applications
+
+dont-just-roll-the-dice-2.0.0.pdf
+
+Don't Just Roll The Dice
+
+Milestones.pdf (paper, not used) d
+
+An Economic Analysis of Payments and Milestones in Software Development Contracts
+
+Control_Data_Pricing_Manual.pdf (paper, not used) d
+
+Control Data pricing manual, March 17, 1978
+
+ensmenger2002.pdf
+
+Software as Labor Process
+
+worldbank-softind.pdf (paper, not used) d
+
+The World Software Industry and Software Engineering (aug 1989)
+
+637760.pdf (paper, not used) d
+
+DEVELOPMENT OF EQUATIONS FOR ESTIMATING THE COSTS OF COMPUTER PROGRAM PRODUCTION
+
+ostrom_1992.pdf
+
+Covenants with and without a sword: self-governance is possible
+
+BrennanSchwartz85.pdf
+
+Evaluating natural resource investments
+
+InvestUncertainCostJFE1993.pdf
+
+Investments of uncertain cost
+
+Financial_Risk_Modelling-book.pdf
+
+Financial Risk Modelling and Portfolio Optimization with R
+
+TimetoBuildOptionValueJFE1987.pdf
+
+Time to Build, Option Value, and Investment Decisions
+
+schwartz2003.pdf
+
+Investment Under Uncertainty in Information Technology: Acquisition and Development Projects
+
+ZozayaSchwartz.pdf
+
+Valuation of Information Technology Investments as Real Options
+
+demirhan2007.pdf
+
+Strategic IT Investments: The Impact of Switching Cost and Declining IT Cost
+
+Economic-Limits-Bitcoin-Blockchain.pdf
+
+The Economic Limits of Bitcoin and the Blockchain∗†
+
+373198_vol.1.pdf,373198_vol.2.pdf,373198_vol.3.pdf
+
+Accounting for Software in the United States
+
+1703.06660.pdf (not used) d
+
+Economic Analysis of Ransomware
+
+Yankee_24.pdf
+
+A CASE FOR USING REAL OPTIONS PRICING ANALYSIS TO EVALUATE INFORMATION TECHNOLOGY PROJECT INVESTMENTS
+
+takeyama1994.pdf (paper, cited) d
+
+THE SHAREWARE INDUSTRY: SOME STYLIZED FACTS AND ESTIMATES OF RATES OF RETURN
+
+StrategicInvestGames-book.pdf
+
+Strategic Investment Real Options and Games
+
+realopt.pdf
+
+The Promise and Peril of Real Options
+
+NetEx.pdf
+
+Lecture Notes on Network Externalities
+
+Arthur_1989.pdf
+
+Competing Technologies, Increasing Returns, and Lock-in by Historical Events
+
+RochetTirole3.pdf
+
+PLATFORM COMPETITION IN TWO-SIDED MARKETS
+
+Stabell_Fjeldstad.pdf
+
+Configuring Value for Competitive Advantage: On Chains, Shops, and Networks
+
+PLATFORM-ECONOMICS-book.pdf
+
+PLATFORM ECONOMICS: Essays on Multi-Sided Businesses
+
+VirtualMaintInc.v.PrimeComp.pdf
+
+Virtual Maintenance Inc. v. Prime Computer
+
+SSRN-id2400780.pdf
+
+PRICE-FIXING OVERCHARGES: REVISED 3rd EDITION
+
+2010-24624.pdf
+
+United States v. Adobe Systems, Inc., et al.; Proposed Final Judgment and Competitive Impact Statement
+
+HallMacGarvie_Dec09.pdf (cited) d
+
+The Private Value of Software Patents
+
+18-023.pdf (done) d
+
+SOME FACTS OF HIGH-TECH PATENTING
+
+kpmg_due_diligenceAutonomyHP.pdf
+
+Project Tesla Due diligence assistance
+
+ExpectedReturnsAngelInvest.pdf (AIPP, other) d
+
+Expected Returns to Angel Investors
+
+Economics_of_Standards.pdf
+
+Economics of Standards in Information Networks
+
+SI024_GI_NIESR_Google.pdf (paper, not used) d
+
+MEASURING THE UK’S DIGITAL ECONOMY WITH BIG DATA
+
+journal.pone.0207101.pdf
+
+How much is social media worth? Estimating the value of Facebook by paying users to stop using it
+
+IPOs2018Statistics-1.pdf (paper, not used) d
+
+Initial Public Offerings: Updated Statistics April 9, 2019
+
+econ-security.pdf
+
+Why Information Security is Hard – An Economic Perspective
+
+1911.04309.pdf
+
+On the costs and profit of software defect prediction
+
+FINHANDBOOK_A0055E.pdf (paper, cited) d
+
+THE SOFTLETTER FINANCIAL HANDBOOK 2011 Metrics and Benchmarks Mergers, IPOs, and Venture Finance Compensation Operations
+
+1904.02724.pdf (done) d
+
+Bounties in Open Source Development on GitHub: A Case Study of Bountysource Bounties
+
+SSRN-id2367103.pdf
+
+The Unfavorable Economics of Measuring the Returns to Advertising∗
+
+SSRN-id1028592.pdf (AIPP, done) d
+
+Returns to Angel Investors in Groups
+
+SSRN-id1024714.pdf (AIPP, other) d
+
+Angel Investor Performance Project
+
+34-81207.pdf
+
+Report of Investigation Pursuant to Section 21(a) of the Securities Exchange {Act} of 1934: The DAO
+
+1905.12111.pdf (done) d
+
+Analyzing and Supporting Adaptation of Online Code Examples
+
+paper-influence-comments.pdf (email) d
+
+Commenting Source Code: Is It Worth It For Small Programming Tasks?
+
+ca039ecb0c8fe7a5a9f.pdf (emailed) d
+
+Software Start-up failure An exploratory study on the impact of investment
+
+1910.11143.pdf
+
+The Economics of Smart Contracts
+
+Bargaining_and_Market_Beh.pdf
+
+Bargaining and market behavior in Jerusalem, Ljubljana, Pittsburgh, And Tokyo: An experimental study
+
+SSRN-id1392292.pdf (Kauffman..., not used) d
+
+An Overview of the Kauffman Firm Survey
+
+IPOL_STU(2016)579000_EN.pdf
+
+A Longer Lifetime for Products: Benefits for Consumers and Companies
+
+1ce4370967befc7c2b7d2da.pdf
+
+Option-Based Management of Technology Investment Risk
+
+ED033215.pdf (paper, cited) d
+
+Manpower Impacts of Electronic Data Processing
+
+Numminen-PhD.pdf
+
+On the Economic Return of a Software Investment Managing Cost, Benefit and Uncertainty
+
+overney20donations.pdf (done) d
+
+How to Not Get Rich: An Empirical Study of Donations in Open Source
+
+44312350.pdf
+
+Handbook on Deriving Capital Measures of Intellectual Property Products
+
+800186.810633.pdf
+
+Lease/buy decisions for computer acquisition under conditions of uncertain technological change
+
+O-ring.pdf
+
+The O-Ring Theory of Economic Development
+
+STD-NA(2002)2.pdf
+
+REPORT OF THE OECD TASK FORCE ON SOFTWARE MEASUREMENT IN THE NATIONAL ACCOUNTS
+
+EMSE2019_BountiesTechQASites.pdf (not used) d
+
+Bounties on Technical Q&A Sites: A Case Study of Stack Overflow Bounties
+
+01658693.pdf (paper, cited) d
+
+Life-Cycle Cost Analysis of Instruction-Set Architecture Standardization for Military Computer Systems
+
+365696.365715.pdf (paper, not used) d
+
+Economies of Scale and the IBM System/360
+
+1957083.pdf (paper, not used) d
+
+Report of the Eurostat Task Force Software Measurement
+
+1499799.1499886.pdf
+
+The evolving market for word processing and typesetting systems
+
+2017015pap.pdf (done) d
+
+ICT Prices and ICT Services: What do they tell us about Productivity and Technology?
+
+berndt.pdf (paper, not used) d
+
+PRICE AND QUALITY OF DESKTOP AND MOBILE PERSONAL COMPUTERS: A QUARTER CENTURY OF HISTORY
+

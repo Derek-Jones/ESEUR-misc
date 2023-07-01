@@ -1,0 +1,98 @@
+esecfse07.pdf
+
+Mining API patterns as partial orders from source code: From usage scenarious to specifications
+
+ecoop09-mapo.pdf
+
+MAPO: Mining and Recommending API Usage Patterns
+
+sthumma-icse09.pdf
+
+Mining exception-handling rules as conditional association rules
+
+bird2009ppm.pdf
+
+The promises and perls of mining Git
+
+lindig-paper.pdf
+
+Mining patterns and violations using concept analysis
+
+09-015.pdf
+
+Anomaly detection for discrete sequences: a survey
+
+wasylkowski-2008-preconditions.pdf
+
+Mining operational preconditions
+
+bugreports.pdf  Modeling bug report quality
+
+livshits-fse-2005.pdf
+
+Dynamine: Finding common error patterns by mining software revision histories
+
+ATheoryOfAspectsAsLatentTopics.pdf
+
+A theory of aspects as latent topics
+
+acharya_PhD.pdf
+
+Mining API specifications from source code for improving software reliability
+
+fase09.pdf
+
+Mining API error-handling specifications from source code
+
+challenge-msr2010.pdf (sql dumps not downloaded, not used) d
+
+Mining challenge 2010: FreeBSD, GNOME Desktop and Debian/Ubuntu
+
+fase2011_qirun.pdf (not used) d
+
+Flow-augmented call graph: A new foundation for taming API complexity
+
+IS.pdf
+
+Selecting the right objective function for association analysis
+
+vcdim08.pdf
+
+VC-dimension for characterizing classifiers
+
+wcre2012_delays.pdf (partial) d
+
+An empirical study of factors impacting bug fixing time
+
+sthumma-carminer-icse09.pdf (not used) d
+
+Mining exception-handling rules as sequence association rules
+
+ASE2013cart.pdf (done) d
+
+Variability-Aware Performance Prediction: A Statistical Learning Approach
+
+mining_email_social_networks.pdf (not used) d
+
+Mining email social networks
+
+fse14_2a.pdf (not used) d
+
+Learning to Rank Relevant Files for Bug Reports using Domain Knowledge
+
+MiningGitHub_MSR2014.pdf
+
+The Promises and Perils of Mining GitHub
+
+LNM16.pdf
+
+Topic Modeling of NASA Space System Problem Reports
+
+1801.04385.pdf (email, not used) d
+
+Can you Trust the Trend? Discovering Simpson's Paradoxes in Social Data
+
+1805.03094.pdf
+
+Using Simpson’s Paradox to Discover Interesting Patterns in Behavioral Data
+

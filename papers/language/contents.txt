@@ -1,0 +1,716 @@
+RAVI93~1.PDF
+
+Statistical techniques for language recognition: An introduction and guide for cryptanalysts
+
+stanley96empirical.pdf
+
+An empirical study of smoothing techniques for language modeling
+
+10.1.1.118.4631.pdf
+
+Not so randomly typing monkeys - Rank-frequency behavior of natural and artificial languages
+
+pone.0009411.pdf
+
+Random texts do not exhibit the real Zipf's law-like rank distribution
+
+cicling2003-2.pdf
+
+The design, implementation and use of the Ngram statistics package
+
+J02-4007.pdf
+
+Squibs and discussions: Human variation and lexical choice
+
+Matt09aAssigningBugreports.pdf
+
+Assigning bug reports using a vocabulary-based expertise model of developers
+
+icse11-abram.pdf (not used) d
+
+Automated topic naming to support analysis of software maintenance activities
+
+irbookonlinereading.pdf
+
+An introduction to information retrieval
+
+Ko2006LinguisticsOfBugReports.pdf (not used) d
+
+A linguistic analysis of how people describe software problems
+
+Miller-Nicely1955.pdf (paper, not used) d
+
+An Analysis of Perceptual Confusions Among Some English Consonants
+
+IR-trace-tr.pdf (not used) d
+
+Technical report "A linguistic approach to improve IR-based traceability recovery"
+
+IR-trace-noun-J1.pdf (not used) d
+
+Improving IR-based recovery via noun-based indexing of software artifacts
+
+1203.18558v1.pdf
+
+Distributional measures of semantic distance: A survey
+
+ICPC2011-IdentifierSplitting.pdf (not used) d
+
+Can better identifier splitting techniques help feature location?
+
+lang-hist-chart.pdf
+
+Time line of versions of various computer languages
+
+icpc2013.pdf (not used) d
+
+Using code ownership to improve IR-based traceability link recovery
+
+SERG-2012-03.pdf (not used) d
+
+A comparison of stemming algorithms for text retrieval based feature location
+
+sisman2013assisting.pdf (not used) d
+
+Assisting code search with automatic query reformulation for bug localization
+
+petrovic13unsupervised.pdf (not used) d
+
+Unsupervised joke generation from big data
+
+MSR2012_Chen.pdf (not used) d
+
+Explaining software defects using topic models
+
+icpc2013-haystack.pdf (not used) d
+
+Extracting problematic API features from forum discussions
+
+CSMR-WCRE2014.pdf (not used) d
+
+Automated construction of a software-specific word similarity database
+
+UAWPvol1SB.pdf
+
+Word-initial sound-spelling patterns: cross-linguistic analyses and empirical validations of phoneme-letter feedback consistency effects
+
+gorla-chabadaicse-2014.pdf (not used) d
+
+Checking App behavior against App descriptions
+
+978-951-39-5791-9_comp.pdf (not used) d
+
+The extent of empirical evidence that could inform evidence-based design of programming languages
+
+1-s2.0-main.pdf (not used) d
+
+From source code identifiers to natural language terms
+
+fpsyg-01-00174.pdf (not used) d
+
+Practice effects in large-scale visual word recognition studies: a lexical decision study on 14,000 Dutch mono- and disyllabic words and nonwords
+
+fpsyg-02-00306.pdf (not used) d
+
+Comparing word processing times in naming, lexical decision, and progressive demasking: evidence from Chronolex
+
+New-2006-PBR-Length.pdf (not used) d
+
+Reexamining the word length effect in visual word recognition: New evidence from the English Lexicon Project
+
+icpc14-lda.pdf
+
+Understanding LDA in Source Code Analysis
+
+swordnet-emse14.pdf (not used) d
+
+SWordNet: Inferring Semantically Related Words from Software Context
+
+EngLexicon-userguide.pdf
+
+The English Lexicon Project
+
+TjongThesis.pdf
+
+Avoiding Ambiguity in Requirements Specifications
+
+snapl2015.pdf (not used) d
+
+Tracking the Flow of Ideas through the Programming Languages Literature
+
+SCIPRO-2014.pdf (not used) d
+
+Irish: A Hidden Markov Model to detect coded information islands in free text
+
+NSMRL_958.pdf
+
+Comparison of abbreviation methods: measures of rpeference and decoding performance
+
+0040-8743-1987-46-111.pdf
+
+A Psychological Analysis on the Meaning of Reliance
+
+5703806a9e364.pdf
+
+How much is “about”? Fuzzy interpretation of approximate numerical expressions
+
+74350.pdf
+
+On Round Numbers: Pragmatic Aspects of Numerical Expressions
+
+hedges.pdf
+
+Natural language of uncertainty: numeric hedge words
+
+granularity.pdf (Cummins_, done) d
+
+Granularity and scalar implicature in numerical expressions
+
+ICSME2015ERARobbert.pdf (EMSE-Robbert cited) d
+
+Choosing Your Weapons: On Sentiment Analysis Tools for Software Engineering Research
+
+mining_jira_repo.pdf (not used) d
+
+The Emotional Side of Software Developers in JIRA
+
+C129.pdf (paper, cited) d
+
+The Grammar of Approximating Number Pairs
+
+jansen2001.pdf (paper, extract??, email??, cited) d
+
+On Round Numbers: Pragmatic Aspects of Numerical Expressions
+
+jones2004.pdf (paper, cited) d
+
+Case-sensitive letter and bigram frequency counts from large-scale English corpora
+
+Bastiaanse_PhD.pdf
+
+Very, many, small, penguins: Vaguely related topics
+
+hull1973.pdf (paper, not used) d
+
+A LETTER DIGIT MATRIX OF AUDITORY CONFUSIONS
+
+greenberg.pdf
+
+Some Universals of Grammar with Particular Reference to the Order of Meaningful Elements
+
+10.1.1.301.6261.pdf (paper, not used) d
+
+What if? Conditionals in educational registers
+
+Ifconditionals_discourse.pdf
+
+If-conditionals in medical discourse: From theory to disciplinary practice
+
+wordmeaning-acc-languages.pdf
+
+Word meanings across languages support efficient communication
+
+universalsoflang00unse.pdf
+
+UNIVERSALS of LANGUAGE
+
+gennari.pdf
+
+Motion events in language and cognition
+
+1703.09046.pdf (not used) d
+
+Bootstrapping a Lexicon for Emotional Arousal in Software Engineering
+
+hopl.pdf
+
+The Evolution of Lua
+
+RM5136.pdf
+
+Soviet Cybernetics Technology: VIII. {Report} on the Algorithmic Language {ALGEC} (Final version)
+
+50640001.pdf
+
+PROGRAMMING SYSTEMS AND LANGUAGES A Historical Survey
+
+Programming_Languages_-_Sammet.pdf (paper, not used) d
+
+Programming Languages: History and Future
+
+zuse_archive-0242.pdf
+
+Über den Allgemeinen Plankalkül als Mittel zur Formulierung schematisch-kombinativer Aufgaben ∗†
+
+Plankalkul-Konrad_Zuse.pdf
+
+The "Plankalk{\"u}l" of Konrad Zuse: a forerunner of today's programming languages
+
+Cummins_Phd.pdf (done) d
+
+The interpretation and use of numerically-quantified expressions
+
+Bram_Bruines_Plankalkul.pdf
+
+Plankalkül
+
+linguistic_change_lifecycle.pdf
+
+No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities
+
+Mackenzie_CodedCharSets-book.pdf
+
+Coded Character Sets, History and Development
+
+1709.02984.pdf (not used) d
+
+Sentiment Polarity Detection for Software Development
+
+611893.pdf
+
+The language user as an arithmetician
+
+FrequencyNumberWords_Cognition.pdf
+
+Cross-linguistic regularities in the frequency of number words
+
+1101.full.pdf
+
+How do we use language? Shared patterns in the frequency of word use across 17 world languages
+
+BaayenMilinRamscarfrequencyAph.pdf
+
+Frequency in lexical processing
+
+yap2010.pdf (not used) d
+
+The Malay Lexicon Project: A database of lexical statistics for 9,592 words
+
+EMSE-Robbert.pdf (cited) d
+
+On Negative Results when using Sentiment Analysis Tools for Software Engineering Research
+
+BritishLexiconProject.pdf (cited) d
+
+The British Lexicon Project: Lexical decision data for 28,730 monosyllabic and disyllabic English words
+
+BRM.40.4.1049.pdf
+
+Age-of-acquisition and subjective frequency estimates for all generally known monosyllabic French words and their relation with other psycholinguistic variables
+
+1803.07292.pdf
+
+Natural Language or Not (NLoN) - A Package for Software Engineering Text Analysis Pipeline
+
+Futrell_et_al_2015_PNAS.pdf
+
+Large-scale evidence of dependency length minimization in 37 languages
+
+project_muse_262979.pdf
+
+Peaks beyond phonology: adolescence, incrementation, and language change
+
+schocketalaoa2012.pdf (cited) d
+
+Age of acquisition estimates for 3,000 disyllabic words
+
+SemCat_IndividualDiff.pdf (cited) d
+
+Individual Differences in Semantic Processing: Insights from the Calgary Semantic Decision Project
+
+2016_Calgary_SDT.pdf (not used) d
+
+The Calgary semantic decision project: concrete/abstract decision data for 10,000 English words
+
+126-448-1-SM.pdf (cited) d
+
+N-gram probability effects in a cloze task
+
+Tremblay2011b.pdf
+
+The effects of N-gram probabilistic measures on the recognition and production of four-word sequences
+
+nelson2000.pdf
+
+What is free association and what does it measure?
+
+98b73f9764f2ae09.pdf
+
+The world’s simplest grammars are creole grammars
+
+d8420d1feef1b01c07.pdf
+
+Linguistic complexity: locality of syntactic dependencies
+
+journal.pone.0088941.PDF
+
+An Evaluation Framework and Comparative Analysis of the Widely Used First Programming Languages
+
+3465.pdf ISEDJv14n6p47.pdf (paper, Reid-List, emailed) d
+
+A Longitudinal Analysis of the Reid List of First Programming Languages
+
+EJ1136749.pdf (paper, emailed) d
+
+Whatever Happened to Richard Reid’s List of First Programming Languages?
+
+vub-soft-tr-12-13.pdf
+
+A Survey on Reactive Programming
+
+6fb9b7583a31827a-book.pdf
+
+HANDBOOK OF PSYCHOLINGUISTICS
+
+linguistics_encyc-book.pdf
+
+THE ROUTLEDGE LINGUISTICS ENCYCLOPEDIA
+
+UnicodeStandard-11.0.pdf
+
+The Unicode Standard Version 11.0 – Core Specification
+
+piantadosi_thesis.pdf
+
+Learning and the language of thought
+
+piantadosi2014zipfs.pdf (done) d
+
+Zipf's word frequency law in natural language: a critical review and future directions",
+
+2014_ChineseLexiconProj.pdf
+
+The Chinese Lexicon Project: A repository of lexical decision behavioral responses for 2,500 Chinese characters
+
+2014_SzeChineseMegastudy.pdf
+
+The role of lexical variables in the visual recognition of Chinese characters: A megastudy analysis
+
+1619666114.full.pdf (not used) d
+
+Color naming across languages reflects color use
+
+ACM_IUI_2017.pdf
+
+Dimensions for automatic interpretation of approximate numerical expressions: An empirical study
+
+euclid.ss.1177012242.pdf (paper, cited) d
+
+Quantifying probabilistic expressions
+
+IJAR_About_2015_Final.pdf (emailed) d
+
+Interpretation of approximate numerical expressions: Computational model and empirical study
+
+LangFixedEffect-fallacy.pdf
+
+The Language-as-Fixed-Effect Fallacy: A Critique of Language Statistics in Psychological Research
+
+Mahowald_et_al_2013_Cogn.pdf
+
+Info/information theory: Speakers choose shorter words in predictive contexts
+
+SSRN-id3188933.pdf (paper, not used) d
+
+The Regulation of Language
+
+a196944.pdf Vague_meanings_prob_terms.pdf (paper, not used) d
+
+Measuring the Vague Meanings of Probability Terms
+
+ed3book_dec302020.pdf
+
+Speech and Language Processing An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition
+
+5_W5.pdf (not used) d
+
+A FrameNet-based Approach for Annotating Natural Language Descriptions of Software Requirements
+
+1806.09029.pdf
+
+Improving Text-to-SQL Evaluation Methodology
+
+Lin2018a.pdf (cited) d
+
+Sentiment Analysis for Software Engineering: How Far Can We Go?
+
+ma1.0.pdf
+
+Experimental Evaluation and Modelling of the Comprehension of Indirect Anaphors in a Programming Language
+
+smith-2011-phd.pdf
+
+Scaling up psycholinguistics
+
+smith-levy-2013-pred-log.pdf
+
+The effect of word predictability on reading time is logarithmic
+
+grzybek2006word_len.pdf (paper, not used) d
+
+HISTORY AND METHODOLOGY OF WORD LENGTH STUDIES The State of the Art
+
+EmpiricalProgLangTrends.pdf (paper, not used) d
+
+An Empirical Study of Programming Language Trends
+
+Evert2004phd.pdf
+
+The Statistics of Word Cooccurrences Word Pairs and Collocations
+
+jephpp12a.pdf
+
+Individual Differences in Visual Word Recognition: Insights From the English Lexicon Project
+
+newstead2000.pdf (paper, extract, not used) d
+
+The role of context and functionality in the interpretation of quantifiers
+
+Relevance_Theory_Clark.pdf
+
+Relevance Theory
+
+Priestley_thesis.pdf
+
+Logic and the development of programming languages, 1930-1975
+
+Lassiter-book.pdf
+
+GRADED MODALITY: QUALITATIVE AND QUANTITATIVE PERSPECTIVES
+
+1104660-20180613.pdf
+
+Comparison of Word Length Distributions in Spoken and Written Chinese
+
+journal.pone.0176452.pdf (not used) d
+
+There was not, they did not: May negation cause the negated ideas to be remembered as existing?
+
+the_oxford_3000.pdf (paper, not used) d
+
+The Oxford 3000
+
+5179102.pdf
+
+Model of the Dynamic Construction Process of Texts and Scaling Laws of Words Organization in Language Systems
+
+journal.pone.0164658.pdf
+
+Long-Range Memory in Literary Texts: On the Universal Clustering of the Rare Words
+
+WordGrowthDynamics.pdf
+
+Statistical Laws Governing Fluctuations in Word Use from Word Birth to Word Death
+
+fincher-thornhill2008a.pdf
+
+A parasite-driven wedge: infectious diseases may explain language and other biodiversity
+
+PNAS-2012-Gorenflo.pdf (not used) d
+
+Co-occurrence of linguistic and biological diversity in biodiversity hotspots and high biodiversity wilderness areas
+
+62587c6e0f4056ff814.pdf
+
+The Emergence of Modern Languages: Has Human Self-Domestication Optimized Language Transmission?
+
+senticr-ase.pdf (not used) d
+
+SentiCR: A Customized Sentiment Analysis Tool for Code Review Interactions
+
+dc76567adb600dbf6a.pdf
+
+Minimal requirements for the cultural evolution of language
+
+1907.02202.pdf
+
+SEntiMoji: An Emoji-Powered Learning Approach for Sentiment Analysis in Software Engineering
+
+Science-2012-Bouckaert.pdf (not used) d
+
+Mapping the Origins and Expansion of the Indo-European Language Family
+
+L18-1529.pdf (done) d
+
+Grounding Gradable Adjectives through Crowdsourcing
+
+rsif.2015.0249.pdf rsif20150249supp1.pdf rsif20150249supp2.pdf
+
+Punctuated equilibrium in the large-scale evolution of programming languages†
+
+BARREIROS-PhD.pdf (not used) d
+
+THE EPIDEMICS OF PROGRAMMING LANGUAGE ADOPTION
+
+Priestley-phd.pdf
+
+LOGIC AND THE DEVELOPMENT OF PROGRAMMING LANGUAGES, 1930–1975
+
+priestley2017.pdf
+
+AI and the Origins of the Functional Programming Language Style
+
+1004_Paper.pdf (not used) d
+
+A Gold Standard for Scalar Adjectives
+
+UpadhyayHoughtonKlin2018.pdf (cited) d
+
+Is “Few” Always Less than Expected?: The Influence of Story Context on Readers’ Interpretation of Natural Language Quantifiers
+
+2015_SW-STG_MuPDAR-AO_LAB.pdf
+
+Prenominal adjective order preferences in Chinese and German L2 English
+
+Concepts_TechModCompProg.pdf
+
+Concepts, Techniques, and Models of Computer Programming
+
+QuantifyEvolDynamics.pdf (not used) d
+
+Quantifying the Evolutionary Dynamics of Language
+
+1710.07032.pdf (sling-master.zip)
+
+SLING: A framework for frame semantic parsing
+
+2019_swow.pdf (not downloaded, ignore) d
+
+The “Small World of Words” English word association norms for over 12,000 cue words.
+
+VanRoy-Programming.pdf
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+
+Dreyers_English-book.pdf
+
+Dreyer’s English : an utterly correct guide to clarity and style
+
+7780.full.pdf
+
+Russian blues reveal effects of language on color discrimination
+
+1408.3456v1.pdf (not used) d
+
+SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation
+
+Unicode-cook-book.pdf
+
+The Unicode Cookbook for Linguists Managing writing systems using orthography profiles
+
+karr1978.pdf
+
+Incorporation of Units into Programming Languages
+
+2002.02672.pdf (done) d
+
+How do Quantifiers Affect the Quality of Requirements?
+
+s41598-020-60661-8.pdf (not used) d
+
+Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages
+
+Tutar_MSc.pdf
+
+A PROGRAMMING LANGUAGE FOR BEGINNERS BASED ON TURKISH SYNTAX
+
+chomsky1956.pdf
+
+Three MODELS FOR the DESCRIPTION OF LANGUAGE
+
+early-lisp-history-1956.pdf 800055.802047.pdf
+
+Early LISP History (1956-1959)
+
+BitsOfHistory-book.pdf
+
+Smalltalk-80 Bits of History, Words of Advice
+
+AparicioTerrasa_PhD.pdf
+
+PROCESSING CONTEXT-SENSITIVE EXPRESSIONS: THE CASE OF GRADABLE ADJECTIVES AND NUMERALS
+
+Algol60-ACM.pdf
+
+Report on the Algorithmic Language ALGOL 60
+
+ADA177802.pdf
+
+A W-GRAMMAR DESCRIPTION FOR ADA
+
+ADA241772.pdf
+
+Ada Quality and Style: Guidelines for Professional Programmers
+
+az.pdf
+
+The A-Z of Programming Languages (interviews with programming language creators)
+
+3386335.pdf
+
+The Evolution of Smalltalk From Smalltalk-72 through Squeak
+
+DTIC_ADA102538.pdf
+
+Final Report on the International Workshop on High-level Language Computer Architecture
+
+2006.16940.pdf (not used) d
+
+Traceability Support for Multi-Lingual Software Projects
+
+10.1007_2Fs00766.pdf (not used) d
+
+Extracting conceptual models from user stories with Visual Narrator
+
+brm_gimenes_2020_lexique.pdf (not used) d
+
+Lexique-Infra: grapheme-phoneme, phoneme-grapheme regularity, consistency and other sublexical statistics for 137,717 polysyllabic French words
+
+MenzerathLaw_JQL.pdf
+
+Menzerath's Law: The whole is greater than the sum of its parts
+
+367177.367205.pdf
+
+An Introduction to Information Processing Language V
+
+3386332.pdf
+
+The Origins of Objective-C at PPI/Stepstone and Its Evolution at NeXT
+
+978-951-39-6388.pdf
+
+Evidence-Based Programming Language Design A Philosophical and Methodological Exploration
+
+Common-Chinese-Habits_English.pdf
+
+The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students
+
+CIA-RDP84B00506R00-1.pdf
+
+Words of estimative probability
+
+schler_springsymp06.pdf (not used) d
+
+Effects of Age and Gender on Blogging
+
+Summary_of_Fortran_2018.pdf
+
+The new features of Fortran 2018
+
+1-s2.0-S00225371.pdf (paper, not used) d
+
+The Frequency and Versatility of Initial and Terminal Letters in English Words
+
+Solso1979_BigramTrigramFreq.pdf (paper, not used) d
+
+Bigram and trigram frequencies and versatilities in the English language
+
+Solso_PosFrequencyVersatil.pdf (paper, not used) d
+
+Positional frequency and versatility of letters for six-, seven-, and eight-letter English words
+
+zoltan-ford-1991.pdf
+
+How to get people to say and type what computers can understand
+

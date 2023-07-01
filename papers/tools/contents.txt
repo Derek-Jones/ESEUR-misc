@@ -1,0 +1,918 @@
+CODECHECKCUM.html
+
+All about Codecheck
+
+TXL103~1.PDF
+
+The TXL programming language
+
+RACERX~1.PDF
+
+RacerX: Effective, static detection of race conditions and deadlocks
+
+GRAHAM~1.PDF
+
+gprof: a call graph execution profiler
+
+optalphaexe.htm
+
+Optimizing Alpha executables on windows NT with spike
+
+PINCUS~1.PDF
+
+A static analyzer for finding dynamic programming errors
+
+BLANCH~1.PDF
+
+Design and implementation of a special purpose static program analyser for safety critical real time embedded software
+
+FISHEY~1.PS.gz
+FISHEY~2.PS.gz
+
+The FISHEYE view: a new look at structured files
+
+P238-V~1.PDF
+
+Token based scanning of source code for security problems
+
+CCUSER.PDF
+
+C and C++ source code analysis using codecheck
+
+ICSM-01.PDF
+
+Implementation techniques for efficient data-flow analysis of large programs
+
+971111~1.GZ
+
+A tool for checking coding standard for C++
+Saleem MSc 1999
+
+PAGMAN~1.PS
+
+PAG user's manual
+
+SPLINT~1.PDF
+
+Splint manual
+
+CPP-AW~1.PDF
+
+A Framework for preprocessor aware C source code analysis
+The PCppP tool from Washington U
+
+SCRUPL~1.PDF
+
+A framework for source code searching using program patterns
+overview of scruple system
+
+ABRXTRIG.HTM
+
+List of Abraxis options & functions
+
+LCLINT~1.HTM
+
+LCLint User's guide
+
+STARTOOL.PS.gz
+
+StarTool Users guide 1.0 Beta
+
+ASGMOD~1.PDF
+
+DATRIX, Abstract Semantic Graph Reference Manual
+
+PUI_1.PS
+
+PUI: A tool to support program understanding
+Overview of what a tool should do
+
+DESERT~1.Z
+
+Simplifying data integration: The design of the Desert software development environment
+Short overview
+
+STOREY96.PDF
+
+On designing an experiment to evaluate a reverse engineering tool
+
+ARCHEX~1.GZ
+
+Evaluating architecture extraction tools
+SNiFF, Rigi, Software bookshelf, CIA, Dali
+
+ICSE20~1.PDF
+
+Conceptual module querying for software reengineering
+
+ICSE97~1.PS
+
+Lackwit: A program understanding tool based on type inference
+
+LACKWIT.PDF
+
+Lackwit: Large scale analysis of C programs using polymorphic type inference
+
+INFOVI~1.PDF
+
+On integrating visualization techniques for effective software exploration
+Overview of SHriMP way of looking at things
+
+JSM96.PS.gz
+
+DECODE: A cooperative program understanding environment
+Cobol based
+
+KACPRO~1.PS.gz
+
+Visualizing the evolution of software systems
+KAC extensions to the Rigi system
+
+MARGAR~1.PS.gz
+
+A cognitive framework for describing and evaluating software exploration tools
+
+METRIC~1.PDF
+
+DATRIX metric reference manual, version 4.1
+
+MURPHY~1.GZ
+
+Lightweight structural summarization as an aid to software evolution
+PhD thesis, Gail Murphy, 1996
+
+RR-5-99.PDF
+
+GraX - An interchange format for reengineering tools
+
+SALTO.PDF
+
+Functional specification of SALTO: A retargetable system for assembly language transformations and optimizations
+
+TR-97-08.PDF
+
+Work practices as an alternative method to assist tool design in software engineering
+studies professionals doing real work
+
+TRPS~1.PDF
+
+Practical algorithms for incremental software development environments (wagner)
+
+ICAD96~1.PDF
+
+CAITLIN: A musical program auralisation tool to assist novice programmers with debugging
+
+LAMBDA~1.PS.gz
+
+The Lambda loop transformation toolkit (Users reference manual)
+
+MANCOR~1.PDF
+
+Bunch: A clustering tool for the recovery and maintenance of software system structures
+Effects of user feedback on improving clustering display
+
+VIFORMAN.PS
+
+VIFOR users manual
+Fortran & C program viewer
+
+MC-OSDI.PS.gz
+
+Checking system rules using system specific, programmer written compiler extensions
+
+MITROV~1.PDF
+
+SQL tutor: a preliminary report
+
+PHONGI~1.GZ
+
+Incl: A tool to analyze include files
+discussion of issues, no empirical results
+
+SALTOP~1.PDF
+
+SALTO: System for assembly language transformation and optimization
+
+USERS-~1.PDF
+
+Users Manual for doctext Producing Documentation from C Source Code
+
+INTLAND.TGZ
+
+Intland source explorer
+
+SPULER~1.GZ
+
+Check: a better checker for C
+Spuler BSc thesis, 90
+
+CHESSCHK.PDF
+
+CHESS/CHECKERS: a retargetable DSP compilation environment
+
+CPP-AW~1.PDF
+
+Preprocessor source code analysis
+
+DEVANBU.PDF
+
+Genoa source code analysis system
+
+CFX.TXT
+
+CFX man page + technical documents
+
+FBGEN.TXT
+
+fbgen tool for use with CFX
+
+MACDON~1.PDF
+
+A comparison of tool based and paper based software inspection
+
+HOUDIN~1.PDF
+
+Houdini, an annotation assistant for ESC/Java
+
+KRML102.PS
+
+Extended static checking: a ten year perspective
+
+SRC-20~1.HTM
+
+ESC/Java User's Manual
+
+SAFERC.PDF
+
+Taskings 'Safer C'
+
+TOOLS~1.HTM
+
+Guidance for the adoption of tools for use in safety related software development 
+
+VXCPP.HTM
+
+VX/CPP preprocessor
+
+INVARI~1.PDF
+
+Dynamically discovered likely program invariants to support program evolution
+daikon
+
+INVARI~2.PDF
+
+Dynamically discovering likely program invariants
+Ernst PhD 2000
+
+SPARCS~1.PS
+
+Formal semantics of SPARK, static semantics
+
+ACMTOS~1.GZ
+
+Generating testing and analysis tools with Aria
+
+INVARI~3.PDF
+
+Automatic generation and checking of program specifications
+
+USENIX~1.GZ
+
+Representing semantically analyzed C++ code with Reprise
+
+AWZ.PDF
+
+Detecting equality of variables in programs
+(value numbering)
+
+DUPLOC~1.PDF
+
+DUPLOC tutorial
+
+physunits.pdf
+
+Automated computation and consistency checking of physical dimensions and units in scientific programs
+
+ACACIA~1.PS
+
+A C++ data model supporting reachability analysis and dead code detection
+
+USER-G~1.PDF
+
+CQUAL User's guide, version 0.9
+
+CPPX-W~1.PS
+
+Union schemas as a basis for a C++ extractor
+
+FERENC~1.PS
+
+Towards a standard schema for C/C++
+
+ITS4.PDF
+
+ITS4: A static vulnerability scanner for C and C++ code
+
+NECULA~1.PS
+
+CIL: Intermediate language and tools for analysis and transformation of C programs
+
+DDJPAP~1.HTM
+
+A First Look at C++ Program Analyzers
+Meyers, Dr Dobb's
+
+TR-97-07.PDF
+
+Architecture of a source code exploration tool: A software engineering case study
+List of attributes a tool should have and survey showing that no existing tools have them
+
+ATKINSON.PDF
+
+The design and implementation of practical and task-oriented whole-program analysis tools
+PhD thesis, Atkinson, mostly theory.
+
+MICRO33.PDF
+
+Calpa: A tool for automating selective dynamic compilation
+
+memleak.htm
+
+Purify: Fast Detection of Memory Leaks and Access Errors
+
+RTTC.PDF
+
+Debugging via run-time type checking
+
+RV-TYPES.PDF
+
+Reducing the overhead of dynamic analysis
+later version of RTTC.PDF paper
+
+EVALEXTR.PS.gz
+
+Evaluating architectural extractors
+
+ccref.pdf
+
+Codecheck reference manual
+
+TARGET~1.PDF
+
+Target-specific global code improvement: principles and applications
+
+UNO_CSTR.PDF
+
+UNO: static source code checking for user defined properties
+
+CVSSRCH.PDF
+
+CVSSearch: Searching through source code using CVS comments
+
+EROSA9~1.PDF
+
+A goto-elimination method and its implementation for the McCat C compiler
+
+WCRE99.PDF
+
+Restructuring functions with low cohesion
+Short paper describing ideas behind tool
+
+REPORT.PDF
+
+OdinMP/CCp - a portable compiler for C with openmp to C with posic threads
+
+CYCLON~1.PDF
+
+Cyclone: A safe dialect of C
+
+SPE023FB.PDF
+
+Reactive C: An extension of C to program reactive systems
+
+SPE759NG.PDF
+
+Implementing concurrent C
+
+ccmaster.pdf
+
+CodeCheck command line options
+
+CCTECH~1.PDF
+
+CodeCheck technical notes Spring 2003 ver 10.01
+
+ENGLER~1.PDF
+
+Bugs as deviant behavior: a general approach to inferring errors in
+systems code
+
+A-COMP~1.PDF
+
+A Comparison of Publicly Available Tools for Dynamic Buffer Overflow Prevention
+
+BARATL~1.PDF
+
+Libsafe: protecting critical elements of stacks
+
+GRUNWA~1.PDF
+
+CustoMalloc: Efficient Synthesized Memory Allocators
+
+SQC95.PS.gz
+
+Project Project: Tools for program analysis and comprehension
+Stuff about program slicing, they did not develop any tools
+
+P87-HO~1.PDF
+
+Data flow coverage and the C language
+ATAC
+
+HPL-20~1.PDF
+
+Simplify: A theorem prover for program checking
+
+MIBENCH.PDF
+
+MiBench: A free, commercially representative embedded benchmark suite
+
+ADAWISE.PDF
+
+Always one more bug: applying Adawise to improve Ada code
+
+A32548.PDF
+
+Programmers guide to the Oracle Pro*C/C++ precompiler
+
+A-RUN-~1.PDF
+
+A run-time type-checking debugger for C
+
+FAIL-S~1.PDF
+SAFE-C.PDF
+
+Fail Safe ANSI C Compiler: An approach to making C programs secure
+
+P040-Y~1.PDF
+
+Protecting C programs from attacks via invalid pointer dereferences
+
+HOLZMA~1.PDF
+
+Static source code checking for user-defined properties
+
+TECHNI~1.PDF
+
+Surveyor from Lexient Corp
+
+P150-XIE.PDF
+
+ARCHER: Using symbolic, path-sensitive analysis to detect memory access errors
+
+EPHEDRA.PDF
+
+Ephedra: A C to Java migration environment
+
+aero05.ps
+
+Precise and scalable static program analysis of NASA flight software
+
+lrec2000.pdf
+
+An open source grammar development environment and broad-coverage English grammar using HPSG
+
+Necula-CCuredInTheRealWorld.pdf
+
+CCured in the real world
+
+Cstressrequirements.pdf
+
+Requirements for the C compiler stress tester
+
+------------------------ version 1.00 -------------------
+
+term.orso.harrold.ASE04.pdf
+
+A differencing algorithm for object oriented programs
+
+BTTJ-ConceptNet.pdf
+
+ConceptNet - a practical commonsense reasoning tool-kit
+
+xu04transformation.pdf
+
+An efficient and backwards-compatible transformation to ensure memory safety of C programs
+
+ppopp01.pdf
+
+Language support for Morton-order matrices
+
+zhivich.pdf
+
+Securing software: An evaluation of static source code analyzers
+
+invarincre.pdf
+
+Efficient incremental algorithms for dynamic detection of likely invariants
+
+DBE User Guide.pdf
+
+DB-Examiner user guide 5.0
+
+Buss_Pointer_Analysis.pdf
+
+Pointer analysis for source-to-source transformations
+
+CUCS-028-05.pdf
+
+Pointer Analysis for C programs through AST traversal
+
+edwards2004.pdf
+
+Determining interfaces using type inference
+
+fse05.pdf
+
+DynaMine: Finding common error patterns by mining software revision histories
+
+heintze99analysis.pdf
+
+Analysis of large code bases: The compile-link-analyse model
+
+heintze01ultrafast.pdf
+
+A million lines of C code in a second
+
+ae2006-final.pdf
+
+One million (LOC) and counting.  Static analysis for errors and vulnerabilities in the Linux kernel source code
+
+ae2004.pdf
+
+Static deadlock detection in the Linux kernel
+
+tr1488.pdf
+
+Buffer overrun detection using linear programming and static analysis
+
+weimer04finding.pdf
+
+Finding and preventing run-time error handling mistakes
+
+05-65.pdf
+
+Diehard: Probabilistic memory safety for unsafe languages
+
+DMS-for-ICSE2004-reprint.pdf
+
+DMS: Program transformation for practical scalable software evolution
+
+icse06-unit.pdf
+
+Osprey: A practical type system for validating dimensional unit correctness of C programs
+
+JTL-OOPSLA06.pdf
+
+JTL - the Java tools language
+
+ICSE06.pdf
+
+Perracotta: Mining temporal API rules from imperfect traces
+
+HeinePhD.pdf
+
+Static memory leak detection
+
+sec.pdf
+
+Static detection of security vulnerabilities in scripting languages
+
+GETSTART.PDF
+
+CC-Rider The program visualization and dopcumentation tool
+
+cr.pdf
+
+Automatic coding rule conformance checking using logic programming
+
+demo.pdf
+
+JDBC Checker: A static analysis tool for SQL/JDBC applications
+
+fcrac_draft20070625_1.pdf
+
+A framework for coding rule automatic checking
+
+EECS-2007-1.pdf
+
+Static analysis of C for hybrid type checking
+
+SoftModelCheckerBLAST.pdf
+
+The software model checker BLAST: Applications to software engineering
+
+novark07exterminator.pdf
+
+Exterminator: Automatically correcting memory errors with high probability
+
+safedrive-osdi-2006.pdf
+
+Safedrive: Safe and recoverable extensions using language-based techniques
+
+CheckMemSafe_Blast.pdf
+
+Checking memory safety with Blast
+
+ccs03-meca.pdf
+
+MECA: am extensible, expressive system and language for statically checking security properties
+
+fse03.ps
+
+Protecting C Programs from attacks via invalid pointer dereferences
+
+icse05.pdf
+
+Automatic discovery of API-level exploits
+
+45.pdf
+
+Smart C: A semantic macro replacement translator for C
+
+domain-based-parser.pdf
+
+The Cico domain-based parser
+
+miro.pdf
+
+Finding what C++ lost: Tracking referent objects with GCC
+
+unparsed-pepm08.pdf
+
+Unparsed patterns: Easy user-extensibility of program manipulation tools
+
+pcc.pdf
+
+Reducing build times for evolving software
+
+10.1.1.5.8707.pdf
+
+MJ - A system for constructing bug-finding analyses for Java
+
+2007-BLAST.pdf
+
+The software model checker BLAST
+
+08-pldi-sharc.pdf
+
+SharC: Checking data sharing strategies for Multithreaded C
+
+thurston_CASCON_06_btlr.pdf
+
+A backtracking LR algorithm for parsing ambiguous context-dependent languages
+
+05-sas-jukishyi.pdf
+
+Taming false alarms from a domain-unaware C analyzer by a baysian statistical post analysis
+
+Relogix86UserManual.pdf
+
+Relogix 80x86 assembler to C translator
+
+rule08-hills.pdf
+
+A rewriting logic approach to static checking of units of measurement in C
+
+beyer04blast.pdf
+
+The Blast query language for software verification
+
+cssv.pdf
+
+CSSV: Towards a realistic tool for statically detecting all buffer overflows in C
+
+MIT-CSAIL-TR-2008-057.pdf
+
+Refactoring sequential Java code for concurrency via concurrent libraries
+
+fares08.pdf
+
+A lightweight security analyzer inside gcc
+
+icse09-xylem.pdf
+
+Accurate Interprocedural Null-Dereference Analysis for Java
+
+EW_MisraC2004Reference.ENU.pdf
+
+IAR Embedded Workbench MISRA C:2004
+
+rej10j1314_sqmlnt_u.pdf
+
+MISRA C rule checker SQMlint V.1.03 (Renesas)
+
+relation-calc-soft-anal.pdf
+
+Efficient relational calculation for software analysis
+
+splash10.pdf
+
+Scalable and systematic detection of buggy inconsistencies in source code
+
+acsl_1.4.pdf
+
+ACSL: ANSI/ISO C specification language
+
+daikon-tool-scp2007.pdf
+
+The Daikon system for dynamic detection of likely invariants
+
+eidorff99annodomini.pdf
+
+EnnoDomini: From type theory to year 2000 conversion tool
+
+ercim.pdf
+
+SmPL: A domain-specific language for specifying collateral evolutions in Linux device drivers
+
+fp017-cooprider.pdf
+
+Pluggable abstract domains for analyzing embedded software
+
+fp019-regehr.pdf
+
+Deriving abstract transfer functions for analyzing embedded software
+
+mops-full.ps
+
+Model checking an entire Linux distribution for security violations
+
+qatools.pdf
+
+Software quality assurance for Fortran 90- A survey of available tools
+
+relay.pdf
+
+Relay: Static race detection on millions of lines of code
+
+sail.pdf
+
+Sail: Static analysis intermediate language with a two-level representation
+
+sniff.pdf
+
+Sniff: A search engine for Java using free-form queries
+
+sosp061-lu.pdf
+
+Muvi: Automatically inferring multi-variable access correlations and detecting related semantic and concurrency bugs
+
+value-analysis-Beryllium.pdf
+
+Frama-C's value analysis plug-in
+
+BrummayerLonsingBiere-SAT10.pdf
+
+Automated testing and debugging of SAT and QBF solvers
+
+DMTracker-SC07.pdf
+
+DMTracker: Finding bugs in large-scale parallel programs by detecting anomaly in data movements
+
+drmemory.pdf
+
+Practical memory checking with Dr. Memory
+
+lctes11.pdf
+
+An approach to improving the structure of error-handing code in the Linux kernel
+
+klee-osdi-2008.pdf
+
+KLEE: Unassisted and automatic generation of high-coverage tests for complex systems programs
+
+ephedra-c2java.pdf
+
+Ephedra: A C to Java migration environment
+
+memsherlock.pdf
+
+MemSherlock: An automated debugger for unknown memory corruption vulnerabilities
+
+secret-max-flow-pldi08.pdf
+
+Quantitative information flow as network flow capacity
+
+eurosys2011-fonseca.pdf
+
+Finding complex concurrency bugs in large multi-threaded applications
+
+P106_138.pdf
+
+Discovery of locality-improving refactorings by reuse path analysis
+
+1206.5648v1.pdf
+
+Automatic translation of C source code to Eifel
+
+MISRA-C_Tool_compare.pdf
+
+A Comparison of MISRA C Testing Tools
+
+compass.pdf
+
+Compass user manual: A tool for source code checking
+
+Goanna-ReferenceGuide.pdf
+
+Goanna reference manual, version 3.3
+
+xtc-10.1.1.227.1831.pdf
+
+SuperC: Parsing All of C by Taming the Preprocessor
+
+wang-stack-cacm.pdf
+
+A Differential Approach to Undefined Behavior Detection
+
+171-min-online.pdf
+
+Cross-checking Semantic Correctness: The Case of Finding File System Bugs
+
+GeneralSQLParser_UserGuide.pdf
+
+Gudu Software General SQL Parser User Guide
+
+46317.pdf
+
+Detecting Argument Selection Defects
+
+lweight_phys_unit_incon.pdf
+
+Lightweight Detection of Physical Unit Inconsistencies without Program Annotations
+
+ase2018.pdf
+
+ESBMC 5.0 An Industrial-Strength C Model Checker∗
+
+FSE_2018_phys_unit_assignment.pdf
+
+Phys: Probabilistic Physical Unit Assignment and Inconsistency Detection
+
+frama-c-wp-tutorial-en.pdf
+
+Introduction to C program proof with Frama-C and its WP plugin
+
+2013-507.pdf
+
+SNARKs for C : Verifying Program Executions Succinctly and in Zero Knowledge
+
+pfaff1985.pdf
+
+A VERIFIER FOR CHECKING THE CONFORMANCE OF PROGRAMS WITH THE GKS STANDARD
+
+1901.11100.pdf
+
+ExceLint: Automatically Finding Spreadsheet Formula Errors
+
+thesis-amann-2018-06-27.pdf
+
+A Systematic Approach to Benchmark and Improve Automated Static Detection of Java-API Misuses
+
+dangnull.pdf
+
+Preventing Use-after-free with Dangling Pointers Nullification
+
+Ore-PhD.pdf
+
+Dimensional Analysis of Robot Software without Developer Annotations
+
+icse2018_a.pdf
+
+ConflictJS: Finding and Understanding Conflicts Between JavaScript Libraries
+
+gazzillo_PhD.pdf
+
+Analyzing Source Code Across Static Conditionals
+
+ASE.2019.00160.pdf (paper, not used) d
+
+Empirical Study of Python Call Graph
+
+JSP19-Java-Call-Graph-Tools.pdf (not used) d
+
+Systematic Comparison of Six Open-Source Java Call Graph Construction Tools
+
+SCAM-StaticJSCallGraphs.pdf (not used) d
+
+Static JavaScript Call Graphs: a Comparative Study
+
+AHS16.pdf
+
+Transforming C++11 Code to C++03 to Support Legacy Compilation Environments
+
+USENIX19_Antifuzz.pdf
+
+ANTIFUZZ: Impeding Fuzzing Audits of Binary Executables
+

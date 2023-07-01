@@ -1,0 +1,2877 @@
+algorithms/contents.txt:1509.05053.pdf (done) d
+algorithms/contents.txt:isbn9789526049908.pdf (paper, not used) d
+benchmark/contents.txt:issta10-nversion.pdf (paper+emailed, no reply) d
+benchmark/contents.txt:JCCPPR~1.PDF (not used) d
+benchmark/contents.txt:aging-JVM.pdf (paper, not used) d
+benchmark/contents.txt:oopsla07-stat.pdf (emailed, faded away) d
+benchmark/contents.txt:ispass11.pdf (done) d
+benchmark/contents.txt:nitin-thesis09.pdf (ms-static+emailed, done) d
+benchmark/contents.txt:tr-2002-03.pdf (paper, not used) d
+benchmark/contents.txt:pek-corpora.pdf (done) d
+benchmark/contents.txt:KricodeResearchreportV2.pdf (paper, emailed, withdrawn report, confidential) d
+benchmark/contents.txt:wlmod.pdf (...ac.uk/.../workload/..., paper, not used) d
+benchmark/contents.txt:MSR-TR-2012-93.pdf (cited) d
+benchmark/contents.txt:nagappan-esecfse-2013.pdf (MSR-TR-2012, not used) d
+benchmark/contents.txt:sate_IV-NIST.pdf (not used) d
+benchmark/contents.txt:sate2010-NIST.pdf (not used) d
+benchmark/contents.txt:CCGTWH12.pdf (done) d
+benchmark/contents.txt:ECSTR12-22.pdf (done) d
+benchmark/contents.txt:wwc2001.pdf (paper, not used) d
+benchmark/contents.txt:smli_tr-1993-11.pdf (paper, not used) d
+benchmark/contents.txt:Larres-MSc.pdf (done) d
+benchmark/contents.txt:fhpm2010_weaver.pdf (paper, done) d
+benchmark/contents.txt:tr1051_08.pdf (iiswc2008, done) d
+benchmark/contents.txt:njgCMG93.pdf (pdcs05, done) d
+benchmark/contents.txt:thereska-sigmetrics10.pdf (email, partial)) d
+benchmark/contents.txt:Paper2.pdf (emailed, faded away) d
+benchmark/contents.txt:10.1.1.104.7244.pdf (paper, not used) d
+benchmark/contents.txt:Kalibera-PhD.pdf (done) d
+benchmark/contents.txt:EvalStaticAnalTools.pdf (paper, not used) d
+benchmark/contents.txt:sehgal.pdf (cited) d
+benchmark/contents.txt:BabkaTuma-epew11.pdf (not used) d
+benchmark/contents.txt:BabkaLibicMartinecTuma-icpe12.pdf (not used) d
+benchmark/contents.txt:BabkaTumaBulej-qosa10.pdf (not used) d
+benchmark/contents.txt:GPCE2013fbm.pdf (not used) d
+benchmark/contents.txt:20120915131407232.pdf (paper+file, partial) d
+benchmark/contents.txt:Kim.pdf (paper, not used) d
+benchmark/contents.txt:smli_tr-2007-174.pdf (confidential) d
+benchmark/contents.txt:50-241-1-PB.pdf (done) d
+benchmark/contents.txt:apsys13-s3.pdf (not used) d
+benchmark/contents.txt:Krevat.pdf (partial) d
+benchmark/contents.txt:stabilizer-asplos13.pdf (not used) d
+benchmark/contents.txt:schad10.pdf (partial) d
+benchmark/contents.txt:ngs08.pdf (paper+extracted, done) d
+benchmark/contents.txt:mytkowicz-thesis.pdf (paper, lost data) d
+benchmark/contents.txt:mytkowicz-asplos09.pdf (lost data) d
+benchmark/contents.txt:atc12-final129.pdf (paper, done) d
+benchmark/contents.txt:dacapo-TR-06-01.pdf (paper,email, cited) d
+benchmark/contents.txt:linpack-perf.pdf (paper, not used) d
+benchmark/contents.txt:VarExecTime.pdf (Mazouz..., other) d
+benchmark/contents.txt:NIST.TN.1826.pdf (cited) d
+benchmark/contents.txt:mapred_workload_vldb.pdf (not used) d
+benchmark/contents.txt:morebugs.pdf (not used) d
+benchmark/contents.txt:rapl-final.pdf (email, rapl, other) d
+benchmark/contents.txt:Babka-MSc.pdf (done) d
+benchmark/contents.txt:babka-phd-thesis.pdf (done) d
+benchmark/contents.txt:Babka-tr-cpu2006-sensitivity.pdf (paper, not used) d
+benchmark/contents.txt:Carrol_1.pdf (paper, emailed, faded away) d
+benchmark/contents.txt:mpi_benchmarking_sahu_2014.pdf (done) d
+benchmark/contents.txt:BabkaTuma-spec09.pdf (done) d
+benchmark/contents.txt:CU-CS-1042-08.pdf (paper, cited) d
+benchmark/contents.txt:hsueh.pdf (paper, not used) d
+benchmark/contents.txt:tiwari-instruction-power.pdf (paper, not used) d
+benchmark/contents.txt:icpe13-datamill.pdf (partial) d
+benchmark/contents.txt:Oliveira_Augusto.pdf (icpe13-datamill..., other) d
+benchmark/contents.txt:esem2014-paper.pdf (clueless, not used) d
+benchmark/contents.txt:Giuseppe Procaccianti-PhD.pdf (not used) d
+benchmark/contents.txt:Mazouz-Phd.pdf (done) d
+benchmark/contents.txt:energy-oopsla14.pdf (emailed for non-averaged data, faded away) d
+benchmark/contents.txt:dumitras05magical.pdf (not used) d
+benchmark/contents.txt:dumitras07gotpredictability.pdf (not used) d
+benchmark/contents.txt:powervperfasplos20112.pdf (done) d
+benchmark/contents.txt:NIST.TN.1855.pdf (cited) d
+benchmark/contents.txt:waller-PhD.pdf (not used) d
+benchmark/contents.txt:hal-01054763.pdf (partial) d
+benchmark/contents.txt:NIST.TN.1860.pdf (not used) d
+benchmark/contents.txt:peerj-preprints-1219.pdf (partial) d
+benchmark/contents.txt:finegrained-cgo14.pdf (not used) d
+benchmark/contents.txt:thesis-Pukhkaiev.pdf (also see costof ..., cited) d
+benchmark/contents.txt:costofsorting-sweetspotfreq.pdf (partial) d
+benchmark/contents.txt:EvolvingCompPerf_1963-1967.pdf (paper+file, partial) d
+benchmark/contents.txt:ChangesInComputerPerf_Sep66.pdf (paper+file, partial) d
+benchmark/contents.txt:Address-Aliasing.pdf paper-Lars.pdf (cited) d
+benchmark/contents.txt:thecostofdb-sweetspotfreq.pdf (not used) d
+benchmark/contents.txt:dacapo-cacm-2008.pdf (other) d
+benchmark/contents.txt:immix-pldi-2008.pdf (file+dacapo-cacm..., not used) d
+benchmark/contents.txt:rc-ismm-2012.pdf (not used) d
+benchmark/contents.txt:yinyang-isca-2012.pdf (not used) d
+benchmark/contents.txt:barrier-ismm-2012.pdf (not used) d
+benchmark/contents.txt:1702.00719.pdf (not used) d
+benchmark/contents.txt:ease15-clone.pdf (not used) d
+benchmark/contents.txt:Fleming_Wallace_86.pdf (paper, done) d
+benchmark/contents.txt:1602.00602.pdf (done) d
+benchmark/contents.txt:hotpower14-hahnel.pdf (not used) d
+benchmark/contents.txt:sec16_paper_andriesse.pdf (cited) d
+benchmark/contents.txt:icsme16b.pdf (cited) d
+benchmark/contents.txt:msr18-author-version.pdf (not used) d
+benchmark/contents.txt:1712.00242.pdf (not used) d
+benchmark/contents.txt:1808.06915.pdf (not used) d
+benchmark/contents.txt:2017-STTT.Reliable.pdf (not used) d
+benchmark/contents.txt:cseppento-micskei-stvr.pdf (not used) d
+benchmark/contents.txt:emse_smb_cloud.pdf (not used) d
+benchmark/contents.txt:WRL-94-7.pdf (paper, not used) d
+benchmark/contents.txt:instrpop-systor19.pdf (not used) d
+benchmark/contents.txt:fault_localization_icse17.pdf (not used) d
+benchmark/contents.txt:fast20-yang.pdf (not used) d
+benchmark/contents.txt:1499402.1499434.pdf (paper, not used) d
+benchmark/contents.txt:364099.364334.pdf (paper, not used) d
+benchmark/contents.txt:10.1.1.137.6107.pdf (paper, not used) d
+benchmark/contents.txt:1905.11973.pdf (not used) d
+benchmark/contents.txt:EMSE-BugPrediction.pdf (not used) d
+benchmark/contents.txt:Byte-1990-Vol-15-No-11-Fall.pdf d
+benchmark/contents.txt:8511-b.pdf (paper, not used) d
+clustering/contents.txt:2002_17.PDF (paper, not used) d
+clustering/contents.txt:ICSM-2010.pdf (not used) d
+clustering/contents.txt:GethersPoshyvanyk-Coupling.pdf (not used) d
+clustering/contents.txt:ICPC10-web-mining.pdf (not used) d
+clustering/contents.txt:McMillan-ICSM11-CRC.pdf (not used) d
+clustering/contents.txt:SCAM10-CohesionMetrics.pdf (not used) d
+clustering/contents.txt:kunegis-koblenz-net-coll.pdf (not used) d
+clustering/contents.txt:1208.2518.pdf (kunegis..., not used) d
+clustering/contents.txt:esem16.pdf (not used) d
+clustering/contents.txt:3338906.3342483.pdf (not used) d
+cognitive/contents.txt:0909.4043.pdf (paper, done) d
+cognitive/contents.txt:AltmannTraftonHambrickJEPA.pdf (partial) d
+cognitive/contents.txt:Trafton2015JHCS.pdf (not used) d
+cognitive/contents.txt:remington2016.pdf (done) d
+cognitive/contents.txt:hovland1938.pdf (paper, not used) d
+cognitive/contents.txt:zbrodoff1995.pdf (paper, not used) d
+cognitive/contents.txt:latency_interresponse_time.pdf (paper, can extract, not used) d
+cognitive/contents.txt:prob-size_effect_comp_cult.pdf (emailed) d
+cognitive/contents.txt:RTdistPalmerEtAlJEPHPP11.pdf (done) d
+cognitive/contents.txt:baddeley-barrouillet.pdf (paper, done) d
+cognitive/contents.txt:Schad.VisCogn.preprint.pdf (not used) d
+cognitive/contents.txt:Oberauer.Kliegl.JML.pdf (not used) d
+cognitive/contents.txt:Soukoreff-PhD.pdf (paper, refed) d
+cognitive/contents.txt:journal.pone.0033832.pdf (paper, not used) d
+cognitive/contents.txt:Visual_Search_Click-Down_Menus.pdf (paper, not used) d
+cognitive/contents.txt:hull1976.pdf (paper, not used) d
+cognitive/contents.txt:art3A10.10072Fs10071-015.pdf (paper+file, not used) d
+cognitive/contents.txt:alteneder1935.pdf (paper extracted, done) d
+cognitive/contents.txt:FELDMA~1.PDF feldman_nature.pdf (emailed, done) d
+cognitive/contents.txt:feldman_algebra.pdf (emailed, feldman_nature, done) d
+cognitive/contents.txt:mathy_feldman_2012.pdf (31-249-1-PB, partial) d
+cognitive/contents.txt:47333428.pdf (31-249-1-PB, partial) d
+cognitive/contents.txt:deary1993.pdf (paper, emailed) d
+cognitive/contents.txt:10.1016@0010.pdf (paper, done) d
+cognitive/contents.txt:Asch1956.pdf (paper, done) d
+cognitive/contents.txt:campbell1997.pdf (paper, done) d
+cognitive/contents.txt:LandySilbertGoldin2013.pdf (LandyBigNumbersInLine, other) d
+cognitive/contents.txt:LandyBigNumbersInLine.pdf (done) d
+cognitive/contents.txt:Adap-strat-decision-mak.pdf (paper, not used) d
+cognitive/contents.txt:RubinHinton&Wenzel.pdf (paper, emailed, partial) d
+cognitive/contents.txt:cogsci05.pdf (bayesmodels-Code.zip, not used) d
+cognitive/contents.txt:rips-reasoning.pdf (cogsci05, not used) d
+cognitive/contents.txt:1998modal.pdf (paper, done) d
+cognitive/contents.txt:DoWeDo.pdf (paper, done) d
+cognitive/contents.txt:MoL-2015-15.text.pdf (paper, not used) d
+cognitive/contents.txt:lethsteensen2000.pdf (paper, not used) d
+cognitive/contents.txt:0755.pdf (paper, not used) d
+cognitive/contents.txt:f2639709eb575be6587b4.pdf (bayesmodels-Code.zip, not used) d
+cognitive/contents.txt:Hawkins-HicksLaw.pdf (done) d
+cognitive/contents.txt:104350_12.pdf (f2639709eb575be6587b4, other) d
+cognitive/contents.txt:wallsten_pleskac_lejuez2005.pdf (f2639709eb575be6587b4, other) d
+cognitive/contents.txt:10.1016@0030.pdf (paper, done) d
+cognitive/contents.txt:1501.02732.pdf (not used) d
+cognitive/contents.txt:Chater_TemporalModelMemory.pdf (cited) d
+cognitive/contents.txt:Dedeyne2008EBFAM.pdf (cited) d
+cognitive/contents.txt:lefevre1997.pdf (done) d
+cognitive/contents.txt:riefer2002.pdf (not used) d
+cognitive/contents.txt:seibel1963.pdf (extract, not used) d
+cognitive/contents.txt:cognitive-control-model.pdf (not used) d
+cognitive/contents.txt:Nuerk_Wood_Willmes2005.pdf (paper, done) d
+cognitive/contents.txt:fpsyg-01-00235.pdf (not used)  d
+cognitive/contents.txt:journal.pone.0018945.pdf (not used) d
+cognitive/contents.txt:Gen_Random_Seq_Human_Sub.pdf (paper, not used) d
+cognitive/contents.txt:JEPHPP-1987-13-p25-p39.pdf (paper, not used) d
+cognitive/contents.txt:Prod_perc_randomness_02.pdf (paper, not used) d
+cognitive/contents.txt:Neuringer_1986_JEP-Gen.pdf (paper, not used) d
+cognitive/contents.txt:1992LoganJEPLMC.pdf (emailed, lost) d
+cognitive/contents.txt:1988LoganPR.pdf (paper, not used) d
+cognitive/contents.txt:1991LoganMC.pdf (paper, emailed, lost) d
+cognitive/contents.txt:SourcesandConsequences.pdf (paper+file, done) d
+cognitive/contents.txt:Stewart_Reimers_Harris_2015.pdf (file+emailed, not used) d
+cognitive/contents.txt:RH_Decisions_2004.pdf (paper, not used) d
+cognitive/contents.txt:5409.pdf (paper, not used) d
+cognitive/contents.txt:Measuring-Psychic-Distance.pdf (not used) d
+cognitive/contents.txt:10.3758_s13423-016.pdf (paper, not used) d
+cognitive/contents.txt:bigelow2016large.pdf (not used) d
+cognitive/contents.txt:piantadosi2016logical.pdf (not used) d
+cognitive/contents.txt:lee_cummins.pdf (not used) d
+cognitive/contents.txt:trust_lee_dry.pdf (not used) d
+cognitive/contents.txt:LeeEtAl2011CSR.pdf (not used) d
+cognitive/contents.txt:Lee2016_StevensHandbook.pdf (not used) d
+cognitive/contents.txt:Lee2017StepChange.pdf (not used) d
+cognitive/contents.txt:2010-MTurk-CHI.pdf (cited) d
+cognitive/contents.txt:LeeBlancoBo2015.pdf (not used) d
+cognitive/contents.txt:jdm14821.pdf (not used) d
+cognitive/contents.txt:arfer-paper.pdf (not used) d
+cognitive/contents.txt:hci1992.pdf (paper, cited) d
+cognitive/contents.txt:Smith_Graesser1981.pdf (paper, extract?, faded away) d
+cognitive/contents.txt:a060522.pdf (paper, not used) d
+cognitive/contents.txt:adelson1981.pdf (paper, partial) d
+cognitive/contents.txt:BostonHaleKlieglJEMR08.pdf (not used) d
+cognitive/contents.txt:59-242-1-SM.pdf (not used) d
+cognitive/contents.txt:daneman1980.pdf (paper, extracted, done) d
+cognitive/contents.txt:kintsch1973.pdf (paper, extracted, done) d
+cognitive/contents.txt:DoolingChristiaansen77.pdf (paper, extracted, done) d
+cognitive/contents.txt:graesser1980.pdf (paper, done) d
+cognitive/contents.txt:Kolers76.pdf (paper, extracted, done) d
+cognitive/contents.txt:lewicki1988.pdf (paper, extracted, done) d
+cognitive/contents.txt:2014_SemcatPicturesWords.pdf (not used) d
+cognitive/contents.txt:neil_phd_thesis.pdf (cited) d
+cognitive/contents.txt:1804.03919.pdf (done) d
+cognitive/contents.txt:woodworth_1899.pdf (paper, not used) d
+cognitive/contents.txt:Farrell-Hurlstone-Lewand-13.pdf (cited) d
+cognitive/contents.txt:archivesofpsycho163.pdf (paper, not used) d
+cognitive/contents.txt:archivesofpsycho200.pdf (paper, not used) d
+cognitive/contents.txt:archivesofpsycho281.pdf (paper, not used) d
+cognitive/contents.txt:Loschelder2016_PSci.pdf (cited) d
+cognitive/contents.txt:0677c4ab6c31c107150819.pdf (paper, not used) d
+cognitive/contents.txt:10.1.1.458.4646.pdf (done) d
+cognitive/contents.txt:69ec23083dbc2b2bf7f.pdf (id10008049, not used) d
+cognitive/contents.txt:id10008049.pdf (not used) d
+cognitive/contents.txt:journal.pone.0120644.pdf (done) d
+cognitive/contents.txt:larzabal_c_18_254.pdf (not used) d
+cognitive/contents.txt:LeeGluckWalsh2018.pdf (cited) d
+cognitive/contents.txt:ecf9bc7d95599e41483831.pdf (paper, not used) d
+cognitive/contents.txt:kruschke1993.pdf (done) d
+cognitive/contents.txt:Kruschke1996CS.pdf (done) d
+cognitive/contents.txt:Kruschke2009PLM.pdf (not used) d
+cognitive/contents.txt:WRAP-asym-atten-opportunity.pdf (not used) d
+cognitive/contents.txt:1e81e1d77ce1425dc.pdf (paper, not used) d
+cognitive/contents.txt:2018_NHB_Personality-types.pdf (JRP2014, cited) d
+cognitive/contents.txt:JRP2014.pdf (cited) d
+cognitive/contents.txt:Goldberg.Big-Five.pdf (paper, not used) d
+cognitive/contents.txt:gallistel_et_al_2014.pdf (cited) d
+cognitive/contents.txt:LEVARI2018COMPLETE.pdf (done) d
+cognitive/contents.txt:31-249-1-PB.pdf (partial) d
+cognitive/contents.txt:ChekafCowanMathy.pdf (31-249..., other) d
+cognitive/contents.txt:ChildApesResponsesTwo.pdf (paper, extract, not used) d
+cognitive/contents.txt:racing-diffusion.pdf (not used) d
+cognitive/contents.txt:RandomnessAsInference.pdf (not used) d
+cognitive/contents.txt:globalLocal.pdf (cited) d
+cognitive/contents.txt:Paul Fitts 1954.pdf (paper, not used) d
+cognitive/contents.txt:Hyman 1953.pdf (paper, not used) d
+cognitive/contents.txt:1901.07024.pdf (done) d
+cognitive/contents.txt:Tillman-PhD.pdf (not used) d
+cognitive/contents.txt:LandyGuayMarghetis-PBR.pdf (partial) d
+cognitive/contents.txt:QualityRespTimeDataInf.pdf (cited) d
+cognitive/contents.txt:884f1abddfd371d.pdf (cited) d
+cognitive/contents.txt:18.pdf (884f1abddfd371d, not used) d
+cognitive/contents.txt:BenchmarksWM-model.pdf (cited) d
+cognitive/contents.txt:Vincent_Stewart_2019.pdf (not used) d
+cognitive/contents.txt:HollandsDyre2000Cyclic.pdf (emailed, faded away) d
+cognitive/contents.txt:brewer-et-al-2017.pdf (not used) d
+cognitive/contents.txt:KSW_HeterogeneityBiases.pdf (Stevens-Discrete..., other) d
+cognitive/contents.txt:Stevens-DiscreteEvidence.pdf (done) d
+cognitive/contents.txt:ChekafGauvritGuidaMathy.pdf (done) d
+cognitive/contents.txt:fpsyg-07-00778.pdf (images, emailed no data, not used) d
+cognitive/contents.txt:nyarko_elicited_beliefs.pdf (not used) d
+cognitive/contents.txt:perception-study.pdf (done) d
+cognitive/contents.txt:2020.01.28.923953v1.full.pdf (website, email, cited) d
+cognitive/contents.txt:Correlation_neglect.pdf (cited) d
+cognitive/contents.txt:attneave1953.pdf (paper, not used) d
+cognitive/contents.txt:GreenLuce_PandP_1974.pdf (paper, not used) d
+cognitive/contents.txt:LuceMo_BritJofMSP_1965.pdf (paper, not used) d
+cognitive/contents.txt:18-153-1-PB.pdf (not used) d
+cognitive/contents.txt:2018-prominent.numbers.pdf (not used) d
+cognitive/contents.txt:1903.03426.pdf (not used) d
+cognitive/contents.txt:207958003.pdf (Trippas-2018, other) d
+cognitive/contents.txt:2013trippas10254843phd.pdf (Trippas-2018, other) d
+cognitive/contents.txt:Trippas-2018belief-bias-syll.pdf (done) d
+cognitive/contents.txt:dp6710.pdf (emailed, no reply) d
+cognitive/contents.txt:Trippas_15.pdf (Trippas-2018, other) d
+cognitive/contents.txt:bramley et al.pdf (not used) d
+cognitive/contents.txt:0230.pdf (partial, todo) d
+cognit-stat/contents.txt:WRAP_STrand_Sex_Differencesw.pdf (paper, done) d
+cognit-stat/contents.txt:journal.pone.0041531.pdf (emailed, no reply, faded away) d
+cognit-stat/contents.txt:art-BF03204275.pdf (paper+file, done) d
+cognit-stat/contents.txt:Hick 1952.pdf (paper, to extract, faded away) d
+cognit-stat/contents.txt:Skau-EuroVis-2016.pdf (cited) d
+cognit-stat/contents.txt:Stewart-et-al-CogPsych-2006.pdf (extract? emailed, cited) d
+culture/contents.txt:8921ecbf53036637.pdf (paper+file, done) d
+culture/contents.txt:Herrmann et al, 2007.pdf (file+emailed, cited) d
+culture/contents.txt:10.1109@TBDATA.2016.2580541.pdf (emailed) d
+culture/contents.txt:20132511.full.pdf (done) d
+culture/contents.txt:journal.pone.0205898.pdf (not used) d
+culture/contents.txt:009.pdf (paper, done) d
+culture/contents.txt:Gerhards-Transnational.pdf (paper, not used) d
+culture/contents.txt:lehman1947.pdf (paper, not used) d
+culture/contents.txt:Miu-et-al_Nat-Comms.pdf d
+culture/contents.txt:ieeesw2019.pdf (not used) d
+culture/contents.txt:science.aau8712.full.pdf (not used) d
+culture/contents.txt:oopsla2013.pdf (cited) d
+culture/contents.txt:plateau2012.pdf (oopsla2013, emailed, no reply) d
+culture/contents.txt:SymbolicadoptionofISO9000.pdf (ISO_surveys, cited) d
+culture/contents.txt:spont-giving-calc-greed.pdf (not used) d
+developers/contents.txt:varianceTR.pdf (prechelt.txt, partial) d
+developers/contents.txt:10.1.1.63.9124.pdf (prechelt.txt, students, not used) d
+developers/contents.txt:feldt_2010_ist_sepersonalities.pdf (emailed, no idea) d
+developers/contents.txt:readability-tse.pdf (done) d
+developers/contents.txt:BusePhD.pdf (readability..., other) d
+developers/contents.txt:fryICSM10.pdf (not used) d
+developers/contents.txt:MTI.pdf (paper, done) d
+developers/contents.txt:code-review-cisco.pdf (paper, secrets_code_review..., other) d
+developers/contents.txt:ISES04.pdf (paper, emailed) d
+developers/contents.txt:psp-data-analysis.pdf (paper, emailed, confidential, cited) d
+developers/contents.txt:pspe_tse2000.pdf (paper, not used) d
+developers/contents.txt:1697.pdf (paper, not used) d
+developers/contents.txt:ruse-camera-ready.pdf (not used) d
+developers/contents.txt:EBAA5796.pdf (not used) d
+developers/contents.txt:icpc2011.pdf (not used) d
+developers/contents.txt:10.1.1.30.9350.pdf (paper, not used) d
+developers/contents.txt:hra.pdf (paper, refed) d
+developers/contents.txt:FKLAH12.pdf (not used) d
+developers/contents.txt:SiKaLi+13.pdf (not used) d
+developers/contents.txt:2012-JosephBohAngSlaughter.pdf (paper+employment-nls..., emailed) careerpaths-appen.pdf (paper, emailed, done) d
+developers/contents.txt:tse11a.pdf (eclipse/, not used) d
+developers/contents.txt:a226678.pdf (paper, students) d
+developers/contents.txt:1211.4347.pdf (cseps/, not used) d
+developers/contents.txt:pairprog-anal.pdf (asked for, Sillitti, faded away) d
+developers/contents.txt:IEEE2013.pdf (emailed, Sillitti, faded away) d
+developers/contents.txt:Bergersen_skill_mem.pdf (email again jul 15, Oct 16, received summary, faded away) d
+developers/contents.txt:Bergersen-skill-level.pdf (emailed) d
+developers/contents.txt:Bergersen-inferring-skill.pdf (emailed) d
+developers/contents.txt:icse2013_Coupling.pdf (not used) d
+developers/contents.txt:wcre2012_patterns.pdf (not used) d
+developers/contents.txt:FLOSS_~1.PDF (paper, not used) d
+developers/contents.txt:PAPERJ~1.PDF (paper, not used) d
+developers/contents.txt:CSMR13.pdf (not used) d
+developers/contents.txt:esem2011.pdf (ist12..., not used) d
+developers/contents.txt:ist12.pdf (not used) d
+developers/contents.txt:ICPC12b.doc.pdf (not used) d
+developers/contents.txt:skills-required.pdf (paper, not used) d
+developers/contents.txt:10.1.1.193.1053.pdf (paper, not used) d
+developers/contents.txt:simula.pdf (emailed) d
+developers/contents.txt:1304.5257v2.pdf (not used) d
+developers/contents.txt:FeScPa+12 (email, not used) d
+developers/contents.txt:TR 73-096.pdf (paper+file, done) d
+developers/contents.txt:MSR-TR-2013-111.pdf MSR-TR-2013-84.pdf (appendix) (not used) d
+developers/contents.txt:eu_20050923_vlhcc.pdf (paper, not used) d
+developers/contents.txt:74-267-1-PB.pdf (paper+file, partial) d
+developers/contents.txt:tr-loy110720.pdf (not used) d
+developers/contents.txt:dorn-mcs-paper.pdf (partial) d
+developers/contents.txt:1408.2607v1.pdf (emailed to update, partial) d
+developers/contents.txt:Fog Creek Professional Ladder - Joel on Software.htm (paper, not used) d
+developers/contents.txt:msr2014.pdf (not used) d
+developers/contents.txt:AssessEffectCodeObfusc.pdf (cited) d
+developers/contents.txt:ICSM12.doc.pdf (done) d
+developers/contents.txt:2014-EMSE-Arnaodova-et-al.pdf (not used) d
+developers/contents.txt:msr14gregorio.pdf (not used) d
+developers/contents.txt:ICSE2014-docstypes.pdf (paper+file, misc, done) d
+developers/contents.txt:BTH2013Kiani.pdf (not used) d
+developers/contents.txt:modfp46-daSilva.pdf (not used) d
+developers/contents.txt:MSR2013-Mens.pdf (not used, yet) d
+developers/contents.txt:TOSEM-Maalej-Comprehension-2.pdf (not used) d
+developers/contents.txt:tse15-sketching.pdf (not used) d
+developers/contents.txt:05232798.pdf (paper, emailed no reply) d
+developers/contents.txt:Soukoreff-PhD.pdf (paper, refed) d
+developers/contents.txt:nanz-et-al_europar13.pdf (paper+file, not used) d
+developers/contents.txt:a145757.pdf (paper, extract?, faded away) d
+developers/contents.txt:614415.pdf (paper+file, cited) d
+developers/contents.txt:50790641.pdf (paper, done) d
+developers/contents.txt:smith-chase-2016.pdf (not used) d
+developers/contents.txt:978.pdf (not used) d
+developers/contents.txt:Paper2.pdf (not used) d
+developers/contents.txt:Limson_Myra_Final_Thesis.pdf (emailed) d
+developers/contents.txt:pair-hcs-2006.pdf (b20697417_ir, partial) d
+developers/contents.txt:b20697417_ir.pdf (partial) d
+developers/contents.txt:Pairs_in_Program_Design_Tasks.pdf (paper, not used) d
+developers/contents.txt:Bergersen2015_PhD.pdf (emailed) d
+developers/contents.txt:10.1.1.201.61.pdf (paper+file, emailed, not available, not used) d
+developers/contents.txt:sdarticle11.pdf (paper, emailed, partial) d
+developers/contents.txt:LuthigerJungwirth_PervasiveFun.pdf (partial) d
+developers/contents.txt:Gender-Wage-Diff-IS-1991_2008.pdf (paper, cited) d
+developers/contents.txt:10.1.1.297.5102.pdf (emailed, no reply) d
+developers/contents.txt:10.1.1.419.929.pdf (email, queried) d
+developers/contents.txt:time-unit-effect-woauthorinf.pdf unit-effects.pdf (email, done) d
+developers/contents.txt:APJIS_26_2_322.pdf (paper, emailed) d
+developers/contents.txt:hofman2010.pdf (HofmanRadoslaw..., other) d
+developers/contents.txt:HofmanRadoslawS4260.pdf (paper+file, partial) d
+developers/contents.txt:2007-HRM-Ang.pdf (paper, not used) d
+developers/contents.txt:hicssInsultsv2.pdf (not used) d
+developers/contents.txt:1703.02925.pdf (not used) d
+developers/contents.txt:esem2015Wang.pdf (emailed, cited) d
+developers/contents.txt:1703.04993.pdf (not used) d
+developers/contents.txt:SingleLetter17ICPC.pdf (cited) d
+developers/contents.txt:Gubler_2011_PhD_Career.pdf (emailed, no reply, survey, faded away) d
+developers/contents.txt:01statscigalley.pdf (cited) d
+developers/contents.txt:latorre2014.pdf (paper+email, done) d
+developers/contents.txt:1988-GreenbergPhDThesis.pdf (paper, not used) d
+developers/contents.txt:caliskan-islam_deanonymizing.pdf (cited) d
+developers/contents.txt:Learning_in_Soft_Dev.pdf (emailed) d
+developers/contents.txt:ed41932d8d9ae9a30.pdf (paper, cited) d
+developers/contents.txt:2016-fse-why-we-refactor.pdf (not used) d
+developers/contents.txt:a097029.pdf (paper, cited) d
+developers/contents.txt:a104541.pdf (paper, not used) d
+developers/contents.txt:a109833.pdf (paper, not used) d
+developers/contents.txt:JAH+17.pdf (not used) d
+developers/contents.txt:Names17ICPC.pdf (Avidan, done) d
+developers/contents.txt:jisa15.pdf (paper, not used) d
+developers/contents.txt:ecoop15.pdf (cited) d
+developers/contents.txt:acs-35.pdf (emailed for more, done) d
+developers/contents.txt:c30717dadc8c391c938.pdf (paper, not used) d
+developers/contents.txt:ShaftVesseyJMIS1998.pdf (paper, cited) d
+developers/contents.txt:1404.5708.pdf (not used) d
+developers/contents.txt:together.pdf (not used) d
+developers/contents.txt:SCAM2017.pdf (not used) d
+developers/contents.txt:39--persistence.pdf (emailed, lost) d
+developers/contents.txt:1803.02300.pdf (not used) d
+developers/contents.txt:icse2016.pdf (not used) d
+developers/contents.txt:icse2016-report.pdf (icse2016, not used) d
+developers/contents.txt:ICSME2017Felipe.pdf (not used) d
+developers/contents.txt:pnas.1506047112.pdf (not used) d
+developers/contents.txt:2335.pdf (paper, not used) d
+developers/contents.txt:a013582.pdf (paper, done) d
+developers/contents.txt:1707.00432.pdf (not used) d
+developers/contents.txt:1803.05741.pdf (not used) d
+developers/contents.txt:saner-rene2018.pdf (not used) d
+developers/contents.txt:01658575.pdf (paper+prechelt.txt+19820068861, used other) d
+developers/contents.txt:substantiating_variability.pdf (paper+prechelt.txt, not used) d
+developers/contents.txt:ase_architecture_aware.pdf (not used) d
+developers/contents.txt:icse17.pdf (not used) d
+developers/contents.txt:1806.07619.pdf (not used) d
+developers/contents.txt:19820068861.pdf (paper+prechelt.txt, extracted, done) d
+developers/contents.txt:1807.06087.pdf (not used) d
+developers/contents.txt:VakilianETAL2012.pdf (not used) d
+developers/contents.txt:contextModels_TR_0312.pdf (not used) d
+developers/contents.txt:INVE_MEM_2017_276346.pdf (not used) d
+developers/contents.txt:ijhcs99.pdf (paper, not used) d
+developers/contents.txt:JSEP'18-ReadabilityPaper.pdf (not used) d
+developers/contents.txt:WhoWillLeaveCompany.pdf (done) d
+developers/contents.txt:ohlsson1992.pdf (paper, done) d
+developers/contents.txt:ipdps18.pdf (emailed, not available, ignore) d
+developers/contents.txt:software-licensing.pdf (cited) d
+developers/contents.txt:icse191.pdf (not used) d
+developers/contents.txt:13_Manzoor_rev-better.pdf (paper, not used) d
+developers/contents.txt:2009thesis.pdf (emailed, and again) d
+developers/contents.txt:BRMIC_03_insight_norms.pdf (paper, done) d
+developers/contents.txt:1906.11072.pdf (not used) d
+developers/contents.txt:TaskInterruptionsReqEng.pdf (not used) d
+developers/contents.txt:1805.05508.pdf (not used) d
+developers/contents.txt:SANER2019Felipe.pdf (not used) d
+developers/contents.txt:KruegerWF+18.pdf (not used) d
+developers/contents.txt:chi19-ifttt-cameraready.pdf chi19-ifttt-appendix.pdf (emailed) d
+developers/contents.txt:IST_SMELLS.pdf (not used) d
+developers/contents.txt:Prog_comprehen_enhancement.pdf (paper, not used) d
+developers/contents.txt:Bauer19.pdf (cited) d
+developers/contents.txt:1910.03704.pdf (not used) d
+developers/contents.txt:calikli_bener_SQJ_new.pdf (emailed) d
+developers/contents.txt:2006.05060.pdf (not used) d
+developers/contents.txt:EndoftheMythofx10Programmer.pdf (done) d
+developers/contents.txt:emse18.pdf (not used) d
+documentation/contents.txt:wcre2009.pdf (BES-email; not used) d
+documentation/contents.txt:ICSE2010-linking.pdf (BES-email; not used) d
+documentation/contents.txt:Bacc2012a.pdf (not used) d
+documentation/contents.txt:10-cscw.pdf 10-cscw-analysis.pdf 2009-945-24.pdf (done) d
+documentation/contents.txt:1210.1714v1.pdf (done) d
+documentation/contents.txt:patdoc_tse2002.pdf (not used) d
+documentation/contents.txt:fase11-apidoc.pdf (cited) d
+documentation/contents.txt:stkraretse.pdf (sooling..., done) d
+documentation/contents.txt:CrowdDoc-CS-12-05.pdf (emailed, faded away) d
+documentation/contents.txt:icse2010.pdf (paper, not used) d
+documentation/contents.txt:Relink_fse2011.pdf (not used) d
+documentation/contents.txt:bettenburg-fse-2008.pdf (not used) d
+documentation/contents.txt:101companies-a.pdf (not used) d
+documentation/contents.txt:101companies-b.pdf (not used) d
+documentation/contents.txt:err-code_mismatch.pdf (paper, not used) d
+documentation/contents.txt:Empirical-buglink-dataset.pdf (not used) d
+documentation/contents.txt:csmr13buglink.pdf (not used) d
+documentation/contents.txt:1311.2702.pdf (not used) d
+documentation/contents.txt:icsm2013.pdf (not used) d
+documentation/contents.txt:neuhaus-issre-2010.pdf (2010...) 2010-970-19.pdf (not used) d
+documentation/contents.txt:kartik-msr14.pdf (not used) d
+documentation/contents.txt:C9.pdf (not used) d
+documentation/contents.txt:fse2014.pdf (not used) d
+documentation/contents.txt:eye_tracer_traceability.pdf (not used) d
+documentation/contents.txt:C16.pdf (not used) d
+documentation/contents.txt:saha-ase13.pdf (not used) d
+documentation/contents.txt:passive_sentences.pdf (not used) d
+documentation/contents.txt:Maldonado_MTD2015.pdf (not used) d
+documentation/contents.txt:9783319568553-c2.pdf (cited) d
+documentation/contents.txt:134450.pdf (not used0 d
+documentation/contents.txt:Zamp2017a.pdf (not used) d
+documentation/contents.txt:mcburney_tse_docless.pdf (not used) d
+documentation/contents.txt:unix-man.pdf (not used) d
+documentation/contents.txt:r-know-journal.pdf (not used) d
+documentation/contents.txt:wapi18.pdf (not used) d
+documentation/contents.txt:msr2018.pdf (available, lost interest) d
+documentation/contents.txt:requirementspaper.pdf (not used) d
+documentation/contents.txt:Zhi_PhD.pdf (paper, not used) d
+documentation/contents.txt:AAU-SERG-techreport.pdf (not used) d
+documentation/contents.txt:journal.pone.0194139.pdf (not used) d
+documentation/contents.txt:ICPC2014-Android-SO-CRC.pdf (not used) d
+documentation/contents.txt:1711.05472.pdf (paper, not used) d
+documentation/contents.txt:1902.07093.pdf (not used) d
+economics/contents.txt:CHAOS1~1.PDF (paper, cited) d
+economics/contents.txt:chaosp1.htm chaosp2.htm chaosp3.htm chaosp4.htm chaos_1994.txt chaos_report_1994.pdf (paper, not used) d
+economics/contents.txt:Empiricaleconstandards.pdf (paper+emailed, not used) d
+economics/contents.txt:ada_c_econ.htm (paper, not used) d
+economics/contents.txt:inconsistency_est.pdf (paper, done) d
+economics/contents.txt:TUD-SERG-2008-017.pdf (paper, not used) d
+economics/contents.txt:val_of_staticanal.pdf (paper, done) d
+economics/contents.txt:p33.pdf (promisedata/boetticher, not used) d
+economics/contents.txt:04enough.pdf (NASA promise, not used) d
+economics/contents.txt:empirical_Jorgensen.pdf (paper, partial) d
+economics/contents.txt:estimation-biases.pdf (SendAway2013.xls+email for more details, done) d
+economics/contents.txt:format-proj-bidding.pdf (empirical_Jorgensen, other) d
+economics/contents.txt:MISQES~1.PDF (confidential) d
+economics/contents.txt:28_ElEmam+Koru2008.pdf (cited) d
+economics/contents.txt:10.1.1.143.4001.pdf (paper, extract???, faded away) d
+economics/contents.txt:Little06.pdf (Aangepast, partial) d
+economics/contents.txt:Dunn_PhD_06JUN11.pdf (paper, done) d
+economics/contents.txt:10.1.1.116.5313.pdf  (paper, done) d
+economics/contents.txt:BetterSureThanSafe.pdf (paper+created file, not used) d
+economics/contents.txt:worth40.pdf (Worth03, cited) d
+economics/contents.txt:10.1.1.115.3376.pdf (paper+created file, not used) d
+economics/contents.txt:inherit_jss2003.pdf (not used) d
+economics/contents.txt:Eveleens_PhD.pdf (Aangepast, email for others, other) d
+economics/contents.txt:rofpc.pdf (confidential, extracted, partial) d
+economics/contents.txt:EstimatingAgileProjectError.pdf (paper+emailed, faded away) d
+economics/contents.txt:200004-Ferens.pdf (paper, not used) d
+economics/contents.txt:Buettner-PhD.pdf (appendix+DR_Data.xlsx, partial) d
+economics/contents.txt:estimation-error.pdf (Regression-models, other) d
+economics/contents.txt:Ourada-MSc.pdf (paper, cited) d
+economics/contents.txt:K87.pdf (paper, not used) d
+economics/contents.txt:SPIP-2008-01.pdf (paper, not used) d
+economics/contents.txt:fife-MSc.pdf (paper+created file, not used) d
+economics/contents.txt:DevModels.pdf (paper+RK31-surveycostestim, done) d
+economics/contents.txt:stephan-MSc.pdf (paper+file, not used) d
+economics/contents.txt:Regression-models.pdf (paper+created file, done) d
+economics/contents.txt:CADA_ART.PDF (paper, not used) d
+economics/contents.txt:etd-0429108-155454.pdf (not used) d
+economics/contents.txt:MSR2012_Bettenburg.pdf (IST2012-replication, not used) d
+economics/contents.txt:fed.pdf (done) d
+economics/contents.txt:IT-projects_sink-swim.pdf (paper, not used) d
+economics/contents.txt:IBM-queensland_2010_Report_No.7.pdf (paper, not used) d
+economics/contents.txt:IBM-queensland_5413T2967.pdf (paper, partial) d
+economics/contents.txt:IBM-queensland_KPMG_audit.pdf (paper, not used) d
+economics/contents.txt:Managing-the-risk-of-legacy-ICT.pdf (paper, cited) d
+economics/contents.txt:105-ict-contracts.pdf (paper, cited) d
+economics/contents.txt:JAPAASPUBLISHED.pdf (paper, done) d
+economics/contents.txt:1303.6604.pdf (paper, cited) d
+economics/contents.txt:SoftEngjan10.pdf (paper, partial) d
+economics/contents.txt:simula_RTM.pdf (file not used+paper, partial) d
+economics/contents.txt:simula_anchor-dev.pdf (partial) d
+economics/contents.txt:ATR-2004_8311-1.pdf (paper, partial) d
+economics/contents.txt:Bernheisel-MSc.pdf (paper, not used) d
+economics/contents.txt:Shrum-MSc.pdf (done) d
+economics/contents.txt:NASALessonsLearned_Gruhl.pdf (paper, partial) d
+economics/contents.txt:RK31-surveycostestim.pdf (paper+file, done) d
+economics/contents.txt:SPLC 2011-final (5).pdf (paper, not used) d
+economics/contents.txt:simula_04.pdf (paper+file, done) d
+economics/contents.txt:ADA300694.pdf (paper, not used) d
+economics/contents.txt:ADA301603.pdf (paper, not used) d
+economics/contents.txt:a300703 (paper, not used) d
+economics/contents.txt:a301377.pdf (paper, not used) d
+economics/contents.txt:a319518.pdf (paper, not used) d
+economics/contents.txt:a329958.pdf (paper, not used) d
+economics/contents.txt:SSRN-id2221896.pdf ame_11_07_larkin.pdf (paper, done) d
+economics/contents.txt:simula1.pdf (paper, not used) d
+economics/contents.txt:The Economics of Product Line Development.html (paper, not used) d
+economics/contents.txt:cloud_efficiency_study.pdf (paper, cited) d
+economics/contents.txt:iglesias_jpdc12.pdf (SETI..., not used) d
+economics/contents.txt:sqj95.pdf (paper, not used) d
+economics/contents.txt:Distimo_2012.pdf (app market, paper, not used) d
+economics/contents.txt:Potdar_ICSME2014.pdf (not used) d
+economics/contents.txt:simula_0a.pdf (partial) d
+economics/contents.txt:0211.pdf (done) d
+economics/contents.txt:Bass and Bass 2004.pdf (IBM..., other) d
+economics/contents.txt:Bass and Bass 2001.pdf (IBM SIU Phister.xls, cited) d
+economics/contents.txt:10741_norton_bass.pdf (DRAMTFSC-dram.xls, not used) d
+economics/contents.txt:JMPiracyArticle.pdf (paper+MPRA_..., done) d
+economics/contents.txt:MahajanMuller1996.pdf (paper+file, not used) d
+economics/contents.txt:d1324.pdf (paper+file, partial) d
+economics/contents.txt:computing_June2006.pdf (nordhaus..., history, done) d
+economics/contents.txt:nordhaus_computers_jeh_2007.pdf (nordhause, history, done) d
+economics/contents.txt:16.pdf (paper+file, partial) d
+economics/contents.txt:0907-file1.pdf (paper, not used) d
+economics/contents.txt:Damm_diss.pdf (paper, not used) d
+economics/contents.txt:Shihab_IST2013.pdf (not used) d
+economics/contents.txt:incomplete.pdf (cited) d
+economics/contents.txt:upgrades.pdf (email, done) d
+economics/contents.txt:MPRA_paper_46036.pdf (done) d
+economics/contents.txt:w2227.pdf (paper, done) d
+economics/contents.txt:art2full.pdf (paper, see w2227, done) d
+economics/contents.txt:0fcfd51091adb.pdf (paper+file, not used) d
+economics/contents.txt:10.1.1.579.5924.pdf (paper+file, not used) d
+economics/contents.txt:p104-poo-caamano.pdf (paper, cited) d
+economics/contents.txt:10381_1985-1989.pdf (paper, not used) d
+economics/contents.txt:19034803-MIT.pdf (Berndt, other) d
+economics/contents.txt:w3378.pdf (emailed, Berndt, not used) d
+economics/contents.txt:reading_berndt_hedonics.pdf (Berndt, other) d
+economics/contents.txt:Simula.simula.2762.pdf (email???, faded away) d
+economics/contents.txt:cale1979.pdf (paper+file, done) d
+economics/contents.txt:qualityweek-overprecision.pdf (email, not used) d
+economics/contents.txt:a085323.pdf (paper, not used) d
+economics/contents.txt:a073357.pdf (paper, not used) d
+economics/contents.txt:20030228.pdf (cited) d
+economics/contents.txt:a174335.pdf (paper, not used) d
+economics/contents.txt:ADA047674.pdf (paper, not used) d
+economics/contents.txt:wolverton1974.pdf (paper, cited) d
+economics/contents.txt:walston1977.pdf (paper, not used) d
+economics/contents.txt:a151551.pdf (paper+file, not used) d
+economics/contents.txt:firm-age.pdf (paper+BusinessDynamicsStats, not used) d
+economics/contents.txt:SSRN-id2137174.pdf (paper, not used) d
+economics/contents.txt:nosko_cpu.pdf (paper, emailed, faded away) d
+economics/contents.txt:misq.pdf (emailed, faded away) d
+economics/contents.txt:2015-data-science-salary-survey.pdf (paper, not used) d
+economics/contents.txt:curva-de-aprendizaje-en-TPM.pdf (paper+file, not used) d
+economics/contents.txt:637801.pdf (paper, not used) d
+economics/contents.txt:a044609.pdf (paper, not used) d
+economics/contents.txt:a047674.pdf (paper, not used) d
+economics/contents.txt:AD0603707.pdf (paper, cited) d
+economics/contents.txt:AD0607546.pdf (paper, cited) d
+economics/contents.txt:AD0637801.pdf (paper, not used) d
+economics/contents.txt:wp4.pdf (not used) d
+economics/contents.txt:spectral analysis of economic cycles.pdf (maddison, done) d
+economics/contents.txt:kirby1995.pdf (paper, cited) d
+economics/contents.txt:DRAMTFSC.pdf (done) d
+economics/contents.txt:EvolvingMobileCommerce.pdf (paper, not used) d
+economics/contents.txt:w16167.pdf (paper, not used) d
+economics/contents.txt:RedQueenSuccessBias.pdf (emailed) d
+economics/contents.txt:Facebook10K2013.pdf (paper, done) d
+economics/contents.txt:Facebook10K2015.pdf (paper, done) d
+economics/contents.txt:065-098.pdf (maddison, done) d
+economics/contents.txt:finlab_software_2010dec.pdf (paper, not used) d
+economics/contents.txt:finlab_software_2006may.pdf (paper, done) d
+economics/contents.txt:finlab_software_2016jan.pdf (paper, done) d
+economics/contents.txt:94doc02b.pdf (paper, not used) d
+economics/contents.txt:cf_techfirms_2009.pdf (paper, not used) d
+economics/contents.txt:ITLaborProductivity.pdf (emailed, confidential) d
+economics/contents.txt:234316554-MIT.pdf (paper, not used) d
+economics/contents.txt:UK-intangible-assets.pdf (paper, Haskel 2014-03, done) d
+economics/contents.txt:4228288-eng.pdf (paper, not used) d
+economics/contents.txt:breakdownofsoftw00bann.pdf (paper, not used) d
+economics/contents.txt:pwc-global-100-software-leaders.pdf (paper+file, done) d
+economics/contents.txt:pwc-global-100-software-leaders-2014.pdf (paper+file, done) d
+economics/contents.txt:global-100-software-leaders-2016.pdf (paper+file, done) d
+economics/contents.txt:global-100-software-leaders-2010.pdf (paper, not used) d
+economics/contents.txt:etude_global_software_leaders_2016.pdf (paper, not used) d
+economics/contents.txt:Haskel 2014-03.pdf (paper, partial) d
+economics/contents.txt:enigma_benefits_costs.pdf (paper, emailed, faded away) d
+economics/contents.txt:102723290-05-01-acc.pdf (paper, not used) d
+economics/contents.txt:102723327-05-01-acc.pdf (paper, not used) d
+economics/contents.txt:9152-59.pdf (paper, not used) d
+economics/contents.txt:Infosys-AR-01.pdf (paper, not used) d
+economics/contents.txt:Infosys-AR-02.pdf (paper, not used) d
+economics/contents.txt:Prudhomme-Sanga-Yu2005.pdf (paper, not used) d
+economics/contents.txt:Vaporware.pdf (done) d
+economics/contents.txt:RUSSOFT_Survey_8_en.pdf (paper, not used) d
+economics/contents.txt:RUSSOFT_Survey_9_en.pdf (paper, not used) d
+economics/contents.txt:RUSSOFT_Survey_10_en.pdf (paper, not used) d
+economics/contents.txt:RUSSOFT_Survey_11_en.pdf(paper, not used) d
+economics/contents.txt:RUSSOFT_Survey_12_en.pdf (paper, not used) d
+economics/contents.txt:RUSSOFT_Survey_13_en.pdf (paper, cited) d
+economics/contents.txt:RUSSOFT_Survey_14_en.pdf (paper, not used) d
+economics/contents.txt:SEG_Monthly_Flash_Rep_Apr2014.pdf (paper, not used) d
+economics/contents.txt:SEG_Monthly_Flash_Rep_Jan2014_red.pdf (paper, not used) d
+economics/contents.txt:SL_01-15-05.pdf (paper, not used) d
+economics/contents.txt:SL_02-28-05.pdf (paper, not used) d
+economics/contents.txt:SL_06_30_2007.pdf (paper, not used) d
+economics/contents.txt:SL_12-31-05.pdf (paper, not used) d
+economics/contents.txt:SL_02_28_2007.pdf (paper, not used) d
+economics/contents.txt:SL_10_15_2006.pdf (paper, not used) d
+economics/contents.txt:SL_07_31_2009.pdf (paper, not used) d
+economics/contents.txt:SL_08_31_2010.pdf (paper, not used) d
+economics/contents.txt:SL_06_15_2009.pdf (paper, not used) d
+economics/contents.txt:SL_07_31_2010.pdf (paper, not used) d
+economics/contents.txt:SL_07_15_2010.pdf (paper, not used) d
+economics/contents.txt:SL_09_15_2010.pdf (paper, not used) d
+economics/contents.txt:195971.pdf (done) d
+economics/contents.txt:0298od.pdf (paper, not used) d
+economics/contents.txt:aizcorbe_kortum.pdf (emailed, faded away) d
+economics/contents.txt:Martin2014-SREP.pdf (not used) d
+economics/contents.txt:ABES-Publicacao-Mercado-2016.pdf (paper, not used) d
+economics/contents.txt:mpuvqa.pdf (paper, cited) d
+economics/contents.txt:200237pap.pdf (paper, not used) d
+economics/contents.txt:Economic-Of-Computers-book.pdf (paper, not used) d
+economics/contents.txt:Peukert-Switch.pdf (done) d
+economics/contents.txt:SSRN-id3248217.pdf (Peukert-Switch, other) d
+economics/contents.txt:37620159.pdf (paper, not used) d
+economics/contents.txt:piracy_HICSS.pdf (email, done) d
+economics/contents.txt:OECD_Dig_economy2015.pdf (paper, cited) d
+economics/contents.txt:itoutlook2010.pdf (paper, not used) d
+economics/contents.txt:average_versus_best.pdf didcomputertechn93181gree.pdf (paper, partial) d
+economics/contents.txt:measuringperform93180luzi.pdf (paper, not used) d
+economics/contents.txt:w5138.pdf (paper, not used) d
+economics/contents.txt:w5726.pdf (paper, not used) d
+economics/contents.txt:w6124.pdf (paper, not used) d
+economics/contents.txt:stavins1995.pdf (paper, extract???, faded away) d
+economics/contents.txt:ProductTechStrategies.pdf (extracted, not used) d
+economics/contents.txt:203a113a0c4e8e90cc9.pdf (paper, not used) d
+economics/contents.txt:PhaseIIBPrelimReportFinal.pdf (not used) d
+economics/contents.txt:Business_Cycles.pdf (maddison, done) d
+economics/contents.txt:09e038.pdf (paper, not used) d
+economics/contents.txt:10.1.1.587.6758.pdf (paper, not used) d
+economics/contents.txt:1854_NS_1987.pdf (paper, not used) d
+economics/contents.txt:2001-025.pdf (paper, not used) d
+economics/contents.txt:2015-Software-SaaS-Report.pdf (paper, not used) d
+economics/contents.txt:campbellkelly2008.pdf (paper, cited) d
+economics/contents.txt:P2000-2.pdf (paper+files, done) d
+economics/contents.txt:e5a4abf7b6834e.pdf (partial) d
+economics/contents.txt:1.5007621.pdf (paper, cited) d
+economics/contents.txt:session-6-kenneth-flamm.pdf (paper, not used) d
+economics/contents.txt:p1483-allodiA.pdf (paper, not used) d
+economics/contents.txt:unpan012285.pdf (paper, not used) d
+economics/contents.txt:Quality-Adj-Price-Laptop.pdf (paper, done) d
+economics/contents.txt:1a42eb6557008323453e.pdf (paper, not used) d
+economics/contents.txt:twerp079.pdf (paper, not used) d
+economics/contents.txt:sec12-final101.pdf (paper, done) d
+economics/contents.txt:Milestones.pdf (paper, not used) d
+economics/contents.txt:Control_Data_Pricing_Manual.pdf (paper, not used) d
+economics/contents.txt:worldbank-softind.pdf (paper, not used) d
+economics/contents.txt:637760.pdf (paper, not used) d
+economics/contents.txt:1703.06660.pdf (not used) d
+economics/contents.txt:takeyama1994.pdf (paper, cited) d
+economics/contents.txt:HallMacGarvie_Dec09.pdf (cited) d
+economics/contents.txt:18-023.pdf (done) d
+economics/contents.txt:ExpectedReturnsAngelInvest.pdf (AIPP, other) d
+economics/contents.txt:SI024_GI_NIESR_Google.pdf (paper, not used) d
+economics/contents.txt:IPOs2018Statistics-1.pdf (paper, not used) d
+economics/contents.txt:FINHANDBOOK_A0055E.pdf (paper, cited) d
+economics/contents.txt:1904.02724.pdf (done) d
+economics/contents.txt:SSRN-id1028592.pdf (AIPP, done) d
+economics/contents.txt:SSRN-id1024714.pdf (AIPP, other) d
+economics/contents.txt:1905.12111.pdf (done) d
+economics/contents.txt:paper-influence-comments.pdf (email) d
+economics/contents.txt:ca039ecb0c8fe7a5a9f.pdf (emailed) d
+economics/contents.txt:SSRN-id1392292.pdf (Kauffman..., not used) d
+economics/contents.txt:ED033215.pdf (paper, cited) d
+economics/contents.txt:overney20donations.pdf (done) d
+economics/contents.txt:EMSE2019_BountiesTechQASites.pdf (not used) d
+economics/contents.txt:01658693.pdf (paper, cited) d
+economics/contents.txt:365696.365715.pdf (paper, not used) d
+economics/contents.txt:1957083.pdf (paper, not used) d
+economics/contents.txt:2017015pap.pdf (done) d
+economics/contents.txt:berndt.pdf (paper, not used) d
+ecosystems/contents.txt:126_pdf_appendix.pdf (not used) d
+ecosystems/contents.txt:msr_prerelease.pdf (email, lost data) d
+ecosystems/contents.txt:1709.06224.pdf (emailed, faded away) d
+ecosystems/contents.txt:emse2014-mcintosh.pdf (emailed, faded away) d
+ecosystems/contents.txt:1710.05570.pdf (partial) d
+ecosystems/contents.txt:1804.04621.pdf (not used) d
+ecosystems/contents.txt:eindor1985.pdf (done) d
+ecosystems/contents.txt:7392-32627-1-PB.pdf (paper, done) d
+ecosystems/contents.txt:p398-mi.pdf (cited) d
+ecosystems/contents.txt:1806.07659.pdf (not used) d
+ecosystems/contents.txt:ist-16-java-api-study.pdf (emailed for column information) d
+ecosystems/contents.txt:swmining18ecobugs.pdf (not used) d
+ecosystems/contents.txt:Claes-PhD.pdf (not used) d
+ecosystems/contents.txt:CRPITV20deRaadt.pdf (paper, not used) d
+ecosystems/contents.txt:Who_Cooperates_Standards.pdf (not used) d
+ecosystems/contents.txt:1612.01626.pdf (not used) d
+ecosystems/contents.txt:adoption.pdf (emailed, lost) d
+ecosystems/contents.txt:RLJ+18.pdf (cited) d
+ecosystems/contents.txt:wang2018android.pdf (cited) d
+ecosystems/contents.txt:analysisofentryp00rapp.pdf (paper, not used) d
+ecosystems/contents.txt:jacobides2015.pdf (file+extract, not used) d
+ecosystems/contents.txt:0_paper_3-2018.pdf (done) d
+ecosystems/contents.txt:2018_msr_non-osi-lics.pdf (partial) d
+ecosystems/contents.txt:op1266906-1001_a.pdf (paper, not used) d
+ecosystems/contents.txt:knight1985.pdf (paper, extracted, not used) d
+ecosystems/contents.txt:SANER-2017.pdf (partial) d
+ecosystems/contents.txt:TSE-2019.pdf (cited) d
+ecosystems/contents.txt:issta19.pdf (not used) d
+ecosystems/contents.txt:1511.06554.pdf (paper, not used) d
+ecosystems/contents.txt:jss-d-14-00591r2-1.pdf (done) d
+ecosystems/contents.txt:Office365.pdf (jss-d-14-00591r2-1, other) d
+ecosystems/contents.txt:van-Angeren_PhD.pdf (jss-d-14-00591r2-1, other) d
+ecosystems/contents.txt:1811.12874.pdf (not used) d
+ecosystems/contents.txt:journal.pone.0179281.pdf (not used) d
+ecosystems/contents.txt:journal.pone.0078871.pdf (done) d
+ecosystems/contents.txt:CompTIA_Cyberstates_2018.pdf (paper, cited) d
+ecosystems/contents.txt:CompTIA_Cyberstates_2019.pdf (paper, not used) d
+ecosystems/contents.txt:chapter_v8.pdf (hcctad.txt, not used) d
+ecosystems/contents.txt:1909.00939.pdf (paper, not used) d
+ecosystems/contents.txt:w11928.pdf (w15319, faded away) d
+ecosystems/contents.txt:w16379.pdf (w15319, faded away) d
+ecosystems/contents.txt:Krueger19_VaMoS.pdf (not used) d
+ecosystems/contents.txt:CorrectnessElectronicDo.pdf (available, not used) d
+ecosystems/contents.txt:1810.08420.pdf (email, partial) d
+ecosystems/contents.txt:1801.03400.pdf (cited) d
+ecosystems/contents.txt:1905.02713.pdf (emailed) d
+ecosystems/contents.txt:fc19short.pdf (1810.08420..., other) d
+ecosystems/contents.txt:crypto-oss-msr-2019.pdf (not used) d
+ecosystems/contents.txt:introductionandmethods.pdf (not used) d
+ecosystems/contents.txt:1907.06538.pdf (not used) d
+ecosystems/contents.txt:1907.11073.pdf (paper, not downloaded, not used) d
+ecosystems/contents.txt:EMSE_2019_Ahsan_Long.pdf (cited) d
+ecosystems/contents.txt:op1267507-1001.pdf (paper, not used) d
+ecosystems/contents.txt:2004.05705.pdf (not used) d
+ecosystems/contents.txt:imc18-final148.pdf (emailed) d
+ecosystems/contents.txt:barnett1987.pdf (paper, not used) d
+ecosystems/contents.txt:DynOrganizPopDen-book.pdf (paper, extract, not used) d
+ecosystems/contents.txt:stoneman1997.pdf (paper, not used) d
+ecosystems/contents.txt:c14259.pdf (cited) d
+ecosystems/contents.txt:2005.10063.pdf (cited) d
+ecosystems/contents.txt:355620.361177.pdf (paper, not used) d
+ecosystems/contents.txt:2681176.pdf (paper, not used) d
+ecosystems/contents.txt:2681192.pdf (paper, not used) d
+ecosystems/contents.txt:92ed7941a7f18306790.pdf (paper, not used) d
+ecosystems/contents.txt:SaaS-Report_AEG7120.pdf (paper, not used) d
+ecosystems/contents.txt:ED459346.pdf (paper, not used) d
+ecosystems/contents.txt:YoungJudithFay_PhD.pdf (paper, not used) d
+ecosystems/contents.txt:72ad3a1191c3b7df295.pdf (not used) d
+ecosystems/contents.txt:KolakROS20.pdf (not used) d
+ecosystems/contents.txt:zhou20forks.pdf (not used) d
+ecosystems/contents.txt:icse18badges.pdf (not used) d
+ecosystems/contents.txt:2005.11315.pdf (not used) d
+ecosystems/contents.txt:androzoo-msr.pdf (cited) d
+ecosystems/contents.txt:1810.07780.pdf (website nolonger online, faded away) d
+ecosystems/contents.txt:fse19forks.pdf (not used) d
+environment/contents.txt:1709.04621.pdf (not used) d
+errors/contents.txt:P401-XIE.PDF (paper, not used) d
+errors/contents.txt:AMITSpreadsheet.pdf (paper, not used) d
+errors/contents.txt:Typographical-Errors.txt (paper, not used) d
+errors/contents.txt:an-empirical-study-of.pdf (paper, not used) d
+errors/contents.txt:ftcs99.pdf (paper, not used) d
+errors/contents.txt:NAG01_01-08.pdf (emailed) d
+errors/contents.txt:SOFTFA~1.PDF (paper, not used) d
+errors/contents.txt:10.1.1.143.376.pdf (paper, not used) d
+errors/contents.txt:seasonal_09.pdf (NVD, not used) d
+errors/contents.txt:isnd.pdf ie-update.pdf (paper, cited) d
+errors/contents.txt:meineThesis.pdf (done) d
+errors/contents.txt:nagappan-issre-2010.pdf (cited) d
+errors/contents.txt:39_Koru_etal2008.pdf (partial) d
+errors/contents.txt:JureczkoMadeyski10f.pdf (not used) d
+errors/contents.txt:icst2010.pdf (paper, done) d
+errors/contents.txt:syed_etd.pdf (paper+also icst2010.pdf, done) d
+errors/contents.txt:dsn2010-bug-study.pdf (not used) d
+errors/contents.txt:defects09.ps (paper, not used) d
+errors/contents.txt:etd.pdf (Faultbench/, not used) d
+errors/contents.txt:wcre2010_shihab.pdf (partial) d
+errors/contents.txt:promise2007-dataset-20a.pdf (partial) d
+errors/contents.txt:Shihab_ESEM2010.pdf (Eclipse..., partial) d
+errors/contents.txt:radlinski_isat2010.pdf (promise, low quality, not used) d
+errors/contents.txt:radlinski_pjoes2008.pdf (promise, low quality, not used) d
+errors/contents.txt:Borretzen-EuroSPI07.pdf (paper, not used) d
+errors/contents.txt:mpls2007KoruZhangLiu.pdf (promise/mozilla4, not used) d
+errors/contents.txt:TR 75-144.pdf (paper, not used) d
+errors/contents.txt:Gray-EASE-2011-NASA.pdf (paper, done) d
+errors/contents.txt:crosscut.pdf (not used) d
+errors/contents.txt:106ChallengeGargi.pdf (MSR..., not used) d
+errors/contents.txt:herzig-tmp-2011.pdf (2487085.2487113, other) d
+errors/contents.txt:2487085.2487113.pdf (refed) d
+errors/contents.txt:0910.0505v2.pdf (emailed) d
+errors/contents.txt:WCRE2011.pdf (not enough details, not used) d
+errors/contents.txt:TR-ServerReliability.pdf (refed) d
+errors/contents.txt:CSVul.pdf (nvdcve...xml, does not hold up, not used) d
+errors/contents.txt:nezih_grid10.pdf (not used) d
+errors/contents.txt:schroeter-isese-2006.pdf (not used) d
+errors/contents.txt:OAKLAND12.pdf (paper, not used) d
+errors/contents.txt:omar_dissertation.pdf (paper, emailed) d
+errors/contents.txt:paper_a.pdf (udd?? Debian-popularity-by_inst.gz, other) d
+errors/contents.txt:faults_vs_coverage10.pdf (paper, not used) d
+errors/contents.txt:article5.pdf (paper, not used) d
+errors/contents.txt:assocMeasures-rev.pdf (not used) d
+errors/contents.txt:10.1.1.157.6206.pdf (paper+file, partial) d
+errors/contents.txt:CSD-99-1042.pdf (paper, not used) d
+errors/contents.txt:RR-7357.pdf (done) d
+errors/contents.txt:1407.4346.pdf (RR-7357, other) d
+errors/contents.txt:acp4is10-palix.pdf (not used) d
+errors/contents.txt:ase11.pdf (not used) d
+errors/contents.txt:1302.6764v2.pdf (not used) d
+errors/contents.txt:icse2013-bugclassify.pdf (refed) d
+errors/contents.txt:patching_published-ISR.pdf (+symantic-vuln.txt?, partial) d
+errors/contents.txt:ibmrd2801B.pdf (paper, not used) d
+errors/contents.txt:PERRYI~1.PDF (paper, not used) d
+errors/contents.txt:9208-DP-faults.pdf (paper, cited) d
+errors/contents.txt:METRICS.PDF (paper, not used) d
+errors/contents.txt:SULLIV~1.PDF (paper, not used) d
+errors/contents.txt:emse10-TR.pdf (not used: no check for correlation cause by code length) d
+errors/contents.txt:Neuhaus_WEIS2012.pdf (database build fails, not used) d
+errors/contents.txt:1302.4133v1.pdf (non-dis, partial) d
+errors/contents.txt:1306.2476v1.pdf (non-dis, partial) d
+errors/contents.txt:web2_0_paper.pdf Ocariza-MSc.pdf (email, not cited) d
+errors/contents.txt:dsn2004.pdf (paper, refed) d
+errors/contents.txt:failure-in-large-pop.pdf (paper, refed) d
+errors/contents.txt:mass-etal-11.pdf (done) d
+errors/contents.txt:PRDC99_camera_read.pdf (paper, not used) d
+errors/contents.txt:frolin-esem13.pdf (paper+file, not used) d
+errors/contents.txt:10.1.1.67.9395.pdf (paper, not used) d
+errors/contents.txt:Inspect2005.pdf (not used) d
+errors/contents.txt:TimesToFlightSWFailure.pdf (emailed) d
+errors/contents.txt:fse12.pdf (not used) d
+errors/contents.txt:fast13-final80.pdf (emailed, no reply) d
+errors/contents.txt:icse2013c.pdf icse2013c-Surveys-TR.pdf (paper, cited) d
+errors/contents.txt:scam2012.pdf (not used) d
+errors/contents.txt:wcre2013_baysal.pdf (Baysal..., partial) d
+errors/contents.txt:wcre12-olgaAlexReid.pdf (Baysal..., not used) d
+errors/contents.txt:ese_2015_baysal.pdf (emailed for sql) d
+errors/contents.txt:Baysal_Olga.pdf (emailed for sql) d
+errors/contents.txt:fenton_07.pdf (paper...10.1.1.157.6206, partial) d
+errors/contents.txt:bug-fix-patterns.pdf (paper, not used) d
+errors/contents.txt:10.1.1.308.7266.pdf (not used) d
+errors/contents.txt:0801.0715.pdf (paper, not used) d
+errors/contents.txt:Spacefaulttype.pdf (paper, not used) d
+errors/contents.txt:fe4ce37101e402e35d5b.pdf (paper, not used) d
+errors/contents.txt:vol1no6_4.pdf (paper, not used) d
+errors/contents.txt:zeller2011irop.pdf (cited) d
+errors/contents.txt:Faster Issue Resolution_Software.pdf (not used) d
+errors/contents.txt:14.pdf (paper, students, not used) d
+errors/contents.txt:jstvr_2009_hayes.pdf (paper, not used) d
+errors/contents.txt:More_testers_preprint_IST.pdf (emailed) d
+errors/contents.txt:msr_dimitro.pdf (not used) d
+errors/contents.txt:pldi118-jin.pdf (paper, not used) d
+errors/contents.txt:2013-laser-mitropoulos.pdf (not used) d
+errors/contents.txt:lamkanfimsr2013.pdf (not used) d
+errors/contents.txt:1410-RS-icsme.pdf (not used) d
+errors/contents.txt:michael_pradel_PhD.pdf (done) d
+errors/contents.txt:pldi2012.pdf (michael_pradel_PhD, done) d
+errors/contents.txt:socc14-cbs.pdf (done) d
+errors/contents.txt:msr2014_sub_101.pdf (not used) d
+errors/contents.txt:11.pdf (paper, email???, not used) d
+errors/contents.txt:natella_ossbugs_issre_2013.pdf (not used) d
+errors/contents.txt:FAGAN.pdf (paper, not used) d
+errors/contents.txt:FH14-Buffer.pdf (refed) d
+errors/contents.txt:1284.pdf (paper, not used) d
+errors/contents.txt:1-s2.0-S0950584913002346.pdf (paper, not used) d
+errors/contents.txt:ease15zhou2.pdf (stat-mistakes, blog, not used) d
+errors/contents.txt:FUSION_FSE_Sub.pdf (not used) d
+errors/contents.txt:ICSE_seipicse2013.pdf (not used) d
+errors/contents.txt:hamill-PhD.pdf (paper, emailed, confidential) d
+errors/contents.txt:icsme15.pdf (not used, refed) d
+errors/contents.txt:Oyetoyant-PhD.pdf (not used) d
+errors/contents.txt:1014.pdf (paper, done) d
+errors/contents.txt:mipro_1187.pdf (paper, cited) d
+errors/contents.txt:triage.pdf (not used) d
+errors/contents.txt:MSR_2015.pdf (not used) d
+errors/contents.txt:TSE-Syer-2014.pdf (to email) d
+errors/contents.txt:STVR-2013.pdf (paper, done) d
+errors/contents.txt:2015-ccs.pdf (not used) d
+errors/contents.txt:Ranking-Based_Localizing.pdf (paper+file, done) d
+errors/contents.txt:a104249.pdf (paper, cited) d
+errors/contents.txt:ADA039916.pdf (paper, not used) d
+errors/contents.txt:ADA131756.pdf (paper, if can extract, faded away) d
+errors/contents.txt:chi-11.07.pdf (paper, emailed) d
+errors/contents.txt:6146a536.pdf (not used) d
+errors/contents.txt:SQJ-2014.pdf (paper, not used) d
+errors/contents.txt:caratSensys13.pdf (not used) d
+errors/contents.txt:icsme15-OleksiiOlgaLatifa.pdf (not used) d
+errors/contents.txt:jsep-association.pdf (not used) d
+errors/contents.txt:error-frequency.pdf (done) d
+errors/contents.txt:Calhoun_et_al-2012.pdf (paper, not used) d
+errors/contents.txt:a039916.pdf (paper, not used) d
+errors/contents.txt:nakajo1991.pdf (paper, not used) d
+errors/contents.txt:issta16.pdf (partial) d
+errors/contents.txt:denton_2000.pdf (paper, not used) d
+errors/contents.txt:a088186.pdf (paper, not used) d
+errors/contents.txt:hull1975.pdf (paper, not used) d
+errors/contents.txt:ibmrd2804I.pdf (paper, not used) d
+errors/contents.txt:Della_Corte_Raffaele_28.pdf (not used) d
+errors/contents.txt:WEIS_2016_paper_76.pdf 1608.03445v2.pdf tyx008.pdf (done) d
+errors/contents.txt:human-error-causes-defects.pdf (paper, not used) d
+errors/contents.txt:agresti1992.pdf (paper, not used) d
+errors/contents.txt:Detecting-param-check.pdf (paper, cited) d
+errors/contents.txt:EMSE2017_UnspecifiedDepend.pdf (not used) d
+errors/contents.txt:fp1187-altadmri.pdf (email, educators, other) d
+errors/contents.txt:MentalMistakes2.pdf (paper, not used) d
+errors/contents.txt:2017msr.pdf (not used) d
+errors/contents.txt:ICSE2017-TR-182.pdf (cited) d
+errors/contents.txt:smr1797.pdf (not used) d
+errors/contents.txt:SQJ_2017.pdf (not used) d
+errors/contents.txt:10.1.1.207.182.pdf (paper, not used) d
+errors/contents.txt:10.1.1.207.1798.pdf (paper, cited) d
+errors/contents.txt:10.1.1.466.4048.pdf (paper, emailed) d
+errors/contents.txt:94-0470.pdf (paper, not used) d
+errors/contents.txt:1010-DP-ms25.pdf (paper, cited) d
+errors/contents.txt:llee.pdf (cited) d
+errors/contents.txt:fse_2016_hanam.pdf (not used) d
+errors/contents.txt:ADA363827.pdf (paper, not used) d
+errors/contents.txt:a045031.pdf (paper, not used) d
+errors/contents.txt:litecky1976.pdf (paper, not used) d
+errors/contents.txt:gunawi.pdf (paper, cited) d
+errors/contents.txt:ase2016-apex.pdf (partial) d
+errors/contents.txt:duraes2006.pdf (paper, not used) d
+errors/contents.txt:urn_isbn_978-952-61.pdf (paper, not used) d
+errors/contents.txt:19820022084.pdf (paper, not used) d
+errors/contents.txt:a041106.pdf (paper, not used) d
+errors/contents.txt:Profes2017-aman.pdf (done) d
+errors/contents.txt:10.1109@hfpp.1988.pdf (paper, not used) d
+errors/contents.txt:eh-model-defects2018.pdf (not used) d
+errors/contents.txt:14603-66405-1-PB.pdf (not used) d
+errors/contents.txt:tse-14-final.pdf (confidential) d
+errors/contents.txt:10.1109@dsn.2010.pdf (paper, not used) d
+errors/contents.txt:04-1526.pdf (paper, not used) d
+errors/contents.txt:green2006.pdf (paper, not used) d
+errors/contents.txt:ye-icsme2018.pdf (not used) d
+errors/contents.txt:WalkinshawESEM2018.pdf (+emailed, not used) d
+errors/contents.txt:typestudy.pdf (not used) d
+errors/contents.txt:1801.06393.pdf (not used) d
+errors/contents.txt:1810.00101.pdf (not used) d
+errors/contents.txt:1810.13310.pdf (not used) d
+errors/contents.txt:coverage.pdf (not used) d
+errors/contents.txt:1904.02414.pdf (cited) d
+errors/contents.txt:1905.13334.pdf (available, not used) d
+errors/contents.txt:trel2019.pdf (done) d
+evolution/contents.txt:TECH_R~1.PDF (paper students, not used) d
+evolution/contents.txt:bug_patternsthesis.pdf (paper, cited) d
+evolution/contents.txt:JSME_API_Evolution.pdf (paper, not used) d
+evolution/contents.txt:emse07.pdf (paper+files, not used) d
+evolution/contents.txt:fuse04-wu.pdf (paper, not used) d
+evolution/contents.txt:herraiz-phd.pdf (done) d
+evolution/contents.txt:10.1.1.129.2141.pdf (paper, not used) d
+evolution/contents.txt:emse09.pdf (cited) d
+evolution/contents.txt:icse2010.pdf (not used) d
+evolution/contents.txt:Vasa-ISESE2005.pdf (not used) d
+evolution/contents.txt:VasaPhdThesis.pdf (done) d
+evolution/contents.txt:WCRE09b.doc.pdf (not used) d
+evolution/contents.txt:splc-2010-fm-evol.pdf (done) d
+evolution/contents.txt:10.1.1.153.8421.pdf (Linux_evol....tgz, done) d
+evolution/contents.txt:aosd10-palix.pdf (not used) d
+evolution/contents.txt:Selby-FASE06.pdf (paper, not used) d
+evolution/contents.txt:10.1.1.123.113.pdf (paper, done) d
+evolution/contents.txt:JavaInheritevol.pdf (paper+file, example, cited) d
+evolution/contents.txt:p351-kawrykow.pdf (not used) d
+evolution/contents.txt:kawrykow-2011.pdf (p351-kawrykow, not used) d
+evolution/contents.txt:MSR11.doc.pdf (partial) d
+evolution/contents.txt:ICEIS2008.pdf (partial) d
+evolution/contents.txt:1103.0711.pdf (paper, not used) d
+evolution/contents.txt:ITM2006.pdf (confidential, extracted, not used) d
+evolution/contents.txt:DSjoberg-1.pdf (paper, not used) d
+evolution/contents.txt:comets.pdf (not used) d
+evolution/contents.txt:CSE-2012-32.pdf (paper, not emailed, not used) d
+evolution/contents.txt:milkorwine.pdf (done) d
+evolution/contents.txt:Survival.pdf (paper, done) d
+evolution/contents.txt:SCAM2012.pdf (paper+ see busingePhD, done) d
+evolution/contents.txt:1102.2262.pdf (paper, not used) d
+evolution/contents.txt:cvs-vintage.pdf (not used) d
+evolution/contents.txt:Gala-Perez-13.pdf (done) d
+evolution/contents.txt:APIEvolution.pdf (not used) d
+evolution/contents.txt:ecmfa13.pdf (paper, not used) d
+evolution/contents.txt:busingePhD.pdf (paper+file, done) d
+evolution/contents.txt:fse2012-porting.pdf (received emailed, done) d
+evolution/contents.txt:bray_PhD.pdf (fse2012+bsd.tar..., done) d
+evolution/contents.txt:2004-Metrics_CapiluppiRamil.pdf (not used) d
+evolution/contents.txt:icsm2013_apache.pdf (done) d
+evolution/contents.txt:EMSE 2014.pdf (icsm2013_apache, +email file, done) d
+evolution/contents.txt:cossette2012.pdf (not used) d
+evolution/contents.txt:smr1615.pdf (partial) d
+evolution/contents.txt:CSMR13c.doc.pdf (not used) d
+evolution/contents.txt:paper_0a.pdf (refed) d
+evolution/contents.txt:covrig-issta-14.pdf (partial) d
+evolution/contents.txt:2007-20.pdf (paper+file, partial) d
+evolution/contents.txt:icse14_varex.pdf (not used) d
+evolution/contents.txt:10.1007-s10664-012-9214-z.pdf (not used) d
+evolution/contents.txt:ase13.pdf (emailed) d
+evolution/contents.txt:PPB+15.pdf (not used) d
+evolution/contents.txt:PTD+14.pdf (not used) d
+evolution/contents.txt:debsources-esem-2014.pdf (partial) d
+evolution/contents.txt:wermelinger15msr.pdf (not used) d
+evolution/contents.txt:C4.pdf (not used) d
+evolution/contents.txt:p269-geipel.pdf (not used) d
+evolution/contents.txt:Herzig_Phd.pdf (icse2013-bugclassify, refed) d
+evolution/contents.txt:ZIBRAN-DISSERTATION.pdf (paper, twice emailed, faded away) d
+evolution/contents.txt:2015_FSE_Impact_Turnover.pdf (not used) d
+evolution/contents.txt:29.pdf (not used) d
+evolution/contents.txt:6148a215.pdf (emailed) d
+evolution/contents.txt:icsme2015era-preprint.pdf (done) d
+evolution/contents.txt:1701.00416.pdf (icsme2015era-preprint, other) d
+evolution/contents.txt:2006005173.pdf (paper, not used) d
+evolution/contents.txt:goulao12csmr.pdf (not used) d
+evolution/contents.txt:ER_2015_UoI.pdf (not used) d
+evolution/contents.txt:IST_2016_PHP.pdf (not used) d
+evolution/contents.txt:php-dynamic-evolution.pdf (not used) d
+evolution/contents.txt:RE2015.pdf (paper, not used) d
+evolution/contents.txt:SANER-2016.pdf (cited) d
+evolution/contents.txt:TUD-SERG-2016-005.pdf (not used) d
+evolution/contents.txt:a143407.pdf (paper+file, not used) d
+evolution/contents.txt:Ruby-hosting_Squires.pdf (not used) d
+evolution/contents.txt:Xiaoni-Zhang_PhD.pdf (paper, emailed, cited) d
+evolution/contents.txt:DP-01-tosem.pdf (paper, not used) d
+evolution/contents.txt:shi2013.pdf (paper+file, emailed twice, not used) d
+evolution/contents.txt:MA-I4-2014-07-Rothberg.pdf (paper, not used) d
+evolution/contents.txt:RossiEtAl2011.pdf (emailed, confidential) d
+evolution/contents.txt:1207.2743.pdf (cited) d
+evolution/contents.txt:1604.01450v1.pdf (not used) d
+evolution/contents.txt:robinson1976a.pdf (paper, done) d
+evolution/contents.txt:shtub1993.pdf (emailed, faded away) d
+evolution/contents.txt:WP-85-019.pdf (paper, extract, not used) d
+evolution/contents.txt:MA-2012-06.pdf (emailed, data lost) d
+evolution/contents.txt:1000.pdf (done) d
+evolution/contents.txt:Phelps-Singh_Social-Inf.pdf (pdf+emailed, cited) d
+evolution/contents.txt:10.1.1.198.8928.pdf (paper+email, not used) d
+evolution/contents.txt:ndss2017jslibs.pdf (raw data only, not used) d
+evolution/contents.txt:msr2017v1.pdf (not used) d
+evolution/contents.txt:1015.pdf (not used) d
+evolution/contents.txt:2016-gleison-original.pdf (paper, not used) d
+evolution/contents.txt:CAiSE_2014.pdf (not used) d
+evolution/contents.txt:hotswup2011.pdf (not used) d
+evolution/contents.txt:how-java-apis-break.pdf (not used) d
+evolution/contents.txt:JourProdEconomics108A40.pdf (paper, not used) d
+evolution/contents.txt:J16.pdf (done) d
+evolution/contents.txt:LehmanForFOSSDB.pdf (not used) d
+evolution/contents.txt:PC_RED.pdf (paper, not used) d
+evolution/contents.txt:mazzucat.pdf (paper, extracted, done) d
+evolution/contents.txt:Skoulis_MSc_Thesis.pdf (J16, done) d
+evolution/contents.txt:TUD-SERG-2015-004.pdf (emailed, faded away) d
+evolution/contents.txt:1703.08527.pdf (not used) d
+evolution/contents.txt:237860.pdf (done) d
+evolution/contents.txt:241284.pdf (237860..., other) d
+evolution/contents.txt:Why_how_devs_fork.pdf (cited) d
+evolution/contents.txt:feast1.pdf (paper, not used) d
+evolution/contents.txt:BHR_1992_langlois-PCs.pdf (paper, not used) d
+evolution/contents.txt:techlag-paper.pdf (not used) d
+evolution/contents.txt:Osma17b-exception-usage.pdf (not used) d
+evolution/contents.txt:Osma17d-exception-evolution.pdf (not used) d
+evolution/contents.txt:peerj-preprints-2367.pdf (partial) d
+evolution/contents.txt:twerp052.pdf (paper, not used) d
+evolution/contents.txt:Meyer_PhD_two_sided_markets.pdf (paper, not used) d
+evolution/contents.txt:Internet-Modularity-v5.pdf (paper, done) d
+evolution/contents.txt:1709.04626.pdf (not used) d
+evolution/contents.txt:jssc-Weifeng Pan.pdf (email, not used) d
+evolution/contents.txt:1710.04936.pdf (not used) d
+evolution/contents.txt:EMSE2017_DecadeLinuxSysCalls.pdf syscalls_emse_R2_final.pdf (not used, cited) d
+evolution/contents.txt:SANER2017-ConstantinouMens.pdf (not used) d
+evolution/contents.txt:emse_wei.pdf (not used) d
+evolution/contents.txt:DTR98-11.pdf (paper, not used) d
+evolution/contents.txt:1510.06988.pdf (not used) d
+evolution/contents.txt:2016_emse_continuous-mining.pdf (msr-data-git-linux, cited) d
+evolution/contents.txt:Tech_Obsolescence_ASME.pdf (conf+extracted, op-amps, not used) d
+evolution/contents.txt:ProcurementLifePaper.pdf (paper, extract, not used) d
+evolution/contents.txt:Chaikalis_Forecasting.pdf (not used) d
+evolution/contents.txt:ORTIZ-TRONCOSO-MSc.pdf (email, not used) d
+evolution/contents.txt:atc16_paper-huang.pdf (emailed, faded away) d
+evolution/contents.txt:saner17era-eraid219.pdf (paper, cited) d
+evolution/contents.txt:2017-saner-breaking-apis.pdf (emailed) d
+evolution/contents.txt:ER_2017.pdf (Computing19_FK-Evolution, other) d
+evolution/contents.txt:Zhongquan-Xie_Phd.pdf (paper, not used) d
+evolution/contents.txt:Beheim_Go_2014.pdf (paper, not used) d
+evolution/contents.txt:malloy-esem-2017.pdf (done) d
+evolution/contents.txt:CAiSE_Electrolysis_2017.pdf (not used) d
+evolution/contents.txt:li2018characterising.pdf (not used) d
+evolution/contents.txt:1098.pdf (not used) d
+evolution/contents.txt:1806.01545.pdf (not used) d
+evolution/contents.txt:B-Blum.pdf (paper, other) d
+evolution/contents.txt:blum1989.pdf (paper, done) d
+evolution/contents.txt:icpc2011_crc.pdf (emailed, confidential) d
+evolution/contents.txt:fse18sustainability.pdf (not used) d
+evolution/contents.txt:msr2017dependency.pdf (not used) d
+evolution/contents.txt:promise18-14.pdf (not used) d
+evolution/contents.txt:10.1016@j.ins.2011.pdf (email, not used) d
+evolution/contents.txt:EMSE2018_Thongtanunam.pdf (+emailed for more, faded away) d
+evolution/contents.txt:peerj-preprints-27159.pdf (not used) d
+evolution/contents.txt:garciaswartz2015.pdf (paper, not used) d
+evolution/contents.txt:Kivi_Smura.pdf (paper, extract, not used) d
+evolution/contents.txt:rsos.171217.pdf (not used) d
+evolution/contents.txt:7466b3bccea7ad413b7.pdf (paper, not used) d
+evolution/contents.txt:Lehman-LawsOfSoftEvo.pdf (paper, not used) d
+evolution/contents.txt:1803.08698.pdf (not used) d
+evolution/contents.txt:icsme2017.pdf (not used) d
+evolution/contents.txt:IWSECO2015.pdf (done) d
+evolution/contents.txt:jmebart.pdf (cited) d
+evolution/contents.txt:1908.11431.pdf (not used) d
+evolution/contents.txt:deprecation_reasons.pdf (not used) d
+evolution/contents.txt:lags.pdf (w15319, not used) d
+evolution/contents.txt:08704965.pdf (not used) d
+evolution/contents.txt:1908.06412.pdf (not used) d
+evolution/contents.txt:Dintzner-PhD.pdf (not used) d
+evolution/contents.txt:1907.04527.pdf (not used) d
+evolution/contents.txt:C57.pdf (email, not used) d
+evolution/contents.txt:li2018moonlightbox.pdf (done) d
+evolution/contents.txt:econstSaner17.pdf (not used) d
+evolution/contents.txt:Rahman-PhD.pdf (emailed) d
+evolution/contents.txt:rsos.150645.pdf (not used) d
+evolution/contents.txt:1912.02179.pdf (not used) d
+evolution/contents.txt:wcre03-tseVersion.pdf (paper, cited) d
+evolution/contents.txt:JoDS_2017.pdf (not used) d
+evolution/contents.txt:Computing19_FK-Evolution.pdf (cited) d
+evolution/contents.txt:memoirthesis.pdf (+email discussion, not used) d
+evolution/contents.txt:xiao2019.pdf (not used) d
+evolution/contents.txt:ICL-Tech82-Kitchenham.pdf (paper, not used) d
+evolution/contents.txt:2005.11523.pdf (done) d
+evolution/contents.txt:natella_androidaging.pdf (2005.11523, other) d
+evolution/contents.txt:jsep-2019.pdf (not used) d
+evolution/contents.txt:hal-02543794.pdf (done) d
+evolution/contents.txt:Shamim_Pirzada-PhD.pdf (paper, extract, not used) d
+evolution/contents.txt:2008.10925.pdf (not used) d
+evolution/contents.txt:EMSE_2020.pdf (not used) d
+evolution/contents.txt:2101.09563.pdf (not used) d
+evolution/contents.txt:2101.00090.pdf (not used) d
+experiment/contents.txt:tcheck_tse98.pdf (+prechelt.txt, done) d
+experiment/contents.txt:JJ-Yi_PhD.pdf (paper, not used) d
+experiment/contents.txt:MemoPower03PACS.pdf (paper, partial) d
+experiment/contents.txt:mayerA1-oopsla2012.pdf (paper, partial) d
+experiment/contents.txt:kleinschmagerAl-icpc2012.pdf (paper, partial) d
+experiment/contents.txt:TR_DCC-20120418-005.pdf (very similary to mayerA1, partial) d
+experiment/contents.txt:hanenberg-oopsla2010.pdf (paper, not used) d
+experiment/contents.txt:tb104veytsman-typo.pdf (partial) d
+experiment/contents.txt:Dybdahl_MSc.pdf (paper, not used) d
+experiment/contents.txt:CLAN.pdf (not used) d
+experiment/contents.txt:journal.pone.0067111.pdf (not used) d
+experiment/contents.txt:tr-cs-Reproducibility.pdf (refed) d
+experiment/contents.txt:zelkowitz-1984.pdf (paper, not used) d
+experiment/contents.txt:2013_LatifaGuerrouj.pdf (Identifier, not used) d
+experiment/contents.txt:context-emse.pdf (Identifier..., not used) d
+experiment/contents.txt:1303.6485v2.pdf (partial) d
+experiment/contents.txt:Ponz2014b.pdf (not used) d
+experiment/contents.txt:p457.pdf (partial) d
+experiment/contents.txt:plateau09-hanenberg.pdf (paper, not used) d
+experiment/contents.txt:Gan77.pdf (partial) d
+experiment/contents.txt:asplos13-quantreg.pdf (icpe13-datamill, not used) d
+experiment/contents.txt:nanz-et-al_esem13.pdf (not used) d
+experiment/contents.txt:JohnDalyThesis.pdf (paper, students, not used) d
+experiment/contents.txt:TOSEM-Portfolio-Preprint.pdf (not used) d
+experiment/contents.txt:MuellerHoefer2007.pdf (paper+file, done) d
+experiment/contents.txt:emp_pbr.pdf (partial) d
+experiment/contents.txt:iso9126_defect_classification.pdf (not used) d
+experiment/contents.txt:doc-design-exp-tosem.pdf (not used) d
+experiment/contents.txt:caratpercom15.pdf (cited) d
+experiment/contents.txt:p223.pdf (done) d
+experiment/contents.txt:blind-se-exp.pdf (not used) d
+experiment/contents.txt:1401.4655v1.pdf (paper, cited) d
+experiment/contents.txt:steve-kerrison-phd.pdf (emailed) d
+experiment/contents.txt:myers1978.pdf (paper+file, partial) d
+experiment/contents.txt:nondeterminism.pdf (emailed) d
+experiment/contents.txt:p147-von-kistowski.pdf (paper, not used) d
+experiment/contents.txt:Stewart_Ungemach_2015.pdf (not used) d
+experiment/contents.txt:20572823.pdf (not used) d
+experiment/contents.txt:CommentsResearcherBiasML.pdf (not used) d
+experiment/contents.txt:1510.02086v1.pdf (emailed) d
+experiment/contents.txt:ExpRelCOSMICMeasurements.pdf (paper, not used) d
+experiment/contents.txt:ftalat.pdf (extract?, email, done) d
+experiment/contents.txt:pallister_phd.pdf (emailed) d
+experiment/contents.txt:PlackettBurman_compiler-opt.pdf (paper, not used) d
+experiment/contents.txt:9723957606d9dad.pdf (paper, not used) d
+experiment/contents.txt:debnath.pdf (paper+file, done) d
+experiment/contents.txt:a082687.pdf (paper, not used) d
+experiment/contents.txt:2015PLOSONE.pdf (cited) d
+experiment/contents.txt:Banner Ads Considered Harmful Gwern.net.htm (not used) d
+experiment/contents.txt:gannon1976.pdf (paper, not used) d
+experiment/contents.txt:a152924.pdf (paper, not used) d
+experiment/contents.txt:stvr95.pdf (paper, done) d
+experiment/contents.txt:schatzoff1967.pdf (paper, not used) d
+experiment/contents.txt:1802.04580.pdf (not used) d
+experiment/contents.txt:Dieste-experience.pdf (not used) d
+experiment/contents.txt:gould1975.pdf (paper, not used) d
+experiment/contents.txt:DSL_Replication.pdf (students, not used) d
+experiment/contents.txt:Comp-3-notations.pdf (not used) d
+experiment/contents.txt:korson_87.pdf (paper+file, not used) d
+experiment/contents.txt:usccse82-500.pdf (paper+file, not used) d
+experiment/contents.txt:SonarQube_TD_remediation.pdf (not used) d
+experiment/contents.txt:1910.10601.pdf (not used) d
+experiment/contents.txt:j15.pdf (emailed) d
+experiment/contents.txt:FSE2019_ExpFeatTrace.pdf (not used) d
+experiment/contents.txt:1902.02467.pdf (cited) d
+experiment/contents.txt:1606.06543.pdf (not used) d
+experiment/contents.txt:2019-kvarven.pdf (cited) d
+experiment/contents.txt:ase2017_1.pdf (website+email, done) d
+experiment/contents.txt:DavisMichael-ESECFSE19.pdf (website, cited) d
+experiment/contents.txt:1707.09642.pdf (not used) d
+experiment/contents.txt:pbio.1002106.pdf (done) d
+experiment/contents.txt:ase2018.pdf (emailed for more) d
+experiment/contents.txt:2018Hernandez_DataInBrief.pdf (not used) d
+experiment/contents.txt:2004.05332.pdf (not used) d
+experiment/contents.txt:2001.07283.pdf (not used) d
+experiment/contents.txt:lamarca-ladner.pdf (paper, cited) d
+experiment/contents.txt:ExperCompareMaintain.pdf (emailed) d
+experiment/contents.txt:priming.pdf (not used) d
+experiment/contents.txt:2009.10660.pdf (not used) d
+float/contents.txt:FSE16.pdf (not used) d
+float/contents.txt:PROMISE.pdf (paper, cited) d
+float/contents.txt:ase17main-numerical_bug.pdf (paper, not used) d
+hardware/contents.txt:schroeder.gibson.pdf (still not available, ignore) d
+hardware/contents.txt:sigmetrics09.pdf (paper, not used) d
+hardware/contents.txt:usenix2010-li.pdf (not used) d
+hardware/contents.txt:fast08.pdf (paper, not used) d
+hardware/contents.txt:dsn06.pdf (done) d
+hardware/contents.txt:dsn07.pdf (event_log..., not used) d
+hardware/contents.txt:taerat09blue.pdf (logs, partial) d
+hardware/contents.txt:10.1.1.124.788.pdf (logs, cited) d
+hardware/contents.txt:10.1.1.123.1699.pdf (logs, not used) d
+hardware/contents.txt:availability-ldns.pdf (not used) d
+hardware/contents.txt:availability-microsoft.pdf (not used) d
+hardware/contents.txt:availability-skype.pdf (not used) d
+hardware/contents.txt:seti_mascots09.pdf (not used) d
+hardware/contents.txt:p-95-19.ps.gz (not used) d
+hardware/contents.txt:lee2007-tutorial.pdf (partial) d
+hardware/contents.txt:lee2006-tech-reg.pdf (partial) d
+hardware/contents.txt:GRID2007.pdf (Grid500, RR-6172 refed) d
+hardware/contents.txt:RR-6172.pdf (paper+Grid5000, refed) d
+hardware/contents.txt:NERSC_Results.pdf (pdsi/, not used) d
+hardware/contents.txt:10.1.1.27.7611.pdf (paper, not used) d
+hardware/contents.txt:inst-derating.dsn2008.pdf (paper, done) d
+hardware/contents.txt:smart-10.9557.pdf (not used) d
+hardware/contents.txt:p55-danowitz.pdf (done) d
+hardware/contents.txt:SysDrivers_2011.pdf (paper+file, not used) d
+hardware/contents.txt:2013PIDS.pdf (PIDS_2013Tables.xlsx, not used) d
+hardware/contents.txt:ASPLOS2012.pdf (have asked; Bluegene etc, cited) d
+hardware/contents.txt:1000a047.pdf (asked, confidential) d
+hardware/contents.txt:hpca13-isa-power.pdf (not used) d
+hardware/contents.txt:isa-power-struggles-tr.pdf (paper, not used) d
+hardware/contents.txt:green-change-web.pdf (green-data...) d
+hardware/contents.txt:selse2013_SEMA.pdf (confidential) d
+hardware/contents.txt:selse2012_submission.pdf (confidential) d
+hardware/contents.txt:vimb-meng.pdf (paper, not used) d
+hardware/contents.txt:hotpower12-final5.pdf (paper, not emailed, partial) d
+hardware/contents.txt:wanner_hotpower10.pdf (done) d
+hardware/contents.txt:wanner_date11.pdf (done) d
+hardware/contents.txt:MemoingMM98.pdf (paper; not used) d
+hardware/contents.txt:hotpower12-final29.pdf (partial) d
+hardware/contents.txt:jiang_1.pdf (emailed, no reply) d
+hardware/contents.txt:00-1594.pdf (paper, done) d
+hardware/contents.txt:J20_paper.pdf (paper, emailed, partial) d
+hardware/contents.txt:zheng_asu_0010n_10586.pdf (paper, not used) d
+hardware/contents.txt:3C-5.pdf (emailed) d
+hardware/contents.txt:radecs2008_SER65nm.pdf (paper, emailed) d
+hardware/contents.txt:j23.pdf (not used) d
+hardware/contents.txt:McCullough.pdf (not used) d
+hardware/contents.txt:AUT10.pdf (emailed, partial) d
+hardware/contents.txt:wip.pdf (drive_data..., email, not used) d
+hardware/contents.txt:smartphone-tos12.pdf (paper, not emailed, not used) d
+hardware/contents.txt:conference_HPCA-12.pdf (paper, not emailed, not used) d
+hardware/contents.txt:LauraThesis (paper, emailed, not used) d
+hardware/contents.txt:li.PhD12.pdf (not used) d
+hardware/contents.txt:10.1.1.155.171.pdf (paper, not used) d
+hardware/contents.txt:BleakFlash.pdf (paper, not used) d
+hardware/contents.txt:Snowdon_phd.pdf (extract?, emailed) d
+hardware/contents.txt:eurosys-2012.pdf (paper, not used) d
+hardware/contents.txt:hd_dsn12.pdf (paper, not used) d
+hardware/contents.txt:ispass2013_deterministic.pdf (tr1051..., other) d
+hardware/contents.txt:vmw_thesis.pdf (tr1051..., other) d
+hardware/contents.txt:phone-pow-con.pdf (paper, not used) d
+hardware/contents.txt:hyojun_201212_phd.pdf (done) d
+hardware/contents.txt:Dinaburg_Bitsquatting_WP.pdf (dnslogs+filtered_..., not used) d
+hardware/contents.txt:20120821_Grochowski.pdf (paper, done) d
+hardware/contents.txt:khan-efficacy-sigmetrics2014.pdf (not used) d
+hardware/contents.txt:dram-retention_isca13.pdf (khan-efficacy, not used) d
+hardware/contents.txt:JamesHamilton_20100608.pdf (paper, not used) d
+hardware/contents.txt:MSTR10_paper.pdf (done) d
+hardware/contents.txt:bircher_PhD_20109.pdf (paper+file, emailed, partial) d
+hardware/contents.txt:10.1.1.260.1032.pdf (paper+bircher_PhD, not used) d
+hardware/contents.txt:aldram-hpca21.pdf (not used) d
+hardware/contents.txt:TR2015-NVMDB.pdf (not used) d
+hardware/contents.txt:SC13_camera_ready.pdf (paper, not used) d
+hardware/contents.txt:10.1.1.630.3929.pdf (paper, not used) d
+hardware/contents.txt:155_quinn_paper.pdf (paper, faded away) d
+hardware/contents.txt:1508.07740v1.pdf (paper, cited) d
+hardware/contents.txt:FC2015.pdf (emailed) d
+hardware/contents.txt:meza_dsn15.pdf (not used) d
+hardware/contents.txt:a056521.pdf (paper, not used) d
+hardware/contents.txt:baumann-hotos17.pdf (done) d
+hardware/contents.txt:AdamsReport1967Q4-1968Q1.pdf (paper, cited) d
+hardware/contents.txt:AdamsReport1967Q1-2.pdf (paper, not used) d
+hardware/contents.txt:1601940.pdf (not used) d
+hardware/contents.txt:MR1617/ (paper, not used) d
+hardware/contents.txt:msr_2017_final.pdf (not used) d
+hardware/contents.txt:SystemLevelAnalysis.pdf (paper, not emailed, not used) d
+hardware/contents.txt:breaking_the_x86_isa.pdf (sandsifter, cited) d
+hardware/contents.txt:10.1.1.323.9505.pdf (done) d
+hardware/contents.txt:2010-05-26_TIAX_CMELs.pdf (paper, not used) d
+hardware/contents.txt:LBNL-45917b.pdf (paper, not used) d
+hardware/contents.txt:studyofcomputerm00bill.pdf (paper, not used) d
+hardware/contents.txt:InTech-Soft_error_rate-SRAM.pdf (done) d
+hardware/contents.txt:NS_coin_cell_white_paper.pdf (paper, not used) d
+hardware/contents.txt:European_EDP_Jan61.pdf (paper, not used) d
+hardware/contents.txt:chandrakasan1995.pdf (paper, not used) d
+hardware/contents.txt:wp286.pdf (paper, not used) d
+hardware/contents.txt:m246_1_chapter12.pdf (paper, not used) d
+hardware/contents.txt:DP_equipEncycVol2_1961.pdf (paper, not used) d
+hardware/contents.txt:2018-2-7908.pdf (paper, not used) d
+hardware/contents.txt:293695.pdf (paper, not used) d
+hardware/contents.txt:c379330c94670518ddb.pdf (paper, not used) d
+hardware/contents.txt:LOVELLY_T.pdf (paper, not used) d
+hardware/contents.txt:eurosys19-power.pdf (website, not yet, not used) d
+hardware/contents.txt:09063714.pdf (technology_integration_trend_v9, other) d
+hardware/contents.txt:2020-moore.pdf (technology_integration, other) d
+hardware/contents.txt:1003735.pdf (paper, not used) d
+highintegrity/contents.txt:ist-scam08.pdf ist-vuln-tr.pdf (done) d
+highintegrity/contents.txt:allodi-12-badgers.pdf (confidential+symantic, refed) d
+highintegrity/contents.txt:CSI_FBI_ComputerCrime0904.pdf (paper, not used) d
+highintegrity/contents.txt:CSI_FBI2005.pdf (paper, not used) d
+highintegrity/contents.txt:CSI_FBI2006.pdf (paper, not used) d
+highintegrity/contents.txt:CSI_Survey_2007.pdf (paper, not used) d
+highintegrity/contents.txt:CSIsurvey2008.pdf (paper, not used) d
+highintegrity/contents.txt:CSIsurvey2009.pdf (paper, not used) d
+highintegrity/contents.txt:CSIsurvey2010.pdf (paper, not used) d
+highintegrity/contents.txt:HPL-2012-63R1.pdf (paper, not used) d
+highintegrity/contents.txt:coderev-essos13.pdf (paper; done) d
+highintegrity/contents.txt:Alemzadeh_IEEE&P_2013.pdf (partial) d
+highintegrity/contents.txt:caratwww14.pdf (confidential) d
+history/contents.txt:AirlineHistorySoftwareInd-book.pdf (done) d
+history/contents.txt:10.2307@30204856.pdf (languageR, not used) d
+identifiers/contents.txt:JSME11.doc.pdf (not used) d
+identifiers/contents.txt:iwesep-submit.pdf (paper, not used) d
+identifiers/contents.txt:da_jan_nonnen.pdf (paper, not used) d
+identifiers/contents.txt:PerceptMotSkills-Kuennapas.pdf (paper, not used) d
+identifiers/contents.txt:Renaming-main.pdf (cited) d
+identifiers/contents.txt:2015_LalehMousaviEshkevari.pdf (Ranming..., other) d
+identifiers/contents.txt:Scanniello-TOSEM.pdf (not used) d
+identifiers/contents.txt:shorter-identifier-names.pdf (done) d
+identifiers/contents.txt:Avidan-MSc.pdf (done) d
+identifiers/contents.txt:10.1002@spe.43800.pdf (paper, not used) d
+identifiers/contents.txt:msr13-binkley.pdf (+email, not used) d
+identifiers/contents.txt:Lin2017d.pdf (not used) d
+identifiers/contents.txt:1805.11683.pdf (not used) d
+identifiers/contents.txt:oopsla2018_DeepBugs.pdf (cited) d
+identifiers/contents.txt:2003.07914.pdf (not downloaded, not used) d
+identifiers/contents.txt:rename_paper_2020.pdf (not used) d
+identifiers/contents.txt:icsme19_at.pdf (not used) d
+identifiers/contents.txt:landauer1983.pdf (paper, not used) d
+language/contents.txt:icse11-abram.pdf (not used) d
+language/contents.txt:Ko2006LinguisticsOfBugReports.pdf (not used) d
+language/contents.txt:Miller-Nicely1955.pdf (paper, not used) d
+language/contents.txt:IR-trace-tr.pdf (not used) d
+language/contents.txt:IR-trace-noun-J1.pdf (not used) d
+language/contents.txt:ICPC2011-IdentifierSplitting.pdf (not used) d
+language/contents.txt:icpc2013.pdf (not used) d
+language/contents.txt:SERG-2012-03.pdf (not used) d
+language/contents.txt:sisman2013assisting.pdf (not used) d
+language/contents.txt:petrovic13unsupervised.pdf (not used) d
+language/contents.txt:MSR2012_Chen.pdf (not used) d
+language/contents.txt:icpc2013-haystack.pdf (not used) d
+language/contents.txt:CSMR-WCRE2014.pdf (not used) d
+language/contents.txt:gorla-chabadaicse-2014.pdf (not used) d
+language/contents.txt:978-951-39-5791-9_comp.pdf (not used) d
+language/contents.txt:1-s2.0-main.pdf (not used) d
+language/contents.txt:fpsyg-01-00174.pdf (not used) d
+language/contents.txt:fpsyg-02-00306.pdf (not used) d
+language/contents.txt:New-2006-PBR-Length.pdf (not used) d
+language/contents.txt:swordnet-emse14.pdf (not used) d
+language/contents.txt:snapl2015.pdf (not used) d
+language/contents.txt:SCIPRO-2014.pdf (not used) d
+language/contents.txt:granularity.pdf (Cummins_, done) d
+language/contents.txt:ICSME2015ERARobbert.pdf (EMSE-Robbert cited) d
+language/contents.txt:mining_jira_repo.pdf (not used) d
+language/contents.txt:C129.pdf (paper, cited) d
+language/contents.txt:jansen2001.pdf (paper, extract??, email??, cited) d
+language/contents.txt:jones2004.pdf (paper, cited) d
+language/contents.txt:hull1973.pdf (paper, not used) d
+language/contents.txt:10.1.1.301.6261.pdf (paper, not used) d
+language/contents.txt:1703.09046.pdf (not used) d
+language/contents.txt:Programming_Languages_-_Sammet.pdf (paper, not used) d
+language/contents.txt:Cummins_Phd.pdf (done) d
+language/contents.txt:1709.02984.pdf (not used) d
+language/contents.txt:yap2010.pdf (not used) d
+language/contents.txt:EMSE-Robbert.pdf (cited) d
+language/contents.txt:BritishLexiconProject.pdf (cited) d
+language/contents.txt:schocketalaoa2012.pdf (cited) d
+language/contents.txt:SemCat_IndividualDiff.pdf (cited) d
+language/contents.txt:2016_Calgary_SDT.pdf (not used) d
+language/contents.txt:126-448-1-SM.pdf (cited) d
+language/contents.txt:3465.pdf ISEDJv14n6p47.pdf (paper, Reid-List, emailed) d
+language/contents.txt:EJ1136749.pdf (paper, emailed) d
+language/contents.txt:piantadosi2014zipfs.pdf (done) d
+language/contents.txt:1619666114.full.pdf (not used) d
+language/contents.txt:euclid.ss.1177012242.pdf (paper, cited) d
+language/contents.txt:IJAR_About_2015_Final.pdf (emailed) d
+language/contents.txt:SSRN-id3188933.pdf (paper, not used) d
+language/contents.txt:a196944.pdf Vague_meanings_prob_terms.pdf (paper, not used) d
+language/contents.txt:5_W5.pdf (not used) d
+language/contents.txt:Lin2018a.pdf (cited) d
+language/contents.txt:grzybek2006word_len.pdf (paper, not used) d
+language/contents.txt:EmpiricalProgLangTrends.pdf (paper, not used) d
+language/contents.txt:newstead2000.pdf (paper, extract, not used) d
+language/contents.txt:journal.pone.0176452.pdf (not used) d
+language/contents.txt:the_oxford_3000.pdf (paper, not used) d
+language/contents.txt:PNAS-2012-Gorenflo.pdf (not used) d
+language/contents.txt:senticr-ase.pdf (not used) d
+language/contents.txt:Science-2012-Bouckaert.pdf (not used) d
+language/contents.txt:L18-1529.pdf (done) d
+language/contents.txt:BARREIROS-PhD.pdf (not used) d
+language/contents.txt:1004_Paper.pdf (not used) d
+language/contents.txt:UpadhyayHoughtonKlin2018.pdf (cited) d
+language/contents.txt:QuantifyEvolDynamics.pdf (not used) d
+language/contents.txt:2019_swow.pdf (not downloaded, ignore) d
+language/contents.txt:1408.3456v1.pdf (not used) d
+language/contents.txt:2002.02672.pdf (done) d
+language/contents.txt:s41598-020-60661-8.pdf (not used) d
+language/contents.txt:2006.16940.pdf (not used) d
+language/contents.txt:10.1007_2Fs00766.pdf (not used) d
+language/contents.txt:brm_gimenes_2020_lexique.pdf (not used) d
+language/contents.txt:schler_springsymp06.pdf (not used) d
+language/contents.txt:1-s2.0-S00225371.pdf (paper, not used) d
+language/contents.txt:Solso1979_BigramTrigramFreq.pdf (paper, not used) d
+language/contents.txt:Solso_PosFrequencyVersatil.pdf (paper, not used) d
+legal/contents.txt:msr2010.pdf (not used) d
+legal/contents.txt:7-93-1-PB.pdf (cited) d
+legal/contents.txt:Modular_norm_models.pdf (cited) d
+legal/contents.txt:techreport-jamescrawford.pdf (paper, not used) d
+maintain/contents.txt:AbramHindle-PhD.pdf (see other papers, other) d
+maintain/contents.txt:FryISSTA12_PREPRINT.pdf (not used) d
+maintain/contents.txt:checklists_in_inspections.pdf (not used) d
+maintain/contents.txt:msr2011.pdf (partial) d
+maintain/contents.txt:13.emse.bugginess.pdf (msr2011, done) d
+maintain/contents.txt:fsstudy.pdf (partial) d
+maintain/contents.txt:Bijlsma_MSc.pdf (not used) d
+maintain/contents.txt:icse2011-mcintosh.pdf (classified_files.tbz2+build.csv, moved to misc) d
+maintain/contents.txt:wcre13main-idm125-p-19100.pdf (not used) d
+maintain/contents.txt:a174454.pdf (paper, done) d
+maintain/contents.txt:kadar2016.pdf (not used) d
+maintain/contents.txt:ReasonforChange_ICSM2000.pdf (cited) d
+maintain/contents.txt:patmain_tse2001.pdf (moved to misc) d
+maintain/contents.txt:purushothaman2005.pdf (paper, partial) d
+maintain/contents.txt:10.2307@40539248.pdf (emailed) d
+maintain/contents.txt:chase2018.pdf (also JBCS2018A and vem2017, not used) d
+maintain/contents.txt:J7.pdf (not used) d
+maintain/contents.txt:fulltext_Norway-Maint.pdf (paper, not used) d
+maintain/contents.txt:Norway-dev-maint.pdf (paper, not used) d
+maintain/contents.txt:35f6eb29ff52be6fba8afb.pdf (paper, not used) d
+maintain/contents.txt:4ddzXwEtjTLB.pdf (extracted) d
+management/contents.txt:IT_Proj_Man_UK_2003_04.pdf (paper, not used) d
+management/contents.txt:08tr024.pdf (not used) d
+management/contents.txt:10tr022.pdf (not used) d
+management/contents.txt:a302988.pdf (paper, not used) d
+management/contents.txt:TSE13a.doc.pdf (not used) d
+management/contents.txt:PID4146349.pdf (not used) d
+management/contents.txt:Ahmedshareef_PhD_2015.pdf (paper, not used) d
+management/contents.txt:Budzier_and_Flyvbjerg.pdf (emailed) d
+management/contents.txt:Christopher_Schofield.pdf (paper, not used) d
+management/contents.txt:BIR-CC-2015-05-26-Paper_16.pdf (emailed) d
+management/contents.txt:Datta2015e-preprint.pdf (not used) d
+management/contents.txt:huijgens2013.pdf (paper, extract plots?, partial) d
+management/contents.txt:nicta_publication_5728.pdf (paper, cited) d
+management/contents.txt:function-point-sizing-validity.pdf (paper, not used) d
+management/contents.txt:twitter-prog-lang-trends.pdf (done) d
+management/contents.txt:185.pdf (paper+file, not used) d
+management/contents.txt:lognormalparkinson.pdf (emailed) d
+management/contents.txt:2016 06 02 Labro Stice.pdf (emailed, confidential) d
+management/contents.txt:AD0631259.pdf (paper, cited) d
+management/contents.txt:ahonen2015.pdf (paper, emailed, extracted, done) d
+management/contents.txt:Educators.pdf (paper, educators, other) d
+management/contents.txt:educators.pdf (paper, email, partial) d
+management/contents.txt:CMU-ISRI-07-103.pdf (paper, not used) d
+management/contents.txt:ashworth_2006_whoyouknow.pdf (paper, not used) d
+management/contents.txt:ColinVanhouckeJCEM2015.pdf (email, faded away) d
+management/contents.txt:10.1007s11219-011.pdf (extract, not used) d
+management/contents.txt:TUD-SERG-2014-012.pdf (paper, not used) d
+management/contents.txt:TUD-SERG-2016-004.pdf (paper, done) d
+management/contents.txt:VanhouckeJMPM2016.pdf (not used) d
+management/contents.txt:085af20bfb4fd0a1f0922.pdf (paper, not used) d
+management/contents.txt:Volstorf-PhD.pdf (fpsyg..., cited) d
+management/contents.txt:9780521532853ws.pdf (partial) d
+management/contents.txt:journal.pone.0157104.PDF (done) d
+management/contents.txt:halflife.pdf (paper, not used) d
+management/contents.txt:IT-Risk-Management.pdf (paper, cited) d
+management/contents.txt:1-s2.0-S016412121630231X-main.pdf (not used) d
+management/contents.txt:e1400005.full.pdf (not used) d
+management/contents.txt:p1169.pdf (e1400005, not used) d
+management/contents.txt:2007-MISQ-Ang1.pdf (emailed, faded away) d
+management/contents.txt:1a79398d2da4aa68ef8.pdf (emailed, oes/, faded away) d
+management/contents.txt:TOSEM16.pdf (trouble with data, not used) d
+management/contents.txt:Kossen 2010.pdf (paper, not used) d
+management/contents.txt:SSOCommittees_v3.pdf (partial) d
+management/contents.txt:10.1.1.201.1590.pdf (SSOCommittees..., other) d
+management/contents.txt:50790633.pdf (paper, not used) d
+management/contents.txt:shadbolt-review-CS-employability.pdf (paper, cited) d
+management/contents.txt:ICPC_15-LicensingSurvey.pdf (done) d
+management/contents.txt:2016_OnsMlouki.pdf (cited) d
+management/contents.txt:EMSE_16-Licensing.pdf (ICPC..., done) d
+management/contents.txt:Vendome-PhD-thesis.pdf (ICPC..., other) d
+management/contents.txt:nbsspecialpublication500-7.pdf (paper, not used) d
+management/contents.txt:nbsspecialpublication500-46.pdf (paper, not used) d
+management/contents.txt:EtAlFinal.pdf (done) d
+management/contents.txt:07-ELD-Survey-Report.pdf (paper, not used) d
+management/contents.txt:539.pdf (paper, emailed) d
+management/contents.txt:1702.07656.pdf (not used) d
+management/contents.txt:2013AnnualReport.pdf (paper, not used) d
+management/contents.txt:2014_Software_Industry_Financial_Report.pdf (paper, not used) d
+management/contents.txt:2015_Software_Industry_Financial_Report.pdf (paper, not used) d
+management/contents.txt:635628_tech_ipo_q42014.pdf (paper, not used) d
+management/contents.txt:635931_tech_ipo_q42015.pdf (paper, cited) d
+management/contents.txt:ADA415138.pdf (paper, done) d
+management/contents.txt:dravhandling-yamashita.pdf (not used) d
+management/contents.txt:EMSE2016_ReviewParticipation.pdf (not used) d
+management/contents.txt:EstimationStudy.pdf (paper+file, done) d
+management/contents.txt:FlexeraKeyTrendsSurvey_13-14.pdf (paper, not used) d
+management/contents.txt:FlexeraKeyTrendsSurvey_12.pdf (paper, not used) d
+management/contents.txt:it_metrics_it_spending.pdf (paper, not used) d
+management/contents.txt:KeyTrendsSurvey_11.pdf (paper, not used) d
+management/contents.txt:SW_Licensing_Report_04.pdf (paper, not used) d
+management/contents.txt:SW_Licensing_Report_06-07.pdf (paper, not used) d
+management/contents.txt:eval-time-shared-usage.pdf (paper, not used) d
+management/contents.txt:peerj-preprints-1889.pdf (not used) d
+management/contents.txt:peerj-preprints-2905.pdf (cited) d
+management/contents.txt:proj-scc-client.ben.pdf (paper, cited) d
+management/contents.txt:pwc-soft-pricing-2015.pdf (paper, not used) d
+management/contents.txt:SEA20160100000.pdf (paper, not used) d
+management/contents.txt:simplifying-ucp-ist-pre.pdf (paper+email, cited) d
+management/contents.txt:Simula.simula.2116.pdf (paper, partial) d
+management/contents.txt:Software_Ind_Financial_Rep_1Q16.pdf (paper, not used) d
+management/contents.txt:Software_Ind_Financial_Rep_2Q16.pdf (paper, not used) d
+management/contents.txt:1Q15_Software_Ind_Financial_Rep.pdf (paper, not used) d
+management/contents.txt:Software_Ind_Financial_Rep_4Q15.pdf (paper, not used) d
+management/contents.txt:2Q14_Software_Ind_Financial_Rep.pdf (paper, not used) d
+management/contents.txt:1Q13_Software_Ind_Financial_Rep.pdf (paper, not used) d
+management/contents.txt:3Q13_Software_Ind_Financial_Rep.pdf (paper, not used) d
+management/contents.txt:Stein_Grimstad-01509288.pdf (paper, not used) d
+management/contents.txt:Stray_etal_2016.pdf (paper, not used) d
+management/contents.txt:Stray_thesis_final.pdf (paper, not used) d
+management/contents.txt:Sunmicrosystem.pdf (paper, not used) d
+management/contents.txt:zapdata_06.pdf (paper, not used) d
+management/contents.txt:82-291-1-PB.pdf (paper, emailed for more, confidential, cited) d
+management/contents.txt:542d312d0cf29bbc126d1fac.pdf (paper, not used) d
+management/contents.txt:10.1007s10270-015-0472-2.pdf (emailed, faded away) d
+management/contents.txt:J3.pdf (cited) d
+management/contents.txt:ICGSE2017.pdf (not used) d
+management/contents.txt:MIT-LCS-TR-068.pdf (paper, partial) d
+management/contents.txt:Sulir16quantitative.pdf (not used) d
+management/contents.txt:C_a_A-195805.pdf (paper, not used) d
+management/contents.txt:Yu.pdf (paper, done) d
+management/contents.txt:52923672.pdf (email conversation+file, not used) d
+management/contents.txt:AD0766061.pdf (paper, partial) d
+management/contents.txt:Fisher-IDA-P-1046.pdf (paper, not used) d
+management/contents.txt:119738.pdf (paper, cited) d
+management/contents.txt:Solganick-Software-MnA-2016.pdf (paper, done) d
+management/contents.txt:Milis-PhD_a.pdf Milis-PhD_b.pdf (paper+file, done) d
+management/contents.txt:132087.pdf (paper, cited) d
+management/contents.txt:submission-v1-6.pdf (partial) d
+management/contents.txt:EngEconMOCA.pdf (paper+file, not used) d
+management/contents.txt:1703.03897.pdf (cited) d
+management/contents.txt:1611.05994.pdf (emailed for more details, not used) d
+management/contents.txt:09-035_147543f8-48b3.pdf (emailed) d
+management/contents.txt:9c71965ae0160752b9.pdf (paper, not used) d
+management/contents.txt:10.1.1.672.5858.pdf (paper, not used) d
+management/contents.txt:est_embedded_soft05999672.pdf (paper, done) d
+management/contents.txt:Classified_Ads_IT_skill_2004.pdf (paper, not used) d
+management/contents.txt:RE_journal_beydoun.pdf (paper, not used) d
+management/contents.txt:Estimation-model-adapter.pdf (paper, done) d
+management/contents.txt:optim_pess_biasing.pdf (paper, not used) d
+management/contents.txt:Contract-Design-Choices.pdf (emailed) d
+management/contents.txt:ungan-PhD.pdf (paper+file, not used) d
+management/contents.txt:ERTS_2014_RENAULT-COSMIC.pdf (paper, extract, not used) d
+management/contents.txt:10.1.1.532.4245.pdf (paper, not used) d
+management/contents.txt:82507128.pdf (paper+file, done) d
+management/contents.txt:CLEANROOM.pdf (paper+file, done) d
+management/contents.txt:ADA083513.pdf (paper, not used) d
+management/contents.txt:JorgeAranda-MSc.pdf (paper+file, partial) d
+management/contents.txt:zelkowitz-effect.pdf zelkowitz-resource.pdf (paper+file, done) d
+management/contents.txt:vol3no4_22.pdf (paper, mohantyi, not used) d
+management/contents.txt:kitchenham1985.pdf (paper+file, partial) d
+management/contents.txt:a053020.pdf (paper+file, done) d
+management/contents.txt:mohanty1981.pdf (paper+file, done) d
+management/contents.txt:02-0706.pdf (paper, not used) d
+management/contents.txt:7092409.pdf (not used) d
+management/contents.txt:Function-Points-in-Agile.pdf (paper, not used) d
+management/contents.txt:ese13.pdf (not used) d
+management/contents.txt:61F.PDF.pdf 19810015279.pdf (paper, not used) d
+management/contents.txt:Rainer_PhD.pdf (paper, not used) d
+management/contents.txt:a123818.pdf (paper, not used) d
+management/contents.txt:P-8280.pdf (paper, not used) d
+management/contents.txt:Characterizing_Risky_Project.pdf (paper+file, not used) d
+management/contents.txt:2160885.pdf (paper, not used) d
+management/contents.txt:Risk-software-IMDS.pdf (paper, not used) d
+management/contents.txt:e9f6828098808322e53.pdf (paper, done) d
+management/contents.txt:manage_risks_in_IS_projects.pdf (paper, not used) d
+management/contents.txt:productivityimpa00gill.pdf (paper, not used) d
+management/contents.txt:13530502.pdf (paper, cited) d
+management/contents.txt:Paper 11_Benchmarking_2.pdf (paper, not used) d
+management/contents.txt:basili1981.pdf (paper, emailed, lost, extracted, done) d
+management/contents.txt:tse20-10.pdf (paper, cited) d
+management/contents.txt:199812-Stark.pdf (paper, not used) d
+management/contents.txt:Effects_Requirements_Change.pdf (paper, not used) d
+management/contents.txt:140528_aszoke_thesis.pdf (paper, emailed) d
+management/contents.txt:1703.10361.pdf (paper, not used) d
+management/contents.txt:45425db4cac286d5e.pdf (emailed) d
+management/contents.txt:211245.pdf (paper, not used) d
+management/contents.txt:Factors.pdf (extract, emailed, cited) d
+management/contents.txt:Loconsole-PhD.pdf (paper, not used) d
+management/contents.txt:iasurvey_tse_preprint.pdf iasurvey_techrep.pdf (paper, email?, cited) d
+management/contents.txt:Quality_vs_risk-projects.pdf (emailed) d
+management/contents.txt:Smite20170227.pdf (paper, cited) d
+management/contents.txt:587361.pdf (extracted, done) d
+management/contents.txt:Modeling_dyn_agile_soft_dev.pdf (emailed) d
+management/contents.txt:60b4d52b38e929260cb.pdf (paper, not used) d
+management/contents.txt:Rainer Metrics2004.pdf (paper, not used) d
+management/contents.txt:msr2017_manglaviti.pdf (not used) d
+management/contents.txt:methodologies_emp_analysis.pdf (paper, not used) d
+management/contents.txt:Thomas_Tan_PhD.pdf (paper, not used) d
+management/contents.txt:gopal2010.pdf (emailed, cited) d
+management/contents.txt:helena1-icssp-web.pdf (not used) d
+management/contents.txt:8780556.pdf (paper, cited) d
+management/contents.txt:mahaney2010.pdf (emailed and promised) d
+management/contents.txt:CSA20170500000_18573388.pdf (done) d
+management/contents.txt:65-CA002.pdf (emailed, not available, CSA2017050000, other) d
+management/contents.txt:a301376.pdf (paper, file, not used) d
+management/contents.txt:1708.02618.pdf (not used) d
+management/contents.txt:1991_003_001_15905.pdf (paper, not used) d
+management/contents.txt:19820068869.pdf (paper, not used) d
+management/contents.txt:a116352.pdf (paper, not used) d
+management/contents.txt:a243998.pdf (paper, not used) d
+management/contents.txt:a460316.pdf (paper, not used) d
+management/contents.txt:10366006300bc239449.pdf (paper, file, also EstimationStudy, not used) d
+management/contents.txt:CS-TR-389.pdf (paper, not used) d
+management/contents.txt:stateofpractice.pdf (not used) d
+management/contents.txt:rtvpp.pdf (paper, not used) d
+management/contents.txt:istc.pdf (paper, not used) d
+management/contents.txt:jenkins1984.pdf (paper, not used) d
+management/contents.txt:1-s2.0-S109051381730209X.pdf (partial) d
+management/contents.txt:bgsv.pdf (not used) d
+management/contents.txt:10.1.1.122.5074.pdf (paper, not used) d
+management/contents.txt:FevoldenHistoryofComputing.pdf (emailed, lost) d
+management/contents.txt:optimalordering.pdf (not used) d
+management/contents.txt:argote1995.pdf (paper, cited) d
+management/contents.txt:the-2018-hacker-report.pdf (paper+file, done) d
+management/contents.txt:ExaminingPredictiveValidity.pdf (paper, not used) d
+management/contents.txt:wnuk-thesis-2012.pdf (paper, not used) d
+management/contents.txt:19820068858.pdf (paper, extracted, not used) d
+management/contents.txt:StaatsMilkmanFox2012.pdf neglect.pdf (emailed, confidential) d
+management/contents.txt:ASE2017.pdf (done) d
+management/contents.txt:1710.07980.pdf (cited) d
+management/contents.txt:20180000092.pdf (paper, not used) d
+management/contents.txt:E100.D_2016EDP7222.pdf (paper+file, cited) d
+management/contents.txt:IST-2017.pdf (multiple emails) d
+management/contents.txt:SharmaUpadhyayula_MSc.pdf (paper+extracted, not used) d
+management/contents.txt:Estimates or NoEstimates.pdf (not used) d
+management/contents.txt:Lin2017c.pdf (not used) d
+management/contents.txt:147525.pdf (paper, not used) d
+management/contents.txt:a253087.pdf (paper, not used) d
+management/contents.txt:jbcs_evolution_agile_br.pdf (paper, not used) d
+management/contents.txt:akerele-agile.pdf (paper+file, not used) d
+management/contents.txt:ericpol_icse2014.pdf (emailed) d
+management/contents.txt:GillianShapiro-PhD_1.pdf GillianShapiro-PhD_2.pdf (paper, not used) d
+management/contents.txt:MC665_r28_L-3.pdf (paper, not used) d
+management/contents.txt:MC665_r28_L-3.pdf (paper, not used) d
+management/contents.txt:SAC2018_final.pdf (done) d
+management/contents.txt:WuEtAl.pdf (paper, not used) d
+management/contents.txt:1802.02938.pdf (cited) d
+management/contents.txt:smj879.pdf (cited) d
+management/contents.txt:vem2017.pdf (not used) d
+management/contents.txt:JBCS2018A.pdf (also vem2017, not used) d
+management/contents.txt:1609.00489.pdf (not used) d
+management/contents.txt:tse2017_3.pdf (1609.00489..., not used) d
+management/contents.txt:1710.04037.pdf (cited) d
+management/contents.txt:ringelmann.pdf (paper, not used) d
+management/contents.txt:ingham1974.pdf (paper, extract, not used) d
+management/contents.txt:Elliott_77.pdf (extracted, done) d
+management/contents.txt:283796.pdf (paper, not used) d
+management/contents.txt:680105.pdf (paper, not used) d
+management/contents.txt:50730419.pdf (paper, not used) d
+management/contents.txt:50861191.pdf (paper, not used) d
+management/contents.txt:cost_of_collab-CSCW2013.pdf (confidential) d
+management/contents.txt:006120.pdf (paper, not used) d
+management/contents.txt:1-s2.0-S016412121630231X.pdf (not used) d
+management/contents.txt:compare_pypi_R_dependencies.pdf (not used) d
+management/contents.txt:DTIC_ADA048192.pdf (paper, not used) d
+management/contents.txt:springer_pichai.pdf (paper+file, not used) d
+management/contents.txt:KeyChallSoftStartupsLifeCy.pdf (paper, not used) d
+management/contents.txt:Top20-Reasons-Startups-Fail.pdf (paper, not used) d
+management/contents.txt:132846219.pdf (paper, not used) d
+management/contents.txt:zogaan2017.pdf (not used) d
+management/contents.txt:spi.pdf (paper, not used) d
+management/contents.txt:Hennie_HuijgensPhD.pdf (done) d
+management/contents.txt:96SKILLS.pdf (paper, not used) d
+management/contents.txt:971dec8ed7f13b7ec.pdf (paper, not used) d
+management/contents.txt:1806.10277.pdf (not used) d
+management/contents.txt:1809.06317.pdf (not used) d
+management/contents.txt:msr2018b.pdf (done) d
+management/contents.txt:smite2015.pdf (paper, not used) d
+management/contents.txt:vassalloSANER2018.pdf (not used) d
+management/contents.txt:PhD_Lukasz_Kwiatkowski.pdf (paper, extract, not used) d
+management/contents.txt:laukkanen2017.pdf (partial) d
+management/contents.txt:1805.07951.pdf (not used) d
+management/contents.txt:taudes2000-pre.pdf taudes2000.pdf (paper, not used) d
+management/contents.txt:journal.pone.0201596.pdf (not used) d
+management/contents.txt:large-small-teams-disrupt.pdf (not used) d
+management/contents.txt:V1-N11-SEP-1990.pdf (paper, not used) d
+management/contents.txt:Prod-Group-Incentive.pdf (paper, extract, not used) d
+management/contents.txt:1805.09966.pdf (not used) d
+management/contents.txt:shaw1932.pdf (paper+files, not used) d
+management/contents.txt:e10eca18950c5e3265e.pdf (cited) d
+management/contents.txt:king1967.pdf (paper, extract, not used) d
+management/contents.txt:gordon1924.pdf (paper, not used) d
+management/contents.txt:hoppe1962.pdf (paper, not used) d
+management/contents.txt:yield.pdf (paper, gov, other) d
+management/contents.txt:575530.pdf (not used) d
+management/contents.txt:a205062.pdf (paper, not used) d
+management/contents.txt:Lorko-Servatka-Zhang.pdf (done) d
+management/contents.txt:Akdemir_Kirmani-MSc.pdf (paper, done) d
+management/contents.txt:davis1963.pdf (paper, extract?, not used) d
+management/contents.txt:cruz_re_indus17.pdf (not used) d
+management/contents.txt:Application Flows 7 March 2017.pdf Application Flows-Chicago.pdf davis_s351.pdf (done) d
+management/contents.txt:mcdonald2005.pdf (paper, done) d
+management/contents.txt:1906.08895.pdf (not used) d
+management/contents.txt:DTIC_AD0415721.pdf (paper, cited) d
+management/contents.txt:International-Treaties.pdf (paper, not used) d
+management/contents.txt:gov.pdf (extracted, not used) d
+management/contents.txt:cravens.pdf (paper, not used) d
+management/contents.txt:PX08875.pdf (paper, partial) d
+management/contents.txt:1901.01621.pdf (done) d
+management/contents.txt:hill99taskduration.pdf (paper, email bounced, retired?) d
+management/contents.txt:23003405-est_agile_soft_dev.pdf (emailed, received, done) d
+management/contents.txt:tamai1992.pdf (paper, cited) d
+management/contents.txt:ase2018_gallaba.pdf (done) d
+management/contents.txt:1908.00827.pdf (not used) d
+management/contents.txt:Webb2017Insight.pdf (file+emailed, lost interest, not used) d
+management/contents.txt:SSRN-id3454796.pdf (not used) d
+management/contents.txt:SW_Maint_Demand_ESEM2016.pdf (emailed) d
+management/contents.txt:fse17-hilton.pdf (not used) d
+management/contents.txt:fse19-zhang-compiler.pdf (not used) d
+management/contents.txt:fpsyg-09-00760.pdf (not used) d
+management/contents.txt:journal.pone.0182442.pdf (not used) d
+management/contents.txt:lewis_andrew_c_1972.pdf (paper+file, done) d
+management/contents.txt:LSA+17ase.pdf (not used) d
+management/contents.txt:d5f6d2fa804c527200158.pdf (paper, not used) d
+management/contents.txt:journal.pone.0202288.pdf (done) d
+management/contents.txt:gaudeul2017.pdf (emailed) d
+management/contents.txt:SarroTOSEM18.pdf (not used) d
+management/contents.txt:81613287.pdf (paper, not used) d
+management/contents.txt:dalp-scha-brin-ayde-luca.pdf (not used) d
+management/contents.txt:Marathon-times.pdf (done) d
+management/contents.txt:2656450.2656476.pdf (not used) d
+management/contents.txt:stamps070628.pdf (not used) d
+management/contents.txt:2001.00491.pdf (cited) d
+management/contents.txt:2003.03001.pdf (done) d
+management/contents.txt:2018_005_001_528494.pdf (2003.03001, other) d
+management/contents.txt:icse2018.pdf (not used) d
+management/contents.txt:SSRN-id3402041.pdf SSRN-id3402041_Appendix.pdf (emailed, confidential) d
+management/contents.txt:study-202852-2008_en_2475.pdf (paper, not used) d
+management/contents.txt:trivial-packages-python.pdf (not used) d
+management/contents.txt:1478873.1478959.pdf (paper, not used) d
+management/contents.txt:1142620.1142623.pdf (paper, not used) d
+management/contents.txt:1142648.1142655.pdf (paper, not used) d
+management/contents.txt:1142662.1142664.pdf (paper, not used) d
+management/contents.txt:800156.805032.pdf (paper, not used) d
+management/contents.txt:1499402.1499437.pdf (paper, not used) d
+management/contents.txt:382181.382591.pdf (paper, not used) d
+management/contents.txt:conoscenti2019.pdf (paper, cited) d
+management/contents.txt:2005.09535.pdf (available, but confidential) d
+management/contents.txt:356622.356623.pdf (paper, not used) d
+management/contents.txt:1705.10093.pdf (paper, emailed) d
+management/contents.txt:zelkowitz-resource_util.pdf (paper, not used) d
+management/contents.txt:zelkowitz-prototyping.pdf (paper, not used) d
+management/contents.txt:reinventing-library-reuse.pdf (not used) d
+management/contents.txt:PID6349045.pdf (not used) d
+management/contents.txt:twerp047.pdf (paper, not used) d
+management/contents.txt:ESD-TR-68-154_Rubey.pdf (paper, not used) d
+management/contents.txt:lawrence1981.pdf (paper, not used) d
+management/contents.txt:5537d748957c2f0a49.pdf (paper, not used) d
+management/contents.txt:thadhani1984.pdf (paper, not used) d
+management/contents.txt:2002.05237.pdf (not used) d
+management/contents.txt:2009.11685.pdf (not used) d
+management/contents.txt:matsumoto-PhD.pdf (paper, not used) d
+management/contents.txt:690619a.pdf (not used) d
+management/contents.txt:Pandemic_Programming_ESE1.pdf (not used) d
+management/contents.txt:EconomyMachineryManufactures.pdf (paper, not used) d
+management/contents.txt:2011.02473.pdf (not used) d
+management/contents.txt:Sach-PhD.pdf (paper, not used) d
+management/contents.txt:av1998113.pdf (paper, not used) d
+management/contents.txt:Nichols_Shirai_ICSSP2014.pdf (CESAW, other) d
+management/contents.txt:Nichols_Shirai_Project_Pat.pdf (CESAW, other) d
+management/contents.txt:16_2.pdf (paper, not used) d
+management/contents.txt:ahn03.pdf (paper, not used) d
+management/contents.txt:EstMaint_by_Analogy.pdf (paper, not used) d
+management/contents.txt:OO_Function_Points_Emp.pdf (paper, not used) d
+management/contents.txt:MetricsBasedSupplierSelect.pdf (paper, not used) d
+management/contents.txt:FunctSizeMeasure-accuracy-cost.pdf (paper, not used) d
+management/contents.txt:ee62bf69ab6139854e.pdf (paper, not used) d
+management/contents.txt:2101.12703.pdf (paper, not used) d
+management/contents.txt:rsos171127.pdf (not used) d
+management/contents.txt:ADA288890.pdf (paper, extract) d
+math/contents.txt:CSo2005-msc.pdf (paper, cited) d
+measurements/contents.txt:SHERWO~1.PDF (paper, not used) d
+measurements/contents.txt:KRINTZ~1.PDF (paper, not used) d
+measurements/contents.txt:DETLEF~1.PDF (paper, not used) d
+measurements/contents.txt:DISKAC~1.PDF (paper, not used) d
+measurements/contents.txt:S1026.PDF (paper, not used) d
+measurements/contents.txt:EMPIRI~3.PDF (paper, not used) d
+measurements/contents.txt:STEFAN~1.PDF (paper, not used) d
+measurements/contents.txt:IFIPS.PS.gz (paper, not used) d
+measurements/contents.txt:5-91.PDF (paper, not used) d
+measurements/contents.txt:NUMERQ~1.PS (paper, not used) d
+measurements/contents.txt:SWEENE~1.GZ (paper, not used) d
+measurements/contents.txt:ENGBLO~1.PDF (paper, not used) d
+measurements/contents.txt:ENGBLO~2.PDF (paper, not used) d
+measurements/contents.txt:MARE-R~1.PDF (paper, not used) d
+measurements/contents.txt:TR990717.PS.gz (paper, not used) d
+measurements/contents.txt:WHALLE~2.PS (paper, not used) d
+measurements/contents.txt:ASPLOS~1 (paper, not used) d
+measurements/contents.txt:LEE98E~1.PDF (paper, not used) d
+measurements/contents.txt:WOO95S~1.PDF (paper, not used) d
+measurements/contents.txt:MEMORY~1.PDF (paper, not used) d
+measurements/contents.txt:FENTON~1.PDF 10.1.1.48.503.pdf (paper, not used) d
+measurements/contents.txt:LOOPNEST.PS.gz (paper, not used) d
+measurements/contents.txt:ASPLOS00.PS (paper, not used) d
+measurements/contents.txt:10.1.1.21.7186.pdf (paper+file, not used) d
+measurements/contents.txt:CALDER~2.PDF (paper, cited) d
+measurements/contents.txt:DESHPA~1.PDF (paper, not used) d
+measurements/contents.txt:P274-E~1.PDF (paper, not used) d
+measurements/contents.txt:CAMERA~1.GZ (paper, not used) d
+measurements/contents.txt:MULTMP~1.PS (paper, not used) d
+measurements/contents.txt:SMLI_T~1.PDF (paper, not used) d
+measurements/contents.txt:ISSTA00.PS.gz (paper, not used) d
+measurements/contents.txt:FLOSS_~2.PDF (paper, not used) d
+measurements/contents.txt:FVTECS.PS.gz (emailed) d
+measurements/contents.txt:SAZEID~1.PDF (paper, not used) d
+measurements/contents.txt:FRANKL~1.PDF (paper, not used) d
+measurements/contents.txt:SKADRO~1.PDF (paper, not used) d
+measurements/contents.txt:WHERE-~1.PDF (paper+file, cited) d
+measurements/contents.txt:BHARGA~1.PDF (paper, not used) d
+measurements/contents.txt:P145-M~1.PDF (paper, not used) d
+measurements/contents.txt:SPE032KC.PDF (paper, not used) d
+measurements/contents.txt:INFORM~1.PDF (paper, not used) d
+measurements/contents.txt:WALDRO~1.PDF (paper, not used) d
+measurements/contents.txt:DAGSTUL.PS (paper, not used) d
+measurements/contents.txt:MCMAHA~1.PDF (paper, not used) d
+measurements/contents.txt:CHEN93~1.PDF (paper, not used) d
+measurements/contents.txt:SHERWO~2.PDF (paper, not used) d
+measurements/contents.txt:PACT-0~1.PDF (paper, not used) d
+measurements/contents.txt:STOCKS~1.PDF (paper, not used) d
+measurements/contents.txt:TR04-11.pdf (paper, not used) d
+measurements/contents.txt:ilcspec.ps.gz (paper, not used) d
+measurements/contents.txt:ghiya96is.pdf (paper, not used) d
+measurements/contents.txt:kolte95elimination.pdf (paper, not used) d
+measurements/contents.txt:tosem-slice-size.ps.gz (paper, not used) d
+measurements/contents.txt:EECS-2005-18.pdf (emailed) d
+measurements/contents.txt:ICSM2008Malik.pdf (not yet emailed, faded away) d
+measurements/contents.txt:cComment_icse09.pdf (paper+email for more) d
+measurements/contents.txt:HPL-1999-35R1.pdf (not downloaded, not used) d
+measurements/contents.txt:NASA-dataset-quality.pdf (not used) d
+measurements/contents.txt:saner2015_clone.pdf (not used) d
+measurements/contents.txt:10.1.1.2.3301.pdf (paper, not used) d
+metrics/contents.txt:MACD97C.PS.gz (paper, not used) d
+metrics/contents.txt:icpc08-abram.pdf (done) d
+metrics/contents.txt:ToTheoEstProgEff.pdf (paper, not used) d
+metrics/contents.txt:UAMR0853.pdf (paper+file, refed) d
+metrics/contents.txt:PotConSStoReli.pdf (paper, not used) d
+metrics/contents.txt:PredNumBugInMod.pdf (paper, not used) d
+metrics/contents.txt:fortran-soft-phys.pdf (paper, refed) d
+metrics/contents.txt:TR 71-067.pdf (paper, refed) d
+metrics/contents.txt:TR 73-097.pdf (paper, refed) d
+metrics/contents.txt:CuadradoEtAl_PROFES07.pdf (paper, see BTH2011Padmanabhuni..., done) d
+metrics/contents.txt:convert-FPA-to-COSMIC.pdf (paper, sogeti..., done) d
+metrics/contents.txt:10.1.1.131.835.pdf (paper, see BTH2011Padmanabhuni..., done) d
+metrics/contents.txt:BTH2011Padmanabhuni.pdf (paper+file, partial) d
+metrics/contents.txt:10.1.1.144.2035.pdf (paper, sogeti.csv, done) d
+metrics/contents.txt:SMEF2007_Proceedings.pdf (paper, not used) d
+metrics/contents.txt:a258447.pdf (paper, not used) d
+metrics/contents.txt:AlbrechtGaffneyFunctionPoint.pdf (paper, not used) d
+metrics/contents.txt:card1988.pdf (paper, not used) d
+metrics/contents.txt:a227313.pdf (paper, not used) d
+metrics/contents.txt:a231860.pdf (paper, not used) d
+metrics/contents.txt:love1976.pdf (paper, not used) d
+metrics/contents.txt:ASE17-Readability.pdf (not used) d
+metrics/contents.txt:binder1990.pdf (paper, not used) d
+metrics/contents.txt:ab1dcbebbb2b2377d94b.pdf (paper, not used) d
+metrics/contents.txt:ICSM-ICSME2013_HowDoes.pdf (not used) d
+metrics/contents.txt:19890016247.pdf (paper, not used) d
+metrics/contents.txt:PHD-2018-02.pdf (not used) d
+metrics/contents.txt:SED-TR2014-001-LOC.pdf (paper, cited) d
+metrics/contents.txt:ottenstein1979.pdf (paper, not used) d
+mining/contents.txt:challenge-msr2010.pdf (sql dumps not downloaded, not used) d
+mining/contents.txt:fase2011_qirun.pdf (not used) d
+mining/contents.txt:wcre2012_delays.pdf (partial) d
+mining/contents.txt:sthumma-carminer-icse09.pdf (not used) d
+mining/contents.txt:ASE2013cart.pdf (done) d
+mining/contents.txt:mining_email_social_networks.pdf (not used) d
+mining/contents.txt:fse14_2a.pdf (not used) d
+mining/contents.txt:1801.04385.pdf (email, not used) d
+misc/contents.txt:loyalty.pdf (paper, not used) d
+misc/contents.txt:FunSoftwareDevel.pdf (paper+email, not used) d
+misc/contents.txt:p131-ware.pdf (paper, not used) d
+misc/contents.txt:RM2541.pdf (paper, not used) d
+misc/contents.txt:SIGMETRICS-01.pdf (unc, not used) d
+misc/contents.txt:icpc10.pdf (BES..., not used) d
+misc/contents.txt:linuxkerneldevelopment.pdf (paper, not used) d
+misc/contents.txt:lf_linux_kernel_development_2009.pdf (paper, partial) d
+misc/contents.txt:lf_linux_kernel_development_2010.pdf (paper, partial) d
+misc/contents.txt:lf_kernel_development_2012.pdf (paper, partial) d
+misc/contents.txt:lf_kernel_development_2013.pdf (paper, partial) d
+misc/contents.txt:lf_kernel_development_2016.pdf (paper, not used) d
+misc/contents.txt:fsstudy-acmtos07.pdf (partially downloaded, part01.tgz, cited) d
+misc/contents.txt:13_Manzoor_rev.pdf (paper, not used) d
+misc/contents.txt:0708.1579v1.pdf (partial) d
+misc/contents.txt:p50-hayes.pdf (not used) d
+misc/contents.txt:SEC-TN12-002.pdf (paper+000009670.pdf, partial) d
+misc/contents.txt:SEC-TN04-016.pdf (paper, TODO) d
+misc/contents.txt:SEC-TN05-008.pdf (paper, TODO) d
+misc/contents.txt:SEC-TN06-005.pdf (paper, TODO) d
+misc/contents.txt:SEC-TN08-002.pdf (paper, TODO) d
+misc/contents.txt:SEC-TN09-002.pdf (paper, TODO) d
+misc/contents.txt:000053553.pdf (paper, TODO, Japanese) d
+misc/contents.txt:FLOSS-US-Report (paper, not used) d
+misc/contents.txt:1301.3718.pdf (cited) d
+misc/contents.txt:lit-rev_fault-predict.pdf (paper, not emailed, not used) d
+misc/contents.txt:Maiga_Abdou_2012_these.pdf (done) d
+misc/contents.txt:taco12_1.pdf (got subset, re-emailed) d
+misc/contents.txt:bird-masters.pdf (done) d
+misc/contents.txt:10.1.1.180.2251.pdf (paper, done) d
+misc/contents.txt:ubicomp_2007_llama.pdf (cited) d
+misc/contents.txt:10.1.1.225.9981.pdf (refed) d
+misc/contents.txt:SAG+13.pdf (not used) d
+misc/contents.txt:2012.greendata.igcc.pdf (cited) d
+misc/contents.txt:HVC2013.pdf (not used) d
+misc/contents.txt:1305.6640v1.pdf (not used) d
+misc/contents.txt:2013b-technicalreport.pdf (not used) d
+misc/contents.txt:wiki-analysis.pdf (not used) d
+misc/contents.txt:7400970-sup-0001.pdf (paper, cited) d
+misc/contents.txt:journal.pone.0044118.pdf (paper, not used) d
+misc/contents.txt:journal.pone.0068397.pdf (paper, cited) d
+misc/contents.txt:CACOMPLAINTS.pdf (paper, not used) d
+misc/contents.txt:CASTATSBYINDUSTRY.pdf (paper, not used) d
+misc/contents.txt:USCOMPLAINTS.pdf (paper, not used) d
+misc/contents.txt:USSTATSBYINDUSTRY.pdf (paper, not used) d
+misc/contents.txt:us-stats-complaints-2013.pdf (paper, not used) d
+misc/contents.txt:us-stats-inquiries-2013.pdf (paper, not used) d
+misc/contents.txt:msr13-id154-p-15977.pdf (invocd.zip, not used) d
+misc/contents.txt:journal.pone.0015582.pdf (done) d
+misc/contents.txt:msr14floss.pdf (done) d
+misc/contents.txt:TSE2013.pdf (not used) d
+misc/contents.txt:Pinch+Media.pdf (paper, extracted, done) d
+misc/contents.txt:github-mirror.pdf (faded away) d
+misc/contents.txt:Hilbert-Lopez-How-Tech-Cap-1.pdf (paper, cited) d
+misc/contents.txt:Hilbert-Lopez-How-Tech-Cap-2.pdf (paper, cited) d
+misc/contents.txt:Hilbert-Lopez-Data-Tech-Cap.pdf (paper, cited) d
+misc/contents.txt:LopezHilbertSuppApp2012.pdf (update in 2012, cited) d
+misc/contents.txt:hilbert2011a.pdf (paper, not used) d
+misc/contents.txt:WhatsTheContent_Hilbert.pdf (paper, not used) d
+misc/contents.txt:tse_mobile_country_diff.pdf (cited) d
+misc/contents.txt:jeabehav00209-0003.pdf (paper, done) d
+misc/contents.txt:MSR2013-Vasilescu.pdf (not used) d
+misc/contents.txt:RobustProgramming.pdf (paper, not used) d
+misc/contents.txt:Madoff_exhibit-0293.pdf (paper+file, cited) d
+misc/contents.txt:Research software.htm (not used) d
+misc/contents.txt:14-09-030.pdf (not used) d
+misc/contents.txt:statsum.pdf (paper, not used) d
+misc/contents.txt:icpc15-i3-CRC.pdf (not used) d
+misc/contents.txt:grubler.pdf (paper, extract, not used) d
+misc/contents.txt:NationalSoftwareQualityExp.pdf (not used) d
+misc/contents.txt:web-int-github-task-alloc.pdf (not used) d
+misc/contents.txt:P7536.pdf (paper, not used) d
+misc/contents.txt:KillourhyMaxion09.pdf (not used) d
+misc/contents.txt:Wang2010a.pdf (done) d
+misc/contents.txt:tse.2007.70743.pdf (not used) d
+misc/contents.txt:tr-98-12.pdf (not used) d
+misc/contents.txt:how-invention-begins-echoes.pdf (done) d
+misc/contents.txt:sdata20172.pdf (cited) d
+misc/contents.txt:d06423.pdf (paper, not used) d
+misc/contents.txt:Generation-CS.pdf (not used) d
+misc/contents.txt:AD0296046.pdf (paper, not used) d
+misc/contents.txt:Auto_Comp_Cont_Vol2_1959-book.pdf (paper, done) d
+misc/contents.txt:p637-zheng.pdf (cited) d
+misc/contents.txt:ARJ-72_Augustine-reader.pdf (paper, done) d
+misc/contents.txt:BC3WP201106.pdf (not used) d
+misc/contents.txt:196710.pdf (paper, done) d
+misc/contents.txt:AlanTaylorAssoc_370_1973.pdf (paper, not used) d
+misc/contents.txt:cp120.pdf (paper, not used) d
+misc/contents.txt:ICL_American_Challenge.pdf (paper, not used) d
+misc/contents.txt:EPA_Datacenter_Report_Congress.pdf (paper, not used) d
+misc/contents.txt:frma-02-00001.pdf (cited) d
+misc/contents.txt:gordon2004.pdf (emailed) d
+misc/contents.txt:1602.05643.pdf (paper, not used) d
+misc/contents.txt:SherLock.pdf (not used) d
+misc/contents.txt:cuc.annual_report.1961.pdf (paper, not used) d
+misc/contents.txt:hist_stats_colonial-1970-pt2.zip (paper, not used) d
+misc/contents.txt:kulsrud1974.pdf (paper, not used) d
+misc/contents.txt:GovMachineHistComputer.pdf (paper, done) d
+misc/contents.txt:19940029443.pdf (paper, not used) d
+misc/contents.txt:Effectsofgroupsize_Accepted.pdf (partial) d
+misc/contents.txt:EJ1079004.pdf (paper, not used) d
+misc/contents.txt:EJ1164711.pdf (paper, not used) d
+misc/contents.txt:2017_005_001_496272.pdf (paper, extracted, not used) d
+misc/contents.txt:1210.0962.pdf (done) d
+misc/contents.txt:s41467-018-06292-0.pdf (did not download, not used) d
+misc/contents.txt:main_aa.pdf (not used) d
+misc/contents.txt:IdeaPF.pdf (not used) d
+misc/contents.txt:1908.04122.pdf (not used) d
+misc/contents.txt:tranco-ndss19.pdf (not used) d
+misc/contents.txt:1805.11506.pdf (transco-..., not used) d
+misc/contents.txt:journal.pbio.3000384.pdf (not used) d
+misc/contents.txt:EdrelTechReport.pdf (not used) d
+misc/contents.txt:eigentaste.pdf (done) d
+misc/contents.txt:2003.07314.pdf (not used) d
+misc/contents.txt:2002.03927.pdf (cited) d
+misc/contents.txt:2009.01209.pdf (cited) d
+misc/contents.txt:2003.12912.pdf (not used) d
+misc/contents.txt:icse192.pdf (not used) d
+misc/contents.txt:presrep2018.pdf (paper, not used) d
+misc/contents.txt:operaomniaedidit02.pdf (paper, done) d
+misc/contents.txt:bub_gb_IbXUxCsH3YMC.pdf (paper, not used) d
+misc/contents.txt:19850026197.pdf (paper, not used) d
+network/contents.txt:KADcrawlerlongtr.pdf (not used) d
+network/contents.txt:KADsteiner.pdf (not used) d
+network/contents.txt:C14.pdf (not used) d
+powerlaw/contents.txt:scale-free-printing.pdf (not used) d
+products/contents.txt:2011_FeatureVisu.pdf (not used) d
+products/contents.txt:Succ-Aband_SF-Projects8.pdf (not used) d
+products/contents.txt:Succ-Aband_SF-Projects7.pdf (not used) d
+products/contents.txt:wisa2013labels.pdf (not used) d
+products/contents.txt:Reuse_Productivity_Empirical.pdf (paper+file, not used) d
+products/contents.txt:Butts_NASA.pdf (paper+file, partial) d
+products/contents.txt:a493847.pdf (paper+file, not used) d
+products/contents.txt:review_classif_pp.pdf (not used) d
+products/contents.txt:Bayus&Putsis(MS).pdf (paper, not used) d
+products/contents.txt:60ab3f87412d28f0e1.pdf (paper, not used) d
+products/contents.txt:8102.pdf (paper, extract, not used) d
+products/contents.txt:Product_Demography_opt_disk.pdf (paper, extract, not used) d
+products/contents.txt:1908.06895.pdf (not used) d
+psyprog/contents.txt:SSR5.HTM (paper, not used) d
+quality/contents.txt:msr2014-mcintosh.pdf (not used) d
+reading/contents.txt:10.1.1.667.1628.pdf (paper, done) d
+reading/contents.txt:a647846f9b90168e85.pdf (paper, extracted, done) d
+reliability/contents.txt:LECSOABSR.pdf (paper, partial) d
+reliability/contents.txt:availability_web-sites.pdf (partial) d
+reliability/contents.txt:availability-mickens.pdf (not used) d
+reliability/contents.txt:nsdi06.pdf (availability, not used) d
+reliability/contents.txt:ijrqse.pdf (paper, not used) d
+reliability/contents.txt:gcc-reliability-MSc.pdf (paper, done) d
+reliability/contents.txt:jonsthesis.pdf (paper, not used) d
+reliability/contents.txt:devale_ms.pdf (paper, see PhD, not used) d
+reliability/contents.txt:devale.pdf (paper, cited) d
+reliability/contents.txt:dsn_2000 (paper, not used) d
+reliability/contents.txt:eurosys84-nightingale.pdf (paper, need to email, done) d
+reliability/contents.txt:10.1.1.63.2678.pdf (paper, not used) d
+reliability/contents.txt:TR-96.1.pdf (paper+file, partial) d
+reliability/contents.txt:19860020075_1986020075.pdf (done) d
+reliability/contents.txt:19820013026_1982013026.pdf (done) d
+reliability/contents.txt:19840021433_1984021433.pdf (cited) d
+reliability/contents.txt:19880010633_1988010633.pdf (paper, extract, not used) d
+reliability/contents.txt:19900014642_1990014642.pdf (not used) d
+reliability/contents.txt:TR2001-40.pdf (paper, not used) d
+reliability/contents.txt:unit3.4.1.pdf (paper, partial) d
+reliability/contents.txt:vrp-paper.pdf (not used) d
+reliability/contents.txt:mukadam2013gerrit.pdf (not used) d
+reliability/contents.txt:EECS-2013-49.pdf (EECS+vrp-paper..., done) d
+reliability/contents.txt:journal.pone.0038234.pdf (not asked, cited) d
+reliability/contents.txt:pham_03.pdf (paper+file, from another paper, not used) d
+reliability/contents.txt:ajsea.20130203.12.pdf (paper, not used) d
+reliability/contents.txt:04110110065711546.pdf (paper, not used) d
+reliability/contents.txt:tse04.pdf (paper, faded away) d
+reliability/contents.txt:Apache-Gnome-fault-hist.pdf (paper, not used) d
+reliability/contents.txt:TrackingUserClicksSubmits.pdf (paper, not used) d
+reliability/contents.txt:02_06_ballista_retrospective.pdf (paper, not used) d
+reliability/contents.txt:Synth-Diverse-Programs.pdf (paper, cited) d
+reliability/contents.txt:Windows Reliability ICSE 2010.pdf (paper, images, not used) d
+reliability/contents.txt:BlueWaters_DSN2014.pdf (paper, cited) d
+reliability/contents.txt:Data_integrity_v3.pdf (paper, cited) d
+reliability/contents.txt:Patrick_Oladimeji_MRes.pdf (partial) d
+reliability/contents.txt:2013.Paper.08.pdf (emailed, confidential) d
+reliability/contents.txt:DSN2014-li.pdf (2013.paper, confidential) d
+reliability/contents.txt:Morales-saner15.pdf (not used) d
+reliability/contents.txt:19870015477.pdf (paper, not used) d
+reliability/contents.txt:C15.pdf (not used) d
+reliability/contents.txt:OAKLAND-2015.pdf (not used) d
+reliability/contents.txt:Stat_modeling_soft_reli.pdf (paper, not used) d
+reliability/contents.txt:Handbook.dir (partial) d
+reliability/contents.txt:2014_beller_bacchelli.pdf (not used) d
+reliability/contents.txt:2013_beller_quant_code_rev.pdf (2014_beller..., not used) d
+reliability/contents.txt:RelGrowth.pdf (paper+file+emailed, added to misc) d
+reliability/contents.txt:TR-90.1.pdf (paper, not used) d
+reliability/contents.txt:lyu93improving.pdf (paper, not used) d
+reliability/contents.txt:a086334.pdf (paper, not used) d
+reliability/contents.txt:a215546.pdf (paper, not used) d
+reliability/contents.txt:ADA030798.pdf (cited) d
+reliability/contents.txt:19790007503.pdf (paper, not used) d
+reliability/contents.txt:10.1.1.544.5899.pdf (paper, extracted, partial) d
+reliability/contents.txt:chris-kemerer.pdf (paper, emailed, not available, not used) d
+reliability/contents.txt:a206293.pdf (paper+file, cited) d
+reliability/contents.txt:ibmsj2203I.pdf (paper, not used) d
+reliability/contents.txt:nsrec03_w16.pdf (done) d
+reliability/contents.txt:SWRel_NASA_QRS16.pdf (extract, emailed) d
+reliability/contents.txt:2014-04-13.pdf (paper, done) d
+reliability/contents.txt:Thomas-LifetimeOfAndroidAPIVulns.pdf (plus ThomasPhD..., not used) d
+reliability/contents.txt:a113590.pdf (paper, not used) d
+reliability/contents.txt:a123421.pdf (paper, not used) d
+reliability/contents.txt:a138196.pdf (paper, not used) d
+reliability/contents.txt:a190018.pdf (paper, not used) d
+reliability/contents.txt:assertions.pdf assertions-old.pdf (paper, not used) d
+reliability/contents.txt:JESP-process-consistency.pdf (emailed, confidential) d
+reliability/contents.txt:jiang_emse16.pdf (not used) d
+reliability/contents.txt:jsme14faultlocal.pdf (paper+emailed, cited) d
+reliability/contents.txt:00001317_77308.pdf (paper, emailed, not used) d
+reliability/contents.txt:Disasters.pdf (cited) d
+reliability/contents.txt:RADC-TR-77-188_JUN1977.pdf (paper, cited) d
+reliability/contents.txt:Tschacher_BSc.pdf (paper, cited) d
+reliability/contents.txt:papersqj.pdf (not used) d
+reliability/contents.txt:Vulnerability Rediscovery.pdf (cited) d
+reliability/contents.txt:NASA_19870020663.pdf (paper, done) d
+reliability/contents.txt:NASA_19900002144.pdf (paper, done) d
+reliability/contents.txt:NASA_19900016268.pdf (paper, not used) d
+reliability/contents.txt:ThomasPhD.pdf (done) d
+reliability/contents.txt:naragaraja.pdf (emailed?, faded away) d
+reliability/contents.txt:TR-85.7.pdf (paper, not used) d
+reliability/contents.txt:icst17.pdf (not used) d
+reliability/contents.txt:0c401538756ff7bad.pdf (paper extract, not used) d
+reliability/contents.txt:1709.08852.pdf (not used) d
+reliability/contents.txt:B43-CSG_76.pdf (paper, not used) d
+reliability/contents.txt:10.1109@ftcsh.1995.pdf (paper, not used) d
+reliability/contents.txt:iyer1985.pdf (emailed) d
+reliability/contents.txt:iyer1986.pdf (emailed) d
+reliability/contents.txt:lee1993.pdf (paper, not used) d
+reliability/contents.txt:NASA_19870017986.pdf (paper, not used) d
+reliability/contents.txt:OringJASA_1989.pdf (paper, not used) d
+reliability/contents.txt:IterativeCodeReviews.pdf (paper, not used) d
+reliability/contents.txt:eick1992.pdf (paper, not used) d
+reliability/contents.txt:CSL-TR-81-214.pdf (paper, cited) d
+reliability/contents.txt:1703.06337.pdf (partial) d
+reliability/contents.txt:duane1964.pdf (paper, extracted, not used) d
+reliability/contents.txt:BF03196990.pdf (paper, not used) d
+reliability/contents.txt:OSS2016.pdf (paper, done) d
+reliability/contents.txt:API_quality_PREREL.pdf (cited) d
+reliability/contents.txt:EstFaultRemainingAfterTest.pdf (emailed) d
+reliability/contents.txt:917180.pdf (paper, not used) d
+reliability/contents.txt:gannon1975.pdf (paper, not used) d
+reliability/contents.txt:a244184.pdf (paper, not used) d
+reliability/contents.txt:19800013514.pdf (paper, not used) d
+reliability/contents.txt:Vuln-Discovery-Ecosystems.pdf (emailed, received, partial) d
+reliability/contents.txt:kouwe-thesis.pdf (emailed) d
+reliability/contents.txt:issre2003.pdf (paper+file, not used) d
+reliability/contents.txt:issre05_xcai.pdf (paper, not used) d
+reliability/contents.txt:eickt1992.pdf (paper, done) d
+reliability/contents.txt:ee77cf8051c4a24af0221.pdf (paper, not used) d
+reliability/contents.txt:kanoun1991.pdf (paper, not used) d
+reliability/contents.txt:peerj-preprints-2601.pdf (emailed) d
+reliability/contents.txt:FuzzIEEE_FuzzyArithmetic_2017.pdf (emailed, gone away) d
+reliability/contents.txt:njit-etd2006-043.pdf (paper, not used) d
+reliability/contents.txt:sibly1977.pdf (paper, not used) d
+reliability/contents.txt:paper-npm.pdf (done) d
+reliability/contents.txt:Main_5.pdf (not used) d
+reliability/contents.txt:10.1109@ftcs.1988.pdf (paper, not used) d
+reliability/contents.txt:tohma1989.pdf (paper, not used) d
+reliability/contents.txt:schmettow2013.pdf (file+email, not used) d
+reliability/contents.txt:50830335.pdf (paper, not used) d
+reliability/contents.txt:kaniche1994.pdf (paper, not used) d
+reliability/contents.txt:24b1e556ab605a17a1b.pdf (paper, done) d
+reliability/contents.txt:a035585.pdf (paper, not used) d
+reliability/contents.txt:htb+16exploits.pdf (not used) d
+reliability/contents.txt:Lessons-Weller_IEEESW_93.pdf (paper, extract, not used) d
+reliability/contents.txt:isse18.pdf (not used) d
+reliability/contents.txt:ITRC_2018-End-of-Year.pdf (paper, not used) d
+reliability/contents.txt:ITRCBreachReport2017i.pdf (paper, not used) d
+reliability/contents.txt:ITRCBreachStatsReport2017c.pdf (paper, not used) d
+reliability/contents.txt:1712.10230.pdf (cited) d
+reliability/contents.txt:PLDI_Fuzzing.pdf (cited) d
+reliability/contents.txt:chase2018-rev.pdf (not used) d
+reliability/contents.txt:1912.03490.pdf (not used) d
+reliability/contents.txt:2002.09989.pdf (done) d
+reliability/contents.txt:weimer-gpem2013-robust.pdf (paper, not used) d
+reliability/contents.txt:CelikETAL19mCoq.pdf (paper, cited) d
+reliability/contents.txt:ICL-Tech84-Mellor.pdf (paper, not used) d
+reliability/contents.txt:Intel overstates FPU accuracy.html (done) d
+reliability/contents.txt:Slovic_089.pdf (paper, cited) d
+reliability/contents.txt:KrutauzReviewDefectsDraft.pdf (not used) d
+reliability/contents.txt:ebrahimi1997.pdf (paper, not used) d
+reliability/contents.txt:10191350.pdf (not used) d
+runtime/contents.txt:issta10-perturb.pdf (emailed for more, not used) d
+runtime/contents.txt:pldi275-richards.pdf (refed) d
+runtime/contents.txt:CALDER~3.PDF (paper, not used) d
+runtime/contents.txt:CALDER97.PDF (paper, not used) d
+runtime/contents.txt:ENTACH~1.PDF (paper, not used) d
+runtime/contents.txt:TR01_LS.PDF (paper, not used) d
+runtime/contents.txt:sodani.pdf (paper, not used) d
+runtime/contents.txt:contextualbias.pdf (emailed, Address-Aliasin, done) d
+runtime/contents.txt:910871.pdf (done) d
+runtime/contents.txt:sc13.pdf (paper+email, cited) d
+runtime/contents.txt:PLDI02.PDF (paper+file, not used) d
+runtime/contents.txt:margolin1971.pdf (paper, cited) d
+runtime/contents.txt:ismm15.pdf (not used) d
+runtime/contents.txt:jvmlanguages.pdf (not used) d
+runtime/contents.txt:1611.09187.pdf (done) d
+runtime/contents.txt:1710.09722.pdf (not used) d
+runtime/contents.txt:memoization.pdf (partial) d
+runtime/contents.txt:1810.05661.pdf (not used) d
+runtime/contents.txt:neamtiu-PhD.pdf (paper, cited) d
+runtime/contents.txt:metrics-journal-final.pdf (website+email) d
+simulation/contents.txt:f1f29c657deb7615deddfdd.pdf (not used) d
+social/contents.txt:Free-Open_BSD_sn.pdf (partial) d
+social/contents.txt:eth-254-02.pdf (not used) d
+social/contents.txt:CSMR 2012.pdf (not used) d
+social/contents.txt:kcsd2009_Ohira.pdf (paper, not used) d
+social/contents.txt:Bohn_et_al-email.pdf (R-emailing, not used) d
+social/contents.txt:p49-hamasaki.pdf (not used) d
+social/contents.txt:E99.D_2015EDP7261.pdf (p49-hamasaki, not used) d
+social/contents.txt:Guzzi2013msr.pdf (not used) d
+social/contents.txt:wcre2009-contribs.pdf (not used) d
+social/contents.txt:secrets_code_review.pdf (paper, not used) d
+social/contents.txt:richardson-al03a.pdf (Epinions.txt.gz, not used) d
+social/contents.txt:stakeholder.txt (paper, not used) d
+social/contents.txt:1501.06857v1.pdf (not used) d
+social/contents.txt:ali-cascon-paper.pdf (not used) d
+social/contents.txt:msr_data15.pdf (not used) d
+social/contents.txt:saner2016.pdf (not used) d
+social/contents.txt:paper_bQeEC8G.pdf (paper, not used) d
+social/contents.txt:science_ng_cm_2018.pdf (done) d
+social/contents.txt:fse19-ForkEfficency.pdf (done) d
+social/contents.txt:rspb.2011.1172.pdf (email, done) d
+social/contents.txt:muthukrishna_2016.pdf (not used) d
+social/contents.txt:2004.07509.pdf (not used) d
+social/contents.txt:Molleman-et-al-EHB-2019.pdf (not used) d
+social/contents.txt:MKSG-Nature-HB.pdf (not used) d
+social/contents.txt:SSRN-id3571220.pdf (done) d
+social/contents.txt:Derex_etal_NatHumBeh_2019.pdf (cited) d
+softeng/contents.txt:how-we-refact.pdf (paper, cited) d
+softeng/contents.txt:UMLcostbenefit.pdf (paper, not used) d
+softeng/contents.txt:2007.05760.pdf (not used) d
+softexperiment/contents.txt:RADHAK~1.PDF (paper, not used) d
+softexperiment/contents.txt:READING2.PS (emailed, no reply) d
+softexperiment/contents.txt:10.1.1.122.3927 (porter-siy..., done) d
+softexperiment/contents.txt:live.pdf (porter-siy.., done) d
+softexperiment/contents.txt:interval.pdf (porter-siy..., done) d
+softexperiment/contents.txt:10.1.1.37.38.pdf (paper+file, done) d
+softexperiment/contents.txt:10.1.1.8.7075 (10.1.1.37.38..., done) d
+softexperiment/contents.txt:RUNESO~3.PDF (paper+file, partial) d
+softexperiment/contents.txt:Benitez.ps (paper, not used) d
+softexperiment/contents.txt:ISERN-~2.PDF (data, students, not used) d
+softexperiment/contents.txt:EFOCS-4-94.ps (paper, not used) d
+softexperiment/contents.txt:porter-siy.pdf (partial) d
+softexperiment/contents.txt:Meulen_Exploration2.pdf (paper, partial) d
+softexperiment/contents.txt:ArePerspectivesReallyDiffExp.pdf (not used) d
+softexperiment/contents.txt:10.1.1.455.1837.pdf (not used) d
+softexperiment/contents.txt:Larson-Lindquist-MSc.pdf (not used) d
+srcmeasure/contents.txt:ip-oopsla05-c.pdf (paper, not used) d
+srcmeasure/contents.txt:ryder99static.pdf (paper, not used) d
+srcmeasure/contents.txt:to-appear-jss-jochyich.ps.gz (paper, not used) d
+srcmeasure/contents.txt:200401_04.pdf (paper, not used) d
+srcmeasure/contents.txt:melton-statics.pdf (paper, done) d
+srcmeasure/contents.txt:dmg2010ninka.pdf (not used) d
+srcmeasure/contents.txt:ICSE2010-cpp.pdf (done) d
+srcmeasure/contents.txt:fse10.pdf (emailed) d
+srcmeasure/contents.txt:Grechanik_java.pdf (treasure..., cited) d
+srcmeasure/contents.txt:jsmeter_tr.pdf (not emailed, not used) d
+srcmeasure/contents.txt:javascript-wild.pdf (not emailed, not used) d
+srcmeasure/contents.txt:Delorey2007b.pdf (paper, not used) d
+srcmeasure/contents.txt:algolsta.pdf (paper, not used) d
+srcmeasure/contents.txt:10.1.1.89.1925.pdf (paper, not used) d
+srcmeasure/contents.txt:Herraiz_12.pdf (not used) d
+srcmeasure/contents.txt:parnin2011jga.pdf (email, generics.zip, not cited) d
+srcmeasure/contents.txt:generics2.pdf (cited) d
+srcmeasure/contents.txt:Spi08b.pdf (not used) d
+srcmeasure/contents.txt:2011_seke.pdf (paper, not used) d
+srcmeasure/contents.txt:icsm12.pdf (partial) d
+srcmeasure/contents.txt:spe1059.pdf (paper, not used) d
+srcmeasure/contents.txt:EMSE-features.pdf (paper, not used) d
+srcmeasure/contents.txt:Spreadsheet_maint.pdf (not used) d
+srcmeasure/contents.txt:scam11.pdf (email, not used) d
+srcmeasure/contents.txt:1211.4775v6.pdf (not used) d
+srcmeasure/contents.txt:Linaro Wiki-Assmbly.htm (not used) d
+srcmeasure/contents.txt:icsews12wetsom-robles.pdf (wetsom..., done) d
+srcmeasure/contents.txt:icsm2012.pdf (not used) d
+srcmeasure/contents.txt:hofmann-riehle-oss-2009.pdf (confidential) d
+srcmeasure/contents.txt:ecoop11.pdf (cited) d
+srcmeasure/contents.txt:Selby_Jason.pdf (paper; emailed twice, not used) d
+srcmeasure/contents.txt:jccpprt2_advances2003.pdf (not used) d
+srcmeasure/contents.txt:jccpprt_computer2000.pdf (not used) d
+srcmeasure/contents.txt:scam08.pdf (icpc08_whitespace..., not used) d
+srcmeasure/contents.txt:article7.pdf (emailed) d
+srcmeasure/contents.txt:tidier-jsme.pdf (not used) d
+srcmeasure/contents.txt:obj-protocols.pdf (not used) d
+srcmeasure/contents.txt:icwe13.pdf (not used) d
+srcmeasure/contents.txt:AOSD2011.pdf (not used) d
+srcmeasure/contents.txt:AsaduzzamanICSM2013LHDiff.pdf (not used) d
+srcmeasure/contents.txt:CASCON_2013.pdf (not used) d
+srcmeasure/contents.txt:iwsc2011-kamiya-paper.pdf (partial) d
+srcmeasure/contents.txt:tb12refaflex.pdf (not used) d
+srcmeasure/contents.txt:icse14.pdf (done) d
+srcmeasure/contents.txt:issta2012.pdf (not used) d
+srcmeasure/contents.txt:main-ieee.pdf (partial) d
+srcmeasure/contents.txt:spreadsheet-clone.pdf (paper, not used) d
+srcmeasure/contents.txt:Taylor2012.pdf (paper, emailed, partial) d
+srcmeasure/contents.txt:Taylor2011.pdf (paper, emailed) d
+srcmeasure/contents.txt:medeiros-jucs-14.pdf (not used) d
+srcmeasure/contents.txt:1310.0242.pdf (906-2728-OhlohAnalytics.zip, not used) d
+srcmeasure/contents.txt:906-2728-1-PB.pdf (not used) d
+srcmeasure/contents.txt:aosd14ready.pdf (not used) d
+srcmeasure/contents.txt:J3.pdf (not used) d
+srcmeasure/contents.txt:burrows_2010a_phd.pdf (not used) d
+srcmeasure/contents.txt:lang-modeling-java.pdf (not used) d
+srcmeasure/contents.txt:jkraaijeveld_MSc.pdf (not used) d
+srcmeasure/contents.txt:use-api_public-version.pdf (not used) d
+srcmeasure/contents.txt:EDCA_SANER15_Hack.pdf (cited) d
+srcmeasure/contents.txt:al-mutawa_MSc.pdf (done) d
+srcmeasure/contents.txt:1409.0252.pdf (cited) d
+srcmeasure/contents.txt:Enron-spreadsheets.pdf (cited) d
+srcmeasure/contents.txt:pub-fs-fp.pdf (done) d
+srcmeasure/contents.txt:ccs12_jsinclude.pdf (paper, not used) d
+srcmeasure/contents.txt:green-data.pdf (not used) d
+srcmeasure/contents.txt:HZS+14.pdf (not used) d
+srcmeasure/contents.txt:API-div-article.pdf (done) d
+srcmeasure/contents.txt:Landman2014-ccsloc-icsme2014.pdf (also JSEP-2015, done) d
+srcmeasure/contents.txt:JSEP-2015.pdf (done) d
+srcmeasure/contents.txt:generative-model-depen-graph.pdf (not used) d
+srcmeasure/contents.txt:TemperoYangNobleECOOP2013-pre.pdf (not used) d
+srcmeasure/contents.txt:MSR14-Android-energy-CRC.pdf (not used) d
+srcmeasure/contents.txt:qsic14.pdf (not used) d
+srcmeasure/contents.txt:MSR_2013_A_Network_of_Rails.pdf (not used) d
+srcmeasure/contents.txt:ecoop2015.pdf (see llee, not used) d
+srcmeasure/contents.txt:2015_beller_zaidman_karpov.pdf (not used) d
+srcmeasure/contents.txt:MCAA_ICPC15_Makefiles.pdf (Martin_Douglas, other) d
+srcmeasure/contents.txt:Martin_Douglas_H_201704_PHD.pdf (done) d
+srcmeasure/contents.txt:1311.3414v1.pdf (email, done) d
+srcmeasure/contents.txt:cvs-vintage-paper.pdf (not used) d
+srcmeasure/contents.txt:2012-unused-code-maintenance.pdf (paper+emailed+not available, not used) d
+srcmeasure/contents.txt:jss_2015.pdf (not used) d
+srcmeasure/contents.txt:2015-04-27_Mult_Language_Util.pdf (not used) d
+srcmeasure/contents.txt:var-feature-resolution.pdf (not used) d
+srcmeasure/contents.txt:Zhu_et_al-2014-SPE.pdf (done) d
+srcmeasure/contents.txt:greense.pdf (not used, misc) d
+srcmeasure/contents.txt:TSE_2015_Soft_Evol_Model.pdf (not used) d
+srcmeasure/contents.txt:ISSTA-2013.pdf (paper, not used) d
+srcmeasure/contents.txt:seke15paper_97.pdf (not used) d
+srcmeasure/contents.txt:2015_sosym.pdf (done) d
+srcmeasure/contents.txt:ase14.pdf (not used) d
+srcmeasure/contents.txt:esem15-js-callbacks-study.pdf (done) d
+srcmeasure/contents.txt:csse14-01.pdf (cited) d
+srcmeasure/contents.txt:eurosys2016posix.pdf (done) d
+srcmeasure/contents.txt:a131757.pdf (paper, not used) d
+srcmeasure/contents.txt:a131755.pdf (paper, not used) d
+srcmeasure/contents.txt:methodsorder-icpc16.pdf (cited) d
+srcmeasure/contents.txt:icse2016-perf.pdf (emailed) d
+srcmeasure/contents.txt:TR_DCC-20141204-004.pdf (partial, other) d
+srcmeasure/contents.txt:overExposedClasses.pdf (TR_DCC-..., cited) d
+srcmeasure/contents.txt:main-methods.pdf Over-exposed-classes-Java.pdf (TR_DCC-20141204-004, cited) d
+srcmeasure/contents.txt:1306.0762v1.pdf (not used) d
+srcmeasure/contents.txt:peerj-cs-12.pdf (not used) d
+srcmeasure/contents.txt:peerj-cs-49.pdf (not used) d
+srcmeasure/contents.txt:23114A.pdf (not used) d
+srcmeasure/contents.txt:BCI2015_Reuse.pdf (not used) d
+srcmeasure/contents.txt:icse2016-names.pdf (emailed, pending, faded away) d
+srcmeasure/contents.txt:brookes1982.pdf (paper, not used) d
+srcmeasure/contents.txt:elshoff1976.pdf (paper, not used) d
+srcmeasure/contents.txt:empirical-fortran.pdf (paper, not used) d
+srcmeasure/contents.txt:ootos-scc_main.pdf (not used) d
+srcmeasure/contents.txt:cheung-emse2016.pdf (not used) d
+srcmeasure/contents.txt:robbesAl-emse2015.pdf (done) d
+srcmeasure/contents.txt:bolz_data_struct_racket.pdf (partial) d
+srcmeasure/contents.txt:clone_oracle.pdf (not used) d
+srcmeasure/contents.txt:13-13.pdf (done) d
+srcmeasure/contents.txt:1508.00628v1.pdf (done) d
+srcmeasure/contents.txt:Krein2016a.pdf (not used) d
+srcmeasure/contents.txt:Latifa-SQJ.pdf (not used) d
+srcmeasure/contents.txt:empirical_study_C++_templates.pdf (paper, emailed, 3356579, other) d
+srcmeasure/contents.txt:3356579.pdf (done) d
+srcmeasure/contents.txt:bolz_data_struct_racket.pdf (partial) d
+srcmeasure/contents.txt:Osma16a.pdf (paper, emailed, done) d
+srcmeasure/contents.txt:Complexity18EmpSE.pdf Complexity17ICPC.pdf (done) d
+srcmeasure/contents.txt:1708.00817.pdf (done) d
+srcmeasure/contents.txt:shimasaki1980.pdf (paper+file, done) d
+srcmeasure/contents.txt:assert-main.pdf (icse2015-assert..., other) d
+srcmeasure/contents.txt:icse2015-assert-revised.pdf (not used) d
+srcmeasure/contents.txt:RevisitingAssertUseGitHub.pdf (not used) d
+srcmeasure/contents.txt:atc17-dietrich.pdf (not used) d
+srcmeasure/contents.txt:14987dcf2e7486f3a.pdf (paper, done) d
+srcmeasure/contents.txt:J04.pdf (paper, done) d
+srcmeasure/contents.txt:Raemaekers_thesis_V2.pdf (paper, not downloaded, not used) d
+srcmeasure/contents.txt:li2016accessing.pdf (paper, done) d
+srcmeasure/contents.txt:42184.pdf (paper, not used) d
+srcmeasure/contents.txt:Mensura2011_CameraReady.pdf (paper, cited) d
+srcmeasure/contents.txt:Lin2017b.pdf (email, done) d
+srcmeasure/contents.txt:SQJ_2015_Coherence.pdf (done) d
+srcmeasure/contents.txt:JSS_2017relation_coupling.pdf (not used) d
+srcmeasure/contents.txt:icpc2017-prev-anti-patterns.pdf (not used) d
+srcmeasure/contents.txt:04812752.pdf (paper, not used) d
+srcmeasure/contents.txt:afp_mining.pdf (not used) d
+srcmeasure/contents.txt:nicta_publication_full_8318.pdf (afp_mining, other) d
+srcmeasure/contents.txt:cloplag_emse.pdf (cited) d
+srcmeasure/contents.txt:oopsla17b.pdf (partial) d
+srcmeasure/contents.txt:syntactic_rule.pdf (paper, email) d
+srcmeasure/contents.txt:Tan12MS.pdf (paper, not used) d
+srcmeasure/contents.txt:Icse15-bugstudy.pdf (done) d
+srcmeasure/contents.txt:msr05.pdf (email, done) d
+srcmeasure/contents.txt:nagappan_fse15.pdf (paper, email?, cited) d
+srcmeasure/contents.txt:Mazinanian_OOPSLA_2017.pdf (cited) d
+srcmeasure/contents.txt:fse2016.pdf (done) d
+srcmeasure/contents.txt:IWPD2017_Ueda.pdf (paper, not used) d
+srcmeasure/contents.txt:peerj-preprints-26491.pdf (not used) d
+srcmeasure/contents.txt:250672.pdf (done) d
+srcmeasure/contents.txt:1803.10198.pdf (not used) d
+srcmeasure/contents.txt:p362-nguyen.pdf (paper, emailed) d
+srcmeasure/contents.txt:2018_comlan.pdf (paper, done) d
+srcmeasure/contents.txt:CMU-ISR-10-131.pdf (not used) d
+srcmeasure/contents.txt:gpce15.pdf (paper, not used) d
+srcmeasure/contents.txt:Gonzaga-MSc.pdf (done) d
+srcmeasure/contents.txt:ICSE_2017.pdf (not used) d
+srcmeasure/contents.txt:ada-goto.pdf (paper, not used) d
+srcmeasure/contents.txt:e29bdbd62de3ff7c9f769.pdf (paper, not used) d
+srcmeasure/contents.txt:ebt-icpe2017.pdf (not used) d
+srcmeasure/contents.txt:paper13.pdf (paper, not used) d
+srcmeasure/contents.txt:xlGrammar.pdf (paper, not used) d
+srcmeasure/contents.txt:TUD-SERG-2017-013.pdf (emailed) d
+srcmeasure/contents.txt:pani-MSc.pdf (partial) d
+srcmeasure/contents.txt:1809.07945.pdf (not used) d
+srcmeasure/contents.txt:1-s2.0-S0164121.pdf (paper, partial) d
+srcmeasure/contents.txt:sast_2017.pdf (paper, partial) d
+srcmeasure/contents.txt:10.1.1.707.2639.pdf (not used) d
+srcmeasure/contents.txt:VEE18.pdf (cited) d
+srcmeasure/contents.txt:HSG17.pdf (not used) d
+srcmeasure/contents.txt:atom-finder-msr-2018.pdf (not used) d
+srcmeasure/contents.txt:SourceStudyFeaturesVar.pdf (not used) d
+srcmeasure/contents.txt:FenskeSS_GPCE17.pdf (not used) d
+srcmeasure/contents.txt:icsme2017.pdf (not used) d
+srcmeasure/contents.txt:Luk_Patrick_MSC.pdf (not used) d
+srcmeasure/contents.txt:PQM+18.pdf (not used) d
+srcmeasure/contents.txt:1907.00863.pdf (done) d
+srcmeasure/contents.txt:1905.11044.pdf (not used) d
+srcmeasure/contents.txt:anal-exploitation-api-diver.pdf (not used) d
+srcmeasure/contents.txt:1805.01965.pdf (not used) d
+srcmeasure/contents.txt:1901.02533.pdf (cited) d
+srcmeasure/contents.txt:1905.04482.pdf (not used) d
+srcmeasure/contents.txt:1907.09003.pdf (cited) d
+srcmeasure/contents.txt:1907.11031.pdf (not used) d
+srcmeasure/contents.txt:1907.13012.pdf (not used) d
+srcmeasure/contents.txt:1908.07883.pdf (cited) d
+srcmeasure/contents.txt:Parent_Simon.pdf (not used) d
+srcmeasure/contents.txt:How maintainable is the Firefox codebase.htm (done) d
+srcmeasure/contents.txt:cfbf7748bd38fedeb1f.pdf (not used) d
+srcmeasure/contents.txt:1910.06932.pdf (not used) d
+srcmeasure/contents.txt:TSE'18-DeadCode.pdf (not used) d
+srcmeasure/contents.txt:1901.10220.pdf (not used) d
+srcmeasure/contents.txt:dilley-lange-saner19.pdf (not used) d
+srcmeasure/contents.txt:sangle2019.pdf (not used) d
+srcmeasure/contents.txt:journal-emse-lambda.pdf (not used) d
+srcmeasure/contents.txt:tse17-refactoringifdef.pdf (paper, not used) d
+srcmeasure/contents.txt:1905.01467.pdf (not used) d
+srcmeasure/contents.txt:english2010.pdf (emailed) d
+srcmeasure/contents.txt:1912.04014.pdf (not used) d
+srcmeasure/contents.txt:chi16-ifttt.pdf (restricted use, not used) d
+srcmeasure/contents.txt:1906.08076.pdf (emailed) d
+srcmeasure/contents.txt:2019-scp.pdf (cited) d
+srcmeasure/contents.txt:rahman2018.pdf (partial) d
+srcmeasure/contents.txt:java-methods-grow.pdf (emailed) d
+srcmeasure/contents.txt:2017-iwsc-clonesInScratch.pdf (not used) d
+srcmeasure/contents.txt:2019INFO008.pdf (not used) d
+srcmeasure/contents.txt:ISSTA2016.pdf (not used) d
+srcmeasure/contents.txt:RegexGeneralizability-ASE19.pdf (partial) d
+srcmeasure/contents.txt:DavisCoghlanServantLee.pdf (cited) d
+srcmeasure/contents.txt:icsme2018.pdf (not used) d
+srcmeasure/contents.txt:graphqls_sle19.pdf (not used) d
+srcmeasure/contents.txt:ANDERSON-MSc-2018.pdf (paper, cited) d
+srcmeasure/contents.txt:e5ec2184242d8321a999.pdf (cited) d
+srcmeasure/contents.txt:C48.pdf (not used) d
+srcmeasure/contents.txt:MSR_Dataset_Audi_Series.pdf (not used) d
+srcmeasure/contents.txt:Function_side_effects.pdf (paper, emailed) d
+srcmeasure/contents.txt:paper2015.pdf (paper, not used) d
+srcmeasure/contents.txt:h-miyakawa16master.pdf (paper, not used) d
+srcmeasure/contents.txt:1908.09757.pdf (not downloaded, not used) d
+srcmeasure/contents.txt:lin2016.pdf (paper, not used) d
+srcmeasure/contents.txt:stat-analysis-of-syntax-errors.pdf (paper, not used) d
+srcmeasure/contents.txt:2006.09973.pdf (cited) d
+srcmeasure/contents.txt:pararule.pdf (not used) d
+srcmeasure/contents.txt:E101.D_2018EDP7004.pdf (paper, not used) d
+srcmeasure/contents.txt:2007.00752.pdf (cited) d
+srcmeasure/contents.txt:msr20intent.pdf (not used) d
+srcmeasure/contents.txt:2005.13709.pdf (not downloaded) d
+srcmeasure/contents.txt:2007.10146.pdf (not downloaded) d
+srcmeasure/contents.txt:1811.06888.pdf (email, confidential) d
+srcmeasure/contents.txt:1-s2.0-S0164121220302533-main.pdf (not used) d
+statistics/contents.txt:1311.5517.pdf (paper, not used) d
+statistics/contents.txt:error-bars.pdf (partial) d
+statistics/contents.txt:FeelingFuture.pdf (done) d
+statistics/contents.txt:IPCC_2014_4.pdf (paper+emailed, partial) d
+statistics/contents.txt:RM-storks-paper.pdf (paper, not used) d
+statistics/contents.txt:1608.06865.pdf (cited) d
+statistics/contents.txt:1706.00933.pdf (cited) d
+statistics/contents.txt:Discrete-time-series-book.pdf (not used) d
+statistics/contents.txt:AdStatsAppsInR-book.pdf (not used) d
+statistics/contents.txt:1811.05422.pdf (not used) d
+students/contents.txt:simula_anchor_stud.pdf (not used) d
+students/contents.txt:2004_isese.pdf (paper, not used) d
+students/contents.txt:10.1.1.42.1508.pdf (paper, not used) d
+students/contents.txt:PB_risk_anal-Experiment.pdf (not used) d
+students/contents.txt:1612.00330.pdf EmpiricalEvalSafetyAnalTech.pdf (not used) d
+students/contents.txt:ewic_ea07_paper5.pdf (paper, not used) d
+students/contents.txt:jakk_pattern09-1997.pdf (prechelt.txt, not used) d
+students/contents.txt:MeasProgExperience.pdf (not used) d
+students/contents.txt:7af21c92a03257d7a562.pdf (paper, not used) d
+students/contents.txt:C++LambdasProgrammerExp.pdf (email, not used) d
+students/contents.txt:2016-sclit-uup.pdf (done) d
+students/contents.txt:1997-jese-guid.pdf (paper, not used) d
+students/contents.txt:CS-TR-415.pdf (paper, not used) d
+students/contents.txt:shimeall.pdf (paper, not used) d
+students/contents.txt:EFoCS-25-97.pdf (paper, not used) d
+students/contents.txt:ReplicatedAssessRequirementsInsp.pdf (prechelt, not used) d
+students/contents.txt:10.1287@isre.7.pdf (emailed, lost) d
+students/contents.txt:love1977.pdf (paper, not used) d
+students/contents.txt:07404062.pdf (not used) d
+students/contents.txt:Thesis-1989-T625s.pdf (paper, not used) d
+students/contents.txt:Reactive-Prog-Empirical.pdf (paper, not used) d
+students/contents.txt:paper3.pdf (paper, not used) d
+students/contents.txt:1807.02971.pdf (not used) d
+students/contents.txt:31295005227466.pdf (paper, not used) d
+students/contents.txt:undergraduate_retention.pdf (paper, not used) d
+students/contents.txt:sdarticle2.pdf (paper, not used) d
+students/contents.txt:student-opt-pred.pdf (paper, not used) d
+students/contents.txt:Struct-prog-learn-FORTRAN.pdf (paper, not used) d
+students/contents.txt:borstler2016.pdf (not used) d
+students/contents.txt:under-misunderstandings-fse-2017.pdf (not used) d
+students/contents.txt:SIGCSE2016.pdf (paper, not used) d
+students/contents.txt:Harju_Esa_pro_gradu_2019.pdf (not used) d
+students/contents.txt:2846680.2846681.pdf (not used) d
+students/contents.txt:1805.02544.pdf (not used) d
+students/contents.txt:nbnfi-fe201901111977.pdf (not used) d
+students/contents.txt:Mantyla_ICSE2014_Time_pressure.pdf (email, not used) d
+system/contents.txt:platformsTR-2007.pdf (done) d
+system/contents.txt:Braha_Bar-yam_07.pdf (done) d
+system/contents.txt:Maint_Dec2005.pdf (done) d
+system/contents.txt:YCST-2001-07.pdf (done) d
+system/contents.txt:2010-berger.pdf (partial) d
+system/contents.txt:20100507a_1_WP2007E.pdf (paper, Japanese, not used) d
+system/contents.txt:FOSD11-final_1.pdf (not used) d
+system/contents.txt:ossher-icsm2011.pdf (emailed twice, given up) d
+system/contents.txt:IST12.pdf (not used) d
+system/contents.txt:IST2012.pdf (not used, refed) d
+system/contents.txt:phdNSiegmund12.pdf (IST12..., other) d
+system/contents.txt:bhecht_mobilehci2011_sleepbirds.pdf (paper, not used) d
+system/contents.txt:ICSE2012.pdf (not used) d
+system/contents.txt:aller2003.pdf (ircache.net, not used) d
+system/contents.txt:paper_0.pdf (done) d
+system/contents.txt:ICPC2012-Ruiz.pdf (not used, not downloaded) d
+system/contents.txt:Sigmetrics1999.doc.pdf (paper+ms-static, refed) d
+system/contents.txt:Software.Process.Dynamics.pdf (paper+soft-proc-dyn, not used) d
+system/contents.txt:CSD-95-887.pdf (partial) d
+system/contents.txt:soolinglim-PhD.pdf (done) d
+system/contents.txt:costvalueapproach.pdf (paper, done) d
+system/contents.txt:APSEC05_final.pdf (paper, not used) d
+system/contents.txt:DevTeamRep_Apr-11_Apr-12.pdf (7digital, done) d
+system/contents.txt:kumfert.pdf (paper+file, not used) d
+system/contents.txt:10.1.1.74.7731.pdf (paper, not used) d
+system/contents.txt:StarekThesis.pdf (ast..., partial) d
+system/contents.txt:ast-api-usage.pdf (partial) d
+system/contents.txt:ast-api-appendix.pdf (partial) d
+system/contents.txt:vm-2012-berger.pdf (done) d
+system/contents.txt:Usage.pdf (paper, not used) d
+system/contents.txt:MacLean2013b.pdf (not used) d
+system/contents.txt:MacLean2011a.pdf (not used) d
+system/contents.txt:SyMake-empirical.html (not used) d
+system/contents.txt:Wang_Wei.pdf (partial) d
+system/contents.txt:EMSE2013-VasilescuEtAl.pdf (partial) d
+system/contents.txt:Goeminne_PhD.pdf (EMSE2013..., partial) d
+system/contents.txt:IMSaut07pg38-43.pdf (confidential) d
+system/contents.txt:ESECFSE_2013.pdf (cited) d
+system/contents.txt:Yifan_Final.pdf (not used) d
+system/contents.txt:CMU-PDL-08-109.pdf (refed) d
+system/contents.txt:CMU-PDL-12-106.pdf (not used) d
+system/contents.txt:icse2012g.pdf (not used) d
+system/contents.txt:sabherwal-information-2006.pdf (cited) d
+system/contents.txt:case study 2.pdf (paper, partial) d
+system/contents.txt:10.1.1.22.314.pdf (same as: case study 2.pdf, partial) d
+system/contents.txt:Lunesu_PhD_Thesis.pdf (done) d
+system/contents.txt:LRK+13.pdf (cited) d
+system/contents.txt:ibench-tocs12.pdf (cited) d
+system/contents.txt:10.1.1.82.606.pdf (SDSC-BLUE..., not used) d
+system/contents.txt:06.pdf (disk-activity, not used) d
+system/contents.txt:mobilemal-spsm11.pdf (not used) d
+system/contents.txt:Feature_Requests.pdf (not used) d
+system/contents.txt:NASA-manager-soft-dev.pdf (paper, extract, not used) d
+system/contents.txt:bird2012www.pdf (paper+promise {but not there}, not used) d
+system/contents.txt:NADI_ICSE_14.pdf (not used) d
+system/contents.txt:main-dataset.pdf (data desc, ignore) d
+system/contents.txt:905.pdf (not used) d
+system/contents.txt:EACP_ICPC14_Interference.pdf (not used) d
+system/contents.txt:WCRE11a.doc.pdf (not used) d
+system/contents.txt:CS-2012-10.pdf (paper+file, not used) d
+system/contents.txt:ADA448188.pdf (paper+file, refed) d
+system/contents.txt:icpc2014-teams.pdf (not used) d
+system/contents.txt:pullreqs-dataset.pdf (done) d
+system/contents.txt:TUD-SERG-2013-010.pdf (pullreqs-dataset..., ignore) d
+system/contents.txt:RT-436.pdf (emailed, confidential) d
+system/contents.txt:SoCBM_2010.pdf (paper, cited) d
+system/contents.txt:msr14-robles-est-effort.pdf (not used) d
+system/contents.txt:NADI_MSR_2013.pdf (paper, not used) d
+system/contents.txt:10.1.1.9.2569.pdf (partial) d
+system/contents.txt:tartler_11_eurosys.pdf (paper, not used) d
+system/contents.txt:latencyAdoptions2015ERA.pdf (TODO understand data, not used) d
+system/contents.txt:MSR14-Android-reuse.pdf (not used) d
+system/contents.txt:2011-TR-empirical_study_bpm.pdf (received email, partial) d
+system/contents.txt:sosym13.pdf (2011-TR..., partial) d
+system/contents.txt:nasa-ada-impact.pdf (paper+file, done) d
+system/contents.txt:199812-0-Issue.pdf (paper, not used) d
+system/contents.txt:WU2014_01.pdf (not used) d
+system/contents.txt:icse14-seip.pdf (email, not used) d
+system/contents.txt:RhGrAp+15.pdf (not used) d
+system/contents.txt:pullreqs-integrators.pdf (partial) d
+system/contents.txt:emse2015-mcintosh.pdf (not used) d
+system/contents.txt:urn_nbn_de_0011-n-1015980.pdf (not used) d
+system/contents.txt:Klint2013-dmr-icsm2013.pdf (refed) d
+system/contents.txt:ECS-LFCS-04-436.pdf (done) d
+system/contents.txt:icse2015-governance-validated.pdf (not used) d
+system/contents.txt:fragmentation-2013.pdf (not used) d
+system/contents.txt:2014_08_fragmentation_report.pdf (not used) d
+system/contents.txt:2015_08_fragmentation_report.pdf (done) d
+system/contents.txt:RP-91-017.pdf (done) d
+system/contents.txt:MMF_esem15_authorversion.pdf (not used) d
+system/contents.txt:github_projects_quality_analysis.pdf (not used) d
+system/contents.txt:4697a0d691d34dde80864f11.pdf (not used, cited) d
+system/contents.txt:TR2008_08.pdf (not used) d
+system/contents.txt:wong-jss00.pdf (paper+file, done) d
+system/contents.txt:paper.296.pdf (paper, not used) d
+system/contents.txt:v74su3.6.pdf (paper, not used) d
+system/contents.txt:1511.02603v3.pdf (not used) d
+system/contents.txt:MSR2013-Mens.pdf (not used) d
+system/contents.txt:Viability_Quant_Assess_Soft_Services.pdf (paper, done) d
+system/contents.txt:pr_soc_lan.pdf (not used) d
+system/contents.txt:integration_oss_distribution.pdf (not used) d
+system/contents.txt:ASE2015-preprint-ctdg.pdf (not used) d
+system/contents.txt:ADA294001.pdf (paper, cited) d
+system/contents.txt:Macho2016-buildcochanges.pdf (not used) d
+system/contents.txt:ADA288890.pdf (paper, not used) d
+system/contents.txt:ADA329855.pdf (paper, not used) d
+system/contents.txt:nurmulian_analysis_req_vol.pdf (paper, not used) d
+system/contents.txt:PNAS-2009-Jamtveit-13160-3.pdf (cited) d
+system/contents.txt:10.1002@smr.4360070104.pdf (partial) d
+system/contents.txt:IS abandonment.pdf (paper, emailed, not used) d
+system/contents.txt:a165337.pdf (paper, done) d
+system/contents.txt:2015-MSR-coinstevol.pdf (partial) d
+system/contents.txt:rothberg_16_vamos.pdf (paper, done) d
+system/contents.txt:nicta_publication_full_5474.pdf (paper, not used) d
+system/contents.txt:nelsonnd.pdf (paper, not used) d
+system/contents.txt:Hellemond_2014.pdf (paper extract, emailed confidential, not used) d
+system/contents.txt:syspop16.pdf (emailed, done) d
+system/contents.txt:a042186.pdf (paper, not used) d
+system/contents.txt:1998_005_001_16640.pdf (paper+file, done) d
+system/contents.txt:icsews14wetsommain.pdf (paper+file, not used) d
+system/contents.txt:liberty_ship_paper.pdf (not used) d
+system/contents.txt:c10232.pdf (extracted, not used) d
+system/contents.txt:SuccessProjOrgconditions.pdf (paper, not used) d
+system/contents.txt:compilation-and-linking.pdf (paper+file, not used) d
+system/contents.txt:journal.pone.0103023.PDF (not used) d
+system/contents.txt:nembhard2001.pdf (paper+file, emailed, extracted, done) d
+system/contents.txt:nicta_publ_6307.pdf (not used) d
+system/contents.txt:ADA562696.pdf (paper, done) d
+system/contents.txt:Marchand-2016-IJRM-Multiplayer.pdf (VGChartz/, done) d
+system/contents.txt:Shimagaki_ICSME2016.pdf (not used) d
+system/contents.txt:ziegler_16_vamos.pdf (done) d
+system/contents.txt:paper-final.pdf (paper, cited) d
+system/contents.txt:ADA177652.pdf (paper+file, cited) d
+system/contents.txt:a202737.pdf (paper, not used) d
+system/contents.txt:ADA042186.pdf (paper, not used) d
+system/contents.txt:fde7b5de633f3b.pdf (paper, done) d
+system/contents.txt:10.1.1.134.2363.pdf (paper, not used) d
+system/contents.txt:1507.04587.pdf (done) d
+system/contents.txt:10.1109@dasc.1991.17.pdf (paper, not used) d
+system/contents.txt:5353_2791.pdf (paper, not used) d
+system/contents.txt:a104212.pdf (paper, not used) d
+system/contents.txt:ieee-article.pdf (pclint, done) d
+system/contents.txt:EMSE2016UrgentUpdSteamPlat.pdf (emailed, wont_share) d
+system/contents.txt:icsme2017_cao.pdf (emailed) d
+system/contents.txt:1807.11344.pdf (not used) d
+system/contents.txt:File_Editing_Patterns.pdf (not used) d
+system/contents.txt:McIntosh_201508_PhD.pdf (paper, not used) d
+system/contents.txt:msrjojo.pdf (not used) d
+system/contents.txt:msr_jojo.pdf (done) d
+system/contents.txt:1802.08441.pdf (not used) d
+system/contents.txt:KaGrSi+19.pdf (cited) d
+system/contents.txt:1906.08058.pdf (not used) d
+system/contents.txt:SergiyKolesnikovDiss.pdf (not used) d
+system/contents.txt:zolfagharinia2019.pdf (not used) d
+system/contents.txt:L2019_SemanticAnnotBiases.pdf (not used) d
+system/contents.txt:2001.07808.pdf (cited) d
+system/contents.txt:hemmati2018.pdf (misc) (misc) (misc) (misc) (misc) (misc) (misc) (misc) (misc) d
+system/contents.txt:qrs_2019_zou.pdf (done) d
+system/contents.txt:msrCompatibilityPaper.pdf (not used) d
+system/contents.txt:ucalgary_2018_hemmati_ashkan.pdf (paper also hemmati2018, not used) d
+system/contents.txt:pap126.pdf (paper, not used) d
+system/contents.txt:product-design-manuf-book.pdf (paper, not used) d
+system/contents.txt:ICSME_2020.pdf (not used) d
+system/contents.txt:msr2020_pfeiffer.pdf (done) d
+system/contents.txt:fse15.pdf (done) d
+system/contents.txt:msr18ci.pdf (not used) d
+system/contents.txt:msr20flags.pdf (not used) d
+testing/contents.txt:TSE99-~1.PDF (paper, not used) d
+testing/contents.txt:quissta08.pdf (unlthesis..., other) d
+testing/contents.txt:unlthesis_XQu.pdf (email, cited) d
+testing/contents.txt:10.1.1.4.369.pdf (paper, not used) d
+testing/contents.txt:oomuts.pdf (not used) d
+testing/contents.txt:ar01-18.pdf (paper, TODO, not used) d
+testing/contents.txt:testcritcomp.pdf (paper, not used) d
+testing/contents.txt:zheng-TSE-regression.pdf (not used) d
+testing/contents.txt:CSMR13a.doc.pdf (not used) d
+testing/contents.txt:SERG-2011-028.pdf (not used) d
+testing/contents.txt:TSE-0172-1003-1.pdf (paper, not used) d
+testing/contents.txt:BF03194493.pdf (paper, emailed, done) d
+testing/contents.txt:1108.1068v2.pdf (not used) d
+testing/contents.txt:static-est-coverage.pdf (paper, not used) d
+testing/contents.txt:fuzzer.pdf (done) d
+testing/contents.txt:3276.pdf (partial) d
+testing/contents.txt:pldi12-preprint (file, not used) d
+testing/contents.txt:icse2013_.pdf (not used) d
+testing/contents.txt:pldi13.pdf (done) d
+testing/contents.txt:fse06.pdf (not yet emailed) d
+testing/contents.txt:fse-08.pdf (email, cited) d
+testing/contents.txt:tse10.pdf (not yet emailed, fse-08..., other) d
+testing/contents.txt:issre11.pdf (paper, not used) d
+testing/contents.txt:fse13a.pdf (partial) d
+testing/contents.txt:test-independence-2014.pdf (not used) d
+testing/contents.txt:FaultsFoundByRandomTesting.pdf (cited) d
+testing/contents.txt:icse14_cov.pdf (done) d
+testing/contents.txt:gopinath2014mutations.pdf (cited) d
+testing/contents.txt:icse15-fperror.pdf (not used) d
+testing/contents.txt:qsic2014_cameraready.pdf (not used) d
+testing/contents.txt:coverage_appendix.pdf coverage_paper.pdf (done) d
+testing/contents.txt:apd-thesisbody.pdf (paper+file, not used) d
+testing/contents.txt:defects4j_issta_2014.pdf (not used) d
+testing/contents.txt:1104.1114.pdf (paper, not used) d
+testing/contents.txt:icse2014_a.pdf (not used) d
+testing/contents.txt:1408-RS-repir.pdf (not used) d
+testing/contents.txt:hussain14rugrat.pdf (not used) d
+testing/contents.txt:FSE2014-Khalid.pdf (refed) d
+testing/contents.txt:Testdroid_Research_Status_Android.pdf (paper, not used) d
+testing/contents.txt:icse2015seip-foo.pdf (not used) d
+testing/contents.txt:TR63P.pdf (paper, not used) d
+testing/contents.txt:YangChen-PhD.pdf (pldi13..., other) d
+testing/contents.txt:ieee_conf.pdf (not used) d
+testing/contents.txt:TUD-SERG-2010-035.pdf (cited) d
+testing/contents.txt:Thomas_EMSE_2012.pdf (not used) d
+testing/contents.txt:REPiR-ICSE2015.pdf (not used) d
+testing/contents.txt:fse15.pdf (not used) d
+testing/contents.txt:gao-icse15.pdf (not used) d
+testing/contents.txt:gopinath2015howhard.pdf (cited) d
+testing/contents.txt:gopinath2016on.pdf (not used) d
+testing/contents.txt:ICSE15B.pdf (not used) d
+testing/contents.txt:dalal1994.pdf (paper, file, not used) d
+testing/contents.txt:ICSE16_a.pdf (not used) d
+testing/contents.txt:102-ridge-online.pdf (emailed, lost data) d
+testing/contents.txt:bstj49-10-2975.pdf (paper, not used) d
+testing/contents.txt:1509.00144.pdf (not used) d
+testing/contents.txt:50871051.pdf (paper, cited) d
+testing/contents.txt:IST.pdf (not used) d
+testing/contents.txt:J34.pdf (paper, not used) d
+testing/contents.txt:a168738.pdf (paper, not used) d
+testing/contents.txt:Dyn_model_system_testing.pdf (paper+file, done) d
+testing/contents.txt:IsProofMoreEffectiveThanTesting.pdf (paper, not used) d
+testing/contents.txt:ahmed2016can.pdf (not used) d
+testing/contents.txt:1708.03240.pdf (not used) d
+testing/contents.txt:fuzzingModel.pdf (partial) d
+testing/contents.txt:fse_2017_labuschange.pdf (not used) d
+testing/contents.txt:Impact_Coverage_Bug_Density.pdf (emailed) d
+testing/contents.txt:ICST16a.pdf (not used) d
+testing/contents.txt:FucciEtAl_ESEM2016.pdf (email???, students, faded away) d
+testing/contents.txt:ICSE16Prior.pdf (not used) d
+testing/contents.txt:ICSE17b.pdf (not used) d
+testing/contents.txt:isstaws16intuitestmain2.pdf (not used) d
+testing/contents.txt:paper7.pdf (emailed, faded away) d
+testing/contents.txt:Coverage-CombinatorialTest.pdf (email, received, done) d
+testing/contents.txt:775ac2_ddd93fa3b0ff442.pdf (not used) d
+testing/contents.txt:78a35ffd1571c707368.pdf (paper, subset of fault-profile, other) d
+testing/contents.txt:fault-profile-iwct17.pdf (paper, done) d
+testing/contents.txt:9310b69ceaf99e3b6e80.pdf (not used) d
+testing/contents.txt:10.1.1.678.7132.pdf (sf110methods.csv, emailed) d
+testing/contents.txt:775ac2_17b6a3bbcefd44.pdf (not used) d
+testing/contents.txt:45861.pdf (not used) d
+testing/contents.txt:coverage.pdf (not used) d
+testing/contents.txt:Halin-MSc.pdf (not used) d
+testing/contents.txt:petersen2008.pdf (emailed) d
+testing/contents.txt:paperwfonts.pdf (not used) d
+testing/contents.txt:ICST_2017_paper_48.pdf (not used) d
+testing/contents.txt:1811.08330.pdf (not used) d
+testing/contents.txt:ASE'16-TestSmells.pdf (not used) d
+testing/contents.txt:HiltonETAL18TestCovEvo.pdf (not used) d
+testing/contents.txt:journal.pone.0181524.pdf (paper, cited) d
+testing/contents.txt:trautsch2017.pdf (not used) d
+testing/contents.txt:J8.pdf (not used) d
+testing/contents.txt:1906.11015.pdf (paper, cited) d
+testing/contents.txt:1802.08547v2.pdf (paper, not used) d
+testing/contents.txt:19fitness.pdf (cited) d
+testing/contents.txt:issta13.pdf (not used) d
+testing/contents.txt:1908.06502.pdf (not used) d
+testing/contents.txt:1812.07525.pdf (cited) d
+testing/contents.txt:ICSE_2019.pdf (not used) d
+testing/contents.txt:main_1.pdf (not used) d
+testing/contents.txt:1706.01636.pdf (cited) d
+testing/contents.txt:asej18.pdf (not used) d
+testing/contents.txt:ICSE_2018.pdf (not used) d
+testing/contents.txt:1905.07019.pdf (not used) d
+testing/contents.txt:ICST16.pdf (not used) d
+testing/contents.txt:ICST19.pdf (not used) d
+testing/contents.txt:fse2018.pdf (website+email, done) d
+testing/contents.txt:gopinath2017on.pdf (paper, cited) d
+testing/contents.txt:10-1007@978-3-642.pdf (email, 847d0b43f40ee515f5e, other) d
+testing/contents.txt:847d0b43f40ee515f5e.pdf (other) d
+testing/contents.txt:Horky_Phd.pdf (847d0b43f40ee515f5e, done) d
+testing/contents.txt:OOPSLA.pdf (done) d
+testing/contents.txt:2004.04206.pdf (not used) d
+testing/contents.txt:2004.04211.pdf (not used) d
+testing/contents.txt:08405609.pdf (not used) d
+testing/contents.txt:19870016346.pdf (paper, not used) d
+testing/contents.txt:tosem20.pdf (not used) d
+testing/contents.txt:00624271.pdf (paper, not used) d
+testing/contents.txt:TestThemAllIsItWorthIt.pdf (not used) d
+testing/contents.txt:2006.07633.pdf (not used) d
+testing/contents.txt:FSE20.EmpiricalLaw.pdf (not used) d
+testing/contents.txt:2011.11942.pdf (not used) d
+testing/contents.txt:C48.pdf (not used) d
+tools/contents.txt:ASE.2019.00160.pdf (paper, not used) d
+tools/contents.txt:JSP19-Java-Call-Graph-Tools.pdf (not used) d
+tools/contents.txt:SCAM-StaticJSCallGraphs.pdf (not used) d
+visual/contents.txt:1903.03358.pdf (not used) d

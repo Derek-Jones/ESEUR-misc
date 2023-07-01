@@ -1,0 +1,969 @@
+CompendiumOfConjugatePriors.pdf
+
+A compendium of conjugate priors
+
+Ricci-distributions.pdf
+
+Fitting distributions with R
+
+THINKING.PDF
+
+Thinking with data
+
+MONKEY.PS.gz
+
+Monkey Tests for Random Number Generators
+
+2008amstat.pdf
+
+Univariate distribution relationships
+
+Cold_Hit_Probabilities.pdf
+
+Scientific heat about cold hits
+
+2003csada.pdf
+
+Computing the distribution of the product of two continuous random variables
+
+2005mcm.pdf
+
+Algorithms for computing the distributions of sums of discrete random variables
+
+charikar.pdf
+
+Towards estimation error guarantees for distinct values
+
+dangers.pdf
+
+On the dangers of averaging across subjects when using multidimensional scaling of the similarity-choice model
+
+dunning93accurate.pdf
+
+Accurate methods for the statistics of surprises and coincidences
+
+twobinomials.pdf
+
+Conditional versus unconditional exact tests for comparing two binomials
+
+stat-thought-book.pdf
+
+Introduction to statistical thought
+
+17_Morasca.pdf
+
+Building statistically significant robuest regression models in empirical software engineering
+
+CS-TR-79-773.pdf
+
+Updating formulae and a pairwise algorithm for computing sample variances
+
+10.1.1.8.280.pdf
+
+Making Inferences with Small Numbers of Training Sets
+
+CohenJ1992a.pdf
+
+A power primer
+
+ESLII_print3-book.pdf
+
+The elements of statistical learning
+
+benjamini_hochberg1995.pdf
+
+Controlling the false discovery rate: a practical and powerful approach to multiple testing
+
+irr_random_raters.pdf
+
+Variance estimation of nominal-scale inter-rater reliability with random selection of raters
+
+r350.pdf
+
+Causal inference in statistics: an overview
+
+DiEugenio-Kappa-Second-Look.pdf
+
+The kappa statistic: a second look
+
+Limits-OR-85.pdf
+
+Limits for the precision and value of information from dependent sources
+
+1464.full.pdf
+
+Sifting the evidence - what's wrong with significance tests?
+
+3chapters_handbook.pdf
+
+Handbook of inter-rater reliability
+
+6statistical_tables.pdf
+
+Statistical tables for inter-rater agreement
+
+bjmsp2008_interrater.pdf
+
+Computing inter-rater reliability and its variance in the presence of high agreement
+
+interrater_rel_depen.pdf
+
+Inter-rater reliability: Dependency on trait prevalence and marginal homogeneity
+
+icagr.pdf
+
+Inter-coder agreement for computational linguistics
+
+Gauss-prod-sum.pdf
+
+products and convolutions of gaussian distributions
+
+Phil-trans_755-62.pdf
+
+Independence and interdependence in collective decision making: an agent-based model of nest-site choice in honeybee swarms
+
+CeDER-10-03.pdf
+
+Repeated labling using multipple noisy labelers
+
+overfit10.pdf
+
+Cross-validating for detecting and preventing overfitting
+
+CummingFidlerVaux_ErrorBars.pdf
+
+Error bars in experimental biology
+
+AnomalyDetection.pdf
+
+Anomaly detection: A survey
+
+Pub-biase_political-science.pdf
+
+Can political science literature be believed?  A study of publication biase in the APSR and AJPS
+
+KHurley_Thesis_GSO.pdf
+
+Statistical power in ergonomic intervention studies
+
+downey04lognormal.pdf
+
+Lognormal and Pareto distributions in the internet
+
+human-mortality.pdf
+
+A simple derivation of the Gompertz law for human mortality
+
+JacobLevitt2003.pdf
+
+Rotten apples: An investigation of the prevalence and predictors of teacher cheating
+
+testu01.pdf
+
+TestU01: A C Library for Empirical Testing of Random Number Generator
+
+testu01-review.pdf
+
+A review of testu01
+
+krippendorff.pdf
+
+Computing Krippendorff's alpha reliability
+
+probstat.pdf
+
+Probability and statistics Cheat sheet
+
+baayenCUPstats-book.pdf
+
+Analyzing linguistic data: A practical introduction to statistics
+
+Killen.2005.pdf
+
+An alternative to null-hypothesis significance tests
+
+intrarater.pdf
+
+Intrarater reliability
+
+2005BayesFreqSci.pdf
+
+Bayesians, frequentists, and scientists
+
+292453.pdf
+
+The Monty Python method for generating random variables
+
+10.1177_001316447303300104.pdf
+
+Ford's procedure for combining multiple sets of partially ordered data
+
+euclid.aos.pdf???
+
+MM algorithms for generalized bradley-terry models
+
+04Kermond.pdf
+
+Counterexamples in probability and statistics
+
+classifier-comparison.pdf
+
+Statistical comparison of classifiers over multiple data sets
+
+mlj2006.pdf
+
+Cost curves: An improved method for visualizing classifier performance
+
+ROCanalysis-intro.pdf
+
+An introduction to ROC analysis
+
+rpart-report.pdf
+
+An introduction to recursive partitioning using the RPART routines
+
+binomial.pdf
+
+Interval estimation for a binomial proportion
+
+exact_ineq_prob.pdf
+
+Exact calculation of inequality probabilities
+
+AndersonBurnham.pdf
+
+Null hypothesis testing: Problems, prevalence and an alternative
+
+2003LargeScaleSim.pdf
+
+Large-scale simultaneous hypothesis testing: The choice of the null hypothesis
+
+2002AnnettSUSCritique.pdf
+
+Subjective rating scales: science or art?
+
+2010_WIREsCS_rank.pdf
+
+Rank aggregation methods
+
+1471-2105-10-62.pdf
+
+RankAggreg, an R package for weighted rank aggregation
+
+fit-distrib-with-R-book.pdf
+
+Handbook of fitting statistical distributions with R
+
+Gigerenzer_Null_2004.pdf
+
+The null ritual What you always wanted to know about significance testing but were afraid to ask
+
+events-per-variable.pdf
+
+A simulation study of the number of events per variable in logistic regression analysis
+
+glm-book.pdf
+
+Applying generalized linear models
+
+stat_anal_failure-book.pdf
+
+The statistical analysis of failure time data
+
+ProbStatBook.pdf
+
+From algorithms to Z-scores: Probabilistic and statistical modeling in computer science
+
+wilkinson.pdf
+
+Statistical methods in psychology journals: Guidelines and explanations
+
+applied-psychometrics.pdf
+
+Applied psychometrics with illustrations in R
+
+probdistr-main.pdf
+
+Handbook on probability distributions
+
+Ecological-book.pdf
+
+Ecological models and data in R
+
+Nieuwenhuis_NN_2011.pdf
+
+Erroneous analyses of interactions in neuroscience: a problem of significance
+
+2965_CONSORT+2010+checklist.pdf
+
+Consort 2010 checklist of information to include when reporting a random?
+
+inqual-surv-unif-distrib.pdf
+
+Random inequalities between survival and uniform distributions
+
+SAND2002-0835.pdf
+
+Combination of evidence in Dempster-Shafer theory
+
+R_in_a_Nutshell-book.pdf
+
+R in a nutshell
+
+conf-int-poisson.pdf
+
+Approximate confidence interval for the mean of the Poisson distribution
+
+casagrande.pdf
+
+An improved approximate formula for calculating sample size for comparing two binomial distributions
+
+1852AJ_2_161P.pdf
+
+Criterion for the rejection of doubtful observations
+
+mean-selection.pdf
+
+decision tree for selecting specific method (mean)
+
+amsbook.pdf
+
+Introduction to probability
+
+lsr-0.3.pdf
+
+Learning statistics with R: A tutorial for psychology students and other beginners
+
+TrendDetectionAnalysis.pdf
+
+Statistical methods for trend detection and analysis (in the environmental sciences)
+
+12-Pearson.pdf
+
+The problem of disguised missing data
+
+RJournal_2010-1_Fay.pdf
+
+Two-sided exact tests and matching confidence intervals for discrete data
+
+rs080204.pdf
+
+Interval estimation for a binomial proportion: Comparison of twenty methods
+
+psymeth98.pdf
+
+Signal detection theory and generalized linear models
+
+thinkstats-book.pdf
+
+Think Stats: Probability and statistics for programmers
+
+thinkbayes-book.pdf
+
+Think Bayes: Bayesian statistics made simple
+
+2000-06-moment-as.pdf
+
+Moments determine the tail of a distribution (but not much else)
+
+kniga-book.pdf
+
+Detection of abrupt changes: Theory and application
+
+stein-paradox.pdf
+
+Stein's paradox in statistics
+
+cacm12.pdf
+
+A few useful things to know about machine learning
+
+MiningMassiveData-book.pdf
+
+Mining of massive datasets
+
+Item-Response-Theory-book.pdf
+
+The basics of item response theory
+
+immt.pdf
+
+An introduction to modern measurement theory
+
+gen-cons_rand-seq.pdf
+
+Generating constrained randomized sequences: Item frequency matters
+
+tspolr.pdf
+
+The surprising predictability of long runs
+
+dp969.pdf
+
+Identification, characteristics and impact of faked interviews in surveys
+
+edcommentsv30n2.pdf
+
+PLS: A silver bullet?
+
+norm-test-cmp.pdf
+
+Power comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling tests
+
+aje050188.pdf
+
+The ecological fallacy
+
+robust-stat-book.pdf
+
+Applied robust statistics
+
+authorship2.pdf
+
+Convincing evidence
+
+Dunn_Baguley_Brunsden-alpha.pdf
+
+From alpha to omega: A practical solution to the pervasive problem of internal consistency estimation
+
+r643.pdf
+
+My current thoughts on coefficient alpha and successor procedures
+
+church-poisson.pdf
+
+Poisson mixtures
+
+SP-book.PDF
+
+An introduction to statistical signal processing
+
+10.1.1.30.9725.pdf OptimumHistogram.pdf
+
+Data-Based Choice of Histogram Bin Width
+
+31_09_rozenholc_mildenberger.pdf
+
+Combining regular and irregular histograms by penalized likelihood
+
+Ntigrampaper.pdf
+
+Ntigrams: special-purpose histograms that solve some pernicious problems
+
+gam_with_R-book.pdf
+
+Generalized additive models: an introduction with R
+
+Cryer-TS.book.pdf
+
+Time series analysis with applications in R
+
+Shumway-TS.book.pdf 2nd ed
+tsa3-book.pdf 3rd ed
+
+Time series analysis and its applications with R examples
+
+BIO 83.pdf
+
+COMPUTER INTENSIVE METHODS IN STATISTICS
+
+FlFuGaMe07.pdf
+
+HyperLogLog: the analysis of a near optimal cardinality estimation algorithm
+
+guide-compositional-analysis.pdf
+
+A concise guide to compositional data analysis
+
+g9s-final.pdf
+
+Data quality assessment: Statistical methods for practitioners
+
+effect_size-book.pdf
+
+The essential guide to effect sizes
+
+Gale-SimpleGoodTuring.pdf
+
+Good-Turing smoothing without tears
+
+56-1269e_FDIS.pdf
+
+IEC 61649 Ed. 2.0: Weibull analysis
+
+2011-Simmons-1359-66.pdf
+
+False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant
+
+statman2.pdf
+
+Multiple comparisons
+
+ISLR Seventh Printing.pdf
+
+An introduction to statistical learning with applications in R
+
+Nelder80.pdf
+
+Selecting amongst large classes of models
+
+StatisticsDoneWrong.pdf
+
+Statistics done wrong (apr 2013)
+
+distribution-compendium.pdf
+
+A compendium of distributions
+
+Compendium.pdf
+
+Compendium of Common Probability Distributions
+
+jaynes-chapters.pdf
+
+Probability theory: The logic of science
+
+Newman1993.pdf
+
+Regression analysis of log-transformed data: Statistical bias and its correction
+
+robustAmerPsyc.pdf
+
+Modern Robust Statistical Methods
+
+g_Statistical_Myth.htm + R code
+
+g, a Statistical Myth
+
+Outlier_detection-sur.pdf
+
+Outlier detection: A survey
+
+Openintrostats-book.pdf
+
+OpenIntro Statistics
+
+SALTELLI2004-book.pdf
+
+Sensitivity analysis in practice
+
+1311.5517.pdf (paper, not used) d
+
+Statistical detection of potentially fabricated numerical data: A case study
+
+anscombe1973.pdf
+
+Graphs in Statistical Analysis
+
+biostats-usingR_book.pdf
+
+Biostatistical design and analysis using R
+
+ADAfaEPoV-book.pdf
+
+Advanced data analysis from an elementary point of view
+
+Intro_Time_Series_R_book.pdf
+
+Introductory time series with R
+
+140216.full.pdf
+
+An investigation of the false discovery rate and the misinterpretation of p-values
+
+collected-book.pdf
+
+Statistics with R
+
+104wk05.pdf
+
+Extremes
+
+error-bars.pdf (partial) d
+
+Error Bars Considered Harmful: Exploring Alternate Encodings for Mean and Error
+
+GoF-fulltext.pdf
+
+Powers of Discrete Goodness-of-Fit Test Statistics for a Uniform Null Against a Selection of Alternative Distributions
+
+StatsIntro.pdf
+
+An introduction to statistics
+
+9780735698178.pdf
+
+Azure machine learning
+
+Common Errors in Statistics-book.pdf
+
+Common errors in statistics (and how to avoid them)
+
+Common_Errors_in_Statistics-book.pdf
+
+Common Errors in Statistics (and how to avoid them) second ed
+
+GG_etAl_Helping_doctors-1.pdf
+
+Helping Doctors and Patients Make Sense of Health Statistics
+
+1510.04406v1.pdf
+
+A Method for Avoiding Data Disclosure While Automatically Preserving Multivariate Relations
+
+sdc_guidelines.pdf
+
+Introduction to Statistical Disclosure Control (SDC)
+
+MeasurementError10.pdf
+
+Inflation of Type I error rate in multiple regression when independent variables are measured with error
+
+Shear-Zumbo_2013_EPM.pdf
+
+False Positives in Multiple Regression: Unanticipated Consequences of Measurement Error in the Predictor Variables
+
+royston.pdf
+
+Dichotomizing continuous predictors in multiple regression: a bad idea
+
+ks.pdf
+
+EDF Statistics for Goodness of Fit and Some Comparisons
+
+060311-1.pdf
+
+Generating Valid 4 × 4 Correlation Matrices∗
+
+stat-learn-spar_book.pdf
+
+Statistical learning with sparsity: The lasso and generalizations
+
+Cumming_2006.pdf
+
+Confidence Intervals and Replication: Where Will the Next Mean Fall?
+
+BA_2004_Multimodel_Infer.pdf
+
+Multimodel Inference Understanding AIC and BIC in ModelSelection
+
+splines.pdf
+
+Spline terms in a Cox model
+
+41854.pdf
+
+Inferring causal impact using bayesian structural time-series models
+
+journal.pcbi.1004961.PDF
+
+Ten Simple Rules for Effective Statistical Practice
+
+Karlis-IntStatRev-2005.pdf
+
+Mixed Poisson Distributions
+
+Bootstrap_Methods_and_Application-book.pdf
+
+Bootstrap methods and their application
+
+Chernick2011-book.pdf
+
+An introduction to bootstrap methods with applications to R
+
+MathStats_Resampling_R.pdf
+
+Mathematical statistics with resampling and R
+
+statistical_inference-book.pdf
+
+Statistical inference, 2nd ed
+
+Comparing_Groups_Bootstrap_R-book.pdf
+
+Comparing groups
+
+johnson1997.pdf
+
+The triangular distribution as a proxy for the beta distribution in risk analysis
+
+journal.pone.0070902.PDF
+
+Linguistic Diversity and Traffic Accidents: Lessons from Statistical Studies of Cultural Traits
+
+JSM08-n30.pdf
+
+It’s Time To Retire the “n >= 30” Rule
+
+censored-stats-book.pdf
+
+Statistics for Censored Environmental Data using Minitab and R
+
+1411.5279v1.pdf
+
+What Teachers Should Know about the Bootstrap: Resampling in the Undergraduate Statistics Curriculum
+
+art_A10.3758_s13428-015.pdf
+
+The prevalence of statistical reporting errors in psychology (1985–2013)
+
+MuellerWeidemann2008.pdf
+
+Decision noise: An explanation for observed violations of signal detection theory
+
+PP279_Cohen1.pdf
+
+The Earth is Round (p < 0.05)
+
+Survey-sampling-book.pdf
+
+Elementary Survey Sampling
+
+FeelingFuture.pdf (done) d
+
+Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect
+
+2012.justso.pdf
+
+Bayesian Just-So Stories in Psychology and Neuroscience
+
+peerj-preprints-2064.pdf
+
+The GRIM test: A simple technique detects numerous anomalies in the reporting of results in psychology
+
+peerj-preprints-2400.pdf
+
+The GRIMMER test: A method for testing the validity of reported measures of variability
+
+p039.pdf
+
+Systems Factorial Technology Explained to Humans
+
+IPCC_2014_4.pdf (paper+emailed, partial) d
+
+The interpretation of IPCC probabilistic statements around the world
+
+1601.00900v1.pdf
+
+Too good to be true: when overwhelming evidence fails to convince
+
+10.1007-b97288-book.pdf
+
+Statistical Tools for Nonlinear Regression
+
+Sandberg-Fermi-Paradox.pdf
+
+Dissolving the Fermi Paradox
+
+samefit.pdf
+
+CLONING DATA: GENERATING DATASETS WITH EXACTLY THE SAME MULTIPLE LINEAR REGRESSION FIT
+
+SameStats-DifferentGraphs.pdf
+
+Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing
+
+RM-storks-paper.pdf (paper, not used) d
+
+Storks Deliver Babies (p = 0.008)
+
+JBAP10072-2013073.pdf
+
+Fluctuation Scaling and 1/f Noise Shared Origins from the Tweedie Family of Statistical Distributions
+
+Kendal 2004.pdf
+
+Taylor’s ecological power law as a consequence of scale invariant exponential dispersion models
+
+Tweedie_convergence.pdf
+
+Tweedie convergence: A mathematical basis for Taylor’s power law, 1/ f noise, and multifractality
+
+1410.6059.pdf
+
+Integer Percentages as Electoral Falsification Fingerprints
+
+1608.06865.pdf (cited) d
+
+Bayesian Statistics in Software Engineering: Practical Guide and Case Studies
+
+masteroppgave.pdf
+
+Methods for Analyzing the 12 Run Plackett-Burman Design
+
+roberts_00.pdf
+
+How Persuasive Is a Good Fit? A Comment on Theory Testing
+
+ECS132W17.pdf
+
+From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science
+
+CAT10502416-book.pdf
+
+Statistical method from the viewpoint of quality control (1939)
+
+fundamentalError_PBR.pdf
+
+The fallacy of placing confidence in confidence intervals
+
+10.1.1.486.5008.pdf
+
+Relaxing the Rule of Ten Events per Variable in Logistic and Cox Regression
+
+euclid.aoms.1177698526.pdf
+
+Estimating the total probability of the unobserved outcomes of an experiment
+
+HILBE_Interp_logistic_model.pdf
+
+Interpretation and prediction of a logistic model
+
+f0c837214dabd650.pdf
+
+THE KELLY CRITERION IN BLACKJACK SPORTS BETTING, AND THE STOCK MARKET1
+
+s10664-016-9437.pdf
+
+Robust Statistical Methods for Empirical Software Engineering
+
+IRT.pdf
+
+A Simple Guide to the Item Response Theory (IRT) and Rasch Modeling
+
+scores.pdf
+
+Rasch Mixture Models for DIF Detection: A Comparison of Old and New Score Specifications
+
+nihms6861.pdf
+
+A Tutorial on Multilevel Survival Analysis: Methods, Models and Applications
+
+seq-rej-bonf.pdf
+
+A Simple Sequentially Rejective Multiple Test Procedure
+
+JASA1982RankvonNeumann.pdf
+
+The Rank Version of von Neumann's Ratio Test for Randomness
+
+ECE461Proj.pdf
+
+Nonparametric Tests for Randomness
+
+COMPoissonModelCountData.pdf
+
+The COM-Poisson model for count data: a survey of methods and applications
+
+baayenDavidsonBates.pdf
+
+Mixed-effects modeling with crossed random effects for subjects and items
+
+2515245917747646.pdf
+
+Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results
+
+summary17.pdf
+
+The Maximum and Minimum of Two IID Random Variables
+
+65d81cd62f2003c21fa.pdf
+
+Most Published Research Findings Are False— But a Little Replication Goes a Long Way
+
+intro-prob-model-ross_book.pdf
+
+Introduction to Probability Models Tenth Edition
+
+1706.00933.pdf (cited) d
+
+Evolution of statistical analysis in empirical software engineering research: Current state and steps forward
+
+app-time-series_r-book.pdf
+
+Applied time series analysis with R
+
+hoeffding.pdf
+
+CS229 Supplemental Lecture notes Hoeffding’s inequality
+
+126.pdf
+
+Deciphering the enigma of undetected species, phylogenetic, and functional diversity based on Good-Turing theory
+
+data-fallacies-to-avoid.pdf
+
+DATA FALLACIES TO AVOID
+
+1811.03064.pdf
+
+Towards a Near Universal Time Series Data Mining Tool: Introducing the Matrix Profile
+
+Matrix_Profile_Tut_Part1.pdf Matrix_Profile_Tut_Part2.pdf
+
+Time Series Data Mining Using the Matrix Profile: A Unifying View of Motif Discovery, Anomaly Detection, Segmentation, Classification, Clustering and Similarity Joins
+
+3644-Schimmack-PM-2012.pdf
+
+The Ironic Effect of Significant Results on the Credibility of Multiple-Study Articles
+
+DTW.pdf
+
+Extracting Optimal Performance from Dynamic Time Warping
+
+Common statistical tests are linear models (or  how to teach stats).htm
+
+Common statistical tests are linear models (or how to teach stats)
+
+Applied_Survival_Anal-book.pdf
+
+Applied Survival Analysis Using R
+
+AppliedLinearStatiscalModels.pdf
+
+Applied Linear Statistical Models, 5th ed
+
+EconometricTimeSeries-book.pdf
+
+APPLIED ECONOMETRIC TIME SERIES
+
+longitudinal-time-to-event-R.pdf
+
+Joint Models for Longitudinal and Time-to-Event Data With Applications in R
+
+Discrete-time-series-book.pdf (not used) d
+
+An Introduction to Discrete-Valued Time Series
+
+AdStatsAppsInR-book.pdf (not used) d
+
+Advanced Statistics with Applications in R
+
+StatMethodsSports-book.pdf
+
+Handbook of Statistical Methods and Analyses in Sports
+
+Univariate-Discrete-Distr-book.pdf
+
+Univariate Discrete Distributions
+
+AppliedCompositionalWithR-book.pdf
+
+Applied Compositional Data Analysis With Worked Examples in R
+
+financial-time-series-book.pdf
+
+Modelling Financial Time Series with S-PLUS, Second Edition
+
+art-machine-learn-book.pdf
+
+THE ART OF MACHINE LEARNING
+
+2012-masicampo.pdf
+
+A peculiar prevalence of p values just below .05
+
+1811.05422.pdf (not used) d
+
+Bayesian Data Analysis in Empirical Software Engineering Research
+

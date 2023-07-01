@@ -1,0 +1,28 @@
+NETMOTIFSOFTPRE.pdf
+
+Network motifs in computational graphs: A case study in software architecture
+
+Nathan-LaBelle.pdf
+
+Inter-package dependency networks in open-source software
+
+KADcrawlerlongtr.pdf (not used) d
+
+Analyzing peer behavior in KAD
+
+KADsteiner.pdf (not used) d
+
+A global view of KAD
+
+PNAS00A.PDF
+
+Classes of small-world networks
+
+science.pdf
+
+Emergence of scaling in random networks
+
+C14.pdf (not used) d
+
+How Developers’ Collaborations Identified from Different Sources Tell us About Code Changes
+

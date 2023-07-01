@@ -1,0 +1,3379 @@
+KUIT_S~1.PDF
+
+First results of an experiment on using roles of variables in teaching
+
+04_VER~1.PDF
+
+Verification techniques
+chapter 4 of The design and verification of a crypographic security architecture Peter Gutmann
+
+P168-W~1.PDF
+
+The string to string correction problem
+
+P165-B~1.PDF
+
+The history of FORTRAN I, II, and III
+
+b272401344d40d7dcb.pdf
+
+History of FORTRAN standardization
+
+FELDMA~2.PDF
+
+A catalog of boolean concepts
+
+IMVP001B.PDF
+
+A model-based method for oraganizing tasks in product development
+
+SCI.PDF
+
+The science of scientific writing
+
+ALEXBO~1.GZ
+
+Logic of conversation
+
+LOVETT~1.PDF
+
+Applying cognitive theory to statistics instruction
+
+02640509.PDF
+
+IST Standards sales
+
+BADINO~1.PDF
+
+Approximate text searching
+Navarro PhD 1998
+
+TEX-REFS.PDF
+
+References for TeX and Friends
+
+LSHORT.PDF
+LSHORT~1.GZ x (original latex)
+
+The not so short introduction to LaTeX 2e
+
+TEXBOOK.TEX
+
+The TEX Book
+
+TEXBYT~1.PDF
+
+TeX by topic, a TeXnician's reference
+
+memman.pdf
+
+The memoir class
+
+TEXIMP~1.PDF
+
+TEX for the impatient
+
+EPSLATEX.PDF
+
+Using imported graphics in LATEX 2e
+
+STYLEUSE.DVI.pdf
+
+A guide to use macros and style files in LATEX
+
+FNTGUIDE.pdf
+
+LATEX 2e font selection
+
+CFGGUIDE.pdf
+
+Configuration options for LATEX 2e
+
+DCDOC.PDF
+
+The european computer modern fonts -- documentation --
+
+FONTIN~1.PDF
+
+The font installation guide
+
+GREENB~1.GZ
+
+A simplified introduction to LATEX
+
+tb72thanh.pdf
+
+Margin kerning and font expansion in pdfTEX
+
+GRFGUIDE.PS.gz
+
+Packages in the 'graphics' bundle
+
+LEDMAC.PDF
+
+ledmac A presumptuous attempt to port EDMAC and TABMAC to LaTeX
+
+W-BOOK.PDF
+
+Author's guide to the Wiley LATEX styles
+
+W-EDBK.PDF
+
+Author's guide to the Wiley LATEX styles Edited book
+
+bash-guide.pdf
+
+Advanced Bash scripting guide (rev 5.2)
+
+HOW_TO~1.Z
+
+How to produce all sentences from a two level grammar
+
+HOWARD~1.PDF
+
+Practical implementation of arithmetic coding
+
+GRADING.PDF
+
+On criteria for grading student programs
+
+AMBERF~1.PDF
+
+The amberfish text retrieval system
+
+BEUNDIAL.PDF
+
+On the generation of coherent dialogue: a computational approach
+
+COASES~1.PDF
+
+Coase's penguin, or, Linux and the nature of the firm
+
+C_LC.TXT
+
+C standard locale
+
+UTF-8A~1.HTM
+
+UTF-8 and Unicode FAQ for Unix/Linux
+
+HOWTOW~1.HTM
+
+How To Write Unmaintainable Code
+
+DEMOEN~1.PDF
+
+A comparison of some schemes for translating logic to C
+
+DEGANI~1.PDF
+
+On the design of flight deck procedures
+
+UNICOD~1.PDF
+
+Unicode demystified
+
+QUYTE.HTM
+
+How genes work
+
+HISTOR~1.PDF
+
+Content is not king
+
+ARCHIT~1.HTM
+
+Architects act 1997
+
+WIRED9~1.HTM
+
+The Geek Syndrome
+
+SEERSU~1.PDF
+
+The Seer-Sucker Theory: The Value of Experts in Forecasting
+
+ECRC-9~1.GZ
+
+A tutorial on parallelism and constraints in ECLiPSe
+
+ADACLA~1.PDF
+
+Reconfirmation that Ada does not have to be used in DOD
+Jan 2000
+
+CSTR114.PS
+
+Grap -- a language for typesetting graphs tutorial and user manual
+
+CSTR116.PS
+
+PIC -- a graphical language for typesetting user manual
+
+TERNARY.PDF
+
+Third base ternary logic
+
+MARICK~1.PDF
+
+Classic testing mistakes
+
+P626PS~1.Z
+
+ADIC: An extensible automatic differentiation tool for ANSI-C
+
+P512PS~1.Z
+
+Experience with the application of the ADIC automatic differentiation tool to the CSCMDO 3-D volume grid generation code
+
+anonymous.htm
+
+do-it-yourself internet anonymity
+
+behavioraccount.htm
+
+Behavioral research in accounting
+
+MISRA_~1.PDF
+
+A comparison of MISRA C testing tools
+
+ISOC_S~1.PDF
+
+EC - A measurement based safer subset of ISO C suitable for embedded system development
+
+MISRAC.PDF
+
+Safer language subsets: an overview and a case history, MISRA C
+
+PUBLIS~1.PS
+
+What's wrong with adding one?
+
+RPJCGS~1.PS
+
+Dotplot: a program for exploring self similarity in millions of lines of text and code
+
+TAPOS.PS
+
+Dotplot patterns: a literal look at pattern languages
+
+NAACL0~1.GZ
+
+Advances in domain independent linear text segmentation
+
+1995-372.ps.gz
+
+Tree-to-tree correction for document trees
+
+IBM3LR00.PDF
+
+PL/I for z/OS and OS/390 Language reference
+
+securlinux.htm
+
+Internet anonymity for Linux newbies
+
+P61-FOGG.PDF
+
+What makes web sites credible? A report on a large quantitative study
+
+STANFO~1.PDF
+
+Stanford-Makovsky web credibility study 2002
+
+P80-FOGG.PDF
+
+The elements of computer credibility
+
+LIEBER~1.PDF
+
+Assuring good style for object oriented programs
+
+MCCART~1.PDF
+
+Recursive functions of symbolic expressions and their computation by machine, part 1
+
+ISFST2~1.PDF
+
+A method of usability testing by measuing brain waves
+
+99-05.PDF
+
+Investigating the origins of teachers' beliefs of students' algebra development
+
+ASKING~1.PDF
+
+Asking questions can change choice behavior: does it do so automatically or effortfully?
+
+TR1830.PDF
+
+Cognitive aspects of decision making project summary
+
+ADA349~1.PDF
+
+Methods to improve cultural communication skills in special operations forces
+
+MONGET~1.PS.gz
+
+Adaptive detection of approximately duplicate database records and the database integration approach to information discovery
+
+NAVARR~1.PDF
+
+A guided tour of approximate string matching
+
+HCI3~1.HTM
+
+Text entry for mobile computing: Models and methods, theory and practice 
+
+JMB89~1.HTM
+
+A note on the information-theoretic basis for Fitts' law
+
+BCM.HTM
+
+Brown corpus manual
+
+BBROWN~1.PDF
+
+users, developers and dilemmas
+
+groff-1.22.3.pdf
+
+groff manual
+
+BLOCK-~1.PDF
+
+Block edit models for approximate string matching
+
+VISSER~1.PDF
+
+Scannerless generalised-LR parsing
+
+USABIL~1.HTM
+
+Usability and open source software
+
+OBFUSC~1.PDF
+
+General methods of program obfuscation
+
+gotoless.htm
+
+A linguistic contribution of GOTO-less programming
+
+duffsdev.htm
+
+Unwinding loops
+
+P93-BA~1.PDF
+
+Industry Perceptions of the Knowledge, Skills, and Ablities Needed by Computer Programmers
+
+LETHBR~1.PDF
+
+What knowledge is important to a software professional?
+
+TENENB~1.PS.gz
+
+A Bayesian framework for concept learning
+
+ERRORLOG.PDF
+
+The errors of tex
+
+COPY.PS.gz
+
+Copy detection mechanisms for digital documents
+
+BOOTH51.PDF
+
+A signed binary multiplication technique
+
+ADADIS~1.PDF
+
+Ada distilled
+
+PROLOG~1.GZ
+
+Prolog programming
+
+TORTOI~1.HTM
+
+What the Tortoise Said to Achilles
+
+HODGES~1.PDF
+
+An editor recalls some hopeless papers
+
+THE_C_~1.PDF
+
+The C programming language
+
+CANTHA~1.PDF
+
+Can't happen or /* NOTREACHED */ or real programs dump core
+
+FRANTZ~1.PDF
+
+StackGhost: Hardware Facilitated Stack Protection
+
+MEMERR.PDF
+
+Using memory errors to attack a virtual machine
+
+SCRIPT~1.PDF
+
+Defending against an internet based attack on the physical world
+
+STEELE~1.PDF
+
+Growing a language
+
+SPE773CV.PDF
+
+Arithmetic equality constraints as C++ statements
+
+JOHNSO~3.PDF
+
+Yacc: yet another compiler-compiler
+
+SRC-RR~1.PDF
+
+Implementing Exceptions in C
+
+ALGOL6~1.PDF
+
+Revised report on the algorithmic language Algol 60
+
+MOR79A.PDF
+
+On the development of Algol Morrison PhD 1979
+
+BCPL.PDF
+
+The BCPL reference manual
+
+BLUEBOOK.PDF
+
+Postscript language tutorial and cookbook
+
+JONESO~1.HTM
+
+BCD Arithmetic, a tutorial
+
+BERGER~1.PDF
+
+Memory management for high-performance applications
+
+RULER.PDF
+
+The TEX ruler
+
+DVD-RT~1.PDF
+
+Recordable DVD Media formats
+
+gawk.pdf
+
+GAWK: Effective AWK programming
+
+KNUTHWEB.PDF
+
+Literate programming
+
+CHI03A.PDF
+
+Card, English, and Burr (1978) - 25 years later
+
+ICONHA~1.PDF
+
+Icon Programming Language Handbook
+
+JQAI-00.PDF
+
+Total Quality Management in Software Development Process
+
+RANSOM.PS.gz
+
+Break your legs
+
+NEWP.PDF
+
+UNIX operating system porting experience
+
+DIXIT9.PDF
+
+Overview of the SPEC benchmarks
+
+RULEGR~1.PDF
+
+A rule-based style and grammar checker
+
+KOREA_~1.PDF
+
+Korea - The black ships of Kendo
+
+GDBPDF~1.GZ
+
+Debugging with GDB
+
+loyalty.pdf (paper, not used) d
+
+Loyalty to computer terminals: is it anthropomorphism or consistency?
+
+TGREP2.PDF
+
+TGREP2 User Manual (v1.11)
+
+msopenkey.htm
+
+Microsoft open license order confirmation
+
+METROL~1.PDF
+
+The leap second: its history and possible future
+
+EXJOBB.PDF
+
+Liveness detection in fingerprint recognition systems
+
+cgram-ll1.txt
+
+C grammar in Lisp
+
+155.ps.gz
+
+There is no royal road to programs A trilogy on raster ellipses and programming methodology
+
+BlissLanguageGuide.pdf
+
+Bliss langauge guide
+
+Algol68-Report.pdf
+
+Report on the algorithmic language Algol 68
+
+Algol68-RevisedReport.pdf
+
+Revised Report on the algorithmic language Algol 68
+
+Wirth-PascalRevisedReport.pdf
+
+The programming language Pascal (revised report)
+
+Stroustrup-CplusplusReferenceManual.pdf
+
+The C++ programming language -- reference manual
+
+IBM-PLI-F-LangRefMan.pdf
+
+PL/I (F) Language reference manual (IBM)
+
+diff.ps
+
+An algorithm for differential file comparison
+
+safelocks.pdf
+
+Safecracking for the computer scientist
+
+nelson-verification.pdf
+
+Techniques for program verification
+
+softnotdo.html
+
+Things You Should Never Do, Part I
+
+converting-c-pointers-to.ps.gz
+
+Converting C pointers to Java references
+
+elkhound_cc04.pdf
+
+Elkhound: a fast, practical GLR parser generator
+
+DSTbreak.pdf
+
+Security analysis of a cryptographically-enabled RFID device
+
+9809016.pdf
+
+An introduction to quantum computing for non-physicists
+
+sigplan-why.ps.gz
+
+Why no one uses functional languages
+
+MergingSurvey.pdf
+
+A state-of-the-art survey of software merging
+
+LearningCurveAffectsCASEAdoption.pdf
+
+How the learning curve affects case tool adoption
+
+KendoReader.pdf
+
+The Kendo reader
+
+latin.html
+
+Handy Latin phrases
+
+pldi.pdf
+
+PADS: A domain-specific language for processing ad hoc data
+
+AIJ02.pdf
+
+The challenge of poker
+
+ext.htm
+
+Filename extension information
+
+syntax-cross-languages.html
+
+Syntactic constructs supported by various languages
+
+IWPC03_Keynote.pdf
+
+Comprehending reality - practical barriers to industrial adoption of software maintenance automation
+
+HOPL2-Uncut.pdf
+
+The evolution of Lisp
+
+ibmsj2002F.pdf
+
+Natural language programming: styles, strategies, and contrasts
+
+paranoidoptimist.pdf
+
+The paranoid optimist: an integrative evolutionary model of cognitive biases
+
+begel-spoken-java.pdf
+
+Spoken programs
+
+FunSoftwareDevel.pdf (paper+email, not used) d
+
+Fun and software development
+
+caseforgoto.pdf
+
+Case for goto (ACM annual conference, 1972)
+
+com-sto-99-aa.ps.gz
+
+Affine arithmetic and its applications to computer graphics
+
+ethicschecklist.pdf
+
+Psychology experiment ethics checklist
+
+art_4.pdf
+
+Managing the impact of increasing microprocessor power consumption
+
+Mark_Roth.pdf
+
+Evolution of the brain and intelligence
+
+thepsychologist-knowing.pdf
+
+Investigating human intuition: Knowing without knowing why
+
+obf2.ps
+
+On the (im)possibility of obfuscating programs
+
+p131-ware.pdf (paper, not used) d
+
+Soviet computer technology 1959
+
+RM2541.pdf (paper, not used) d
+
+Soviet Computer Technology -- 1959
+
+RM6200.1.pdf
+
+Soviet Cybernetics review
+
+ascii_evol.pdf
+
+The evolution of character codes, 1874-1968
+
+Integrigy_Oracle_SQL_Injection_Attacks.pdf
+
+An introduction to SQL injection attacks for oracle developers
+
+wikiwww2007.pdf
+
+A content-driven reputation system for the wikipedia
+
+motionmountain.pdf
+
+Motion mountain: The Adventure of Physics
+
+ConImpIntro.pdf
+
+Formal concept analysis with ConImp: Introduction to the basic features
+
+who_is_n3td3v.pdf
+
+Who is "n3td3v"?
+
+ooc.pdf
+
+Object oriented programming with ANSI-C
+
+padl02.applesAndOranges.pdf
+
+Adding apples and oranges
+
+secret-tracking-tr076.pdf
+
+Quantitative information-flow tracking for C and related languages
+
+sterling.pdf
+
+Automated bug isolation via program chipping
+
+string_matching.pdf
+
+Handbook of exact string-matching algorithms
+
+usenix-sec06.pdf
+
+Rule-based static analysis of network protocol implementations
+
+yang91identifying.pdf
+
+Identifying syntactic differences between two programs
+
+neamtiu06updating.pdf
+
+Practical dynamic software updating for C
+
+model-checking_IBM.ps
+
+Model checking at IBM
+
+cgo3_swift.pdf
+
+SWIFT: Software implemented fault tolerance
+
+The_History_of_ALGOL.pdf
+
+The history of the ALGOL effort
+
+TR92gas01.us.ps
+
+String search
+
+cohen_bioinformatics.pdf
+
+Bioinformatics - An introduction for computer scientists
+
+hackers_revisions.pdf
+
+Revisions to Hacker's delight
+
+lee01efficient.pdf
+
+Efficient permutation instructions for fast software cryptography
+
+minefield.pdf
+
+Cobol minefield detection
+
+on-wheels-nuts-and.pdf
+
+On wheels, nuts and software
+
+p261-knuth.pdf
+
+Structured programming with go to statements
+
+book2.pdf
+
+A new approach to system safety engineering
+
+ecai2006.pdf
+
+Tracking the lexical Zeitgeist with Wordnet and Wikipedia
+
+S4_greenbook.pdf
+
+The Snobol 4 programming language
+
+Mathmode.pdf
+
+Math mode -v.2.19
+
+Course_FormalConceptAnal.pdf
+
+A first course in formal concept analysis
+
+------------------------ version 1.1 ---------------------------
+
+oopsla05.pdf
+
+Exploring the acceptability envelope
+
+iso-14977-paper.pdf
+
+Extended BNF -- A generic base standard
+
+vmcai07.invited.pdf
+
+DIVINE: Discovering variables in executable
+
+chow.pdf
+
+Understanding data lifetime via whole system simulation
+
+slpj-book-1987.pdf
+
+The implementation of functional programming languages
+
+Snobol4Pdoc.pdf
+
+Snobol 4+
+
+ocaml-ora-book.pdf
+
+Developing applications with Objective Caml
+
+ocaml-3.11-refman.pdf
+
+The Objective Caml system, release 3.11, documentation and user's manual
+
+ocaml.pdf
+
+Using, understanding, and unravelling The OCaml language
+
+infoflow-mccamant-phdthesis.pdf
+
+Quantitative information-flow tracking for real systems
+
+isr-tr-07-08.pdf
+
+A study of ranking schemes in internet-scale code search
+
+iec61508.pdf
+
+An overview of IEC 61508 and E/E/PE functional safety
+
+nato1968e.pdf
+
+Nato software engineering conference, 1969
+
+nfa.ps.gz
+
+Enumerating the strings of regular languages
+
+tpd-tr.pdf
+
+A theory of platform-dependent low-level software
+
+CS-2001-12.pdf
+
+On Proebsting's law
+
+vanderMeulen.pdf
+
+The effectiveness of choice of programming language as a diversity seeking decision
+
+WhyOfY.pdf
+
+The why of Y
+
+believing.ps.gz
+
+How to believe a machine-checked proof
+
+ssshandbook.pdf
+
+Software system safety handbook (joint software system safety committee)
+
+10.1.1.25.4189.pdf
+
+Cuckoo hashing
+
+10.1.1.4.6299.pdf
+
+Generation of fast interpreters for huffman compressed bytecode
+
+cpumemory.pdf
+
+What Every Programmer Should Know About Memory
+
+Boogerd.pdf
+
+On the use of data flow analysis in static profiling
+
+monparsing.pdf
+
+Monadic parser combinators
+
+duffsgoto.pdf
+
+Verifying Duff's device: A simple compositional denotational semantics for goto and computed jumps
+
+10.1.1.23.9999.pdf
+
+Equal Rights for Functional Objects or, The More Things Change, The More They are the Same
+
+The Racial Slur Database.htm
+
+The racial slur database
+
+minuszero.htm
+
+Minus zero
+
+escape0.htm
+
+A Proposal for Character Code Compatibility -- the Original Paper on the ESCape character
+
+micro97.yanos.pdf
+
+The predictability of data values
+
+nato97.pdf
+
+10 things engineers have discovered about speech recognition
+
+pepm06.invited.pdf
+
+Intermediate-representation recovery from low-level code
+
+HigherOrderPerl.pdf
+
+Higher-order Perl
+
+flex-bison-0705.pdf
+
+flex & bison (review copy)
+
+ch.pdf
+
+Randomized algorithms in "primitive" cultures or What is the Oracle complexity of a dead chicken?
+
+compEdit.pdf
+
+Approximating edit distance in near-linear time
+
+fxtbook.pdf
+
+Matters computational: Ideas, algorithms, source code
+
+cosmic-distance-ladder.pdf
+
+Cosmic distance ladder
+
+safer-world-draft.pdf
+
+Engineering a safer world
+
+Peri10eNatLangCheck.pdf
+
+Natural language checking with program checking tools
+
+CS-TR-71-230.pdf
+
+Algol W reference manual
+
+hipeac07.pdf
+
+Compiler-assisted memory encryption for embedded processors
+
+0406152v1.pdf
+
+Scalable percolation search in power law networks
+
+10.1.1.20.3873.pdf
+
+Primitive sequences in general purpose Forth programs
+
+10.1.1.22.2969.pdf
+
+The common case in Forth programs
+
+10.1.1.78.7135.pdf
+
+The geometry of innocent flesh on the bone: Return-into-libc without function calls (on the x86)
+
+bison.pdf
+
+Bison The Yacc-compatible parser generator (v2.5)
+
+casref_en.pdf
+
+Symbolic algebra and mathematics with Xcas
+
+ccs243-mason.pdf
+
+English shellcode
+
+edcc10-lawall.pdf
+
+Finding error handling bugs in OpenSSL using Coccinnelle
+
+fpcl.pdf
+
+Functional programming using Caml light
+
+greenhouse-physics.pdf
+
+Falsification of the atmospheric CO2 greenhouse effects within the frame of physics
+
+norvig-lisp-style.pdf
+
+Tutorial on good Lisp programming style
+
+osdi04.pdf
+
+Enhancing server availability and security through failure-oblivious computing
+
+Risk and freedom.pdf
+
+Risk and freedom: The record of road safety regulations
+
+s4-history.pdf
+
+A history of the Snobol programming language
+
+sf_maths.pdf
+
+Street-fighting mathematics
+
+williams-thesis.pdf
+
+Data and type optimizations in virtual machine interpreters
+
+ziggurat.pdf
+
+The Ziggurat method for generating random variables
+
+Learning_Python.pdf
+
+Learning Python, 4th edition
+
+nonlinear_ODEs.pdf
+
+Nonlinear ordinary differential equations
+
+P3883.pdf
+
+The theory and practice of blackmail
+
+sentences-2level-gram.ps
+
+How to produce all sentences from a two-level grammar
+
+papaspyrou-2001-dsac.ps.gz
+
+Denotational semantics of ANSI C
+
+byz.pdf
+
+The byzantine generals problem
+
+jea-2008.pdf
+
+An Experimental Study of Sorting and Branch Prediction
+
+AlgolW-Manual.pdf
+
+Algol W reference manual
+
+clei2004.pdf
+
+Why programmer-specified aliasing is a bad idea
+
+algorithms.pdf
+
+Algorithms (book)
+
+Auto_safe_secure_tech.pdf
+
+Automated safe secure techniques for eliminating undefined behavior in computer software
+
+Autotools.pdf
+
+Autotools (book)
+
+text-algorithms.pdf
+
+Text algorithms
+
+rbp_1-0.pdf
+
+Ruby best practices
+
+ellison-rosu-2010-tr.pdf
+
+A formal semantics of C with applications
+
+comp-networks_marsic.pdf
+
+Computer networks: Performance and quality of service
+
+Expert-C-Prog.pdf
+
+Expert C programming: Deep secrets
+
+Hacking-book.pdf
+
+Hacking - The art of exploitation
+
+1402-4896_2005_T118_025.pdf
+
+Ternary optical computer architecture
+
+Greenaway_AK_12.pdf
+
+Bridging the gap: Automatic verified abstraction of C
+
+undef-apsys12-draft.pdf
+
+Undefined behavior: Who moved my code?
+
+overflow12.pdf
+
+Understanding integer overflow in C/C++
+
+ellison-rosu-2012-tr.pdf
+
+Technical report: Defining the undefinedness of C
+
+TeXLaTeXcourse.pdf
+
+The computer science of TEX and LaTeX; based on CS 594, fall 2004, University of Tennessee
+
+gnuplot.pdf
+
+gnuplot manual 4.6
+
+gnuplot-SampleCh2.pdf gnuplot-SampleCh13.pdf
+
+Gnuplot in Action (example chapters
+
+1974.pdf
+
+A study of climatological research as it pertains to intelligence problems
+
+pi-2012.pdf
+
+The life of Pi: from Archimedes to ENIAC and beyond
+
+Lindsey_van_der_Meulen-A68-book.pdf
+
+Informal introduction to Algol 68
+
+IntroToAutomataTheory-book.pdf
+
+Introduction to automata theory, languages, and computation
+
+SzeliskiBook_20100903.pdf
+
+Computer Vision: Algorithms and Applications
+
+Rat12.pdf
+
+Rationale for Ada 2012
+
+wcre12.pdf
+
+C to O-O Translation: Beyond the Easy Stuff
+
+1305.6745v2.pdf
+
+On the Concept of Variable Roles and its Use in Software Analysis
+
+2000ImageProcessingInC2ed.pdf
+
+Image processing in C
+
+Algorithms_Image_Proc_Comp_Vis-book.pdf
+
+Algorithms for image processing and computer vision
+
+pocket-handbook-image-proc-alg.pdf
+
+The pocket handbook of image processing algorithms in C
+
+FIP2_3.pdf
+
+Fundamentals of image processing
+
+ComputerNetworks-book.pdf
+
+An Introduction to Computer Networks
+
+LISP I Programmers Manual.pdf
+
+LISP I programmer's manual
+
+princeton_bitcoin_book.pdf
+
+Bitcoin and Cryptocurrency Technologies 
+ 
+wertz.pdf
+
+Space Mission Analysis and Design.
+
+comp-eng-handbook.pdf
+
+The computer engineering handbook
+
+Euclid-firstsix-book.pdf
+
+The first six books of The Elements of Euclid
+
+10.1.1.85.6810.pdf
+
+History of IBM’s Technical Contributions to High Level Programming Languages
+
+planningcodingof0103inst.pdf
+
+Planning and coding problems for an electronic computing instrument
+
+1507.06955.pdf
+
+Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript
+
+50850529.pdf
+
+The Navy Fortran validation system
+
+bltj13.pdf
+
+Predicting Risk of Software Changes
+
+10.1.1.144.8841.pdf
+
+Kumpel: Visual exploration of file histories
+
+Kuhn10bSoftwareMaps.pdf
+
+Software cartography: thematic software visualization with consistent layout
+
+banking2_corrected1.pdf
+
+An empirical model of slope ratio comparisons
+
+hard.pdf
+
+Why are people bad at detecting randomness?  Because it is hard
+
+10.1.1.134.1300.pdf
+
+How are Java software developers using the Eclipse IDE?
+
+0907.0455v3.pdf
+Peter-Principle-talk.pdf
+
+The Peter principle revisited: A computational study
+
+1102.2837v2.pdf
+
+Efficient promotion strategies in hierarchical organizations
+
+filesize02.ps
+
+A study of irregularities in file-size distributions
+
+camera-vamos-20100107.pdf
+
+The variability model of the Linux kernel
+
+10practical.pdf
+
+Practical considerations in deploying statistical methods for defect prediction: A case study within the Turkish telecommunications industry
+
+hase2004MenziesDiStefano.pdf
+
+How good is your blind spot sampling policy?
+
+SIGMETRICS-01.pdf (unc, not used) d
+
+What TCP/IP protocol headers can tell us about the web
+
+amassing.pdf
+
+Amassing and indexing a large sample of version control systems: towards the census of public source code history
+
+10.1.1.98.1923.pdf
+
+Identifying changed source code lines from version repositories
+
+icpc10.pdf (BES..., not used) d
+
+Extracting source code from e-mails
+
+linuxkerneldevelopment.pdf (paper, not used) d
+
+Linux Kernel development: How fast it is going, who is doing it, what they are doing, and who is sponsoring it (Mar 2008)
+
+lf_linux_kernel_development_2009.pdf (paper, partial) d
+
+Linux Kernel development: How fast it is going, who is doing it, what they are doing, and who is sponsoring it (Aug 2009)
+
+lf_linux_kernel_development_2010.pdf (paper, partial) d
+
+Linux Kernel development: How fast it is going, who is doing it, what they are doing, and who is sponsoring it (Dec 2010)
+
+lf_kernel_development_2012.pdf (paper, partial) d
+
+Linux Kernel development: How fast it is going, who is doing it, what they are doing, and who is sponsoring it (Mar 2012)
+
+lf_kernel_development_2013.pdf (paper, partial) d
+
+Linux Kernel development: How fast it is going, who is doing it, what they are doing, and who is sponsoring it (Sep 2013)
+
+lf_kernel_development_2016.pdf (paper, not used) d
+
+Linux Kernel Development How Fast It is Going, Who is Doing It, What They Are Doing and Who is Sponsoring the Work (Aug 2016)
+
+IntroInno-OSS-review.pdf
+
+Introducing Innovations into Open Source Projects
+
+BOL-WASDeTT3.pdf
+
+Sourcerer - An infrastructure for large-scale collection and analysis of open-source code
+
+how-scientists-use-computers-2009.pdf
+
+How do scientists develop and use scientific software?
+
+PNAS-2007-Lynch-8597-604.pdf
+
+The frailty of adaptive hypotheses for the origins of organismal complexity
+
+Robo10TR.pdf
+
+Distinguishing humans from bots in web search logs
+
+fsstudy-acmtos07.pdf (partially downloaded, part01.tgz, cited) d
+
+A Five-Year Study of File-System Metadata
+
+TR-2006-186.pdf
+
+Worldwide buzz: Planetary-scale views on an instant-messaging network
+
+13_Manzoor_rev.pdf (paper, not used) d
+
+Analyzing programming contest statistics
+
+Michel.SOM.pdf
+
+Quantitive analysis of culture using millions of digitized books
+
+CrowstonFLOSSReviewPaper.pdf
+
+Free/Libre open source software development: What we know and what we do not know
+
+Flajolet85c.pdf
+
+Approximate counting: A detailed analysis
+
+csda07.pdf
+
+Nonstandard operator precedence in Excel
+
+hydan.pdf
+
+Hydan: Hiding information in program binaries
+
+chambers.pdf
+
+Measurement-based characterization of a collection of on-line games
+
+0708.1579v1.pdf (partial) d
+
+Homogeneous temporal activity patterns in a large online communication space
+
+msr2010-udd.pdf
+
+The ultimate debian database: Consolidating bazaar metadata for quality assurance and data mining
+
+zimmermann-msr-2007.pdf
+
+Mining workspace updates in CVS
+
+1107.3707v1.pdf
+
+Statistical laws governing fluctuations in word use from word birth to word death
+
+10.1.1.110.8666.pdf
+
+Exploiting data-width locality to increase superscalar execution bandwidth
+
+podc11_mutex.pdf
+
+Resilience of mutual exclusive algorithms to transient memory faults
+
+sas11.pdf
+
+Probabilistic accurate program transformations
+
+p50-hayes.pdf (not used) d
+
+Traceability challenge 2011: Language translation
+
+git-book.pdf
+
+Pro Git
+
+R-to-C.pdf
+
+RCC: A compiler for the R language for statistical computing
+
+euro.pdf
+
+140 heads in 250 tosses - suspicious?
+
+Making.Software.Oct.2010.pdf
+
+Making software : What really works, and why we believe it
+
+Mathematica-Intro.pdf
+
+Mathematica programming: an advanced introduction
+
+Learning_Python_4ed.pdf
+
+Learning Python
+
+HIMURIM.pdf
+
+How to gamble if you're in a hurry
+
+debian-handbook.pdf
+
+The Debian administrator's handbook
+
+slac-r-205.pdf
+
+Analysis and performance of computer instruction sets
+
+TheArtofAgileDevelopment.pdf
+
+The art of agile development
+
+1210.0530v1.pdf
+
+Best practices for scientific computing
+
+AlgStringsTreesSequences.pdf
+
+Algorithms on strings, trees, and sequences (computer science and computational biology)
+
+How complex systems fail.pdf
+
+How complex systems fail
+
+SEC-TN12-002.pdf (paper+000009670.pdf, partial) d
+
+IPA SEC book 2012-2013 usage data (Japanese)
+
+SEC-TN04-016.pdf (paper, TODO) d
+
+IPA SEC book 2005 usage data (Japanese)
+
+SEC-TN05-008.pdf (paper, TODO) d
+
+IPA SEC book 2006 usage data (Japanese)
+
+SEC-TN06-005.pdf (paper, TODO) d
+
+IPA SEC book 2007 usage data (Japanese)
+
+SEC-TN08-002.pdf (paper, TODO) d
+
+IPA SEC book 2008 usage data (Japanese)
+
+SEC-TN09-002.pdf (paper, TODO) d
+
+IPA SEC book 20?? usage data (Japanese)
+
+000053553.pdf (paper, TODO, Japanese) d
+
+IPA SEC book 2015 usage data??? (Japanese)
+
+col10040-book.pdf
+
+Fundamentals of electrical engineering I
+
+prisoners-2012.pdf
+
+Iterated prisoner's dilemma contains strategies that dominate any evolutionary opponent
+
+AdExposure_EC11.pdf
+
+The effects of exposure time on memory of display advertisements
+
+Marchese_IV'11.pdf
+
+Exploring the origins of tables for information visualization
+
+Fortran-orig-IBM-report.pdf
+
+Specification for The IBM mathematical FORmula TRANslation System, Fortran
+
+Takhteyev-Hilts-2010.pdf
+
+Investigating the geography of open source software through github
+
+slowdown-postal-mail.html
+
+Slowdown in US postal mail
+
+FLOSS-US-Report (paper, not used) d
+
+The free/libre/open source software survey for 2003
+
+light-speed_travel.pdf
+
+Speed kills: Highly relativistic spaceflight would be fatal for passengers and instruments
+
+1301.3718.pdf (cited) d
+
+Empirical estimates suggest most published medical research is true
+
+emp-se-surv.pdf
+
+A literature survey on empirical evidence in software engineering
+
+Enerj-pldi2011.pdf
+
+EnerJ: Approximate data types for safe and general low-power computation
+
+genprog-tse2011.pdf
+
+GenProg: A genetic method for automatic software repair
+
+genprog-icse2012.pdf
+
+A systematic study of automated program repair; Fixing 55 out of 105 bugs for $8 each
+
+ISOIEC_FDIS25010.pdf
+
+Systems and software engineering - systems and software quality requirements and evaluation (SQuaRE) - system and software quality models
+
+ISOIEC_SC7_N5582.pdf
+
+Systems and software engineering - systems and software quality requirements and evaluation (SQuaRE) - measurement of quality in use
+
+lit-rev_fault-predict.pdf (paper, not emailed, not used) d
+lit-rev_fault-appendix_v1.2.pdf
+
+A systematic literature review on fault prediction performance in software engineering
+
+Maiga_Abdou_2012_these.pdf (done) d
+
+Impacts and detection of design smells
+
+genprog-gecco2012.pdf
+
+Representation and operators for improving evolutionary software repair
+
+jdm06001.pdf
+
+Biases in casino betting: The hot hand and the gambler's fallacy
+
+taco12_1.pdf (got subset, re-emailed) d
+
+Deconstructing iterative optimization
+
+bird-masters.pdf (done) d
+
+Software knows best: A case for hardware transparancy and measureability
+
+10.1.1.180.2251.pdf (paper, done) d
+
+Population sex differences in IQ at age 11: the scottish mental survey of 1932
+
+10.1.1.232.1826.pdf
+
+The energy and Emergy of the Internet
+
+gauss-worst-case.pdf
+
+On the worst-case complexity of integer gaussian elimination
+
+0601006.pdf
+
+Surprises in approximating levenshtein distances
+
+SatelliteCommSystems5th.Ed_book.pdf
+
+Satellite communications systems: systems, techniques and technologies
+
+diffusion-of-innovations-3rd-book.pdf
+
+Diffusion of innovations 3rd ed
+
+MCAPss2-von-Neumann.pdf
+
+The principles of large scale computing machines (von Neumann)
+
+ubicomp_2007_llama.pdf (cited) d
+
+Users and Batteries: Interactions and Adaptive Energy Management in Mobile Systems
+
+10.1.1.225.9981.pdf (refed) d
+
+Executive powers: Deanonymizing user web traffic via AC power analysis
+
+SAG+13.pdf (not used) d
+
+The potential of polyhedral optimization: An empirical study
+
+iso-in-figures_2011.pdf
+
+ISO in figures
+
+nato1968.pdf
+
+Software engineering (NATO science committee report)
+
+nato1969.pdf
+
+Software engineering techniques (NATO science committee report)
+
+2012.greendata.igcc.pdf (cited) d
+
+Green enterprise computing data: Assumptions and realities
+
+HVC2013.pdf (not used) d
+1305.6640v1.pdf (not used) d
+
+Domain types: abstract-domain selection based on variable usage
+
+2013b-technicalreport.pdf (not used) d
+
+Mining metrics, changes and dependencies from the Maven dependency dataset
+
+1204.1751v1.pdf
+
+Automated semantic grading of programs
+
+1205.4251.pdf
+
+Scientific utopia:  II. Restructuring incentives and practices to promote truth over publishability
+
+wiki-analysis.pdf (not used) d
+
+Method and tool support for classifying software languages with Wikipedia
+
+STAN-CS-76-562.pdf
+
+The early development of programming languages
+
+tr-97-33.pdf
+
+The five-minute rule ten years later, and other computer storage rules of thumb
+
+
+Apache-affiliated twitter screen names: A dataset
+
+7400970.pdf
+7400970-sup-0001.pdf (paper, cited) d
+
+How many scientific papers should be retracted?
+
+1301.3748.pdf
+
+Deep impact: Unintended consequences of journal rank
+
+retracted-mostly-misconduct.pdf
+
+Misconduct accounts for the majority of retracted scientific publications
+
+journal.pone.0044118.pdf (paper, not used) d
+
+A comprehensive survey of retracted articles from the scholarly literature
+
+journal.pone.0068397.pdf (paper, cited) d
+
+Why has the number of scientific retraction increased?
+
+empirical-acm.pdf
+
+Empirical evaluation in computer science research published by ACM
+
+CACOMPLAINTS.pdf (paper, not used) d
+
+Better business Customer complaint statistics for 2012 in Canada
+
+CASTATSBYINDUSTRY.pdf (paper, not used) d
+
+Better business Customer complaint statistics, by industry, for 2012 in Canada
+
+USCOMPLAINTS.pdf (paper, not used) d
+
+Better business Customer complaint statistics for 2012 in US
+
+USSTATSBYINDUSTRY.pdf (paper, not used) d
+
+us-stats-complaints-2013.pdf (paper, not used) d
+
+Better business Customer complaint statistics for 2013 in US
+
+us-stats-inquiries-2013.pdf (paper, not used) d
+
+Better business Customer inquiries statistics for 2013 in US
+
+Customer complaint statistics, by industry, for 2012 in US
+
+nature-of-maths-book.pdf
+
+18 Unconventional essays on the nature of mathematics
+
+soft-eng-in-1966.pdf
+
+Software engineering in 1968
+
+cacmapr05.pdf
+
+Is computer science science?
+
+0905.3590.pdf
+
+Desperately seeking mathematical proof
+
+rnoti-p418.pdf
+
+Errors and corrections in mathematics literature
+
+Brewer_1994b.pdf
+
+Color use guidelines for mapping and visualization
+
+msr13-id154-p-15977.pdf (invocd.zip, not used) d
+
+INVocD: Identifier name vocabulary dataset
+
+journal.pone.0015582.pdf (done) d
+
+Modeling effects of local extinctions on cultural change and diversity in the Paleolithic
+
+msr14floss.pdf (done) d
+
+FLOSS 2013: A survey dataset about free software contributors: challenges for curating, sharing, and combining
+
+Stapelberg-BSc.pdf
+
+Debian code search
+
+DUNN_GILBERT_WILSON_2011.pdf
+
+If money doesn't make you happy, then you probably aren't spending it right
+
+micceri89.pdf
+
+The Unicorn, The Normal Curve, and Other Improbable Creatures
+
+TSE2013.pdf (not used) d
+
+Variability in software systems - A systematic literature review
+
+Hengl_GEOSTATe2c1w-book.pdf
+
+A practical guide to geostatistical mapping
+
+Pinch+Media.pdf (paper, extracted, done) d
+
+'Appstore secrets' (What we've learned from 30,000,000 downloads)
+
+babel_comp_acronyms.htm
+
+A Glossary of Computer Oriented Abbreviations and Acronyms
+
+JAWS S3 99 White Paper.htm
+
+Making Information Work for the Warfighter
+
+ghtorrent-dataset.pdf
+
+The GHTorent dataset and tool suite
+
+github-mirror.pdf (faded away) d
+
+GHTorrent: Github’s Data from a Firehose
+
+Hilbert-Lopez-How-Tech-Cap-1.pdf (paper, cited) d
+
+How to measure the World's technological capacity to communicate, store and compute information part I: Results and scope
+
+Hilbert-Lopez-How-Tech-Cap-2.pdf (paper, cited) d
+
+How to measure the World's technological capacity to communicate, store and compute information part II: Measurement unit and conclusions
+
+Hilbert-Lopez-Data-Tech-Cap.pdf (paper, cited) d
+LopezHilbertSuppApp2012.pdf (update in 2012, cited) d
+
+Supporting material: The World’s Technological Capacity to Store, Communicate, and Compute Information
+
+hilbert2011a.pdf (paper, not used) d
+
+The World's technological capacity to communicate, store and compute information
+
+journal.pone.0103360.pdf
+
+Outlier removal and the relation with reporting errors and quality of psychological research
+
+bmj.g3725.full.pdf
+
+Evidence based medicine: a movement in crisis?
+
+WhatsTheContent_Hilbert.pdf (paper, not used) d
+
+What is the content of the world's technological mediated information and communication capacity: how much text, image, audio and videio?
+
+200815x10pub.pdf
+
+Algorithms for correcting some obvious inconsistencies and rounding errors in business survey data
+
+The Grammar of Graphics-book.pdf
+
+The Grammar of Graphics
+
+trellis.pdf
+
+Trellis Graphics User's Manual
+
+journal.pone.0057410.pdf
+
+Evaluating Amazon's mechanical turk as a tool for experimental behavioral research
+
+tse_mobile_country_diff.pdf (cited) d
+
+Investigating country differences in mobile app user behavior and challenges for software engineering
+
+computers-historic-survey.pdf
+
+Electronic Computers - A Historical Survey in Print
+
+NetLogo User Manual.pdf
+
+NetLogo 5.0.4 User Manual
+
+uncertainty-asplos-2014.pdf
+
+Uncertain <T>: A First-Order Type for Uncertain Data
+
+XB-90-704-book.pdf
+
+The rise and fall of infrastructures
+
+usability-markov.pdf
+
+Usability Analysis with Markov Models
+
+Debunking_Handbook.pdf
+
+The debunking handbook
+
+Art_of_Insight-book.pdf
+
+The Art of Insight in Science and Engineering
+
+Effective awk Prog-book.pdf
+
+Effective awk programming
+
+jeabehav00209-0003.pdf (paper, done) d
+
+Probability relations within response sequences under ratio reinforcement
+
+MSR2013-Vasilescu.pdf (not used) d
+
+Mining software engineering conference data
+
+p203-schwartz-jovial.pdf
+
+The development of Jovial
+
+RobustProgramming.pdf (paper, not used) d
+
+Paranoid Programming Techniques for Constructing Robust Software
+
+RoyStatSocA_CommentaryCleveland.pdf
+
+Graphical Perception: The Visual Decoding of Quantitative Information on Graphical Displays of Data
+
+fse14_ORBS.pdf
+
+ORBS: Language-Independent Program Slicing
+
+Madoff_exhibit-0293.pdf (paper+file, cited) d
+
+The World's Largest Hedge Fund is a Fraud
+
+AdaptingToBabel.pdf
+
+Adapting to BABEL—ADAPTIVITY AND CONTEXT-SENSITIVITY IN PARSING: FROM anbncn TO RNA
+
+parkinsonslaw.htm parkinsons_law.pdf
+
+Parkinson's Law
+
+Dictionary of Programming Languages.htm
+	 
+Parkinson-s-Law.pdf
+
+Parkinson's law and other studies in administration 
+  
+Dictionary of Programming Languages
+
+0110141.pdf
+
+Computational capacity of the universe
+
+Research software.htm (not used) d
+
+Research software survey of academics
+
+1404.5199v1.pdf
+
+Social cycling and conditional responses in the Rock-Paper-Scissors game∗
+
+1503.01881v1.pdf
+
+Attention decay in science
+
+14-09-030.pdf (not used) d
+14-09-030_supp1.pdf
+
+Punctuated Equilibrium in the Large Scale Evolution of Programming Languages
+
+Bandit-Alg-Website-Opt-book.pdf
+
+Bandit algorithms for website optimization
+
+Wald-Vliegtuigen-Bayes.pdf
+
+Abraham Wald's work on aircraft survivability
+
+statsum.pdf (paper, not used) d
+
+Statistical Summary of Commercial Jet Airplane Accidents Worldwide Operations | 1959 – 2013
+
+Learning-OpenCV_book.pdf
+
+Learning OpenCV
+
+wavelab.pdf
+
+WaveLab and Reproducible Research
+
+RCUKOpenAccessPolicy.pdf
+
+RCUK Policy on Open Access and Supporting Guidance
+
+RCUKCommonPrinciplesonDataPolicy.pdf
+
+Guidance on best practice in the management of research data
+
+Programming_in_D.pdf
+
+Programming in D
+
+Williams.pdf
+
+Why are tabular calculators almost forgotten?
+
+icpc15-i3-CRC.pdf (not used) d
+
+Rethinking User Interfaces for Feature Location
+
+grubler.pdf (paper, extract, not used) d
+
+Dynamics of energy technologies and global change
+
+claire-dissertation.pdf
+
+Automatic Program Repair Using Genetic Programming
+
+measuring_the_user_exp-book.pdf
+
+Measuring the user experience
+
+complete-book-spaceflight.pdf
+
+The Complete Book of Spaceflight From Apollo 1 to Zero Gravity
+
+KalmanBayesianFilters_Python.pdf
+
+Kalman and Bayesian Filters in Python
+
+LeprechaunsSoftEng-book.pdf
+
+The Leprechauns of Software Engineering
+
+CUBLAS_Library.pdf
+
+CUDA CUBLAS Library
+
+C_Johnson_Accident_Book.pdf
+
+A HANDBOOK OF INCIDENT AND ACCIDENT REPORTING
+
+1498.pdf
+
+Does Science Advance One Funeral at a Time?
+
+cr-2007-2136974.pdf
+
+Lessons Learned From Seven Space Shuttle Missions
+
+woot13-shapiro.pdf
+
+“Weird Machines” in ELF: A Spotlight on the Underappreciated Metadata
+
+woot13-bangert.pdf
+
+The Page-Fault Weird Machine: Lessons in Instruction-less Computation
+
+culler-book.pdf
+
+Parallel Computer Architecture A Hardware / Software Approach
+
+rankings.pdf
+
+Reverse-Engineering Conference Rankings: What Does it Take to Make a Reputable Conference?
+
+325384-sdm-vol-3abcd.pdf
+
+Intel 64 and IA-32 Architectures Software Developer’s Manual Volume 3 (3A, 3B, 3C & 3D): System Programming Guide
+
+article.pdf
+
+Human Factors Engineering Studies of the Design and Use of Pushbutton Telephone Sets
+
+NationalSoftwareQualityExp.pdf (not used) d
+
+NATIONAL SOFTWARE QUALITY EXPERIMENT A LESSON IN MEASUREMENT 1992-2002
+
+p45-mashey.pdf
+
+The Long Road To 64 Bits
+
+VIFA_download_large.pdf
+
+Visualising information for advocacy
+
+web-int-github-task-alloc.pdf (not used) d
+
+On the Effectiveness of Emergent Task Allocation of Virtual Programmer Teams
+
+political-surviv-logic.pdf
+
+The Logic of Political Survival
+
+P7536.pdf (paper, not used) d
+
+The effects of military and other government spending on the computer industry: The early years
+
+woot15-paper-rushanan.pdf
+
+Run-DMA
+
+mov.pdf
+
+mov is Turing-complete
+
+Agerfalk_2014_EJIS.pdf
+
+Insufficient theoretical contribution: a conclusive rationale for rejection?
+
+grier1996.pdf
+
+The ENIAC, the Verb “to program”and the Emergence of Digital Computers
+
+1605.05274v1.pdf
+
+Java Generics are Turing Complete
+
+2003-08-TheFirstDraft.pdf
+
+First Draft of a Report on the EDVAC
+
+anderson_bbs_2010.pdf
+
+Neural reuse: A fundamental organizational principle of the brain
+
+KillourhyMaxion09.pdf (not used) d
+
+Comparing Anomaly-Detection Algorithms for Keystroke Dynamics
+
+osdi14-paper-bangert.pdf
+
+Nail: A Practical Tool for Parsing and Generating Data Formats
+
+journal.pone.0142537.PDF
+
+Journal Impact Factor Shapes Scientists’ Reward Signal in the Prospect of Publication
+
+MachanavajjhalaLP06.pdf
+
+l-Diversity: Privacy Beyond k-Anonymity
+
+census.pdf
+
+Revisiting the Uniqueness of Simple Demographics in the US Population
+
+cia-ath.pdf
+
+Analytic Thinking and Presentation for Intelligence Producers: Analysis Training Handbook
+
+stan-reference-2.9.0.pdf
+
+Stan Modeling Language
+
+Wang2010a.pdf (done) d
+
+Chasing the hottest IT: effects of information technology fashion on organizations
+
+nasa.pdf
+
+The Jinx on the NASA Software Defect Data Sets
+
+Handbook.of.Data.Visualization.pdf
+
+Handbook of Data Visualization
+
+preprints201608.0191.v1.pdf
+
+688,112 Statistical Results: Content Mining Psychology Articles for Statistical Test Results
+
+pop-growth-tech-change-million-b.c.-1990.pdf
+
+Population Growth and Technological Change: One Million B.C. to 1990
+
+tse.2007.70743.pdf (not used) d
+
+MNav: A Markov Model-Based Web Site Navigability Measure
+
+tr-98-12.pdf (not used) d
+
+Empirical analysis of predictive algorithms for collaborative filtering
+
+ChocolateNobel.pdf
+
+Chocolate Consumption, Cognitive Function, and Nobel Laureates
+
+issta15.pdf
+
+An Analysis of Patch Plausibility and Correctness for Generate-and-Validate Patch Generation Systems
+
+marginnote.pdf
+
+Non-Floating Margin Notes with marginnote Package∗
+
+ncomms10986.pdf
+
+Experimental evidence for compositional syntax in bird calls
+
+usccse76-500.pdf
+
+Software Engineering
+
+deGroot-chess.pdf
+
+Thought and Choice in Chess
+
+typographicstyle.pdf
+
+Typographic Style is More than Cosmetic
+
+Cross-Cultural_Psych-book.pdf
+
+Cross-cultural psychology
+
+grapherpics2.pdf
+
+Grapher pics
+
+lennie_2003.pdf
+
+The Cost of Cortical Computation
+
+Charnov-1976-TPB.pdf
+
+Optimal Foraging, the Marginal Value Theorem
+
+RR-8918.pdf
+
+Prequel: A Patch-Like Query Language for Commit History Search
+
+steveicse96.pdf
+
+The Program Understanding Problem: Analysis and a Heuristic Approach
+
+Allen-CACM1983.pdf
+
+Maintaining Knowledge about Temporal Intervals
+
+journal.pone.0005738.PDF
+
+How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data
+
+4.pdf
+
+Soft Power, World System Dynamics, and Democratization: A Bass Model of Democracy Diffusion 1800-2000
+
+Guy697-712.pdf
+
+The Strong Law of Small Numbers
+
+how-invention-begins-echoes.pdf (done) d
+
+How Invention Begins
+
+sdata20172.pdf (cited) d
+
+A longitudinal dataset of five years of public activity in the Scratch online community
+
+hanson.pdf
+
+The Original WWW: Web Lessons from the Early Days of Radio
+
+1002721264-mitchell.pdf
+
+The contributions of grace murray hopper to computer science and computer education
+
+norberg.pdf
+
+Software Development at the Eckert-Mauchly Computer Company Between 1947 and 1955
+
+oh128flb.pdf
+
+An Interview with FRIEDRICH L. BAUER OH 128
+
+Software-Engineering_9ed-book.pdf
+
+Software engineering
+
+ees.2016.0223.pdf
+
+Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition
+
+1983_08_BYTE_08-08_The_C_Language.pdf
+
+Byte - 1983 C issue
+
+960617dellconsentorder.pdf
+
+DELL COMPUTER CORPORATION CONSENT ORDER, ETC., IN REGARD TO ALLEGED VIOLATION OF SEC. 5 OF THE FEDERAL TRADE COMMISSION ACT, Docket C-3658
+
+d06423.pdf (paper, not used) d
+
+U.S. Semiconductor and Software Industries Increasingly Produce in China and India
+
+edepotin_book.pdf
+
+Product Quality
+
+Generation-CS.pdf (not used) d
+
+Generation CS: Computer Science Undergraduate Enrollments Surge Since 2006
+
+Ada - DoD HOLWG, Col Wm Whitaker, 1993.htm
+
+Ada - The Project The DoD High Order Language Working Group
+
+a037637.pdf
+
+EVALUATION OF ALGOL 68, JOVIAL J3B, PASCAL, SIMULA 67, AND TACP--ETC(U)
+
+a046616.pdf
+
+PROGRAMMING LANGUAGES, STANDARDS, USE, AND SELECTION: AIR FORCE AND OTHER GOVERNMENT AGENCIES VOLUME I, ANALYSIS
+
+AD0296046.pdf (paper, not used) d
+
+PROGRAMMING LANGUAGES AND STANDARDIZATION IN COMMAND AND CONTROL
+
+Tedre-Computing-as-Science.pdf
+
+Computing as a Science: A Survey of Competing Viewpoints
+
+vbhlrs309.pdf
+
+Optimizing the success of random searches
+
+qcu.pdf
+
+A Quarter Century of UNIX
+
+login_apr15_17_salus.pdf
+
+Dueling UNIXes and the UNIX Wars
+
+Auto_Comp_Cont_Vol2_1959-book.pdf (paper, done) d
+
+Handbook of Automation, Computation, and Control, Volume 2: Computers and Data Processing
+
+102746516-05-01-acc.pdf
+
+Applied Data Research Inc. (ADR)
+
+honeywell-history-cobol.pdf
+
+a view of The History of COBOL
+
+50861099.pdf
+
+COBOL-The 1980 standard, a preview
+
+1966a.pdf
+
+THE COBOL COMPILER FOR THE SIEMENS 3003
+
+Problems_COBOL-Empirical_Evidence.pdf
+
+Problems with COBOL--Some Empirical Evidence
+
+programsforelect00wilk.pdf
+
+The Preparation of Programs for an Electronic Digital Computer
+
+p637-zheng.pdf (cited) d
+
+A Method to Identify and Correct Problematic Software Activity Data: Exploiting Capacity Constraints and Data Redundancies
+
+0701086.pdf
+
+An introduction to the theory of citing
+
+d3e245a5a19adf32771.pdf
+
+Stochastic modeling of citation slips
+
+1609.05931.pdf
+
+The log log prior for the frequency of extraterrestrial intelligences
+
+ANVIL.pdf
+
+ANVIL: Software-Based Protection Against Next-Generation Rowhammer Attacks
+
+RP3020.pdf
+
+Chameleons: The Misuse of Theoretical Models in Finance and Economics
+
+Les-Chambers-Story-Tutorial.pdf
+
+Story in Engineering 
+
+ARJ-72_Augustine-reader.pdf (paper, done) d
+
+Augustine's Laws and Major System Development Programs
+
+research-results.pdf
+
+How do i know whether to trust a research result?
+
+14-3-5.pdf
+
+Read Before You Cite!
+
+0305150.pdf
+
+Copied citations create renowned papers?
+
+citationjasist2013.pdf
+
+Measuring academic influence: Not all citations are equal
+
+lawrence-current-biology-2007.pdf
+
+The mismeasurement of science
+
+Computer_Structures_82-book.pdf
+
+Computer Structures: Principles and Examples
+
+Computer_Structures_71-book.pdf
+
+Computer Structures: Readings and Examples
+
+kubie1994.pdf
+
+Recollections of the First Software Company
+
+johnson1998.pdf
+
+A View From the 1960s: How the Software Industry Began
+
+US_vs_IBM_Exhibit_14971_part_1_Jul80.pdf
+
+Historical Narrative The 1950s
+
+US_vs_IBM_Exhibit_14971_part_2_Jul80.pdf
+
+Historical Narrative The 1960s
+
+US_vs_IBM_Exhibit_14971_part_3_Jul80.pdf
+
+Historical Narrative The 1970s
+
+BC3WP201106.pdf (not used) d
+
+The Long Run Demand for Lighting: Elasticities and Rebound Effects in Different Phases of Economic Development
+
+SP-4106.pdf
+
+Aiming at Targets: {The} Autobiography of Robert C. Seamans, Jr.
+
+Software_Prod-book.pdf
+
+Software productivity
+
+ShockOfTheOld-book.pdf
+
+The shock of the old Technology and global history since 1900
+
+196710.pdf (paper, done) d
+
+Computer Time Sharing: {Its} Origins and Development
+
+Software_engineering_1968.pdf
+
+Software engineering in 1968
+
+Frank_Werner.oral_history.2006.pdf
+
+Oral History of Werner Frank
+
+AlanTaylorAssoc_370_1973.pdf (paper, not used) d
+
+The IBM 370 papers 1971-1980
+
+ORinResearch_Development-book.pdf
+
+Operations research in research and development
+
+U062885.pdf
+
+The entry of established electronics companies into the early computer industry in the {UK} and {USA}
+
+C1.pdf
+
+The SIMPL family of programming languages and compilers
+
+cp120.pdf (paper, not used) d
+
+Computing in British Universities: The Computer Board 1966–1991
+
+Cortada_1996-apply.pdf
+
+A Bibliographic Guide to the History of Computer Applications, 1950-1990
+
+ANAO_Report_2007_24.pdf
+
+Customs’ Cargo Management Re-engineering Project Australian Customs Service
+
+python_alg-book.pdf
+
+Annotated algorithms in python with applications in physics,biology,and finance (2nd ed)
+
+ICL_American_Challenge.pdf (paper, not used) d
+
+ICL and the American Challenge British Government Policies for the Computer Industry, 1949-1985
+
+CultureInnovation_bbn.pdf
+
+A culture of innovation insider accounts of computing and life at BBN
+
+axtell2001a.pdf
+
+Zipf Distribution of U.S. Firm Sizes
+
+invisible_engines-book.pdf
+
+Invisible Engines How Software Platforms Drive Innovation and Transform Industries
+
+EPA_Datacenter_Report_Congress.pdf (paper, not used) d
+
+Report to Congress on Server and Data Center Energy Efficiency Public Law 109-431 
+
+1705.01198.pdf
+
+Stack Overflow in Github: Any Snippets There?
+
+frma-02-00001.pdf (cited) d
+
+Accessibility and Update Status of Published Software: Benefits and Missed Opportunities
+
+Public_law_89-306.pdf
+
+Public Law 89-306
+
+Hamming-TheArtOfDoingSciEng-book.pdf
+
+The Art of Doing Science and Engineering
+
+NancyWeltyClark.pdf
+
+Computing Memories Nancy Welty Clark
+
+1709.01609.pdf
+
+Effectiveness of Anonymization in Double-Blind Review
+
+1709.05281.pdf
+
+AndroZoo++: Collecting Millions of Android Apps and Their Metadata for the Research Community
+
+Cortada_1990.pdf
+
+A Bibliographic Guide to the History of Computing, Computers, and the Information Processing Industry
+
+253210.pdf
+
+Foundations of Computer Programming in {Britain} (1945 - 1955)
+
+ignition.pdf
+
+Ignition!
+
+structureofcompu00mcdo.pdf
+
+The structure of the computer industry
+
+backport_edcc15.pdf
+
+Increasing Automation in the Backporting of Linux Drivers Using Coccinelle
+
+gordon2004.pdf (emailed) d
+
+Measurement of the Flux and Energy Spectrum of Cosmic-Ray Induced Neutrons on the Ground
+
+1602.05643.pdf (paper, not used) d
+
+An Analysis of the Search Spaces for Generate and Validate Patch Generation Systems
+
+FactsFallaciesSE-book.pdf
+
+Facts and Fallacies of Software Engineering
+
+POST-PEER-REVIEW-PUBLISHERS.pdf
+
+Defiance to compliance: Visions of the computer in postwar Britain
+
+Hoare-CACM-69.pdf
+
+An Axiomatix Basis for Computer Programming
+
+Politico_Social_History_of_Algol.pdf
+
+A Politico-Social History of Algol
+
+10.1109@iccet.2010.pdf
+
+Notice of Retraction
+
+Let Erma do it.pdf
+
+LET ERMA DO IT
+
+double_blind_rev_soft_eng.pdf
+
+Double-Blind Review in Software Engineering Venues
+
+Berkeley_Edmund-book.pdf
+
+Giant Brains or machines that think
+
+34541425-MIT.pdf
+
+A symbolic analysis of replay and switching circuits
+
+MU5_Computer_System-book.pdf
+
+The MU5 Computer System
+
+1938-shannon-switching-circuits.pdf
+
+A Symbolic Analysis of Relay and Switching Circuits
+
+SherLock.pdf (not used) d
+
+SherLock vs Moriarty: A Smartphone Dataset for Cybersecurity Research
+
+OSSSimpleSabotage.pdf
+
+Simple sabotage field manual
+
+e66de0ec1f7283b5b48.pdf
+
+What do citation counts measure?  A review of studies on citing behavior
+
+CiteBehaviorImpactSE.pdf
+
+Using Citation Behavior to Rethink Academic Impact in Software Engineering
+
+cuc.annual_report.1961.pdf (paper, not used) d
+
+Computer Usage company, Inc. ANNUAL REPORT for the year ended September 30, 1961
+
+pldi16.pdf
+
+Stratified Synthesis: Automatically Learning the x86-64 Instruction Set
+
+2d946752a1afda9197.pdf
+
+Consonant confusions in white noise
+
+The-Final-Exam-Don-Coffey.pdf
+
+The real final exam (some thoughts to ponder along the way)
+
+zero-oopsla-2011.pdf
+∗
+Why Nothing Matters: The Impact of Zeroing
+
+sec16_paper_razavi.pdf
+
+Flip Feng Shui: Hammering a Needle in the Software Stack
+
+texlinks.pdf
+
+texlinks.sty
+
+OS_bookv2.pdf
+
+What is an Operating System? A historical investigation (1954–1964)
+
+sec17-koppe.pdf
+
+Reverse Engineering x86 Processor Microcode
+
+bitcoin.pdf
+
+Bitcoin: A Peer-to-Peer Electronic Cash System
+
+BungePaper.pdf
+
+What is pseudoscience?
+
+591ea424a95db01eaaa.pdf
+
+How influential is Brooks’ Law?  A longitudinal citation context analysis of Frederick Brooks’ The Mythical Man-Month
+
+Backus-ProgrammingInAmerica.pdf
+
+Programming in America in the 1950s -- Some Personal Impressions
+
+good2000.pdf
+
+Turing’s anticipation of empirical bayes in connection with the cryptanalysis of the naval enigma
+
+Norbert_Wiener-book.pdf
+
+Cybernetics or Communication and Control in the Animal and the Machine
+
+usccse83-501.pdf
+
+Production of Large Computer Programs
+
+Seneca on the Shortness of Life.pdf
+
+On the Shortness of Life
+
+oopsla2017-whoguardsguards.pdf
+
+Who Guards the Guards?  Formal Validation of the Arm v8-M Architecture Specification
+
+HILBE-MCD-ERRATA-13Jul2015.pdf
+
+HILBE MCD ERRATA 03Nov2016 update
+
+fantastictimers.pdf
+
+Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript
+
+Ensmenger2016-draft.pdf
+
+The Multiple Meanings of a Flowchart
+
+a431730.pdf
+
+50 Years of Army Computing From ENIAC to MSRC
+
+HistoryModernComputing2nd-book.pdf
+
+A history of modern computing
+
+40e618ee3f38e6fd326.pdf
+
+What Makes the History of Software Hard
+
+Zuse.pdf
+
+Konrad Zuse
+
+hist_stats_colonial-1970-pt2.zip (paper, not used) d
+
+Historical statistics of the United States Colonial times to 1970 part 2
+
+deepcoder.pdf
+
+DEEP CODER : LEARNING TO WRITE PROGRAMS
+
+yip_MSc.pdf
+
+An investigation into Chinese cybercrime and the underground economy in comparison with the West
+
+Networks_Power_Electrification-book.pdf
+
+Networks of power: Electrification in western society 1880-1930
+
+SAT_SMT_draft-EN.pdf
+
+Quick introduction into SAT/SMT solvers and symbolic execution
+
+ssa-book.pdf
+
+Static Single Assignment Book
+
+allamanis2017dissertation.pdf
+
+Learning Natural Coding Conventions
+
+kulsrud1974.pdf (paper, not used) d
+
+Some Statistics on the Reasons for Compiler Use
+
+Electronic Computers Within The Ordnance Corps, Introduction.htm
+
+ELECTRONIC COMPUTERS WITHIN THE ORDNANCE CORPS HISTORICAL MONOGRAPH FROM 1961
+
+LinuxKernelDev3rd-book.pdf
+
+Linux Kernel Development
+
+GovMachineHistComputer.pdf (paper, done) d
+
+The Government Machine A Revolutionary History of the Computer
+
+1611.01989.pdf
+
+DEEP CODER : LEARNING TO WRITE PROGRAMS
+
+k-8-u2741-2-ACM-Glossary.pdf
+
+First Glossary of Programming terminology
+
+cu31924012322701-book.pdf
+
+TWO NEW SCIENCES BY GALILEO
+
+computerworld916unse.pdf
+
+ComputerWorld April 16, 1975- Grosch's article
+
+VintageIntelMicrochipsRev4.pdf
+
+The Collector’s guide to Vintage Intel Microchips 4th Edition, 2007
+
+SDR4Engineers-book.pdf
+
+Software-Defined Radio for Engineers
+
+SWEBOKv3.pdf
+
+Guide to the Software Engineering Body of Knowledge Version 3.0 SWEBOK
+
+the_chaos.txt
+
+THE CHAOS
+
+Vitruvius-Ten-Books-Arch.pdf
+
+Vitruvius The ten books of architecture
+
+MythsFactsEffScanner.pdf (paper, not used)
+
+Myths and Facts about the Efficient Implementation of Finite Automata and Lexical Analysis
+
+passagesfromlifeof-book.pdf
+
+The life of a philosopher (babbage)
+
+cleveref.pdf
+
+The cleveref package∗
+
+siunitx.pdf
+
+siunitx — A comprehensive (SI) units package∗
+
+a08cbcbb39e71e43a582.pdf
+
+Discovery Over Application: A Case Study of Misaligned Incentives in Software Engineering
+
+hill-almost_wikipedia.pdf
+
+Almost Wikipedia: Eight Early Encyclopedia Projects and the Mechanisms of Collective Action
+
+art-prolog-book.pdf
+
+The art of prolog
+
+19940029443.pdf (paper, not used) d
+
+NASA HISTORICAL DATA BOOK Volume IV NASA Resources 1969-1978
+
+2011-08-Paulsen.pdf
+
+Betwixt and between Software in telecommunications and the programming language Chill, 1974 - 1999
+
+banit-alg_book.pdf
+
+Bandit Algorithms
+
+19223.pdf
+
+Failure Rates in Introductory Programming Revisited
+
+draftregclass.pdf
+
+From Linear Models to Machine Learning Regression and Classification, with R Examples
+
+Effectsofgroupsize_Accepted.pdf (partial) d
+
+Effects of group size and learning on manual assembly performance: an experimental study
+
+4ElizabethAnderson.pdf
+
+What is the Point of Equality?
+
+interview_with_Dag.pdf
+
+Empirical software research: an interview with Dag Sjøberg, University of Oslo, Norway
+
+sampson_thesis.pdf
+
+HARDWARE AND SOFTWARE FOR APPROXIMATE COMPUTING
+
+EJ1079004.pdf (paper, not used) d
+
+Programming Language Use in US Academia and Industry
+
+EJ1164711.pdf (paper, not used) d
+
+Python source code plagiarism attacks on introductory programming course assignments
+
+RoutinesOfSubstitutionDraft.pdf
+
+Routines of Substitution John von Neumann’s work on software development, 1945-1948
+
+1607.05606.pdf
+
+The Memory of Science: Inflation, Myopia, and the Knowledge Network
+
+1806.02404.pdf
+
+Dissolving the Fermi Paradox
+
+2015_Custers.pdf
+
+Thirty years of illness scripts: Theoretical origins and practical applications
+
+0cf376d27a9fe67825e.pdf
+
+Use, Disuse, and Misuse of Automated Refactorings (Extended Version)
+
+PsychofIntelNew.pdf
+
+Psychology of Intelligence Analysis
+
+ndss2018_06B-2_Caliskan.pdf
+
+When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries
+
+1808.01400.pdf
+
+CODE2SEQ : GENERATING SEQUENCES FROM STRUCTURED REPRESENTATIONS OF CODE
+
+nsdi19-wang-xiang.pdf
+
+Hyperscan: A Fast Multi-pattern Regex Matcher for Modern CPUs
+
+Binkley2017ec.pdf
+
+Tree-Oriented vs. Line-Oriented Observation-Based Slicing
+
+37792_3997_9.pdf
+
+Commission decison of 27 Feb 2008 fixing the definitive amount of the periodic penalty payment imposed on Microsoft
+
+37792_3998_13.pdf
+
+The Commission's assessment of Microsoft's innovation claims
+
+37792_4183_3.pdf
+
+Commission decison of 4.3.2009 on the deletion of Article of Decicion 2007/53/EC relating to a proceeding pursuant to Article 82 of the EC treaty...
+
+2017_005_001_496272.pdf (paper, extracted, not used) d
+
+IEEE Computer Society/Software Engineering Institute Watts S. Humphrey Software Process Achievement (SPA) Award 2016: Nationwide
+
+The-State-of-AI-2019-Div.pdf
+
+The State of AI 2019: Divergence
+
+SSRN-id1117641.pdf
+
+BARGAINING IN THE SHADOW OF THE EUROPEAN MICROSOFT DECISION: THE MICROSOFT-SAMBA PROTOCOL LICENSE
+
+1210.0962.pdf (done) d
+
+Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets
+
+1603.01204.pdf
+
+A Theory of Ambulance Chasing
+
+Accidental-Empires-book.pdf
+
+ACCIDENTAL EMPIRES
+
+CargoCult.pdf
+
+Cargo cult science
+
+i-wouldnt-do-that.pdf
+
+I WOULDN’T Do that if I WERE YOU
+
+s41467-018-06292-0.pdf (did not download, not used) d
+
+Gender differences in individual variation in academic grades fail to fit expected patterns for STEM
+
+SSRN-id3078224.pdf
+
+Manufacturing an Artificial Intelligence Revolution
+
+kell17some-preprint.pdf
+
+Some Were Meant for C The Endurance of an Unmanageable Language
+
+spont-giving-calc-greed.pdf
+
+Spontaneous giving and calculated greed
+
+50YearsIP.pdf
+
+50 Years of Integer Programming 1958–2008
+
+1809.00821.pdf
+
+The MISRA C Coding Standard and its Role in the Development and Analysis of Safety- and Security-Critical Embedded Software
+
+EJP2018.pdf
+
+An empirical analysis of journal policy effectiveness for computational reproducibility
+
+pronk1998.pdf
+
+Constructing formal language definitions, can we hat can we learn from Modula-2 standardization?
+
+gill1995.pdf
+
+Early Expert Systems: Where Are They Now?
+
+BILLS-115hr4174enr.pdf
+
+Foundations for Evidence-Based Policymaking {Act} of 2018
+
+main_aa.pdf (not used) d
+
+The SEOSS 33 dataset -- Requirements, bug reports, code history, and trace links for entire projects
+
+SSRN-id1081613.pdf
+
+Pragmatism not Ideology: IBM’s Love Affair with Open Source Software
+
+IdeaPF.pdf (not used) d
+
+Are Ideas Getting Harder to Find?
+
+reflectionsonde00mollgoog.pdf
+
+Reflections on the Decline of Science in {England}, and on Some of its Causes
+
+jalics1983.pdf
+
+TRANSPORTING A PORTABLE OPERATING SYSTEM: UNIX TO AN IBM MINICOMPUTER
+
+58ebd149b09a14f64e.pdf
+
+Bargaining and Market Behaviorin Jerusalem, Ljubljana, Pittsburgh, and Tokyo:An Experimental Study
+
+1812.01395.pdf
+
+Cut to the chase: Revisiting the relevance of software engineering research
+
+work765.pdf
+
+Beyond the doomsday economics of “proof-of-work” in cryptocurrencies
+
+eval_world_christian_db.pdf
+
+Estimating the Religious Composition of All Nations: An Empirical Assessment of the World Christian Database
+
+SSRN-id3339527.pdf
+
+LAW REVIEWS, CITATION COUNTS, and TWITTER (Oh my!): Behind the Curtains of the Law Professor’s Search for Meaning
+
+0-FakeDetectionSci-Perso.pdf
+
+Duplicate and fake publications in the scientific literature: how many SCIgen papers in computer science?
+
+Erlang_Rationale.pdf
+
+The Erlang Rationale
+
+ICSE19.pdf
+
+Probabilistic Disassembly
+
+1804.02760.pdf
+
+Automatically assembling a full census of an academic field
+
+Rutter-PhD.pdf
+
+From Diversity to Convergence: British Computer Networks and the Internet, 1970-1995
+
+fasterthanthough00bvbo.pdf
+
+FASTER THAN THOUGHT A SYMPOSIUM ON DIGITAL COMPUTING MACHINES
+
+shbib.pdf
+
+Software History Bibliography
+
+jdm15923a.pdf
+
+On the reception and detection of pseudo-profound bullshit
+
+magenta_book_combined.pdf
+
+The Magenta Book Guidance for evaluation
+
+ERTS_2018_paper_59.pdf
+
+CompCert: Practical Experience on Integrating and Qualifying a Formally Verified Optimizing Compiler
+
+Masterminds_Programming.pdf
+
+Masterminds of Programming
+
+10.1.1.468.1514.pdf
+
+The Software Research Crisis
+
+journal.pone.0222213.pdf
+
+Affirmative citation bias in scientific myth debunking: A three-in-one case study
+
+unplanned_limits17.pdf
+
+Unplanned Obsolescence: Hardware and Software After Collapse
+
+auto-repair-defects4j.pdf
+
+Automatic Repair of Real Bugs in Java: A Large-Scale Experiment on the Defects4J Dataset
+
+ctimperley-phd.pdf
+
+Advanced Techniques for Search-Based Program Repair
+
+btz071.pdf
+
+Reviewer-coerced citation: case report, update on journal policy and suggestions for future prevention
+
+1908.04122.pdf (not used) d
+
+Citations in Software Engineering – Impacts of Paper-related, Journal-related, and Author-related Factors
+
+HENDERSON-PhD.pdf
+
+FREQUENT SUBGRAPH ANALYSIS AND ITS SOFTWARE ENGINEERING APPLICATIONS
+
+LR-12-2016-0108.pdf
+
+Incidence of predatory journals in computer science literature
+
+How_isRcited_research.pdf
+
+How is R cited in research outputs? Structure, impacts, and citation standard
+
+tranco-ndss19.pdf (not used) d
+
+TRANCO : A Research-Oriented Top Sites Ranking Hardened Against Manipulation
+
+1805.11506.pdf (transco-..., not used) d
+
+A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists
+
+journal.pbio.3000384.pdf (not used) d
+
+A standardized citation metrics author database annotated for scientific field
+
+EdrelTechReport.pdf (not used) d
+
+The Relevance of Education to Software Practitioners: Data from the 1998 Survey
+
+maze-structure-book.pdf
+
+Maze structure
+
+Atlas-story.pdf
+
+The Atlas story
+
+essential-guide-shenzhen.pdf
+
+The Essential Guide to Electronics in Shenzhen
+
+1907.05308.pdf
+
+Executable formal semantics for the POSIX shell Smoosh: the Symbolic, Mechanized, Observable, Operational Shell
+
+basic_instincts.pdf
+
+Anthropological invariants in travel behavior
+
+TonyBrookerAtlasCompComp.pdf
+
+Tony Brooker and the Atlas Compiler Compiler
+
+luatex.pdf
+
+LuaTEX Reference Manual
+
+Moritz_Beller-PhD.pdf
+
+An Empirical Evaluation of Feedback-Driven Software Development
+
+CyBOK_version_1.0_YMKBy7a.pdf
+
+CyBOK: The Cyber Security Body of Knowledge
+
+GuideAdvEmpSoftwareEng-book.pdf
+
+Guide to Advanced Empirical Software Engineering
+
+onoriginofspeci00darw.pdf
+
+THE ORIGIN OF SPECIES MEANS OF NATURAL SELECTION, or the PRESERVATION OF FAVORED RACES IN THE STRUGGLE FOR LIFE.
+
+OO_Classical-SoftEng-book.pdf
+
+Object-Oriented and Classical Software Engineering
+
+1109.2272.pdf
+
+Theory of citing
+
+1811.11242.pdf
+
+Wrangling Messy CSV Files by Detecting Row and Type Patterns
+
+baldwin-isis-article.pdf
+
+Scientific Autonomy, Public Accountability, and the Rise of “Peer Review” in the Cold War United States
+
+PIROLL~1.PDF
+
+Information foraging
+
+chemistry-philos.pdf
+
+Roald Hoffmann on the Philosophy, Art, and Science of Chemistry
+
+AF13-Applied-Thinking.pdf
+
+APPLIED THINKING FOR INTELLIGENCE ANALYSIS A guide for practitioners
+
+Walter_Mullins.pdf
+
+From Symbiont to Parasite: The Evolution of For-Profit Science Publishing
+
+Fun_Software_Pleasure.pdf
+
+Fun and Software Exploring Pleasure, Paradox and Pain in Computing
+
+tinley-siemens-logic-bomb.pdf
+
+United states of america vs. david tinley
+
+eigentaste.pdf (done) d
+
+Eigentaste: A Constant Time Collaborative Filtering Algorithm
+
+SurveyValuePredTech.pdf
+
+A Survey of Value Prediction Techniques for Leveraging Value Locality
+
+Building-IBM_book.pdf
+
+Building IBM Shaping an Industry and Its Technology
+
+1902.06002.pdf
+
+Group Testing: An Information Theory Perspective
+
+Software-in-SouthAmerica-book.pdf
+
+Coding Places Software Practice in a South American City
+
+p355-tognazzini.pdf
+
+Principles, Techniques, and Ethics of Stage Magic and Their Application to Human Interface Design
+
+2003.07314.pdf (not used) d
+
+Characterizing Cryptocurrency Exchange Scams
+
+reflectionsonde00babb.pdf
+
+Reflections on the decline of science in England, and on some of its causes
+
+moor1978.pdf
+
+Three Myths of Computer Science
+
+3191833.pdf
+
+Where To From Here?  Our curriculum is not up to the challenges the world is throwing at us.
+
+P4947.pdf
+
+Software and its impact: a quantitative assessment
+
+Toyota-Darker-Side-Mehri.pdf
+
+The Darker Side of Lean: An Insider’s Perspective on the Realities of the Toyota Production System
+
+1745691620919372.pdf
+
+The Sisyphean Cycle of Technology Panics
+
+PIIS0025619613004059.pdf
+
+A Decade of Reversal: An Analysis of 146 Contradicted Medical Practices
+
+Science-of-Computing.pdf
+
+The Science of Computing Shaping a Discipline
+
+2002.03927.pdf (cited) d
+
+A Dataset of Enterprise-Driven Open Source Software
+
+exp-reports-supplemental.pdf
+
+Supplementary material to ”Software Engineering in Start-up Companies: Analysis of 88 Experience Reports”
+
+Statistics-Sports-book.pdf
+
+STATISTICAL THINKING IN SPORTS
+
+2012-herculanohouzel.pdf
+
+The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost
+
+frederico2009.pdf
+
+Equal Numbers of Neuronal and Nonneuronal Cells Make the Human Brain an Isometrically Scaled-Up Primate Brain
+
+2009.01209.pdf (cited) d
+
+Understanding Peer Review of Software Engineering Papers
+
+Academic-Tribes-Territories.pdf
+
+Academic tribes and territories
+
+10895.pdf
+
+Setting Priorities for Large Research Facility Projects Supported by the National Science Foundation (2004)
+
+1710.05913.pdf
+
+A Survey on Online Judge Systems and Their Applications
+
+2003.12912.pdf (not used) d
+
+A Dataset ofDockerfiles
+
+Epidemics-Models-using-R_book.pdf
+
+Epidemics Models and Data using R
+
+icse192.pdf (not used) d
+
+On Reliability of Patch Correctness Assessment
+
+SSRN-id1091662.pdf
+
+Action Bias among Elite Soccer Goalkeepers: The Case of Penalty Kicks
+
+GoodWorkIfYouCanGetIt-book.pdf
+
+Good Work If You Can Get It How to Succeed in Academia
+
+presrep2018.pdf (paper, not used) d
+
+Aeronautics and Space Report of the President Fiscal Year 2018 Activities
+
+operaomniaedidit02.pdf (paper, done) d
+
+Tychonis Brahe Dani Scripta Astronomica
+
+bub_gb_IbXUxCsH3YMC.pdf (paper, not used) d
+
+Ephemeridum Tychonis
+
+ALGOL_60_Implementation-book.pdf
+
+Algol 60 implementation
+
+isoent-ref.pdf
+
+ISO character entities and their LATEX equivalents
+
+af027a02d90ac0b.pdf
+
+The Art of Readable Code
+
+High Performance Computing-book.pdf
+
+Introduction to High Performance Computing for Scientists and Engineers
+
+19850026197.pdf (paper, not used) d
+
+The Impact of Supercomputers on Experimentation: A View From a National Laboratory
+
+Speeds and Feeds - Of Money, Responsibility, and Pride.html
+
+Speeds and Feeds - Of Money, Responsibility, and Pride
+

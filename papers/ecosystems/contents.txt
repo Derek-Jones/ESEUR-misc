@@ -1,0 +1,648 @@
+86.pdf
+
+Phylogenetic diversity measures based on Hill numbers
+
+97.pdf
+
+Measuring and Estimating Species Richness, Species Diversity, and Biotic Similarity from Sampling Data
+
+92.pdf
+
+Nonparametric Lower Bounds for Species Richness and Shared Species Richness under Sampling without Replacement
+
+96.pdf
+
+Estimation and Shared of Species Species Richness Richness
+
+104_pdf_appendix.pdf
+
+An Improved Nonparametric Lower Bound of Species Richness via a Modified Good–Turing Frequency Formula
+
+105_pdf_appendix.pdf
+
+Unifying species diversity, phylogenetic diversity, functional diversity, and related similarity and differentiation measures through Hill numvers
+
+109_pdf_appendix.pdf
+
+Estimating diversity and entropy profiles via discovery rates of new species
+
+2003_Ecology_84_P798.pdf
+
+Predicting the Number of New Species in Further Taxonomic Sampling
+
+90.pdf
+
+Models and estimators linking individual-based and sample-based rarefaction, extrapolation and comparison of assemblages
+
+118_pdf_appendix.pdf
+
+Bridging the variance and diversity decomposition approaches to beta diversity via similarity and differentiation measures
+
+122.pdf
+
+Seen once or more than once: applying Good–Turing theory to estimate species richness using only unique observations and a species list
+
+126_pdf_appendix.pdf (not used) d
+
+Deciphering the enigma of undetected species, phylogenetic, and functional diversity based on Good-Turing theory
+
+2004_JABES_9_P253.pdf
+
+Nonparametric Prediction in Species Sampling
+
+2005_EcologyLetters_8_P148.pdf
+
+A new statistical approach for assessing similarity of species composition with incidence and abundance data
+
+1511.07428.pdf
+
+Estimating the number of unseen species: A bird in the hand is worth log n in the bush
+
+13283.full.pdf 13283-pnas.1607774113.sapp.pdf
+
+Optimal prediction of the number of unseen species
+
+43-1-2-45.pdf
+
+THE NUMBER OF NEW SPECIES, AND THE INCREASE IN POPULATION COVERAGE, WHEN A SAMPLE IS INCREASED
+
+EFS NSF 70.pdf
+
+Estimating the number of unseen species (how may words did shakespeare know?)
+
+fisher1943a.pdf
+
+THE RELATION BETWEEN THE NUMBER OF SPECIES AND THE NUMBER OF INDIVIDUALS IN A RANDOM SAMPLE OF AN ANIMAL POPULATION
+
+euclid.aos.1176344684.pdf
+
+Linear estimation of the probability of discovering a new species
+
+euclid.aos.1176345651.pdf
+
+On estimating the probability of discovering a new species
+
+GoodTuring1953.pdf
+
+The Population Frequencies of Species and the Estimation of Population Parameters
+
+msr_prerelease.pdf (email, lost data) d
+
+A Look at the Dynamics of the JavaScript Package Ecosystem
+
+2009_JABES_14_P452.pdf
+
+A Nonparametric Lower Bound for the Number of Species Shared by Multiple Communities
+
+2000_StatSinica_10_P227.pdf
+
+ESTIMATING THE NUMBER OF SHARED SPECIES IN TWO COMMUNITIES
+
+1709.06224.pdf (emailed, faded away) d
+
+Understanding the Heterogeneity of Contributors in Bug Bounty Programs
+
+114.pdf
+
+Nonparametric Estimation and Comparison of Species Richness
+
+ADA294101.pdf
+
+The Brooks Act: {An} 8-Bit Act in a 64-Bit World? {An} Investigation of the {Brooks Act} and Its Implications to the Department of Defense Information Technology Acquisition Process
+
+CERAC_WP_13_Sadinle.pdf
+
+On the Performance of Dual System Estimators of Population Size: A Simulation Study
+
+Otis etal 1978.pdf
+
+Statistical Inference from Capture Data on Closed Animal Populations
+
+1992_Biometrics_48_P201.pdf
+
+Estimating population size for capture-recapture data when capture probabilities vary by time and individual animal
+
+nayak1988.pdf
+
+Estimating population size by recapture sampling
+
+1984_ScandJStatist_11_P265.pdf
+
+Nonparametric estimation of the number of classes in a population
+
+1989_Biometrics_45_P427.pdf
+
+Estimating population size for sparse data in capture-recapture experiments
+
+80_pdf_appendix.pdf
+
+Sufficient sampling for asymptotic minimum species richness estimators
+
+BurnhamKPandWSOverton1979.pdf
+
+ROBUST ESTIMATION OF POPULATION SIZE WHEN CAPTURE PROBABILITIES VARY AMONG ANIMALS
+
+1992_JASA_87_P210.pdf
+
+Estimating the number of classes via sample coverage
+
+2002_Biometrics_58_P531.pdf
+
+Estimating the number of species in a stochastic abundance model
+
+2008_BiometricalJournal_50_P957.pdf
+
+The Petersen–Lincoln Estimator and its Extension to Estimate the Size of a Shared Population
+
+107_pdf_appendix.pdf
+
+Unveiling the species-rank abundance distribution by generalizing the Good-Turing sample coverage theory
+
+Biometrics43, 783.pdf
+
+Estimating the Population Size for Capture-Recapture Data with Unequal Catchability
+
+10.1.1.493.7991.pdf
+
+A Penalized Nonparametric Maximum Likelihood Approach to Species Richness Estimation
+
+92_pdf_appendix.pdf
+
+Nonparametric Lower Bounds for Species Richness and Shared Species Richness under Sampling without Replacement
+
+emse2014-mcintosh.pdf (emailed, faded away) d
+
+A Large-Scale Empirical Study of the Relationship between Build Technology and Build Maintenance
+
+twerp339.pdf
+
+Computer and Dynamo: The Modern Productivity Paradox in a Not-Too Distant Mirror
+
+94.pdf
+
+A History of Computing Research at Bell Laboratories (1937-1975)
+
+1710.05570.pdf (partial) d
+
+How PHP Releases Are Adopted in the Wild?
+
+1804.04621.pdf (not used) d
+
+The Java Build Framework: Large Scale Compilation
+
+605110.pdf
+
+SHARE -- A Eulogy to Cooperative Effort
+
+eindor1985.pdf (done) d
+
+Grosch's Law Re-revisited: {CPU} Power and the Cost of Computation
+
+7392-32627-1-PB.pdf (paper, done) d
+
+A Study of SourceForge Users and User Network
+
+10.2307@25147801.pdf
+
+Voluntarism and the Fruits of Collaboration The IBM User Group, Share
+
+format-lifecycle-analysis.pdf
+
+Format Technology Lifecycle Analysis
+
+CoalitionFormation.pdf
+
+Coalition formation in standard-setting alliances
+
+p398-mi.pdf (cited) d
+
+An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance
+
+1806.07659.pdf (not used) d
+
+Toxic Code Snippets on Stack Overflow
+
+ist-16-java-api-study.pdf (emailed for column information) d
+
+Understanding the API usage in Java
+
+swmining18ecobugs.pdf (not used) d
+
+Within-Ecosystem Issue Linking: A Large-scale Study of Rails
+
+10.1.1.447.9480.pdf
+
+The evolution of conformist social learning can cause population collapse in realistically variable environments 
+
+GravesJ2.pdf
+
+Open Source Software Development as a Complex System
+
+Claes-PhD.pdf (not used) d
+
+Addressing Maintainability Issues in Open Source Component-based Software Ecosystems
+
+Willis_1997.pdf
+
+The Ecosystem: An Evolving Concept Viewed Historically
+
+Tansley_VegConcepts_1935.pdf
+
+THE USE AND ABUSE OF VEGETATIONAL CONCEPTS AND TERMS
+
+CRPITV20deRaadt.pdf (paper, not used) d
+
+Language Tug-Of-War: Industry Demand and Academic Choice
+
+Who_Cooperates_Standards.pdf (not used) d
+
+WHO COOPERATES IN STANDARDS CONSORTIA - RIVALS OR COMPLEMENTORS?
+
+1-s2-0-s01641212183.pdf
+
+Strategies for Managing Power Relationships in Software Ecosystems
+
+Pohlmann_IPlytics.pdf
+
+The Evolution of ICT Standards Consortia
+
+1612.01626.pdf (not used) d
+
+Automated Inference of Software Library Usage Patterns
+
+adoption.pdf (emailed, lost) d
+
+Adoptions and Orphans in the Early Microcomputer Market
+
+RLJ+18.pdf (cited) d
+
+Variability-Aware Static Analysis at Scale: An Empirical Study
+
+wang2018android.pdf (cited) d
+
+Why are Android Apps Removed From Google Play?  A Large-scale Empirical Study
+
+SSRN-id1619440.pdf
+
+HOW MANY STANDARDS IN A LAPTOP?  (AND OTHER EMPIRICAL QUESTIONS)
+
+analysisofentryp00rapp.pdf (paper, not used) d
+
+An Analysis of Entry and Persistence Among Scientists in an Emerging Field
+
+jacobides2015.pdf (file+extract, not used) d
+
+Kingpins, Bottlenecks, and Value Dynamics Along a Sector
+
+InnovationControlStandardsArch.pdf
+
+Innovation and Control in Standards Architectures: {The} Rise and Fall of {Japan's} {PC-98}
+
+0_paper_3-2018.pdf (done) d
+
+Digital Innovation with High Costs of Entry: Evidence from Software-Driven Medical Devices
+
+2018_msr_non-osi-lics.pdf (partial) d
+
+Understanding the Usage, Impact, and Adoption of Non-OSI Approved Licenses
+
+cowan1990.pdf
+
+Nuclear Power Reactors: A Study in Technological Lock-in
+
+DTIC_AD0250143.pdf
+
+EUROPEAN INFORMATION TECHNOLOGY A Report On The Industry And The State Of The Art
+
+op1266906-1001_a.pdf (paper, not used) d
+
+Computers in Offices
+
+knight1985.pdf (paper, extracted, not used) d
+
+A Functional and Structural Measurement of Technology
+
+DTIC_AD0730608.pdf
+
+SURVEY OF SIMULATION LANGUAGES AND PROGRAMS
+
+SANER-2017.pdf (partial) d
+
+An Empirical Comparison of Dependency Issues in OSS Packaging Ecosystems
+
+TSE-2019.pdf (cited) d
+
+What Do Package Dependencies Tell Us About Semantic Versioning?
+
+issta19.pdf (not used) d
+
+A Large-Scale Study of Application Incompatibilities in Android
+
+1511.06554.pdf (paper, not used) d
+
+An Investigation into the Use of Common Libraries in Android Apps
+
+jss-d-14-00591r2-1.pdf (done) d
+
+Can We Ask You To Collaborate?  Analyzing App Developer Relationships in Commercial Platform Ecosystems
+
+Office365.pdf (jss-d-14-00591r2-1, other) d
+
+Exploring the Relationship between Partnership Model Participation and Interfirm Network Structure: An Analysis of the Office365 Ecosystem
+
+van-Angeren_PhD.pdf (jss-d-14-00591r2-1, other) d
+
+Exploring Platform Ecosystems: A Comparison of Complementor Networks and their Characteristics
+
+1811.12874.pdf (not used) d
+
+On The Relation Between Outdated Docker Containers, Severity Vulnerabilities and Bugs
+
+journal.pone.0179281.pdf (not used) d
+
+Quantifying the web browser ecosystem
+
+PLEX_2151.pdf
+
+Shell plans - iShellBrowser
+
+5353_2791.PDF
+
+The growth and locational dynamics of the UK computer services industry,1981-1996
+
+9503001.pdf
+
+The Federal Government Role in the Development of the American Software Industry: An Assessment
+
+journal.pone.0078871.pdf (done) d
+
+The Phylogeny of Little Red Riding Hood
+
+eaau5141.full.pdf
+
+The Church, intensive kinship, and global psychological variation
+
+CompTIA_Cyberstates_2018.pdf (paper, cited) d
+
+Cyberstates 2018 The definitive national, state, and city analysis of the U.S. tech industry and tech workforce
+
+CompTIA_Cyberstates_2019.pdf (paper, not used) d
+
+Cyberstates 2019: The definitive guide to the U.S. tech industry and tech workforce
+
+chapter_v8.pdf (hcctad.txt, not used) d
+
+Technology Diffusion: Measurement, Causes and Consequences
+
+a129394.pdf
+
+Scientific/Engineering Work Stations: {A} Market Survey
+
+1909.00939.pdf (paper, not used) d
+
+A First Look at Blockchain-based Decentralized Applications
+
+w11928.pdf (w15319, faded away) d
+
+FIVE FACTS YOU NEED TO KNOW ABOUT TECHNOLOGY DIFFUSION
+
+w16379.pdf (w15319, faded away) d
+
+AN INTENSIVE EXPLORATION OF TECHNOLOGY DIFFUSION
+
+FortranBenefitsSurvey.pdf
+
+Benefits of continuing Fortran standardisation survey: final report
+
+Li_2018_comention_net.pdf
+
+Co-mention network of R packages: Scientific impact and clustering structure
+
+Strategic_patentingSoftInnov.pdf
+
+Strategic patenting and software innovation
+
+2019-dimva.pdf
+
+New Kid on the Web: A Study on the Prevalence of WebAssembly in the Wild
+
+American_System_to_Mass.pdf
+
+From the AMERICAN SYSTEM to MASS PRODUCTION 1800-1932
+
+two-interp-2003.pdf
+
+Two interpretations of reports of knowledge of subpopulation sizes
+
+sbes2018-iier.pdf
+
+On the Sustainability of Academic Software The Case of Static Analysis Tools
+
+Krueger19_VaMoS.pdf (not used) d
+
+Are You Talking about Software Product Lines?  An Analysis of Developer Communities
+
+CorrectnessElectronicDo.pdf (available, not used) d
+
+On the correctness of electronic documents: studying, finding, and localizing inconsistency bugs in PDF readers and files
+
+Food_Webs-book.pdf
+
+Food webs
+
+1810.08420.pdf (email, partial) d
+
+Why is a Ravencoin Like a TokenDesk?  An Exploration of Code Diversity in the Cryptocurrency Landscape
+
+1801.03400.pdf (cited) d
+
+Scale-free networks are rare
+
+1905.02713.pdf (emailed) d
+
+An Analysis of Pre-installed Android Software
+
+fc19short.pdf (1810.08420..., other) d
+
+An Exploration of Code Diversity in the Cryptocurrency Landscape
+
+crypto-oss-msr-2019.pdf (not used) d
+
+A Panel Data Set of Cryptocurrency Development Activity on GitHub
+
+introductionandmethods.pdf (not used) d
+
+Culture and Breaking Change: A Survey of Values and Practices in 18 Open Source Software Ecosystems
+
+EkaterinaPek_PhD.pdf
+
+Corpus-based Empirical Research in Software Engineering
+
+1907.06538.pdf (not used) d
+
+Patterns of Effort Contribution and Demand and User Classification based on Participation Patterns in NPM Ecosystem
+
+1907.11073.pdf (paper, not downloaded, not used) d
+
+An Empirical Analysis of the Python Package Index (PyPI)
+
+EMSE_2019_Ahsan_Long.pdf (cited) d
+
+A Longitudinal Study of Popular Ad Libraries in the Google Play Store
+
+op1267507-1001.pdf (paper, not used) d
+
+Computers in Central Government Ten years ahead
+
+2004.05705.pdf (not used) d
+
+Are Game Engines Software Frameworks? A Three-perspective Study⋆
+
+takahashi2005.pdf
+
+The Rise and Fall of Plug-Compatible Mainframes
+
+bothner2003.pdf
+
+Competition and Social Influence: The Diffusion of the Sixth-Generation Processor in the Global Computer Industry
+
+Mapping-the-value-chain.pdf
+
+Mapping the Creative Value Chains A study on the economy of culture in the digital age
+
+carroll1989.pdf
+
+Density Delay in the Evolution of Organizational Populations: A Model and Five Empirical Tests
+
+imc18-final148.pdf (emailed) d
+
+Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App Markets
+
+barnett1987.pdf (paper, not used) d
+
+Competition and Mutualism among Early Telephone Companies
+
+carroll1983.pdf
+
+A Stochastic Model of Organizational Mortality: Review and Reanalysis
+
+DynOrganizPopDen-book.pdf (paper, extract, not used) d
+
+Dynamics of Organizational Populations: {Density}, Legitimation, and Competition
+
+pohlmann2.pdf
+
+The Patent Troll Business: An Efficient model to enforce IPR?  A typology of patent trolls, using empirical evidence from German case studies
+
+stoneman1997.pdf (paper, not used) d
+
+THE DIFFUSION OF MULTIPLE TECHNOLOGIES: AN EMPIRICAL STUDY
+
+Capture-Recapture_book.pdf
+
+Analysis of Capture-Recapture Data
+
+c14259.pdf (cited) d
+
+The changing structure of American innovation: Some cautionary remarks for economic growth
+
+2005.10063.pdf (cited) d
+
+A Survey of Software Foundations in Open Source
+
+355620.361177.pdf (paper, not used) d
+
+Enumerating Full-Time Programmers
+
+euclid.ss.1464105036.pdf
+
+And the First One Now Will Later Be Last: Time-Reversal in Cormack–Jolly–Seber Models
+
+Cap-Recapture_Open-Pop_book.pdf
+
+Capture-Recapture: Parameter Estimation for Open Animal Populations
+
+2681176.pdf (paper, not used) d
+
+SOFTWARE ESTIMATES IN THE NETHERLANDS 1986 - 1997
+
+2681192.pdf (paper, not used) d
+
+A SURVEY METHOD TO MEASURE OWN-ACCOUNT PRODUCED SOFWARE FOR AUSTRIA
+
+92ed7941a7f18306790.pdf (paper, not used) d
+
+ICT AND PRODUCTIVITY GROWTH IN THE UK
+
+SaaS-Report_AEG7120.pdf (paper, not used) d
+
+THE SOFTLETTER SaaS REPORT
+
+ED459346.pdf (paper, not used) d
+
+The Supply of Information Technology Workers in the United States.
+
+model_soft-eng_start-ups.pdf
+
+A progression model of software engineering goals, challenges, and practices in start-ups
+
+Klotins-PhD.pdf
+
+SOFTWARE ENGINEERING IN START-UP COMPANIES
+
+YoungJudithFay_PhD.pdf (paper, not used) d
+
+THE CAREER PATHS OF COMPUTER SCIENCE AND INFORMATION SYSTEMS MAJOR GRADUATES
+
+72ad3a1191c3b7df295.pdf (not used) d
+
+Dependency Versioning in the Wild
+
+KolakROS20.pdf (not used) d
+
+It Takes a Village to Build a Robot: An Empirical Study of The ROS Ecosystem
+
+zhou20forks.pdf (not used) d
+
+How Has Forking Changed in the Last 20 Years?  A Study of Hard Forks on GitHub
+
+icse18badges.pdf (not used) d
+
+Adding Sparkle to Social Coding: An Empirical Study of Repository Badges in the npm Ecosystem
+
+2005.11315.pdf (not used) d
+
+Java Decompiler Diversity and its Application to Meta-decompilation
+
+Social-Economic_Networks-book.pdf
+
+Social and Economic Networks
+
+androzoo-msr.pdf (cited) d
+
+AndroZoo: Collecting Millions of Android Apps for the Research Community
+
+1810.07780.pdf (website nolonger online, faded away) d
+
+Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App Markets
+
+fse19forks.pdf (not used) d
+
+What the Fork: A Study of Inefficient and Efficient Forking Practices in Social Coding
+
+119.pdf
+
+Species Richness: Estimation and Comparison
+
+124.pdf
+
+Thirty years of progeny from Chao’s inequality: Estimating and comparing richness with incidence data and incomplete sampling
+
+ImagesOrganization-book.pdf
+
+Images of organization
+
+ComplexPopulationDynamics-book.pdf
+
+Complex Population Dynamics: A Theoretical/Empirical Synthesis
+

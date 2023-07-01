@@ -1,0 +1,996 @@
+BradleyTerry.pdf
+
+Bradlet-Terry models in R: The BradleyTerry2 package
+
+PRAANOVA.PDF
+
+Practical regression and Anova using R
+
+R-textmining.pdf
+
+Text mining infrastructure in R
+
+seriation.pdf
+
+Getting things in order: An introduction to the R package seriation
+
+UsingR.pdf
+
+Using R for data analysis and graphics: Introduction, code and commentary
+
+Verzani-SimpleR.pdf
+
+Verzani-SimpleR - Using R for introductory statistics
+
+R-lang.pdf
+
+R language definition (2.13.2)
+
+R-refman.pdf
+
+R: A language and environment for statistical computing
+
+R-intro.pdf
+
+An introduction to R
+
+R_inferno.pdf
+
+The R inferno
+
+DataMiningWithR.pdf
+
+Data mining with R: Learning with case studies
+
+Paradis-rdebuts_en.pdf
+
+R for beginners
+
+DistributionUtils.pdf
+
+Package 'DistributionUtils'
+
+Farnsworth-EconometricsinR.pdf
+
+Econometrics in R
+
+Owen-TheRGuide.pdf
+
+The R Guide
+
+adk.pdf
+
+Package 'adk'
+
+plyr-intro-090510.pdf
+
+The split-apply-combine strategy for data analysis
+
+icebreakeR.pdf
+
+icebrakeR (book)
+
+CS-2009-1complete.pdf
+
+simFrame: An object-oriented framework for statistical simulation
+
+Dyer_Data_Analysis_Using_R.pdf
+
+Biological data analysis using R
+
+Ricci-distributions-en.pdf
+
+Fitting distributions with R
+
+IPSUR.pdf
+
+Introduction to probability and statistics using R
+
+R language Definition.htm
+
+R language definition
+
+googleVis.pdf
+
+Using the Google visualisation API with R: googleVis-0.2.1 package vignette
+
+RProg.pdf
+
+R for programmers
+
+R_Cookbook.pdf
+
+R cookbook
+
+NSPpart.pdf
+
+The art of R programming
+
+12011.VitekJan.Paper.pdf
+
+Evaluating the design of the R language
+
+RDataMining.pdf
+
+R and Data Mining: Examples and Case Studies
+
+Rcompiler.pdf
+
+A byte code compiler for R
+
+VIM-Imputation.pdf
+
+Visualization of imputed values using the R-package VIM
+
+amelia.pdf
+
+Amelia II: A program for missing data
+
+robCompositions.pdf
+
+Robust imputation of missing values in compositional data using the R-package robCompositions
+
+rrcov.pdf
+
+An object oriented framework for robust multivariate analysis
+
+PLS_Path_Modeling_with_R.pdf
+
+PLS path modeling with R
+
+Splusdiscrete2.pdf
+
+R (and S-PLUS) manual to accompany Agresti's Categorical data analysis (2002)
+
+KillickEckley2011.pdf
+
+changepoint: An R package for changepoint analysis
+
+RcaptureJSS.pdf
+
+Rcapture: Loglinear models for capture-recapture in R
+
+S4tutorialV0-5en.pdf
+
+A (not so) short introduction to S4
+
+SciProgSimR-book.pdf
+
+Scientific programming and simulation using R
+
+v24i06.pdf
+
+Social network analysis with sna
+
+R_ordCDA.pdf
+
+Examples of using R for modeling ordinal data
+
+flexmix-intro.pdf
+
+FlexMix: A general framework for finite mixture models and latent class regression in R
+
+mixture-regression.pdf
+
+FlexMix Version 2: Finite mixtures with concomitant variables and varying and constant parameters
+
+rebmix-vig.pdf
+
+rebmix: An R package for continuous and discrete finite mixture models
+
+regression-examples.R
+
+Applications of finite mixtures of regression models
+
+mix-bootstrapping.pdf
+
+Complement: Finite mixture model diagnostics using resampling methods
+
+mixtools.pdf
+
+mixtools: An R package for analyzing finite mixture models
+
+Arnold+Emerson.pdf
+
+Nonparametric Goodness-of-Fit Tests for Discrete Null distributions
+
+v47i04.pdf
+
+frailtypack: An R package for the analysis of correlated survival data with frailty models using penalized likelihood estimation or parametrical estimation
+
+v51i11.pdf
+
+parfm: Parametric frailty models in R
+
+v48i02.pdf
+
+lavaan: An R package for structural equation modeling
+
+lavaan-tutorial.pdf
+
+The lavaan tutorial
+
+trinker's_notes.pdf
+
+Personal (trinker) list of R notes and examples
+
+EvertBaroni2007.pdf
+
+zipfR: Word frequency distributions in R
+
+zipfr-tutorial.pdf
+
+The zipfR package for lexical statistics: A tutorial introduction
+
+deSolve.pdf
+
+Package deSolve: Solving initial value differential equations in R
+
+BelVenTutorial.pdf
+
+An introduction to robust estimation with R functions
+
+shape.pdf
+
+R package shape: functions for plotting graphical shapes, colors...
+
+diagram.pdf
+
+R package diagram: visualizing simple graphs, flowcharts, and webs
+
+v48i10.pdf
+
+prefmod: An R Package for Modeling Preferences Based on Paired Comparisons, Rankings, or Ratings
+
+extend-lin-mod-with-R_book.pdf 
+
+Extending the linear model with R
+
+lmer-book.pdf
+
+lme4: Mixed-effects modeling with R
+
+v34i12.pdf
+
+glmulti: An R package for easy automated model selection with (generalized) linear models
+
+v40i13.pdf
+
+topicmodels: An R package for fitting topic models
+
+v56i01.pdf
+
+R package FrF2 for creating and analysing fractional factorial 2-level designs
+
+dae.pdf
+
+R companion to montgomery's design and analysis of experiments (2005)
+
+hcl-colors.pdf
+
+HCL-based color palettes in R
+
+strucplot.pdf
+
+The structplot framework: Visualizing multi-way contingency tables with vcd
+
+strings_in_R.pdf
+
+Handling and processing strings in R
+
+pact080talbot.pdf
+
+Riposte: A trace driven compiler and parallel VM for vector code in R
+
+deducorrect-correction.pdf
+
+Correcting rounding, typing, and sign errors with the deducorrect package
+
+deducorrect-imputation.pdf
+
+Deductive imputation with the deducorrect package
+
+plotrix.pdf
+
+Package 'plotrix'
+
+editrules-linear.pdf
+
+Manipulation of linear edits and error localization with the editrules package
+
+94.11.ps
+
+A brief history of S
+
+R-exts.pdf
+
+Writing R extensions
+
+R-data.pdf
+
+R data import/export
+
+poweRlaw_intropdf
+
+The poweRlaw package: a general overview
+
+c_comparing_distrib.pdf
+
+The poweRlaw package: Comparing distributions
+
+d_jss_paper.pdf
+
+Fitting Heavy Tailed Distributions: The poweRlaw Package
+
+mod2user.pdf
+
+Model II regression user's guide, R edition
+
+1407.3492v1.pdf
+
+Fitting heavy tailed distribution: the poweRlaw package
+
+R-graphics-1st_book.pdf
+
+R graphics
+
+gnmOverview.pdf
+
+Generalized nonlinear models in R: An overview of the gnm package
+
+Guidebook_To_R_Graphics_MS_book.pdf
+
+Guidebook to R graphics using Microsoft windows
+
+Disp-time-series_r_book.pdf
+
+Displaying time series, spatial, and space-time data with R
+
+The-R-book.pdf
+
+The R book, 1st edition
+
+TheRBook.pdf
+
+The R book, 2nd edition
+
+systemfit.pdf
+
+systemfit: A Package for Estimating Systems of Simultaneous Equations in R
+
+mlogit.pdf
+
+Estimation of multinomial logit models in R : The mlogit Packages
+
+mnlogit.pdf
+
+Fast Estimation of Multinomial Logit Models: R Package mnlogit
+
+v36i03.pdf
+
+Conducting Meta-Analyses in R with the metafor Package
+
+mclust.pdf
+
+mclust Version 4 for R: Normal Mixture Modeling for Model-Based Clustering, Classification, and Density Estimation
+
+betareg-ext.pdf
+
+Extended Beta Regression in R: Shaken, Stirred, Mixed, and Partitioned
+
+betareg.pdf
+
+Beta Regression in R
+
+clm_intro.pdf
+
+Analysis of ordinal data with cumulative link models — estimation with the R-package ordinal
+
+clm_tutorial.pdf
+
+A Tutorial on fitting Cumulative Link Models with the ordinal Package
+
+clmm2_tutorial.pdf
+
+A Tutorial on fitting Cumulative Link Mixed Models with clmm2 from the ordinal Package
+
+labeling-preprint.pdf
+
+An Extension of Wilkinson’s Algorithm for Positioning Tick Labels on Axes
+
+paper-mstate.pdf
+
+mstate: An R Package for the Analysis of Competing Risks and Multi-State Models
+
+mstate-tut.pdf
+
+Tutorial in biostatistics: Competing risks and multi-state models Analyses using the mstate package
+
+Nonlinear-Regression-R_book.pdf
+
+Nonlinear Regression with R
+
+v52i06.pdf
+
+The textcat Package for n-Gram Based Text Categorization in R
+
+v57i01.pdf
+
+lavaan.survey: An R Package for Complex Survey Analysis of Structural Equation Models
+
+v62i01.pdf
+
+TSclust: An R Package for Time Series Clustering
+
+Willekens2014-book.pdf
+
+Multistate Analysis of Life Histories with R
+
+strucchange.pdf
+
+struchange: An R package for testing structural change in linear regression models
+
+RankAggreg.pdf
+
+RankAggreg, an R package for weighted rank aggregation
+
+38503_Chapter6.pdf
+
+Diagnosing Problems in Linear and Generalized Linear Models
+
+categoricalVGAM.pdf
+
+The VGAM Package for Categorical Data Analysis
+
+crVGAM.pdf
+
+The VGAM Package for Capture–Recapture Data Using the Conditional Likelihood
+
+paper2JSS.pdf
+
+fitdistrplus: An R Package for Fitting Distributions
+
+AGSD-vignette.pdf
+
+Estimation in adaptive group sequential trials
+
+gamlss-manual.pdf
+
+Instructions on how to use the gamlss package in R
+
+Lancaster-booklet.pdf
+
+A flexible regression approach using GAMLSS in R
+
+FlexibleRegSmoothingDraft-book.pdf
+
+Flexible Regression and Smoothing The GAMLSS packages in R
+
+DistribModelLocScaleShape-book.pdf
+
+Distributions for Modelling Location, Scale and Shape: Using GAMLSS in R
+
+coin_implementation.pdf
+
+Implementing a Class of Permutation Tests: The coin Package
+
+KleibZeil-AER-book.pdf
+
+Applied Econometrics with R
+
+kabacoff-R_in_action-book.pdf
+
+R in Action Data analysis and graphics with R
+
+v17i01.pdf
+
+Relative Importance for Linear Regression in R: The Package relaimpo
+
+ADAC2012.pdf
+
+Exploring incomplete data using visualization techniques
+
+v55i08.pdf
+
+texreg: Conversion of Statistical Model Output in R to LATEX and HTML Tables
+
+magicaxis.pdf
+
+Package ‘magicaxis’
+
+msm-manual.pdf
+
+Multi-state modelling with R: the msm package
+
+rsm.pdf
+
+Response-Surface Methods in R, Using rsm
+
+rs-illus.pdf
+
+Response-surface illustration
+
+1309.3295.pdf
+
+ecp: An R Package for Nonparametric Multiple Change Point Analysis of Multivariate Data
+
+cpm.pdf
+
+Parametric and Nonparametric Sequential Change Detection in R: The cpm Package
+
+dtw.pdf
+
+Computing and Visualizing Dynamic Time Warping Alignments in R: The dtw Package
+
+tsglm.pdf
+
+tscount: An R Package for Analysis of Count Time Series Following Generalized Linear Models
+
+markovchain_package.pdf
+
+The markovchain Package: A Package for Easily Handling Discrete Markov Chains in R
+
+Rsurv.pdf
+
+Use Software R to do Survival Analysis and Simulation. A tutorial
+
+TraMineR-1.4-Users-Guide.pdf
+
+Miningsequencedata in R with the TraMineR package: A user’s guide
+
+TraMineR-state-sequence.pdf
+
+Analyzing and Visualizing State Sequences in R with TraMineR
+
+selection.pdf
+
+Sample Selection Models in R: Package ̃sampleSelection
+
+censReg.pdf
+
+Estimating Censored Regression Models in R using the censReg Package
+
+limSolve.pdf
+
+Package limSolve, solving linear inverse models in R
+
+xsample.pdf
+
+xsample(): an R Function for Sampling Linear Inverse Problems
+
+Survival-Analysis-R.pdf
+
+Survival analysis in R
+
+mlogic-Exercises.pdf
+
+Kenneth Train’s exercises using the mlogit package for R
+
+Simex_Rnews.pdf
+
+A short Introduction to the SIMEX and MCSIMEX
+
+deming.pdf
+
+Deming, Theil-Sen, and Passing-Bablock Regression
+
+Data_Analysis_and_Graphics-book.pdf
+
+Data Analysis and Graphics Using R, Third Edition
+
+mhurdle.pdf
+
+Multiple Hurdle Tobit Models in R: The mhurdle Package
+
+penalized.pdf
+
+L1 and L2 Penalized Regression Models
+
+import.pdf
+
+Importing Vector Graphics: The grImport Package for R
+
+countreg.pdf
+
+Regression Models for Count Data in R
+
+CRAN Task View Probability Distributions.html
+
+Probability distributions supported by various R packages
+
+advanced-r_book.pdf
+
+Advanced R
+
+amen.pdf
+
+Dyadic data analysis with amen
+
+LinRegInteractive.pdf
+
+LinRegInteractive: An R Package for the Interactive Interpretation of Linear Regression Models
+
+rq.pdf
+
+Quantile regression in R: a vignette
+
+keyes-rudis-jacobs.pdf
+
+R Packages to Aid in Handling Web Access Logs
+
+R_Network_Visualization.pdf
+
+Basic and advanced network visualization with R
+
+xkcd-intro.pdf
+
+xkcd: An R Package for Plotting XKCD Graphs
+
+v66i05.pdf
+
+A Toolbox for Nonlinear Regression in R: The Package nlstools
+
+mptinr_introduction.pdf
+
+MPTinR: Analysis of Multinomial Processing Tree Models in R∗
+
+SFTwithR_R2.pdf
+
+Systems Factorial Technology with R
+
+plm.pdf
+
+Panel Data Econometrics in R: The plm Package
+
+HouBla13.pdf
+
+Systems Factorial Technology with R
+
+Appendix-Bootstrapping.pdf
+
+Bootstrapping Regression Models in R
+
+v40i09.pdf
+
+SPECIES: An R Package for Species Richness Estimation
+
+SpadeR_UserGuide.pdf
+
+User’s Guide for Online Program SpadeR (Species-richness Prediction And Diversity Estimation in R)
+
+a-simecol-introduction.pdf
+
+simecol: An Object-Oriented Framework for Ecological Modeling in R
+
+Statistical_Matching_StatMatch.pdf
+
+Statistical Matching and Imputation of Survey Data with StatMatch
+
+HSAUR-forrstarters.pdf
+
+A Handbook of Statistical Analyses Using R
+
+120_pdf_appendix.pdf
+
+iNEXT: an R package for rarefaction and extrapolation of species diversity (Hill numbers)
+
+v30i08.pdf archetypes.pdf
+
+From Spider-Man to Hero – Archetypal Analysis in R
+
+isocir.pdf
+
+isocir: An R Package for Constrained Inference using Isotonic Regression for Circular Data, with an Application to Cell Biology.
+
+isotone.pdf
+
+Isotone Optimization in R: Pool-Adjacent-Violators Algorithm (PAVA) and Active Set Methods
+
+RJ-2015-004.pdf
+
+rdrobust: An R Package for Robust Nonparametric Inference in Regression-Discontinuity Designs
+
+extraDistr.pdf
+
+Package ‘extraDistr’
+
+hyper2.pdf
+
+Partial rank data with the hyper2 package: likelihood functions for generalized Bradley-Terry models
+
+1704.02996.pdf
+
+ROSA: R Optimizations with Static Analysis
+
+RJ-2017-036.pdf
+
+Discrete Time Markov Chains with R
+
+RJ-2017-046.pdf
+
+Visualization of Regression Models Using visreg
+
+RJ-2017-061.pdf
+
+Partial Rank Data with the hyper2 Package: Likelihood Functions for Generalized Bradley-Terry Models
+
+RJ-2017-068.pdf
+
+rpsftm: An R Package for Rank Preserving Structural Failure Time Models
+
+Rpackage_TRI.pdf
+
+ltm: An R Package for Latent Variable Modeling and Item Response Theory Analyses
+
+raschmix.pdf
+
+Flexible Rasch Mixture Models with Package psychomix
+
+R-Graphics-Cookbook.pdf
+
+R Graphics Cookbook
+
+eRm.pdf
+
+Extended Rasch Modeling: The R Package eRm
+
+TopKLists.pdf
+
+TopKLists: Analyzing multiple ranked lists
+
+RJ-2018-002.pdf
+
+GrpString: An R Package for Analysis of Groups of Strings
+
+RJ-2018-004.pdf
+
+Residuals and Diagnostics for Binary and Ordinal Regression Models: An Introduction to the sure Package
+
+RJ-2018-015.pdf
+
+MGLM: An R Package for Multivariate Categorical Data Analysis
+
+RJ-2018-018.pdf
+
+PanJen: An R package for Ranking Transformations in a Linear Regression
+
+compositions.pdf
+
+Package ‘compositions’
+
+flexsurv.pdf
+
+flexsurv: A Platform for Parametric Survival Modelling in R
+
+coxme.pdf
+
+Mixed Effects Cox Models
+
+plotmo-notes.pdf
+
+Plotting regression surfaces with plotmo
+
+arules.pdf
+
+Introduction to arules – A computational environment for mining association rules and frequent item sets
+
+arulesViz.pdf
+
+Visualizing Association Rules: Introduction to the R-extension Package arulesViz
+
+prp.pdf
+
+Plotting rpart trees with the rpart.plot package
+
+longintro.pdf
+
+An Introduction to Recursive Partitioning Using the RPART Routines
+
+arulesCBA.pdf
+
+arulesCBA: Classification for Factor and Transactional Data Sets Using Association Rules
+
+recommenderlab.pdf
+
+recommenderlab: A Framework for Developing and Testing Recommendation Algorithms
+
+POT.pdf
+
+A User’s Guide to the POT Package
+
+HAL_extremefit_Durrieu_et_al.pdf
+
+extremefit: An R Package for Extreme Quantiles
+
+untbpaper.pdf
+
+Introducing untb, an R Package For Simulating Ecological Drift Under the Unified Neutral Theory of Biodiversity
+
+COMPoissonReg.pdf
+
+Package ‘COMPoissonReg’
+
+qualityTools.pdf
+
+Working with the qualityTools package
+
+RoughSets.pdf
+
+Package ‘RoughSets’
+
+brms_overview.pdf
+
+brms: An R Package for Bayesian Multilevel Models using Stan
+
+tsDyn.pdf
+
+Nonlinear autoregressive time series models in R using tsDyn version 0.7
+
+trend.pdf
+
+Non-Parametric Trend Tests and Change-Point Detection
+
+LaplacesDemonTutorial.pdf
+
+LaplacesDemon: A Complete Environment for Bayesian Inference within R
+
+chngpt-vignette.pdf
+
+Tutorial for the R package chngpt
+
+Robust_Nonlinear.pdf
+
+Robust Nonlinear Regression: with Applications using R
+
+nlr.pdf
+
+Package ‘nlr’
+
+jss1265.pdf
+
+Fitting Diffusion Item Response Theory Models for Responses and Response Times Using the R-Package diffIRT
+
+flex-regres-smooth-gamls.pdf
+
+Flexible Regression and Smoothing Using GAMLSS in R
+
+ClusterR.pdf
+
+Package ‘ClusterR’
+
+Sim.DiffProc.pdf
+
+Package ‘Sim.DiffProc’
+
+R-SimDiffProc.pdf
+
+Sim.DiffProc: A Package for Simulation of Diffusion Processes in R
+
+lecture-G-3.pdf
+
+Stochastic processes III
+
+9783906041018-fPortfolio.pdf
+
+PORTFOLIO OPTIMIZATION With R/RMETRICS
+
+RJ-2018-044.pdf
+
+revengc: An R package to Reverse Engineer Summarized Data
+
+RJ-2018-060.pdf
+
+lmridge: A Comprehensive R Package for Ridge Regression
+
+Intro_rugarch_package.pdf
+
+Introduction to the rugarch package.
+
+v67i07.pdf
+
+The glarma Package for Observation-Driven Time Series Regression of Counts
+
+v85i05.pdf
+
+R Package DoE.base for Factorial Experiments
+
+networkDynamic.pdf
+
+Package examples for networkDynamic: Dynamic Extensions for Network Objects
+
+networkVignette.pdf
+
+network: A Package for Managing Relational Data in R
+
+Discrete_Data_Anal.pdf
+
+Discrete Data Analysis with R Visualization and Modeling Techniques for Categorical and Count Data
+
+hierarch-gen-lin-models_R-book.pdf
+
+DATA ANALYSIS USING HIERARCHICAL GENERALIZED LINEAR MODELS WITH R
+
+v48i06.pdf
+
+mirt: A Multidimensional Item Response Theory Package for the R Environment
+
+1904.12626.pdf
+
+tsmp: An R Package for Time Series with Matrix Profile
+
+RJ-2019-009.pdf
+
+mixedsde: A Package to Fit Mixed Stochastic Differential Equations
+
+RJ-2019-012.pdf
+
+What’s for dynr: A Package for Linear and Nonlinear Dynamic Modeling in R
+
+RJ-2019-017.pdf
+
+fclust: An R Package for Fuzzy Clustering
+
+1909.08958.pdf
+
+On the Design, Implementation, and Use of Laziness in R
+
+brms_multilevel.pdf
+
+Advanced Bayesian Multilevel Modeling with the R Package brms
+
+EJ1141190.pdf
+
+The Analysis of the Regression-Discontinuity Design in R
+
+dls19.pdf
+
+R Melts Brains An IR for First-Class Environments and Lazy Effectful Arguments
+
+Using_R_IRT-book.pdf
+
+USING R FOR ITEM RESPONSE THEORY MODEL APPLICATIONS
+
+Intro_rugarch.pdf
+
+Introduction to the rugarch package
+
+MARSS_UserGuide.pdf
+
+Analysis of multivariate time-series using the MARSS package
+
+1612.08141.pdf
+
+PLMIX: An R package for modeling and clustering partially ranked data
+
+openCR-vignette.pdf
+
+openCR 1.4 - open population capture–recapture
+
+figure_layout_Ver1.pdf
+
+A guide to figure layout in R
+
+extremes_primer_v9.pdf
+
+An Introduction to Extreme Value Statistics
+
+v72i08.pdf
+
+extRemes 2.0: An Extreme Value Analysis Package in R
+
+how-big-is-your-graph.pdf
+
+How Big is Your Graph?  An R Cheat Sheet
+
+Appendix-Nonlinear-Reg.pdf
+
+Nonlinear Regression, Nonlinear Least Squares, and Nonlinear Mixed Models in R
+
+raschtree.pdf
+
+Using the raschtree function for detecting differential item functioning in the Rasch model
+
+1903.06490.pdf
+
+colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes
+

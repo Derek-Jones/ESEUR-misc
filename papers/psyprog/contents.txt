@@ -1,0 +1,101 @@
+11TH-N~1.PDF
+
+Compares C & spreadsheet programmers for control/data flow comprehension.
+no mention of experience levels
+
+CODERE~1.PDF
+
+How do tools affect programmer understanding?  Three tools compared with
+subjects asked questions about a C program.
+
+COMPME~1.PDF
+
+Comparison of program comprehension measures
+
+INSPEC~1.PDF
+
+Program comprehension applied to code reviews
+
+ISERN-~1.PDF
+
+Emprical investigation of perspective base reading applied to code reviews
+
+MENT_M~1.PDF
+
+Mental models during software visualization
+
+CDTUTS~1.PS
+
+A general cognitive tutorial, T Green
+
+RACHEL-2.PS
+
+Using multi media to improve program comprehension
+
+SOFTREC.PS
+
+Comprehension of OO code for inspections
+
+COG_SOFT_RE.PDF
+
+A cognitive approach to supporting software reuse
+
+CODERE~1.HTM
+CODERE~2.HTM
+CODERE~3.HTM
+
+Bibliography of code reading papers
+
+CODERE~1.HTM
+
+Annotated Bibliography: Code Reading and Program Comprehension
+
+COGNIT~1.HTM
+
+Cognitive Questions in Software Visualisation
+
+PSYCHOBIB.HTM
+
+Annotated bibliography on the psychology of programming
+
+RIST_P~1.HTM
+
+Program structure and design
+
+SSR3.HTM
+
+A survey of research on spreadsheet risks
+
+SSR4.HTM
+
+Errors in developing and debugging a "simple" spreadsheet model
+
+SSR5.HTM (paper, not used) d
+
+Experiments in spreadsheet development: task difficulty, level of expertise, and error rate
+
+SOFTREC.PS
+
+Comprehension and visualisation of object-oriented code for inspections
+
+AER-CAM.PS
+
+On the role of program understanding in re-engineering tasks (Mayrhauser)
+
+CLAYTO~1.PDF
+
+On the knowledge required to understand a program
+
+ALTM99~1.PDF
+
+Near-term memory
+applied to expertise in programming, single experiment, single result
+
+GOTOHA~1.HTM
+
+Go To Statement Considered Harmful
+
+mbs06_03.pdf
+
+Empirical evaluation of a model of global psychological judgment: IV. forms for the weighting function
+

@@ -1,0 +1,225 @@
+wcre2009.pdf (BES-email; not used) d
+
+Benchmarking lightweight techniques to link e-mails and source code
+
+ICSE2010-linking.pdf (BES-email; not used) d
+
+Linking e-mails and source code artifacts
+
+Bacc2011a.pdf
+
+RTFM (Read The Factual Manual) - Augmenting program comprehension with remail
+
+Bacc2012a.pdf (not used) d
+
+Content Classification of Development Emails
+
+10-cscw.pdf 10-cscw-analysis.pdf 2009-945-24.pdf (done) d
+
+Information needs in bug reports: improving cooperation between developers and users
+
+1210.1714v1.pdf (done) d
+
+Formats over time: Exploring UK web history
+
+patdoc_tse2002.pdf (not used) d
+
+Two controlled experiments assessing the usefulness of design pattern documentation in program maintenance
+
+fase11-apidoc.pdf (cited) d
+
+An empirical study on evolution of API documentation
+
+stkraretse.pdf (sooling..., done) d
+
+StakeRare: Using Social Networks and Collaborative Filtering for Large-Scale Requirements Elicitation
+
+CrowdDoc-CS-12-05.pdf (emailed, faded away) d
+
+Crowd Documentation: Exploring the Coverage and the Dynamics of API Discussions on Stack Overflow
+
+Documentation_FSE2010.pdf
+
+Creating and evolving developer documentation: Understanding the decisions of open source contributors
+
+GENZEL~1.PDF
+
+Entropy rate constancy in text
+
+icse2010.pdf (paper, not used) d
+
+Can clone detection support quality assessments of requirements specifications?
+
+ivnet06.pdf
+
+Unchecked exceptions: can the programmer be trusted to document exceptions?
+
+webdocumentation.pdf
+
+Measuring API documentation on the web
+
+1201.6078v1.pdf
+
+@tComment: Testing javadoc comments to detect comment-code inconsistencies
+
+Relink_fse2011.pdf (not used) d
+
+ReLink: Recovering links between bugs and changes
+
+bettenburg-fse-2008.pdf (not used) d
+bettenburg-tr-2007.pdf
+
+What makes a good bug report?
+
+101companies-a.pdf (not used) d
+
+Linking documentation and source code in a software chrestomathy
+
+101companies-b.pdf (not used) d
+
+101companies: a community project on software technologies and software languages
+
+err-code_mismatch.pdf (paper, not used) d
+
+Expect the unexpected: Error code mismatches between documentation and the real world
+
+Empirical-buglink-dataset.pdf (not used) d
+
+Empirical evaluation of bug linking
+
+csmr13buglink.pdf (not used) d
+
+Empirical evaluation of bug linking
+
+1311.2702.pdf (not used) d
+
+Verifiable source code documentation in controlled natural language
+
+icsm2013.pdf (not used) d
+
+Content categorization of API discussions
+
+neuhaus-issre-2010.pdf (2010...) 2010-970-19.pdf (not used) d
+
+Security trends with CVE topic models
+
+kartik-msr14.pdf (not used) d
+
+Mining questions asked by web developers
+
+C9.pdf (not used) d
+
+An empirical investigation on document usage patterns in maintenance tasks
+
+fse2014.pdf (not used) d
+
+Selection and presentation practices for code example summarization
+
+eye_tracer_traceability.pdf (not used) d
+
+An Empirical Study on the Importance of Source Code Entities for Requirements Traceability
+
+oopsla13-docref.pdf
+
+Detecting API Documentation Errors
+
+C16.pdf (not used) d
+
+Discovering Loners and Phantoms in Commit and Issue Data
+
+saha-ase13.pdf (not used) d
+
+Improving Bug Localization using Structured Information Retrieval
+
+passive_sentences.pdf (not used) d
+
+On The Impact of Passive Voice Requirements on Domain Modelling
+
+Maldonado_MTD2015.pdf (not used) d
+
+Detecting and Quantifying Different Types of Self-Admitted Technical Debt
+
+9783319568553-c2.pdf (cited) d
+
+Documentation Reuse: Hot or Not?  An Empirical Study
+
+liability.pdf
+
+Liability for Defective Documentation
+
+134450.pdf (not used0 d
+
+Analyzing APIs Documentation and Code to Detect Directive Defects
+
+Zamp2017a.pdf (not used) d
+
+How Developers Document Pull Requests with External References
+
+ase15.pdf
+
+How Do Developers Document Database Usages in Source Code?
+
+mcburney_tse_docless.pdf (not used) d
+
+Towards Prioritizing Documentation Effort
+
+a069604.pdf
+
+A Comparative Study of Flowcharts and Program Design Languages for the Detailed Procedural Specification of Computer Programs
+
+unix-man.pdf (not used) d
+
+Documented Unix Facilities Over 48 Years
+
+r-know-journal.pdf (not used) d
+
+How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists
+
+wapi18.pdf (not used) d
+
+Where does Google findAPI documentation?
+
+msr2018.pdf (available, lost interest) d
+
+A Multi-level Dataset of Linux Kernel Patchwork
+
+requirementspaper.pdf (not used) d
+
+PURE: a Dataset of Public Requirements Documents
+
+Zhi_PhD.pdf (paper, not used) d
+
+Cost-Benefit Analysis of Technical Software Documentation
+
+AAU-SERG-techreport.pdf (not used) d
+
+Analyzing the Relationships Between Android API Classes and their References on Stack Overflow
+
+journal.pone.0194139.pdf (not used) d
+
+Determinants of quality, latency, and amount of Stack Overflow answers about recent Android APIs
+
+ICPC2014-Android-SO-CRC.pdf (not used) d
+
+How Do API Changes Trigger Stack Overflow Discussions?  A Study on the Android SDK
+
+1711.05472.pdf (paper, not used) d
+
+Can Clone Detection Support Quality Assessments of Requirements Specifications?
+
+1902.07093.pdf (not used) d
+
+Analysis and Detection of Information Types of Open Source Software Issue Discussions
+
+ase2017.pdf
+
+Detecting Fragile Comments
+
+cscw14.pdf
+
+How social Q&A sites are changing knowledge sharing in open source software communities
+
+E102.D_2018EDP7071.pdf
+
+An Empirical Study of README contents for JavaScript Packages
+

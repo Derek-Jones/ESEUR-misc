@@ -1,0 +1,228 @@
+199801~1.PDF
+
+Applications and explanations of Zipf's law
+
+ha02.pdf
+
+Extension of Zip's law to words and phrases
+
+WLi.pdf
+
+Random texts exhibit Zipf's-law-like word frequency distribution
+
+toit2004a.pdf
+
+Power laws for monkeys typing randomly:  The case of unequal probabilities
+
+FerrerZipfsRandomTexts.pdf
+
+Zipf's law and random texts
+
+CLASSPOW.PDF
+
+Power Law Distributions in Class Relationships
+
+euclid.im.1089229510.pdf
+
+A brief history of generative models for power law and lognormal distribution
+
+ZIPF-S~1.PDF
+
+Zipf's law for cities: An explanation
+
+ZIPFPS~1.GZ
+
+Zipf's law outside the middle range
+
+wilhelm03.pdf
+
+Power-law distributions resulting from finite resources
+
+zipfjrh.pdf
+
+Modelling Zipfian distributions in language
+
+zanette97.pdf
+
+Role of intermittency in urban development: A model of large scale city formation
+
+w96-0106.pdf
+
+Relating Turing's formula and Zipf's law
+
+power-mle-ks.pdf
+
+Power-law distributions in empirical data
+
+0009046v1.pdf
+
+Vertical transmission of culture and the distribution of family names
+
+0106096v1.pdf
+
+Statistical mechanics of complex networks
+
+0307278v2.pdf
+
+Hierarchical small-worlds in software architecture
+
+0601192.pdf
+
+Re-inventing Willis
+
+0608672v1.pdf
+
+A Yule-Simon process with memory
+
+10.1.1.6.1737.pdf
+
+The structure and function of complex networks
+
+CS-2006-14.pdf
+
+Seeking empirical evidence for self-organizing criticality in open source software evolution
+
+FamilyNamesSubmitted.pdf
+
+On the distribution of family names
+
+LOGNETDYN.pdf
+
+Logarithmic growth dynamics in software networks
+
+PREpowerlaws.pdf
+
+From gene families and genera to incomes and internet file sizes: Why power laws are so common in nature
+
+ha03.pdf
+
+Extension of Zipf's law for word cand character N-grams for English and Chinese
+
+mbsa02.pdf
+
+Truncation of power law behavior in "scale free" network models due to information filtering
+
+newman04_power.laws.review.pdf
+
+Power laws, Pareto distributions and Zipf's law
+
+p91-1035.pdf
+
+A stochastic process for word frequency distributions
+
+simon55.pdf
+
+On a class of skew distribution functions
+
+spl.pdf
+
+Power laws in software
+
+veldhuizen.pdf
+
+Software libraries and their reuse: Entropy, Kolmogorov complexity, and Zipf's law
+
+0510038v2.pdf
+
+A common mode of origin of power laws in models of market and earthquake
+
+0509180v2.pdf
+
+Power-law distributions from additive preferential redistribution
+
+ferrer01twoRegimes.pdf
+
+Two regimes in the frequency of words and the originas of complex lexicons: Zipf's law revisted
+
+marsili98.pdf
+
+Interacting individuals leading to Zipf's law
+
+s07.pdf
+
+Dynamics of rumor propagation on small-world networks
+
+alife9.pdf
+
+Minimum cost and the emergence of the Zipf-Mandelbrot law
+
+0009046v1.pdf
+
+Vertical transmission of culture and the distribution of family names
+
+0307278v2.pdf
+
+Hierarchical small-worlds in software architecture
+
+0608672v1df
+
+A yule-simon process with memory
+
+199801~1.PDF
+
+Applications and explanations of Zipf's law
+
+CS-2006-14.pdf
+
+Seeking empirical evidence for self-organized criticality in open source software evolution
+
+PHYSA11117.pdf
+
+q-exponential fitting for distributions of family names
+
+im2004b.pdf
+
+Dynamic models for file sizes and double pareto distributions
+
+tcpwin4.pdf
+
+Influence of file size distributions on legacy LAN QoS parameters
+
+10.1.1.139.4784.pdf
+
+An exploration of power-law in use-relation of Java software systems
+
+10.1.1.113.1882.pdf
+
+Software graphs and programmer awareness
+
+heapsrapp.pdf
+
+A formal derivation of Heaps' law
+
+studling.pdf
+
+Word length, sentence length and frequency - Zipf revisited
+
+pre46135.pdf
+
+Search in power-law networks
+
+scale-free-printing.pdf (not used) d
+
+Correlated dynamics in human printing behavior
+
+1103.2681v1.pdf
+
+A paradoxical property of the monkey book
+
+1101.5888v2.pdf
+
+Predicted and verified deviations from Zipf's law in ecology of competing products
+
+PNAS-2002-Christensen.pdf
+
+Unified scaling law for earthquakes
+
+PNAS-2011-Piantadosi.pdf
+
+Word lengths are optimized for efficient communication
+
+10.1.1.84.1953.pdf
+
+Self-similarity and long range dependence on the Internet: A second look at the evidence, origins and implications
+
+1208.3524.pdf
+
+Power-law distributions in binned empirical data
+

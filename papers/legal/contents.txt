@@ -1,0 +1,148 @@
+msr2009.pdf
+
+Code siblings: technical and legal implications of copying code between applications
+
+msr2010.pdf (not used) d
+
+Identifying licensing of jar archives using a code-search approach
+
+7-93-1-PB.pdf (cited) d
+
+What is the {"}Source{"} of Open Source Hardware?
+
+126-788-1-PB.pdf
+
+GPL-3.0 in the Chinese Intellectual Property Court in Beijing
+
+Gue.pdf
+
+TRIGGERING INFECTION: DISTRIBUTION AND DERIVATIVE WORKS UNDER THE GNU GENERAL PUBLIC LICENSE
+
+WallaceFSFGrantingDismiss.pdf
+
+ENTRY GRANTING REASSERTED MOTION TO DISMISS (Docket No. 34): DANIEL WALLACE, v. FREE SOFTWARE FOUNDATION, INC.
+
+ReuseGNUSoftwareLicense.pdf
+
+An empirical study of the reuse of software licensed under the GNU General Public License
+
+GPL-MEETS-THE-UCC.pdf
+
+THE GPL MEETS THE UCC: DOES FREE SOFTWARE COME WITH A WARRANTY OF NO INFRINGEMENT?
+
+papers_146-tsingos.pdf
+
+Enforceability of free/open source software licensing terms: A critical review of the global Case - Law
+
+Valimaki-dual_licensing.pdf
+
+Dual Licensing in Open Source Software Industry
+
+kumar.pdf
+
+ENFORCING THE GNU GPL
+
+MDY-Trios-Inconvenient.pdf
+
+Enforcement of Open Source Software Licenses: The MDY Trio's Inconvenient Compliations
+
+comprehensive-gpl-guide.pdf
+
+Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide
+
+OpenSourceLicensing-book.pdf
+
+Open Source Licensing Software Freedom and Intellectual Property Law
+
+valimaki-PhD.pdf
+
+THE RISE OF OPEN SOURCE LICENSING A CHALLENGE TO THE USE OF INTELLECTUAL PROPERTY IN THE SOFTWARE INDUSTRY
+
+EconomidesMicrosoftRemedies.pdf
+
+Microsoft on Trial Legal and Economic Analysis of a Transatlantic Antitrust Case
+
+page&childers.pdf
+
+SOFTWARE DEVELOPMENT AS AN ANTITRUST REMEDY: LESSONS FROM THE ENFORCEMENT OF THE MICROSOFT COMMUNICATIONS PROTOCOL LICENSING REQUIREMENT
+
+DTIC_ADA585737.pdf
+
+The Navy’s Management of Software Licenses Needs Improvement
+
+56357561.pdf
+
+Tort Liability for Vendors of Insecure Software: Has the Time Finally Come?
+
+08HarvJLTech001.pdf
+
+BEWARE OF VAPORWARE: PRODUCT HYPE AND THE SECURITIES FRAUD LIABILITY OF HIGH-TECH COMPANIES
+
+Modular_norm_models.pdf (cited) d
+
+Modular norm models: practical representation and analysis of contractual rights and obligations
+
+8-3-93-1-10-20170505.pdf
+
+Electronic Evidence
+
+20200106172508533_18-956.pdf
+
+IN THE Supreme Court of the United States GOOGLE LLC, Petitioner, v.  ORACLE AMERICA, INC., Respondent. Brief for the petitioner
+
+oracle_brief_opposition_google.pdf
+
+IN THE Supreme Court of the United States GOOGLE LLC, Petitioner, v.  ORACLE AMERICA, INC., Respondent. Brief in Opposition
+
+THE FORD PINTO CASE.html
+
+THE FORD PINTO CASE: THE VALUATION OF LIFE AS IT APPLIES TO THE NEGLIGENCE-EFFICIENCY ARGUMENT
+
+20181019144709361_GoogleOracle.pdf
+
+ORACLE AMERICA, {INC}., Plaintiff-Appellant v. GOOGLE {LLC}, Defendant-Cross-Appellant
+
+SSRN-id3180174.pdf
+
+THE SEPARATION OF PLATFORMS AND COMMERCE
+
+MSC-Schedules-v1.09-Eng-Wales.pdf
+
+MODEL SERVICES AGREEMENT COMBINED SCHEDULES
+
+091216intelcmpt.pdf
+
+UNITED STATES OF AMERICA BEFORE THE FEDERAL TRADE COMMISSION In the Matter of INTEL CORPORATION, a corporation,
+
+AMD_settlement_agreement.pdf
+
+Settlement agreement between Advanced Micro Devices Inc. and Intel corporation
+
+SSRN-id3409578.pdf
+
+THE PARADOX OF SOURCE CODE SECRECY
+
+PO-Horizon_IT-scandal.pdf
+
+The Post Office Horizon IT scandal and the presumption of the dependability of computer evidence
+
+harm_that_judges_do.pdf
+
+The harm that judges do – misunderstanding computer evidence: Mr Castleton’s story ‘an affront to the public conscience’
+
+Misunderstanding-IT.pdf
+
+Misunderstanding IT: Hospital cybersecurity and IT problems reach the courts
+
+sap-uk_v_diageo-great-britain.pdf
+
+Between: SAP UK LIMITED - and – DIAGEO GREAT BRITAIN LIMITED
+
+18-956_d18f.pdf
+
+SUPREME COURT OF THE UNITED STATES GOOGLE LLC v. ORACLE AMERICA, INC.  CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+
+techreport-jamescrawford.pdf (paper, not used) d
+
+The Computer Misuse Act and Hackers: A review of those convicted under the Act
+ 

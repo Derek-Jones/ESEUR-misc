@@ -1,0 +1,787 @@
+fparith.ps.gz
+
+A bibliography of publications on floating-point arithmetic
+
+FLECKM~1.PDF
+
+FLECKmarks Measuring Floating Point Performance using a FulL IEEE Compliant Arithmetic BenchmarK
+
+signanopt.txty
+
+754 committee thinking of making signalling nans optional
+
+LIDDIC~1.PDF
+
+High performance arithmetic for division and the elementary functions
+
+WRITIN~1.PDF
+
+Writing robust IEEE recommended functions in 100% pure java
+
+AP02044.PDF
+
+Trigonometric functions on the DSP16000 core digital signal processor
+
+NOV98.PDF
+
+Correctly rounded transendentals
+
+TONG98~1.PDF
+
+Minimizing floating-point power dissipation via bit-width reduction
+
+OBERMA~1.PDF
+
+Design Issues in High Performance Floating Point Arithmetic Units
+
+IMPROV~1.HTM
+
+Improving Java for Numerical Computation
+		    
+FIGUER~1.PDF
+
+A rigorous framework for fully supporting the IEEE standard for floating-point arithmetic in high-level languages
+
+RR-4044.PDF ARITH15_Lefevre.pdf
+
+Worst cases for correct rounding of the elementary functions in double precision
+
+FALL99.PS
+
+Numerical computing and the IEEE floating point standard
+
+RND-90~1.PS
+
+Y-MP Floating Point and Cholesky Factorization
+
+COLEMA~1.PDF
+
+The european logarithmic microprocessor - a QRD RLS application
+
+ARITH1~1.PDF
+
+A 32-bit logarithmic arithmetic unit and its performance compared to floating-point
+
+TRIANGLE.PDF
+
+Miscalculating Area and Angles of a Needle-like Triangle
+
+QUAD-D~1.PDF
+
+Quad-Double Arithmetic: Algorithms, Implementation, and Application
+
+DECBINCONV.PS.gz
+
+Correctly Rounded Binary-Decimal and Decimal-Binary Conversions
+
+CASE-9~1.PDF
+
+A Software-oriented Floating-Point Format for Automotive Control Systems
+
+FP-PRI~1.PS
+
+Printing floating point numbers
+
+clinger90how.pdf
+
+How to Read Floating Point Numbers Accurately
+
+FP-Printing-PLDI96.pdf
+
+Printing floating-point numbers quickly and accurately
+
+FLOATP~1.PS
+
+What every computer scientist should know about floating point arithmetic
+
+HANDLI~1.PS
+
+Handling floating-point exceptions in numeric programs
+
+IEEE754.PS.gz
+
+IEEE standard 754 for binary floating-point arithmetic
+
+IEEETC~1.PDF
+
+Semi-logarithmic number systems
+
+IMPROBER.PDF
+
+The improbability of probabilistic error analysis for numerical computations
+
+NUMBEAST.PS
+
+Beastly numbers
+
+DIFFER~1.HTM
+
+Differences Among IEEE 754 Implementations
+
+ECRBDC.htm
+
+Economical Correctly Rounded Binary Decimal Conversions
+
+INTELF~1.HTM
+
+Intel FCOS and FSIN Problems
+
+SQUARE~1.HTMy
+
+Finding square root via a nifty algorithm
+
+CUYTTO-1.PDF
+
+A precision independent tool for testing floating-point arithmetic I: basic operations, square root and remainder
+
+Ve_Cu_ea_pre_01b.pdf
+
+A Precision- and Range-Independent Tool for Testing Floating-Point Arithmetic II: Conversions
+
+CATACANC.PS
+
+A remarkable example of catastrophic cancellation
+
+PLDI-I~1.GZ
+
+Exploiting idle floating point resources for integer execution a proposal for possible hardware modification
+
+PRIEST~1.PDF
+
+On properties of floating point arithmetics: numerical stability and the cost of accurate computations
+
+FLTSUM.PDF
+
+Accurate floating point summation
+
+NAREP198.PDF
+
+The accuracy of floating point summation
+
+THE-AC~1.PDF
+
+The accuracy of floating point summations for cg-like methods
+
+UNDRFLOW.PS.gz
+
+Underflow revisted
+
+INTERV~1.PDF
+
+Interval arithmetic specification
+
+STINES~1.PDF
+
+The symmetric table addition method for accurate function approximation
+
+AAMODT~1.PDF
+
+Numerical error minimizing floating-point to fixed-point ANSI C compilation
+
+A-FLOA~1.PDF
+
+A floating-point to fixed-point C converter for fixed-point digital signal processors
+
+MKTGMATH.PDFy
+
+Marketing versus Mathematics + floating-point
+
+390_FL~1.PDF
+
+The S/390 G5 floating-point unit
+
+87FPU.PDF
+
+Intel Floating-Point Unit
+
+CRAYIEEE.PDF
+
+Migrating to the CRAY T90 Series IEEE Floating Point
+
+IA64FPBF.PDF
+
+IA-64 Floating-Point Operations and the IEEE Standard for Binary Floating-Point Arithmetic
+
+PICIEEE.PDF
+
+PIC16/17 IEEE 754 Compliant Floating Point Routines
+rounding/sticky bit issues affecting accuracy
+
+PORTIN~1.PDF
+
+Porting Programs to PowerPC Numerics
+
+TRANSE~1.PDF
+
+The Computation of Transcendental Functions on the IA-64 Architecture
+
+MathLib_AppC.pdf
+
+MathLib Header Files, appendix C
+
+IEEE_DATA.pdf
+
+Floating-point data formats
+Apple PowerPC
+
+IEEE_ENVIR.pdf
+
+Floating-point environment
+Apple PowerPC
+
+IEEE_FUNC.pdf
+
+Floating-point operators and functions
+Apple PowerPC
+
+IEEE_EXPR.pdf
+
+Floating-point expression evaluation
+Apple PowerPC
+
+IEEE_STAND.pdf
+
+IEEE standard discussion
+Apple PowerPC
+
+IEEE_CONV.pdf
+
+Floating-point conversions
+Apple PowerPC
+
+JAVAHURT.PDF
+
+How Java's floating-point hurts everyone everywhere
+
+RPB017.PDF 1004.3374.pdf
+
+On the Precision Attainable with Various Floating-Point Number Systems
+
+CS-TR-67-64.pdf
+
+Floating-point number representation: base choice versus exponent range
+
+CS-TR-~7.PDF
+
+Pitfall in computation, or why a math book isn't enough
+
+CS-TR-~2.PDF
+
+An algorithm for floating-point accumulation of sums with small relative error
+
+TESTBA~1.PS.gz
+
+A program for testing IEEE decimal-binary conversion
+
+arg.pdf
+
+Argument reduction for huge arguments: good to the last bit
+
+IEEE-7.1~1.HTM
+
+IEEE-754 References
+
+F77RND~1.PS.gz
+
+Instrumenting Fortran programs to automatically measure roundoff error
+
+NAMES.PDF
+
+Names for standarized floating-point formats
+
+X1X.PS
+
+When is x (1/x) != 1?
+
+CITRON~1.PDF
+
+Hardware memoization of mathematical and trigonometric functions
+
+PARKS-~1.GZ
+
+Number-theoretic test generation for directed rounding
+
+ICS-01.PS.gz
+
+On the Potential of Tolerant Region Reuse for Multimedia Applications
+
+INTERV~1.PS.gz
+
+Interval Computations: Introduction, Uses, and Resources
+
+DECBSIB.PDF
+
+Support for decimal floating point
+
+MICROS~1.PDF
+
+Numerical computation guide (from Sun)
+
+P415-A~1.PDF
+
+Unnormalized floating point arithmetic
+
+PAPER-~1.PDF
+
+Decimal Floating-Point: Algorism for Computers
+
+STRICT~1.PDF
+
+Updates to the Java Language specification for JDK release 1.2 floating point
+
+FPL02A~1.PDF
+
+Automating Customisation of Floating-Point Designs
+
+SODERQ~1.PDF
+
+Area and performance tradeoffs in floating-point divide and square root implementations
+
+crdcsrvy.pdf
+
+A survey of CORDIC algorithms for FPGA based computers
+
+ICPP04.pdf
+
+16-bit FP sub-word parallelism to facilitate compiler vectorization and improve performance of image and media processing
+
+FloatingPoint.ps.gz
+
+Formal methods applied to a floating point number system
+
+9907015.pdf
+
+Linear-time approximation algorithms for computing numerical summation with provably small errors
+
+ibmsjIVRID.pdf
+
+An analysis of floating-point addition
+
+lms98001.pdf
+
+A mechanically checked proof of IEEE compliance of the floating point multiplication, division and square root algorithms of the AMD-K7 processor
+
+exjobb.pdf
+
+A hardware MP3 decoder with low precision floating point intermediate storage
+
+B3906-90006.pdf
+
+HP-UX floating point guide: HP 9000 Computers, edition 5
+
+floatformats.html Floating-Point Formats.pdf
+
+Description of various floating point formats
+
+SPIE99.pdf
+
+Precision vs error in JPEG compression
+
+j10.pdf
+
+Autoscalar for C: An optimizing floating-point to integer C program converted for fixed-point digital signal processors
+
+fccm04.pdf
+
+Unifying bit-width optimisation for fixed-point and floating-point designs
+
+intro-qual.pdf
+
+An introduction to the quality of computed solutions
+
+Mindless.pdf
+
+How futile are mindless assessments of roundoff in floating-point computation?
+
+figueroadelcid00rigorous.pdf
+
+Rigorous Framework for Fully Supporting the IEEE Standard for Floating-Point Arithmetic in High-Level Programming Languages
+
+RR-5504.pdf
+
+On the definition of ulp(x)
+
+caduceus-floats.pdf
+
+Formal verification of floating-point programs
+
+RR2004-41.pdf
+
+Some functions computable with a fused-mac
+
+P754-Apr08-draft.PDF
+
+Standard for floating-point arithmetic P754 Draft Apr 2008
+
+InvSqrt.pdf
+
+Fast inverse square root
+
+schryer81test.pdf
+
+A test of a computer's floating-point arithmetic unit
+
+rr_power-cr.pdf
+
+An efficient rounding boundary test for pow(x, y) in double precision
+
+rr_power.pdf
+
+Computing integer powers in floating-point arithmetic
+
+underflow.pdf
+
+Some notes on the possible under/overflow of the most common elementary functions
+
+BolDau04a.pdf
+
+Properties of two's complement floating point notations
+
+osihpa-govind.pdf
+
+Performance Degradation in the Presence of Subnormal Floating-Point Values
+
+cp_2005-14.pdf
+
+Performance evaluation of decimal floating-point arithmetic
+
+asilomar2001.pdf
+
+Improving the effectiveness of floating point arithmetic
+
+accsum.pdf
+
+A Comparison Of Methods For Accurate Summation
+
+DauLes07.pdf
+
+Stochastic Formal Methods: An application to accuracy of numeric software
+
+RuZiBoMe08.pdf
+
+Computing predecessor and successor in rounding to nearest
+
+RuOgOi08.pdf
+
+Fast high precision summation
+
+Ru08b.pdf
+
+Ultimately fast accurate summation
+
+RuOgOi07I.pdf
+
+Accurate floating-point summation part 1: Faithful rounding
+
+RuOgOi07II.pdf
+
+Accurate floating-point summation part II: Sign, K-fold faithful and round to nearest
+
+10.1.1.4.9793.pdf
+
+Fast and accurate floating point summation with application to computational geometry
+
+OgRuOi05.pdf
+
+Accurate sum and dot product
+
+fang02lightweight.pdf
+
+Lightweight floating-point arithmetic: Case study of inverse discrete cosine transform
+
+floating-point-article.pdf
+
+The pitfalls of verifying floating-point computations
+
+10.1.1.81.3385.pdf
+
+A comparison of floating point and logarithmic number systems on FPGAs
+
+etd808.pdf
+
+Higher Radix Floating-Point Representation for FPGA-based Arithmetic
+
+Prob_Distrib_Fixed-Point_Mult.pdf
+
+On the probability distribution of fixed-point multiplication
+
+toms.pdf
+
+MPFR: A multiple-precision binary floating-point library with correct rounding
+
+rr-5268.ps
+
+A floating-point library for integer processors
+
+3andn-sums.pdf
+
+On the computation of correctly-rounded sums
+
+p372-steele.pdf
+
+How to Print Floating-Point Numbers Accurately
+
+SPRA229.PDF
+
+Floating point C compiler: Tips and tricks part 1 (TMS320 DSP)
+
+gttse07.pdf A
+
+How to write fast numerical code: A small introduction
+
+fmics07.pdf
+
+Static analysis of the accuracy in control systems: principles and experiments
+
+add-sub-overflow.pdf
+
+Overflow, underflow, and severe loss of significance in floating-point addition and subtraction
+
+CSD-970014.ps.gz
+
+Monte Carlo arithmetic: a framework for the statistical analysis of roundoff error
+
+mod-computer-arith,pdf
+
+Modern computer arithmetic (0.5.9)
+
+issta2010.pdf
+
+Proving memory safety of floating-point computations by combining static and dynamic program analysis
+
+0708.3722v1.pdf
+
+Formally verified argument reduction with a fused-multiply-add
+
+10.1.1.123.9012.pdf
+
+Extending the range of the Cody and Waite range reduction method
+
+Cody-and-Waite-book.pdf
+
+Software manual for the elementary functions
+
+RR-5406.pdf
+
+Proposal for a standarization of mathematical function implementation in floating-point arithmetic
+
+bessel.pdf
+
+Fast and accurate Bessel function computation
+
+rr-5259.pdf
+
+Generating formally certified bounds on values and round-off errors
+
+tmdasap2010-desanonyme.pdf
+
+Implementing decimal floating-point arithmetic through binary: some suggestions
+
+transcendentals.pdf
+
+Decimal transcendentals via binary
+
+Multiplication_Noise_J15.pdf
+
+Fixed-point multiplication: A probabilistic bit-pattern view
+
+kleefp-eurosys-2011.pdf
+
+Symbolic crosschecking of floating-point and SIMD code
+
+10-tc.pdf
+
+Certifying the floating-point implementation of an elementary function using Gappa
+
+rnca_10_hack.pdf
+
+On intermediate precision required for correctly-rounding decimal-to-binary floating-point conversion
+
+castaldo_phd.pdf
+
+Error analysis of various forms of floating point dot product
+
+10.1.1.144.5889.pdf
+
+A program for testing IEEE decimal-binary conversion
+
+Polhill_2006.pdf
+
+What every agent-based modeller should know about floating point arithmetic
+
+main.pdf
+
+Accuracy versus time: A case study with summation algorithms
+
+Cheb-approx_June11.pdf
+
+Approximation theory and approximation practice
+
+profit.pdf
+
+Synthesizing accurate formulas for the floating-point arithmetic
+
+TR-2013-2.pdf
+
+Quantifying the impact of single bit flips on floating point arithmetic
+
+benz_fp.pdf
+
+A dynamic program analysis to find floating-point accuracy problems
+
+flt-pt-coq.pdf
+
+A formally-verified C compiler supporting floating-point arithmetic
+
+popl13.pdf
+
+Automatic detection of floating-point exceptions
+
+ppopp2014-cgrs.pdf
+
+Efficient search for inputs causing high floating-point errors
+
+computing-midpoint.pdf
+
+How do you compute the midpoint of an interval?
+
+fp-printing-popl16.pdf
+
+Printing Floating-Point Numbers A Faster, Always Correct Method
+
+ARITH9_Johnstone.pdf
+
+Higher radix floating point representations
+
+Local_Roundoff_Errors_FP_Arith.pdf
+
+On Local Roundoff Errors in Floating-Point Arithmetic
+
+643-650.pdf
+
+Analysis of Rounding Methods in Floating-Point Arithmetic
+
+feldstein1996.pdf
+
+Overflow and underflow in multiplication and division
+
+pldi15-paper.pdf
+
+Automatically Improving Accuracy for Floating Point Expressions
+
+FSE16.pdf (not used) d
+
+Detecting and Fixing Precision-Specific Operations for Measuring Floating-Point Errors
+
+10.1.1.699.2809.pdf
+∗
+Rigorous Estimation of Floating-Point Round-off Errors with Symbolic Taylor Expansions
+
+icse16.pdf
+
+Floating-Point Precision Tuning Using Blame Analysis
+
+PROMISE.pdf (paper, cited) d
+
+Auto-tuning for floating-point precision with Discrete Stochastic Arithmetic
+
+1705.10416v2.pdf
+
+Finding Root Causes of Floating Point Error with Herbgrind
+
+ARITH3_Kuck.pdf
+
+ROM-rounding: A new rounding scheme
+
+pldi18main-p10-p.pdf
+
+Ryu: Fast Float-to-String Conversion
+
+1701.00722.pdf
+
+The Unum Number Format: Mathematical Foundations, Implementation and Comparison to IEEE 754 Floating-Point Numbers
+
+arith2016.pdf
+
+Accuracy and Performance Trade-offs of Logarithmic Number Units in Multi-Core Clusters
+
+jssc2017.pdf
+
+An Extended Shared Logarithmic Unit for Non-linear Function Kernel Acceleration in a 65 nm CMOS Multi-Core Cluster
+
+parh13-asilo-log-arith.pdf
+
+Logarithmic Arithmetic as an Alternative to Floating-Point: A Review
+
+bitfp-lee-pldi16.pdf
+
+Verifying Bit-Manipulations of Floating-Point
+
+ase17main-numerical_bug.pdf (paper, not used) d
+
+A Comprehensive Study of Real-World Numerical Bug Characteristics
+
+popl18.pdf
+
+On Automatically Proving the Correctness of math.h Implementations
+
+toplas2018-sbbjrg.pdf
+
+Rigorous Estimation of Floating-Point Round-off Errors with Symbolic Taylor Expansions
+
+rr_periodic.pdf
+
+Worst Cases of a Periodic Function for Large Arguments
+
+decimalexp.pdf
+
+Worst Cases for the Exponential Function in the IEEE 754r decimal64 Format
+
+End_of_Error_Unum_Comput.pdf
+
+THE END of ERROR Unum Computing
+
+tsao1974.pdf
+
+On the Distributions of Significant Digits and Roundoff Errors
+
+scheidt1987.pdf
+
+Distributions of Floating Point Numbers
+
+82124046.pdf
+
+ESTIMATION FOR THE MEAN AND THE VARIANCE OF THE ROUND-OFF ERROR
+
+Darulova-PhD.pdf
+
+Programming with Numerical Uncertainties
+
+1201.5975.pdf
+
+Floating-Point Numbers with Error Estimates (revised)
+
+1904.09481.pdf
+
+AN IMPROVED ALGORITHM FOR HYPOT(A,B)
+
+koren1990.pdf
+
+Evaluating elementary functions in a numerical coprocessor based on rational approximations
+
+Floating-Point-Arith_book.pdf
+
+Handbook of Floating-Point Arithmetic
+
+55fbb7754527969a19.pdf
+
+UNDERFLOW REVISITED
+
+elementary-funcs_alg-impl-book.pdf
+
+Elementary Functions Algorithms and Implementation
+
+19m1257780.pdf
+
+A CLASS OF FAST AND ACCURATE SUMMATION ALGORITHMS
+ 

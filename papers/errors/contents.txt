@@ -1,0 +1,1279 @@
+P401-XIE.PDF (paper, not used) d
+
+Using Redundancies to Find Errors
+
+437d7dfa393963ff1e619.pdf
+
+Predicting fault incidence using software change history
+
+P428-L~1.PDF
+
+A case study in root cause defect analysis
+
+P42-BA~1.PDF
+
+Software errors and complexity: an empirical investigation
+
+EUSPRI~1.HTM
+
+Spreadsheet Errors: What We Know.  What We Think We Can Do
+
+WHATKNOW.HTM
+
+What we know about spreadsheet errors
+
+RAJALI~1.PDF
+
+Classification of spreadsheet errors
+
+HASE99.PDF
+
+Lessons from 342 medical device faults
+
+SWABS.HTM
+SWRESULTS.HTM
+
+Cognitive Correlates of Linguistic Complexity: A Cross-Linguistic Comparison of Errors in Speech
+abstract and results from Sheri-Wells PhD, 1999
+
+P33-LI~1.PDF
+
+A study of errors, error-proneness, and error diagnosis in Cobol
+
+codes04-chen.pdf
+
+Analyzing heap error behavior in embedded JVM environments
+
+jsr.pdf
+
+The role of software in spacecraft accidents
+
+edwards-bruckman-chi99.pdf
+
+Should we leverage natural language knowledge?  An analysis of user errors in a natural language style programming language
+
+therac.ps
+
+Medical devices: The Therac-25
+
+AMITSpreadsheet.pdf (paper, not used) d
+
+An empirical study of spreadsheet error-finding performance
+
+Typographical-Errors.txt (paper, not used) d
+
+Errors in copy typewriting
+
+Engengspell13_full.txt Japengspell7_full.txt Engengspell13-rev-h.txt japengspell7-rev-h.txt
+
+Spelling errors made by native English and Japanese speakers
+
+SEN-R0515.pdf
+
+Discovering faults in idiom-based exception handling
+
+ICSE05Churn.pdf
+
+Use of relative code churn measures to predict system defect density
+
+ICSE05Exp.pdf
+
+Static analysis tools as early indicators of pre-release defect density
+
+weimer04errorhandling.pdf
+
+Finding and preventing run-time error handling mistakes
+
+an-empirical-study-of.pdf (paper, not used) d
+
+An empirical study of the branch coverage of different fault classes
+
+michael96uniformity.pdf
+michael97.pdf
+
+On the uniformity of error propagation in software
+
+murphy-s-law-the.pdf
+
+Murphy's law, the fitness of evolving species, and the limits of software reliability
+
+tse_34_6.pdf
+
+The Impact of Educational Background on the Effectiveness of Requirements Inspections: An Empirical Study
+
+MSU-070404.pdf
+
+A systematic literature review to identify and classify software requirements errors
+
+berry00from.pdf
+
+From contract drafting to software specification: Linguistic sources of ambiguity
+
+vlhcc05-spreadsheet-units.pdf
+
+Using objects of measurement to detect spreadsheet errors
+
+faults-HPCA2007.pdf
+
+Application-level correctness and its impact on fault tolerance
+
+ftcs99.pdf (paper, not used) d
+
+Comparing the robustness of POSIX operating systems
+
+fse07.pdf
+
+Context-based detection of clone-related bugs
+
+asplos122-lu.pdf
+
+Learning from mistakes - A comprehensive study on real world concurrency bug characteristics
+
+parh97defect-fault.pdf
+
+Defect, fault, error, ..., or failure?
+
+NAG01_01-08.pdf (emailed) d
+
+Exploring defect correlations in a major Fortran numerical library
+
+bugtaxst.doc
+
+Bug taxonomy and statistics (Boris Beizer)
+
+jako07a.pdf
+
+Investigating change patterns that fix bugs
+
+bishopp_log_normal.pdf
+
+Using log-normal failure distribution for worst case bound reliability prediction
+
+errors-in-an-interactive.pdf
+
+Errors in an interactive programming environment: Causes and cures
+
+ioannidis plosmed05.pdf
+
+Why most published research findings are false
+
+PENTBUG.PDF
+
+Pentium III processor specification update
+
+SOFTFA~1.PDF (paper, not used) d
+
+An empirical study of software faults preventable at a personal level in a very large software development environment
+
+breu-tr-2009.pdf
+
+Frequently asked questions in bug reports
+
+holschuh-icse-2009.pdf
+
+Predicting Defects in SAP Java Code: An Experience Report
+
+zimmer-issre-07.pdf
+tr-2006-126.pdf
+
+Predicting Subsystem Failures using Dependency Graph Complexities
+
+10.1.1.154.3655.pdf
+
+Fair and Balanced?  Bias in Bug-Fix Dataset
+
+wcre2010-nguyen.pdf
+
+A case study of bias in bug-fix datasets
+
+10.1.1.142.9458.pdf
+
+Are refactorings less error-prone than other changes?
+
+10.1.1.143.376.pdf (paper, not used) d
+
+When do changes induce fixes?
+
+10.1.1.168.5006.pdf
+
+The Missing Links: Bugs and Bug-fix Commits
+
+zimmermann-icst-2010.pdf
+
+Searching for a needle in a haystack: Predicting security vulnerabilities for Windows Vista
+
+zimmermann-icse-2008.pdf
+
+Predicting defects using network analysis on dependency graphs
+
+zimmermann-esecfse-2009.pdf
+
+Cross-project defect prediction
+
+wooSEA_2006.pdf
+
+An analysis of the vulnerability discovery process in web browsers
+
+rahman2010cws.pdf
+
+Clones: What is that Smell?
+
+seasonal_09.pdf (NVD, not used) d
+
+Seasonal variation in the vulnerability discovery process
+
+guo-icse-2010.pdf
+
+Characterizing and predicting which bugs get fixed: An empirical study of Microsoft Windows
+
+isnd.pdf ie-update.pdf (paper, cited) d
+
+An Empirical Study of Software Interface Faults -- An Update
+
+alhazmi08.pdf
+
+Application of vulnerability discovery models to major operating systems
+
+anderssonCdoc.pdf
+
+Managing software quality through empirical analysis of fault detection
+
+backmann-msr10.pdf
+
+When process data quality affects the number of bugs: Correlations in software engineering datasets
+
+bird2009pat.pdf
+
+Putting it all together: Using socio-technical networks to predict failures
+
+kim07.pdf
+
+Vulnerability discovery in multi-version software systems
+
+meineThesis.pdf (done) d
+
+The effectiveness of software diversity
+
+msr09_shin.pdf
+
+Does calling structure information improve the accuracy of fault prediction?
+
+nagappan-issre-2010.pdf (cited) d
+
+Change bursts as defect predictors
+
+neuhaus-usenix-2009.pdf
+
+The beauty and the beast: Vulnerabilities in Red Hat's packages
+
+p3.pdf
+
+Comparing negative binomial and recursive partitioning models for fault prediction
+
+p93.pdf
+
+Software defect repair times: A multiplicative study
+
+secret.pdf
+
+The secret life of bugs: Going past the errors and omissions in software repositories
+
+10which.pdf
+
+Defect prediction from static code features: current results, limitations, new approaches
+
+24_Koru+Tian2005.pdf
+
+Comparing high-change modules and modules with the highest measurement values in two large-scale open-source products
+
+39_Koru_etal2008.pdf (partial) d
+
+Theory of relative defect proneness
+
+800.pdf
+
+Finding similar defects using synonymous identifier retrieval
+
+JureczkoMadeyski10f.pdf (not used) d
+
+Towards identifying software project clusters with regard to defect prediction
+
+icsm2010_kamei.pdf
+
+Revisiting common bug prediction findings using effort-aware models
+
+06_Mende.pdf
+
+Revisiting the evaluation of defect prediction models
+
+09costcurves.pdf
+
+Cost curve evaluation of fault prediction models
+
+yue-jiang_PhD.pdf
+
+Incremental development and cost-based evaluation of software fault prediction models
+
+icst2010.pdf (paper, done) d
+
+Does Hardware Configuration and Processor Load Impact Software Fault Observability?
+
+syed_etd.pdf (paper+also icst2010.pdf, done) d
+
+Investigating intermittent software failures
+
+simula_1.pdf
+
+A systematic and comprehensive investigation of methods to build and evaluate fault prediction models
+
+dsn2010-bug-study.pdf (not used) d
+
+A study of the internal and external effects of concurrency bugs
+
+android_issre10_submit.pdf
+
+Characterizing failures in Mobile OSes: A case study with android and symbian
+
+ccs221-meneely.pdf
+
+Secure open source collaboration: An empirical study of Linus' law
+
+esem2010-meneely.pdf
+
+Strengthening the empirical analysis of the relationship between Linus' law and software security
+
+concurrency_report.pdf
+
+Simultaneity Safari: A study of concurrency bugs in device drivers
+
+defects09.ps (paper, not used) d
+
+"Days of the week" effect in predicting the time taken to fix defects
+
+denton97.pdf
+
+What do the software reliability growth model parameters represent?
+
+denton98_residual.pdf
+
+Estimating the number of residual defects
+
+etd.pdf (Faultbench/, not used) d
+
+A systematic model building process for predicting actionable static analysis alerts
+
+hang-empirical.pdf
+
+Why software hangs and what can be done with it
+
+10.1.1.87.6787.pdf
+
+An empirical comparison and characterization of high defect and high complexity modules
+
+wcre2010_shihab.pdf (partial) d
+
+Predicting re-opened bugs: A case study on the eclipse project
+
+Shihab-EMSE2012.pdf
+
+Studying re-opened bugs in open source software
+
+dsn-2009.pdf
+
+Fault isolation for device drivers
+
+fase2010.pdf
+
+Are popular classes more defect prone?
+
+promise2007-dataset-20a.pdf (partial) d
+
+Predicting defects for Eclipse
+
+Shihab_ESEM2010.pdf (Eclipse..., partial) d
+
+Understanding the Impact of Code and Process Metrics on Post-release Defects: A Case Study on the Eclipse Project
+
+radlinski_isat2010.pdf (promise, low quality, not used) d
+
+Building bayesian nets for software defect prediction - A comparison of manual, semi and fully-automated schemes
+
+radlinski_pjoes2008.pdf (promise, low quality, not used) d
+
+A learning bayesian net for predicting number of software defects found in a sequence of testing
+
+interra-v3.pdf
+
+Cross- vs within-company defect prediction studies
+
+ROSAEC-2009-003.pdf
+
+Identifying static analysis techniques for finding non-fix hunks in fix repositories
+
+5c.pdf
+
+A critique of software defect prediction models
+
+40_Koru_etal2009.pdf
+
+An investigation into the functional form of the size-defect relationship for software modules
+
+AdaptiveBugPrediction_SungKim.pdf
+
+Adaptive bug prediction by analyzing project history
+
+Predicting_Act_Anal_Warn.pdf
+
+Predicting accurate and actionable static analysis warnings: An experimental approach
+
+Borretzen-EuroSPI07.pdf (paper, not used) d
+
+Investigating the software fault profile of industrial projects to determine process improvement areas: An empirical study
+
+mpls2007KoruZhangLiu.pdf (promise/mozilla4, not used) d
+
+Modeling the effect of size on defect proneness for open-source software
+
+UBEND_~1.PDF
+
+Why is the defect density curve U-shaped with component size (Hatton)
+
+CASCON'08.pdf
+
+Is it a bug or an enhancement? A text-based approach to classify change requests
+
+Google-ISSTA2010.pdf
+
+The Google findbugs fixit
+
+Ko2003ModelOfErrors.pdf
+
+Development and evaluation of a model of programming errors
+
+long-latency-fail.pdf
+
+Quantitative analysis of long latency failures in system software
+
+eval-fault-pred.pdf
+
+Techniques for evaluating fault prediction models
+
+inspectorcaprecapture.pdf
+
+The effect of the number of inspectors on the defect estimates produced by capture-recapture models
+
+jdbm2008.pdf
+
+Bug fixing practices within free/libre open source software development teams
+
+corrupt-mysql-icde10.pdf
+
+Impact of disk corruption on open-source DBMS
+
+TR 75-144.pdf (paper, not used) d
+
+A software physics analysis of akiyama's debugging data
+
+Gray-EASE-2011-NASA.pdf (paper, done) d
+
+The misuse of the NASA metrics data program data sets for automated software defect prediction
+
+Improv-Cred-MachLearn.pdf
+
+Improving Credibility of Machine Learner Models in Software Engineering
+
+11-icst.pdf
+
+An empirical study on the relation between dependency neighbourhoods and failures
+
+10.1.1.143.8653.pdf
+
+Automated duplicate detection for bug tracking systems
+
+crosscut.pdf (not used) d
+
+Do crosscutting concerns cause defects?
+
+Eaddy-PhD.pdf
+
+An Empirical Assessment of the Crosscutting Concern Problem
+
+106ChallengeGargi.pdf (MSR..., not used) d
+
+A comparative exploration of FreeBSD bug lifetimes
+
+TUD-SERG-2010-015.pdf
+
+Predicting the fix time of bugs
+
+lamkanfi2012csmr.pdf
+
+Filtering bug reports for fix-time analysis
+
+zimmermann-icse-2012.pdf
+
+Characterizing and predicting which bugs get reopened
+
+esem2009a.pdf data lost
+
+A detailed examination of the correlation between imports and failure-proneness of software components
+
+bugchar_asid06.pdf
+
+Have things changed now? An empirical study of bug characteristics in modern open source software
+
+herzig-tmp-2011.pdf (2487085.2487113, other) d
+
+Untangling changes
+
+The Impact of Tangled Code Changes
+
+2487085.2487113.pdf (refed) d
+
+11SELSE-Ramachandran.pdf
+
+Understanding why symptom detectors work by studying data-only application values
+
+0910.0505v2.pdf (emailed) d
+supplemental.pdf
+
+Hard data on soft errors: A large-scale assessment of real-world error rates in GPGPU
+
+WCRE2011.pdf (not enough details, not used) d
+
+How long does a bug survive? An empirical study
+
+TR-ServerReliability.pdf (refed) d
+
+An Empirical Study of Reported Bugs in Server Software with Implications for Automated Bug Diagnosis
+
+CSVul.pdf (nvdcve...xml, does not hold up, not used) d
+
+Modeling vulnerability discovery process in Apache and IIS HTTP servers
+
+nezih_grid10.pdf (not used) d
+
+Analysis and modeling of time-correlated failures in large-scale distributed systems
+
+schroeter-isese-2006.pdf (not used) d
+
+Predicting component failures at design time
+
+OAKLAND12.pdf (paper, not used) d
+
+Dissecting android malware: Characterization and evolution
+
+dsn08.pdf
+
+A Study of Cognitive Resilience in a JPEG Compressor
+
+msr_2011_shahed_zaman.pdf
+
+Security Versus Performance Bugs: A Case Study on Firefox
+
+omar_dissertation.pdf (paper, emailed) d
+
+Assessing vulnerabilities in software systems: A quantitative approach
+
+paper_a.pdf (udd?? Debian-popularity-by_inst.gz, other) d
+
+Impact of installation counts on perceived quality: A case study of debian
+
+faults_vs_coverage10.pdf (paper, not used) d
+
+Estimating residual faults from code coverage
+
+article5.pdf (paper, not used) d
+
+What type of defects are really discovered in code review?
+
+assocMeasures-rev.pdf (not used) d
+
+Comprehensive evaluation of association measures for fault localization
+
+digiuseppe12apr.pdf
+
+Software behavior and failure clustering: An empirical study of fault causality
+
+Mil-Hdbk-217F.pdf
+
+Military handbook: Reliability prediction of electronic equipment
+
+10.1.1.157.6206.pdf (paper+file, partial) d
+
+On the effectiveness of early life cycle defect prediction with bayesian nets
+
+CSD-99-1042.pdf (paper, not used) d
+
+An analysis of error behavior in a large storage system
+
+RR-7357.pdf (done) d
+
+Faults in Linux: Ten years later
+
+1407.4346.pdf (RR-7357, other) d
+
+Faults in Linux 2.6
+
+acp4is10-palix.pdf (not used) d
+
+How often do experts make mistakes?
+
+ase11.pdf (not used) d
+
+Towards more accurate retrieval of duplicate bug reports
+
+1302.6764v2.pdf (not used) d
+
+Categorizing bugs with social networks: A case study of four open source software communities
+
+icse2013-bugclassify.pdf (refed) d
+
+It's not a Bug, it's a Feature: How Misclassification Impacts Bug Prediction
+
+patching_published-ISR.pdf (+symantic-vuln.txt?, partial) d
+
+An empirical analysis of software vendors' patch release behavior: Impact of vulnerability disclosure
+
+ibmrd2801B.pdf (paper, not used) d
+
+Optimizing preventive service of software products
+
+PERRYI~1.PDF (paper, not used) d
+
+An empirical study of software interface faults
+
+9208-DP-faults.pdf (paper, cited) d
+
+Software faults in evolving a large, real-time system: a case study
+
+METRICS.PDF (paper, not used) d
+
+An empirical study of operating systems errors
+
+SULLIV~1.PDF (paper, not used) d
+
+Software defects and their impact on system availability - A study of field failures in operating systems
+
+emse10-TR.pdf (not used: no check for correlation cause by code length) d
+
+An exploratory study of the impact of antipatterns on class change- and fault-proneness
+
+1211.2858v1.pdf
+
+Fault localization using textual similarities
+
+Neuhaus_WEIS2012.pdf (database build fails, not used) d
+
+Software security economies: Theory and practice
+
+1302.4133v1.pdf (non-dis, partial) d
+
+The (un)reliability of NVD vulnerability versions data: an empirical experiment on Google Chrome Vulnerabilities
+
+1306.2476v1.pdf (non-dis, partial) d
+
+A systematically empirical evaluation of vulnerabilitiy discovery models: a study on Browsers' vulnerabilities
+
+nguyen-mass-12-asiaccs.pdf
+
+An independent validation of vulnerability discovery models
+
+web2_0_paper.pdf Ocariza-MSc.pdf (email, not cited) d
+
+JavaScript errors in the wild: An empirical study
+
+dsn2004.pdf (paper, refed) d
+
+Error sensitivity of the Linux kernel executing on PowerPC G4 and Pentium 4 Processors
+
+failure-in-large-pop.pdf (paper, refed) d
+
+An exploration of Software Faults and Failure Behaviour in a Large Population of Programs
+
+mass-etal-11.pdf (done) d
+
+After-Life Vulnerabilities: A Study on Firefox Evolution, its Vulnerabilities, and Fixes
+
+PRDC99_camera_read.pdf (paper, not used) d
+
+Networked windows NT system field failure data analysis
+
+frolin-esem13.pdf (paper+file, not used) d
+esem-camera-ready.pdf
+
+An empirical study of client-side javascript bugs
+
+10.1.1.67.9395.pdf (paper, not used) d
+
+Analysis of faults in an N-version software experiment
+
+10.1.1.76.3784.pdf
+
+Software-controlled fault tolerance
+
+Inspect2005.pdf (not used) d
+
+Predicting the total number of faults using parallel code inspections
+
+TimesToFlightSWFailure.pdf (emailed) d
+
+The nature of the times to flight software failure during space missions
+
+fse12.pdf (not used) d
+
+Multi-layered approach for recovering links between bug reports and fixes
+
+fast13-final80.pdf (emailed, no reply) d
+
+Understanding the robustness of SSDs under power fault
+
+icse2013c.pdf icse2013c-Surveys-TR.pdf (paper, cited) d
+
+Expectations, outcomes, and challenges of modern code review
+
+scam2012.pdf (not used) d
+
+When does refactoring induce bugs? An empirical study
+
+wcre2013_baysal.pdf (Baysal..., partial) d
+
+The influence of non-technical factors on code review
+
+wcre12-olgaAlexReid.pdf (Baysal..., not used) d
+
+The secret life of patches: A firefox case study
+
+ese_2015_baysal.pdf (emailed for sql) d
+
+Investigating technical and non-technical factors influencing modern code review
+
+Baysal_Olga.pdf (emailed for sql) d
+
+Supporting Development Decisions with Software Analytics
+
+fenton_07.pdf (paper...10.1.1.157.6206, partial) d
+
+Project data incorporating qualitative factors for improved software defect prediction
+
+bug-fix-patterns.pdf (paper, not used) d
+
+Toward an understanding of bug fix patterns
+
+10.1.1.308.7266.pdf (not used) d
+
+Scalable and systematic detection of buggy inconsistencies in source code
+
+0801.0715.pdf (paper, not used) d
+
+Impact of errors in operational spreadsheets
+
+Spacefaulttype.pdf (paper, not used) d
+
+An empirical investigation of fault types in space mission system software
+
+fe4ce37101e402e35d5b.pdf (paper, not used) d
+
+An Empirical Investigation of Fault Repairs and Mitigations in Space Mission System Software
+
+vol1no6_4.pdf (paper, not used) d
+
+A Prediction Model for Functional Defects in System Testing using Six Sigma
+
+zeller2011irop.pdf (cited) d
+
+Failure is a four-letter word
+
+Faster Issue Resolution_Software.pdf (not used) d
+
+Faster issue resolution with higher technical quality of software
+
+ton98.pdf
+
+Performance of checksums and CRCs over real data
+
+14.pdf (paper, students, not used) d
+
+Investigating defect detection in object-oriented design and cost effectiveness of software inspection
+
+jstvr_2009_hayes.pdf (paper, not used) d
+
+Improved code defect detection with fault links
+
+More_testers_preprint_IST.pdf (emailed) d
+
+More testers - The effect of crowd size and time restriction in software testing
+
+msr_dimitro.pdf (not used) d
+
+The bug catalog of the maven ecosystem
+
+pldi118-jin.pdf (paper, not used) d
+
+Understanding and detecting real-world performance bugs
+
+2013-laser-mitropoulos.pdf (not used) d
+
+Dismal code: Studying the evolution of security bugs
+
+lamkanfimsr2013.pdf (not used) d
+
+The eclipse and mozilla defect tracking dataset: A genuine dataset for mining bug information
+
+Knight-leveson-06312924.pdf
+
+An Experimental Evaluation of the Assumption of Independence in Multiversion Programming
+
+paleari.pdf
+
+A fistful of red-pills: How to automatically generate procedures to detect CPU emulators
+
+1410-RS-icsme.pdf (not used) d
+
+On the Effectiveness of Information Retrieval Based Bug Localization for C Programs
+
+michael_pradel_PhD.pdf (done) d
+
+Program analysis for automatic and precise error detection
+
+pldi2012.pdf (michael_pradel_PhD, done) d
+
+Fully Automatic and Precise Detection of Thread Safety Violations
+
+millikan.pdf
+
+In defense of Robert Andrews Millikan
+
+socc14-cbs.pdf (done) d
+
+What Bugs Live in the Cloud?  A Study of 3000+ Issues in Cloud Systems
+
+msr2014_sub_101.pdf (not used) d
+
+Towards Building a Universal Defect Prediction Model
+
+11.pdf (paper, email???, not used) d
+
+Pair Programming and Software Defects – an Industrial Case Study
+
+natella_ossbugs_issre_2013.pdf (not used) d
+
+Fault Triggers in Open-Source Software: An Experience Report
+
+FAGAN.pdf (paper, not used) d
+
+Design and code inspections to reduce errors in programs
+
+FH14-Buffer.pdf (refed) d
+
+Discovering Buffer Overflow Vulnerabilities In The Wild: An Empirical Study
+
+1284.pdf (paper, not used) d
+
+Component Testing Is Not Enough - A Study of Software Faults in Telecom Middleware
+
+1-s2.0-S0950584913002346.pdf (paper, not used) d
+
+How are software defects found? The role of implicit defect detection, individual responsibility, documents, and knowledge
+
+ease15zhou2.pdf (stat-mistakes, blog, not used) d
+
+A Cross-platform Analysis of Bugs and Bug-fixing in Open Source Projects: Desktop vs. Android vs. iOS
+
+FUSION_FSE_Sub.pdf (not used) d
+
+Auto-Completing Bug Reports for Android Applications
+
+ICSE_seipicse2013.pdf (not used) d
+
+Categorizing Bugs with Social Networks: A Case Study on Four Open Source Software Communities
+
+hamill-PhD.pdf (paper, emailed, confidential) d
+
+Identifying Common Patterns and Unusual Dependencies in Faults, Failures and Fixes for Large-scale Safety-critical Software
+
+icsme15.pdf (not used, refed) d
+
+An Empirical Study of Bugs in Test Code
+
+recalls_march24_2011.pdf
+
+Do Vehicle Recalls Reduce the Number of Accidents?  The Case of the U.S. Car Market
+
+Oyetoyant-PhD.pdf (not used) d
+
+Dependency Cycles in Software Systems: Quality Issues and Opportunities for Refactoring
+
+1014.pdf (paper, done) d
+
+Implementation of Fault Slip Through in Design Phase of the Project
+
+mipro_1187.pdf (paper, cited) d
+
+Fault Slip Through Measurement Process Implementation in CPP Software Verification
+
+triage.pdf (not used) d
+
+Impact of Triage: a Study of Mozilla and Gnome
+
+MSR_2015.pdf (not used) d
+
+The Firefox Temporal Defect Dataset
+
+TSE-Syer-2014.pdf (to email) d
+
+Replicating and Re-evaluating the Theory of Relative Defect-Proneness
+
+STVR-2013.pdf (paper, done) d
+
+Exploring the missing link: An empirical study of software fixes
+
+2015-ccs.pdf (not used) d
+
+VCCFinder: Finding Potential Vulnerabilities in Open-Source Projects to Assist Code Audits
+
+2015_HPCA_GPU_Reliability.pdf
+
+Understanding GPU Errors on Large-scale HPC Systems and the Implications for System Design and Operation
+
+Ranking-Based_Localizing.pdf (paper+file, done) d
+
+Ranking-Based Approaches for Localizing Faults
+
+a104249.pdf (paper, cited) d
+
+Analysis of IV & V Data
+
+ADA039916.pdf (paper, not used) d
+
+Software error data acquisition
+
+ADA131756.pdf (paper, if can extract, faded away) d
+
+A comparison of radc and nasa/sel software data
+
+chi-11.07.pdf (paper, emailed) d
+
+Modeling and Predicting Pointing Errors in Two Dimensions
+
+6146a536.pdf (not used) d
+
+A Pilot Study of Diversity in High Impact Bugs
+
+SQJ-2014.pdf (paper, not used) d
+
+Exploring fault types, detection activities, and failure severity in an evolving safety-critical software system
+
+caratSensys13.pdf (not used) d
+
+Carat: Collaborative Energy Diagnosis for Mobile Devices
+
+icsme15-OleksiiOlgaLatifa.pdf (not used) d
+
+Investigating Code Review Quality: Do People and Participation Matter?
+
+jsep-association.pdf (not used) d
+
+Extended comprehensive study of association measures for fault localization
+
+error-frequency.pdf (done) d
+
+Frequency Distribution of Error Messages
+
+Calhoun_et_al-2012.pdf (paper, not used) d
+
+Human Reliability Analysis in Spaceflight Applications
+
+a039916.pdf (paper, not used) d
+
+Software error data acquisition
+
+selse_2014_25_paper.pdf
+
+Extra Bits on SRAM and DRAM Errors - More Data from the Field
+
+nakajo1991.pdf (paper, not used) d
+
+A Case History Analysis of Software Error Cause-Effect Relationships
+
+issta16.pdf (partial) d
+
+Toward Understanding Compiler Bugs in GCC and LLVM
+
+denton_2000.pdf (paper, not used) d
+
+Module Size Distribution and Defect Density
+
+a088186.pdf (paper, not used) d
+
+A TIME DEPENDENT ERROR DETECTION RATE MODEL FOR SOFTWARE PERFORMANCE ASSESSMENT WITH APPLICATIONS
+
+hull1975.pdf (paper, not used) d
+
+Reduction of Copying Errors with Selected Alphanumeric Subsets
+
+ibmrd2804I.pdf (paper, not used) d
+
+Software reliability analysis models
+
+mri.pdf
+
+Balancing Time-to-Market and Quality in Embedded Systems
+
+Della_Corte_Raffaele_28.pdf (not used) d
+
+Understanding the error behavior of complex critical software systems through field data
+
+WEIS_2016_paper_76.pdf 1608.03445v2.pdf tyx008.pdf (done) d
+
+Given Enough Eyeballs, All Bugs Are Shallow?  Revisiting Eric Raymond with Bug Bounty Programs
+
+human-error-causes-defects.pdf (paper, not used) d
+
+A Taxonomy System to Identify Human Error Causes for Software Defects
+
+eurosys2017-dsbugs.pdf
+
+An Empirical Study on the Correctness of Formally Verified Distributed Systems
+
+agresti1992.pdf (paper, not used) d
+
+Projecting Software Defects From Analyzing Ada Designs
+
+Detecting-param-check.pdf (paper, cited) d
+
+Detecting errors in software using a parameter checker: An Analysis
+
+EMSE2017_UnspecifiedDepend.pdf (not used) d
+
+An Empirical Study of Unspecified Dependencies in Make-Based Build Systems
+
+fp1187-altadmri.pdf (email, educators, other) d
+
+37 Million Compilations: Investigating Novice Programming Mistakes in Large-Scale Student Data
+
+MentalMistakes2.pdf (paper, not used) d
+
+Examples of Mental Mistakes Made by Systems Engineers While Creating Tradeoff Studies
+
+semerr1.pdf
+
+Semantic Errors in SQL Queries
+
+2017msr.pdf (not used) d
+
+Prevalence of Botched Code Integrations
+
+ICSE2017-TR-182.pdf (cited) d
+
+How do Developers Fix Cross-project Correlated Bugs?
+
+smr1797.pdf (not used) d
+
+An empirical study on developer-related factors characterizing fix-inducing commits
+
+SQJ_2017.pdf (not used) d
+
+An Empirical Study of Crash-inducing Commits in Mozilla Firefox
+
+sqj-afzalTFG.pdf
+
+Prediction of faults-slip-through in large software projects: an empirical evaluation
+
+10.1.1.207.182.pdf (paper, not used) d
+
+Do you know SQL?  About semantic errors in database queries
+
+10.1.1.86.1675.pdf
+
+Detecting Logical Errors in SQL Queries
+
+10.1.1.207.1798.pdf (paper, cited) d
+
+Semantic Errors in SQL Queries: A Quite Complete List
+
+10.1.1.466.4048.pdf (paper, emailed) d
+
+Analyzing Software Requirements Errors in Safety-Critical, Embedded Systems
+
+94-0470.pdf (paper, not used) d
+
+Analyzing Software Errors in Safety-Critical, Embedded Systems
+
+1010-DP-ms25.pdf (paper, cited) d
+
+Where Do Most Software Flaws Come From?
+
+llee.pdf (cited) d
+
+The last line effect explained
+
+fse_2016_hanam.pdf (not used) d
+
+Discovering Bug Patterns in JavaScript
+
+1602.02601.pdf
+
+What We Don’t Know About Spreadsheet Errors Today: The Facts, Why We Don’t Believe Them, and What We Need to Do
+
+ADA363827.pdf (paper, not used) d
+
+DEBUGGING COMPUTER PROGRAMS: A SURVEY WITH SPECIAL EMPHASIS ON ALGOL
+
+SR058_04.pdf
+
+Proofreading errors on the word THE: New evidence on reading units
+
+JSS15.pdf
+
+How do bugs surface? A comprehensive study on the characteristics of software bugs manifestation
+
+sec17-wang.pdf
+
+How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of Double Fetches in the Linux Kernel
+
+ase17-fp.pdf
+
+A Comprehensive Study of Real-World Numerical Bug Characteristics
+
+a045031.pdf (paper, not used) d
+
+An Experiment in Software Error Occurrence and Detection
+
+litecky1976.pdf (paper, not used) d
+
+A Study of Errors, Error-Proneness, and Error Diagnosis in Cobol
+
+gunawi.pdf (paper, cited) d
+
+EIO: Error handling is occasionally correct
+
+ase2016-apex.pdf (partial) d
+
+APEx: Automated Inference of Error Specifications for C APIs
+
+msr17_wan_blockchain_bug.pdf
+
+Bug Characteristics in Blockchain Systems: A Large-Scale Empirical Study
+
+duraes2006.pdf (paper, not used) d
+
+Emulation of Software Faults: A Field Data Study and a Practical Approach
+
+urn_isbn_978-952-61.pdf (paper, not used) d
+
+Deficiencies in Spreadsheets: A Mental Model Perspective
+
+19820022084.pdf (paper, not used) d
+
+The Analysis of the Statistical and Historical Information Gathered During the Development of the Shuttle Orbiter Primary Flight Software
+
+a041106.pdf (paper, not used) d
+
+STATISTICAL PREDICTION OF PROGRAMMING ERORS
+
+diff_novice_expert_err.pdf
+
+Some surprising differences between novice and expert errors in computerized office work
+
+Profes2017-aman.pdf (done) d
+
+A Survival Analysis of Source Files Modified by New Developers
+
+10.1109@hfpp.1988.pdf (paper, not used) d
+
+A Data-base Method for Assessing and Reducing Human Error to Improve Operational Performance
+
+eh-model-defects2018.pdf (not used) d
+
+Studying the Relationship between Exception Handling Practices and Post-release Defects
+
+14603-66405-1-PB.pdf (not used) d
+
+DeepFix: Fixing Common C Language Errors by Deep Learning
+
+acre.pdf
+
+Automatic Checking of Regular Expressions
+
+tse-14-final.pdf (confidential) d
+
+An Empirical Methodology to Evaluate Vulnerability Discovery Models
+
+10.1109@dsn.2010.pdf (paper, not used) d
+
+An Empirical Investigation of Fault Types in Space Mission System Software
+
+04-1526.pdf (paper, not used) d
+
+Assessment of In-flight Anomalies of Long Life Outer Planet Missions
+
+green2006.pdf (paper, not used) d
+
+Anomaly Trends for Robotic Missions to Mars: Implications for Mission Reliability
+
+ase17.pdf
+
+A Comprehensive Study of Real-World Numerical Bug Characteristics
+
+ye-icsme2018.pdf (not used) d
+
+An Empirical Study of Multi-Entity Changes in Real Bug Fixes
+
+WalkinshawESEM2018.pdf (+emailed, not used) d
+
+Are 20% of Files Responsiblefor 80% of Defects?
+
+typestudy.pdf (not used) d
+
+To Type or Not to Type: Quantifying Detectable Bugs in JavaScript
+
+1801.06393.pdf (not used) d
+
+Dissection of a Bug Dataset: Anatomy of 395 Patches from Defects4J
+
+1810.00101.pdf (not used) d
+
+Memory and Resource Leak Defects and their Repairs in Java Projects
+
+1810.13310.pdf (not used) d
+
+An Empirical Analysis of Vulnerabilities in Python Packages for Web Applications
+
+coverage.pdf (not used) d
+
+Code Coverage and Postrelease Defects: A Large-Scale Study on Open Source Projects
+
+1805.10787.pdf
+
+An empirical study of public data quality problems in cross project defect prediction
+
+1807.00515.pdf
+
+Automatic Software Repair: a Bibliography
+
+1904.02414.pdf (cited) d
+
+"Won't We Fix this Issue?" Qualitative Characterization and Automated Identification of Wontfix Issues on GitHub
+
+SoftErrors_Electronic_Sys.pdf
+
+Soft errors in modern electronic systems
+
+YunGuo-PhD.pdf
+
+TOWARDS AUTOMATICALLY LOCALIZING AND REPAIRING SQL FAULTS
+
+1905.13334.pdf (available, not used) d
+
+How Often Do Single-Statement Bugs Occur?  The ManySStuBs4J Dataset
+
+icse16.pdf
+
+Finding and Analyzing Compiler Warning Defects
+
+trel2019.pdf (done) d
+
+An Empirical Study of Regression Bug Chains in Linux
+
+

@@ -1,0 +1,129 @@
+issta10-perturb.pdf (emailed for more, not used) d
+
+Perturbing numerical calculations for statistical analysis of floating-point program (in)stability
+
+pldi275-richards.pdf (refed) d
+
+An analysis of the dynamic behavior of Javascript programs
+
+sable-tr-2003-1.pdf
+
+Dynamic metrics for Java
+
+toplas-pretenure.pdf
+
+Profile-based pretenuring
+
+branchflip.pdf
+
+Y-branches: When you come to a branch in the road, take it
+
+CALDER~3.PDF (paper, not used) d
+
+The Predictability of Branches in Libraries
+
+CALDER97.PDF (paper, not used) d
+CALDER~2.GZ later version of above
+
+Value profiling
+
+ENTACH~1.PDF (paper, not used) d
+
+On the CRAY-System Random Number Generator
+
+TR01_LS.PDF (paper, not used) d
+
+A Study of the Loop Behavior of Embedded Programs
+
+V5PAPER1.PDF
+
+Quantifying the impact of input data sets on program behavior and its applications
+
+WWC4_L~1.PS.gz
+
+Runtime predictability of loops
+
+zorn93measured.pdf
+
+The measured cost of conservative garbage collection
+
+sodani.pdf (paper, not used) d
+
+Dynamic instruction reuse
+
+contextualbias.pdf (emailed, Address-Aliasin, done) d
+
+Analyzing Contextual Bias of Program Execution on Modern CPUs
+
+910871.pdf (done) d
+
+A case study of performance degradation attributable to run-time bounds checks on C++ vector access
+
+graham_markall_BSc.pdf
+
+An Investigation into Value Profiling and its Applications
+
+sc13.pdf (paper+email, cited) d
+
+Precimonious: Tuning Assistant for Floating-Point Precision
+
+PLDI02.PDF (paper+file, not used) d
+
+Static load classification for improving the value predictability of data-cache misses
+
+icse2015.pdf
+
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
+
+margolin1971.pdf (paper, cited) d
+
+Analysis of free-storage algorithms
+
+ismm15.pdf (not used) d
+
+The Judgment of Forseti: Economic Utility for Dynamic Heap Sizing of Multiple Runtimes
+
+jvmlanguages.pdf (not used) d
+
+JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?
+
+1611.09187.pdf (done) d
+
+Correctness Attraction: A Study of Stability of Software Behavior Under Runtime Perturbation
+
+1710.09722.pdf (not used) d
+
+Exhaustive Exploration of the Failure-oblivious Computing Search Space
+
+SURESH_Arjun.pdf
+
+Intercepting Functions for Memoization
+
+memoization.pdf (partial) d
+
+Intercepting Functions for Memoization: A Case Study Using Transcendental Functions
+
+ICTAC.pdf
+
+Formalising Boost POSIX Regular Expression Matching
+
+Berglund_2017.pdf
+
+ON REGULAR EXPRESSIONS WITH BACKREFERENCES AND TRANSDUCERS
+
+On-the-semantics.pdf
+
+On the semantics of regular expression parsing in the wild
+
+1810.05661.pdf (not used) d
+
+Sound Regular Expression Semantics for Dynamic Symbolic Execution of JavaScript
+
+neamtiu-PhD.pdf (paper, cited) d
+
+Practical Dynamic Software Updating
+
+metrics-journal-final.pdf (website+email) d
+
+Comparing Static and Dynamic Weighted Software Coupling Metrics
+

@@ -1,0 +1,2477 @@
+MINDBODY.PDF
+
+The roles of body and mind in abstract thought
+
+IP000007.PDF
+
+Environmental determinants of lexical processing effort
+
+RECOGN~1.PDF
+
+Recognition of common word combinations: towards a lexicon of variable-sized units
+
+HARRIS~1.PDF
+
+Psycholinguistic studies of entrenchment
+
+79-85.PDF
+
+An empirical thesaurus: Meaning norms for 90 common words
+
+81-101.PDF
+
+An empirical thesaurus: meaning norms for 54 grade-school words
+
+brightSide.htm
+
+Naming on the Bright Side of Life
+
+warPeace.htm
+
+Regional Naming Patterns and the Culture of Honor
+
+GUPTAM~1.PDF
+
+Primacy and recency in nonword repetition
+
+GUPTAQ~1.PDF
+
+Examining the relationship between word learning, nonword repretition, and immediate serial recall in adults
+
+4IZURA~1.PDF
+
+Age of acquisition effects in word recognition and production in first and second languages
+
+INFLCO~1.PDF
+
+Influence of consonantal context on the pronunciation of vowels: A comparison of human reads and computational models
+
+SE.PDF
+
+Simplified English (lists words)
+
+WORD-L~1.PDF
+
+Word learning in context: Metaphors and neologisms
+
+CHANG.PS
+
+A new approach for automatic Chinese spelling correction
+
+ACL200~1.PDF
+
+An empirical model of multiword expression decomposability
+
+EDMOND~1.GZ
+
+A computational model of collaboration on reference in direction giving dialogues
+
+HMWAT.PDF
+
+How many words are there?
+
+READIN~1.PDF
+
+Reading optimally builds on spoken language: implications for deaf readers
+
+LEARNI~1.PDF
+
+Learning words in context: a survey
+
+LCCNPP~1.GZ
+
+Lexical choice for complex noun phrases
+
+KOLLER~1.PDF
+
+Metaphor clusters in business media discource: a social cognition approach
+Koller PhD 2003
+
+KIRBY9~4.PDF
+
+Syntax without natural selection: how compositionality emerges from vocabulary in a population of learners
+
+SPE820.PDF
+
+Lexical analysis of inflected arabic words using exhaustive search of an augmented transition network
+
+P77-HU~1.PDF
+
+Large scale experiments on correction of confused words
+
+P8-BLACK.PDF
+
+Learning and remembering command names
+
+CODING~1.PDF
+
+Effects of length and transposed letter similarity
+
+P121-G~1.PDF
+
+When does an abbreviation become a word? and related questions
+
+JACOBS~1.PDF
+
+Fragment completion in humans and machines
+
+INLG98~1.GZ
+
+Generation of noun compounds in Hebrew: can syntactic knowledge be fully encapsulated?
+
+P101-V~1.PDF
+
+Correction of phonographic errors in natural language interfaces
+
+P33-JOHN.PDF
+
+Predicting the time to recall computer command abbreviations
+
+P205-L~1.PDF
+
+Acrophile: an automated acronym extractor and server
+
+PBR.PDF
+
+How the brain encodes the order of letters in a printed word: The SERIOL model and selective literature review
+
+PORTER~1.PDF
+
+Approximate string comparison and its effect on an advanced record linkage system
+
+WINKLE~1.PDF
+
+Advanced methods for record linkage
+
+THE-ST~1.PDF
+
+The state of record linkage and current research problems
+
+PHONOL~2.PDF
+
+Sounds of the neighborhood: False memories and the structure of the phonological lexicon
+
+LAS_Soundex_Whitepaper.pdf
+
+Is Soundex good enough for you?  On the hidden risks of soundex based name searching
+
+BOR-SCH.PDF
+
+Sex, syntax, and semantics
+
+Muter1984.htm
+
+Recognition and recall of words with a single meaning
+
+J91-1002.PDF
+
+met: a method for discriminating metonymy and metaphor by computer
+
+A-STAT~1.PDF
+
+A statistical approach to the processing of metonymy
+
+BNCMET~1.PS
+
+A probabilistic account of logical metronymy
+
+VERSPO~1.GZ
+
+Contextual dependent lexical semantics
+Verspoor PhD thesis, 1997
+
+RR97-2.PDF
+
+Approximate string comparison and its effect on an advanced record linkage system
+
+IMAGES~1.PDF
+
+Language is spatial: experimental evidence for image schemas in concrete and abstract verbs
+
+LANGUA~1.PDF
+
+Language structure and categorization: a study of classifiers in consumer cognition, judgement and choice
+
+LANGUA~2.PDF
+
+Language dependent classification: The mental representation of classifiers in cognition, memory, and ad evaluations
+
+REVIEW~1.PDF
+
+Language and culture: a new approach to consumer behavior in international marketing research
+
+BOOKCH~1.PDF
+
+Color categories are not universal: replication and new evidence from stone age cultures
+
+MANDARIN.PDF
+
+Does language shape thought?:  Mandarin and English speaker' conception of time
+
+MALT_E~1.PDF
+
+Knowing versus naming: similarity and the linguistic categorization of artifacts
+
+JML2003.PDF
+
+Universality and language specificity in object naming
+
+BILING~2.PDF
+
+Linguistic diversity and object naming by non-native speakers of English
+
+BILING~1.PDF
+
+The time course of conceptual processing in three bilingual populations
+
+speakthink.pdf
+
+Speaking vs thinking about objects and actions
+
+GRAPHEM.PDF
+
+Subsyllabic units in written word production
+
+syllabic_effect-Acta.pdf
+
+Syllabic length effects in visual word recognition and naming
+
+Ferrand-2000-PBR.pdf
+
+Reading aloud polysyllabic words and nonwords: the syllabic length effect reexamined
+
+LINGUI~1.PDF
+
+Linguistic units, hierarchies and dynamics of written language production
+
+LTRSTA~1.PDF
+
+Frequency and correspondence of initial letter/phoneme combinations for english words
+
+AOA.PDF
+
+Age of acquisition effects in lexical decision: evidence from expert vocabularies
+
+P98-1104.PDF
+
+A statistical analysis of morphemes in Japanese terminology
+
+VANDER~1.PDF
+
+Generating referring expressions in a multimodal context
+
+TANCHP~1.PDF
+
+Phonological activation in visual word identification of chinese two character words
+
+PB&R.PDF
+
+An endogenous distributed model of ordering in serial recall
+
+IDNAMING.PDF
+
+Speaking in code: cognitive perspectives on the role of naming in computer programs
+
+A-NEW-~1.PDF
+
+A new approach for automatic chinese spelling correction
+
+PoorSpellers.pdf
+
+Remarks on Japanese poor spellers of English
+
+HARTLE~1.PDF
+
+A linguistically constrained model of short term memory for nonwords
+
+WHERE-~1.PDF
+
+Where do soccer moms from from?: cognitive constraints on noun-noun compounding in English
+
+TKE99E.PS.gz
+
+A comparative observation of English, Spanish and Japanese terminological structure
+
+BEUNCREM.PS
+
+Multimodal reference to objects: an empirical approach
+
+PI-974~1.GZ
+
+Calculability of the semantics of english nominal compounds: combining general linguistic rules and corpus based semantic information
+
+VANHEU~1.PDF
+
+Orthographic neighborhood effects in bilingual word recognition
+
+PHONSI~1.PDF
+PHONSI~2.PDF
+
+Dissimilar items benefit from phonological similarity in serial recall: the dissimilar immunity effect revisted
+
+P897_S.PDF
+
+How predictable is spelling?  developing and testing metrics of phoneme-grapheme contingency
+
+lambertdrugname.pdf
+
+Effects of frequency and similarity neighborhoods on phamacists visual perception of drug names
+
+MAYNOOTH.PDF
+
+Can we model conceptual combinations using distributional information?
+
+SPANSPEL.PDF
+
+The sources of error in spanish writing
+
+GARROD.PDF
+
+How groups co-ordinate their concepts and terminology
+
+DALE94~1.PDF
+
+Computational interpretations of the gricean maxims in the generation of referring expressions
+
+REFEX-~1.GZ
+
+Generating referring expressions: boolean extensions of the incremental algorithm
+
+MUTER1~4.HTM
+
+Recognition failure of recallable words in semantic memory
+
+MUTER1~3.HTM
+
+Recognition and recall of words with a single meaning
+		
+MEASUR~1.HTM
+
+Measuring phonological similarity: the case of personal names
+
+FITT_1~1.PS.gz
+
+Spelling unfamiliar names
+
+HKJEP99.PDF
+
+Contextual variability and serial position effects in free recall
+
+HOWARD~1.PDF
+
+When does semantic similarity help episodic retrieval?
+
+JML1994.PDF
+
+You can't always forget what you want: directed forgetting of related words
+
+JEP96.PDF
+
+Word frequency effects on recall, recognition, and word fragment completion tests
+
+DISTIN~1.PDF
+
+Distinctiveness in recognition and free recall: the role of recollection in the rejection of the familiar
+
+FEATUR~1.PDF
+
+Feature frequency effects in recognition memory
+
+9601004.PDF
+
+Similarity between words computed by spreading activation on an English dictionary
+
+9601007.PDF
+
+Context sensitive measurement of word distance by adaptive scaling of semantic space
+
+EVAL.PDF
+
+A comparison of letter to sound conversion techniques for english text to speech synthesis
+
+MS01-1~1.PDF
+MS01-1~2.PDF
+
+Orthographic regularity influences the eyes' landing positions in the reading of English sentences
+
+WORD-A~1.PDF
+
+Word ambiguity and the optimal viewing position in reading
+
+Stevens&Grainger04.pdf
+
+Letter visibility and the viewing position effect in visual word recognition
+
+JMLA20~2.PDF
+phonemesnd.htm
+
+Relationships between sound and letters in English monosyllables
+
+EDWARD~1.PDF
+
+The interaction between vocabulary size and phonotactic probability ... novel word repetition (speech based)
+
+VITELU~1.PDF
+
+A web-based interface to calculate phonotactic probability for words and nonwords in English
+
+1030.PDF
+
+Real world constraints on the mental lexicon (for spanish)
+
+Statistics for users writing systems.htm
+
+Numbers of people using particular types of writing system
+
+L2 English spelling mistakes.htm
+
+L2 English spelling mistakes (1400)
+
+NAMEMA~1.PDF
+
+An assessment of name matching algorithms
+
+PROPOS~1.PDF
+
+Maximum likelihood estimation of multiple pronunciations for proper nouns
+
+BUNKE9~1.PDF
+
+A fast algorithm for finding the nearest neighbor of a word in a dictionary
+
+SEARCH~1.PDF
+
+Searching proper names in databases
+
+AN-EVA~1.PDF
+
+An evaluation of phonetic spell checkers
+
+APPROX~1.PDF
+
+Approximate swedish name matching - survey and test of different methods
+
+J91-1002.PDF
+
+Lexical cohension computed by thesaural relations as an indicator of the structure of text
+
+ELLMAN~1.PDF
+
+Using Roget's thesaurus to determine similarity of texts
+
+NAMING.PDF
+
+Does sunshine prime loyal? affective priming in the naming task
+
+NONWORDS.PDF
+
+Repetition blindness occurs at lexical and sublexical levels for words, but only at the sublexical level for nonwords
+
+ORTHOG~1.PDF
+
+Orthographic repetition blindness
+
+PSYBULL.PDF
+
+Illusory words created by repetition blindness: a technique for probing sublexical representations
+
+ST-ONG~1.PDF
+
+Detecting and correcting malapropisms with lexical chains
+
+CONTEX~2.PDF
+
+Context sensitive measurement of word distance by adaptive scaling of a semantic space
+
+FORMP.PDF
+
+Can distributed orthographic knowledge support word specific long-term priming?
+
+EFFECT~1.PDF
+
+Effects of semantic context in the naming of pictures and words
+
+DAILLE~1.PDF
+
+Empirical observations of term variation and principles for their description
+
+BURANI.PDF
+
+The influence of age of acquisition, root frequency and context availability in processing nouns and verbs
+
+00-JEPG.PDF
+
+Implicit learning out of the lab: The case of orthographic regularities
+
+ALPHAV~1.HTM
+
+Visual similarity ratings for full 2704 (52 x 52) letter pair matrix
+
+BC98CSP.PDF
+
+Developing semantic representations for proper names
+
+BL98BR~1.PDF
+
+The effect of corpus size in predicting reaction time in a basic word recognition task: moving on from Kucera and Francis
+
+RESNIK~1.PDF
+
+Semantic similarity in a taxonomy: An information based measure and its application to ambiguity in natural language
+
+WORD-O~1.PDF
+
+Word order in sentence processing: an experimental study of verb placement in german
+
+JEPHPPCP.PDF
+
+Masked priming effects with syllabic neighbors in a lexical decision task
+
+MAGNUS.PDF
+
+What's in a Word?  Studies in phonosemantics
+Magnus PhD 2001
+
+HERRON~1.PDF
+
+Context, word-class, and prosody in the recognition of open- and closed-class words
+
+NAOMIEC.PS
+
+Experimental and computational investigations of grapheme-phoneme mapping complexity
+
+PSALM.PDF
+
+Silent letters and phonological priming
+
+RETRIE~1.PDF
+
+Retrieval failures in face naming
+
+TANCOG~1.PDF
+
+Reading chinese characters for meaning: the role of phonological information
+
+ECVPS~1.GZ
+
+Emergent CV-syllables
+
+DEBOER~2.PDF
+
+Self organisation in vowel systems
+de Boer PhD thesis, 1999
+
+TANJEP~1.PDF
+
+Phonological and associative inhibition in the early stages of english word identification
+
+TANJEP~2.PDF
+
+The role of phonological codes in integrating information across saccadic eye movements in chinese character identification
+
+ORTHOG~1.HTM
+
+Quantitative analyses of orthography to phonology mapping in English and French
+
+THEORE~1.HTM
+
+Theoretical Upper and Lower Bounds on Typing Speed Using a Stylus and Soft Keyboard 
+					
+PHONOL~1.HTM
+
+Phonological Priming Effects on Word Retrieval and Tip-of-the-Tongue Experiences in Young and Older Adults
+
+FROM-I~1.PDF
+
+From image to word: a computational model of word recognition in reading
+
+TANPSY~1.PDF
+
+Phonology matters: The phonology frequency effect in written chinese
+
+JAPANESE.PDF
+
+An investigation into the structure and acquisition of orthographic knowledge
+
+BITAPS.PS
+
+Empirical bi-action tables: a tool for the evaluation and optimization of text input systems
+
+ABSTWN.PDF
+
+Different perceptual codes support priming for words and pseudowords
+
+WLE.PDF
+
+A locus of the word length effect on word recognition
+
+RESUB2.PDF
+
+A characterization of the word superiority effect in a case of letter by letter surface alexia
+
+PHONOL~1.PDF
+
+Phonological priming effects on word retrieval and tip of the tongue experiences in young and older adults
+
+MEMORY.PS
+
+Naming faces and naming names
+
+LENPREP.PDF
+
+Where is the length effect? A cross-linguistic study of speech production
+
+IP-JEP~1.PDF
+
+The specific-word frequency effect: implications for the representation of homophones in speech production
+
+CD_BNC~1.TXT
+
+Frequency list of words in the BNC
+
+DHCN.PDF
+
+On the importance of visual determinants in visual word recognition
+
+PHONEM~1.HTM
+
+RP phonemes in the Advanced Learner's Dictionary
+
+MINIMA~1.HTM
+
+Minimal pairs for English RP
+
+HOMOPH~1.HTM
+
+English homophones
+
+HOMOGR~1.HTM
+
+Homographs
+
+SPELLI~1.HTM
+
+A logical framework for the correction of spelling errors in electronic documents
+
+PLAUTE~1.PDF
+
+Understanding normal and impaired word reading: computational principles in quasi regular domains
+
+MCRAE9~1.PDF
+
+The role of correlated properties in accessing conceptual memory
+
+LEN11.PDF
+
+Adaptive changes in the grain size of word recognition
+
+WHAMMY.PS.gz
+
+Whammies and double whammies: The effect of length on word reading
+
+VHM_CO~1.PDF
+
+The nominal competitor effect: When one name is better than two
+
+MONOL2.PDF
+
+The effects of orthographic neighborhood in reading and laboratory word identification tasks: a review
+
+HOLLIS~1.PDF
+
+Proper name processing: are proper names pure referencing expressions?
+
+CV2003.PDF
+
+The Effect of Normative Contextual Variability on Recognition Memory
+
+51PROP~1.TXT
+
+Rubins 51 properties of words data
+
+WORDFR~1.HTM
+WORDFR~2.HTM
+
+Words listed by frequency
+
+J&GEDIT2.HTM
+
+Models Of Visual Word Recognition: Sampling The State Of The Art
+
+MCLEOD~1.PDF
+
+Attractor dynamics in word recognition: converging evidence from errors by normal subjects, dyslexic patients and a connectionist model
+
+KELLOP~1.PDF
+
+Strategic control in word reading: evidence from speeded responding in the tempo naming task
+
+KELLOP~2.PDF
+
+Strategic control over rate of processing in word reading: a computational investigation of the tempo naming task
+
+pelli2005letters.pdf
+
+Identifying letters
+
+SIOK.PDF
+
+The role of phonological awareness and visual-orthographic skills in chinese reading acquisition
+
+COART.PS
+
+Reading aloud begins when the computation of phonology is complete
+
+GALA.PDF
+
+Modelling the acquisition of reading skills
+
+VANNEST.PDF
+
+Morphological effects in visual word processing: their timecourse and consequences for lexical architecture
+Vannest, PhD 2001
+
+MHARM.PDF
+HARM&S~1.PDF
+
+Division of labor in a computational model of visual word recognition
+Harm, PhD 1998
+
+MAG.PS.gz
+
+The magical number seven in language
+
+ELECTR~1.GZ
+
+Electrophysiological correlates of phonological processing: a cross-linguistic study
+
+LITER9~1.PDF
+
+View canonicality affects naming but not name verification of objects
+
+MILDERS.PDF
+
+Memory for people's names in closed head injured patients
+
+IWPC97~1.PDF
+
+A little knowledge can go a long way towards program understanding
+
+DAELEM~1.PDF
+
+Language-independent data-oriented grapheme-to-phoneme conversion
+
+ICSLP9~1.PS.gz
+
+Letter to sound rules for accented lexicon compression
+some expirical results
+
+BLACK9~1.PDF
+
+Issues in building general letter to sound rules
+
+IDENTREL.PDF
+
+Assessing the relevance of identifier names in a legacy software system
+empirical analsysis of names+types of record fields
+
+FILENAME.PDF
+
+File clustering using naming conventions for legacy systems (Anquetil)
+Empirically based discussion of file names in projects
+
+FILEABBREV.PDF
+
+Extracting concepts from file names; a new file clustering criterion (Anquetil)
+results from abbrevation extraction algorithm
+
+JSMANQ~1.PDF
+JRSMRP~.PDF (earlier paper?)
+
+Recovering Software Architecture from the Names of Source Files (Anquetil)
+
+ANQWCRE98.PDF
+
+Design quality of subsystems extracted from file names
+
+HOFSTA~1.PDF
+
+Letter Spirit: An emergent model of the perception and creation of alphabetic style
+
+MIT-LC~1.PDF
+
+Phonological parsing for bi-directional letter-to-sound/sound-to-letter generation
+Meng PhD 1995
+
+GREGOR~1.PDF
+
+The effects of collocational strength and contextual predictability in lexical production
+empirical results for spoken words (telephone conversations)
+
+MONOL3.PDF
+
+Syllable-frequency effect in visual word recognition: Evidence of sequential-type processing
+
+orthographic.htm
+
+Orthographic Processing in Visual Word Recognition: A Multiple Read-Out Model
+
+0768.PDF
+
+The impact of feedback semantics in visual word recognition: number of features effects in lexical decision and naming task
+
+COGNATE5.PDF
+
+Orthography plays a critical role in cognate priming: Evidence from French/English and Arabic/French cognates
+
+STEYVERS~1.PDF
+
+Modeling semantic and orthographic similarity effects on memory for individual words
+
+STEYVERS~2.PDF
+
+Semantic spaces based on free association that predict memory performance
+paper based on above thesis
+
+A-POS~1.PDF
+
+A position-sensitive Stroop effect: Further evidence for a left-to-right component in print-to-speech conversion
+
+LBA96CSP.PDF
+
+Disssociating semantic and associative word relationships using high dimensional semantic space
+
+REMPAPER.PDF
+
+A model of recognition memory: REM - retrieving effectively from memory
+
+MASSON2.PDF
+
+When Lust is Lost:  Orthographic Similarity Effects in the Encoding and Reconstruction of Rapidly Presented Word Lists
+
+MASSON4.PDF
+
+Interactive Processes in Word Identification:  Modeling Context Effects in a Distributed Memory System
+
+impactofenviron.htm
+
+The Impact of the Environment on the Word Frequency and Null List Strength Effects in Recognition Memory
+
+phonologicalcodes.htm
+
+Do readers use phonological codes to activate word meanings? Evidence from eye movements
+
+timephono.htm
+
+The Time Course of Phonological Activation During Reading: Evidence from Eye Fixations
+
+usffreeassoc.htm
+
+The University of South Florida Word Association, Rhyme and Word Fragment Norms
+
+CONFER~3.GZ
+
+Finding structure via compression
+
+LAVIGN~1.PDF
+
+The influence of semantic context on initial eye landing sites in words
+
+MLDUCDSV.PDF
+
+Modelling lexical decision using corpus derived semantic representations in a connectionist network
+
+CVC.PS.gz
+
+Syllable structure and phoneme distribution
+
+LSCP-P~1.HTM
+
+Processing Consequences of Contrasting Phonologies
+
+HUNGNOTE.TXT
+
+Program identifier naming conventions
+
+JML.PS
+
+Relations versus properties in conceptual combinations
+
+COGNIT~1.PDF
+
+Does visual word identification involve a sub phonemic level?
+
+PALMER~1.PDF
+
+A trainable rule based algorithm for word segmentation
+
+PUBLIS~4.PS
+
+A spelling correction program based on a noisy channel method
+
+SPELLI~1.PDF
+
+Spelling of english vowels
+
+ICSM20~1.PS
+
+Restructuring program identifier names.
+gives empirical grammar for function names
+
+NOMENESTOMEM.PS.gz
+
+Nomen Est Omen: Analyzing the language of function identifiers
+Interesting stuff, grammar + experimental results
+
+ZHCANA~1.PS
+
+Learning English syllabifications rules
+
+MUTER1~1.HTM
+
+Recognition and Recall of Words with a Single Meaning
+
+WHATEY~1.HTM
+
+What Eye Fixations Tell Us About Phonological Recoding During Reading
+
+WORDID~1.HTM
+
+Word-Identification Priming for Ignored and Attended Words 
+
+SHAPEPP.PDF
+
+Does "whole word shape" play a role in visual word recognition?
+
+ROA-58~1.GZ
+ROA-22~1.GZ
+
+Syllable parsing in English and French
+
+ADULTS99.PS
+
+An empirical study of the perception of language rhythm
+
+EUCCS-~1.GZ
+
+Learning compound order: Towards a functional explanation
+
+JUSCZY~2.PDF
+
+Constraining the Search for Structure in the Input
+
+KAHACA~1.PDF
+
+Associative asymmetry in probed recall of serial lists
+
+KAHANA~1.PDF
+
+Inter-response times in serial recall: effects of intra-serial repetition
+
+REVISE~1.PDF
+
+Phonotactic cues for segmentation of fluent speech in infants
+
+TICS.PDF
+
+How infants begin to extract words from speech
+
+LETTER~1.HTM
+
+Letter legibility and visual word recognition 
+
+NATURE~1.HTM
+
+The man who took his wife because of an H: Implicit egotism and mate selection
+
+CORRECT.TEX
+CORRECT.PDF
+
+A spelling corrector incorporating knowledge of English orthography and pronunciation
+
+REMLDI~1.PDF
+
+A bayesian model of the time course of lexical processing
+
+PLAUTB~1.PDF
+
+Individual and developmental differences in semantic priming: empirical and computational support for a single-mechanism account of lexical processing
+
+ACL98P~1.GZ
+
+Automatic Retrieval and Clustering of Similar Words
+
+GOLDIN~1.PDF
+
+A comparison of Anapron with seven other name-pronunciation systems
+
+COLEPIER.PS.gz
+
+Stochastic phonological grammars and acceptability
+
+TR390P~1.GZ
+
+Lexical semantic relatedness and its application in natural language processing
+
+P99-1056.PDF
+
+The grapho-phonological system of written French: Statistical analysis and empirical evaluation
+
+FITTHES.PS.gz
+
+Processing unfamiliar words: a study in the preception and production of native and foreign placenames
+Fitt PhD thesis, 98
+
+SPELLP~1.PDF
+
+predicting spelling behaviour in 7 to 11 year olds
+
+A-HYBR~1.PDF
+
+A hybrid approach to the identification and expansion of abbreviations
+
+NONSTA~1.PDF
+ARTICL~1.PDF
+
+Normalization of non-standard words: WS'99 final report
+
+CARTER~1.PDF
+
+Prosodic and morphological effects on word reduction in adults
+
+MUTER&~1.HTM
+
+Learning logographies and alphabetic codes
+
+PI-718~1.GZ
+
+Compounds: An intelligent tutoring system for learning to use compounds in English
+
+COSTEL~1.PDF
+
+Efficient creativity: constraint-guided conceptual combination
+
+COSTEL~1.PS
+
+Polysemy in conceptual combinations: testing the constraint theory of combination
+
+COSTEL~2.PS
+
+Classification in combined phrases: noun-noun conjunctions and intersective, subsective and private adjective-noun combinations
+
+COSTEL~3.PS
+
+Testing two theories of conceptual combination: Alignment versus diagnosticity in the comprehension and production of combined concepts
+
+COSTEL~5.PS
+
+Testing a computational model of categorisation and category combination: Identifying disease categories and new disease combinations
+
+EUROCO~1.PDF
+
+Modelling the understanding of noun-noun compounds: the role of familiarity
+
+Super_con.htm
+Super_con.doc
+
+Altering grainsizes of processing in written word perception: Constraining a generalized, sub-symbolic resonance model
+
+99BL_F~1.PDF
+
+False memories and semantic lexicon arrangement
+
+MCD_WA~1.PDF
+
+The Rise and Fall of False Recall: The Impact of Presentation Duration
+
+MCD_96~1.PDF
+
+The Persistence of False Memories in List Recall
+
+MCD_RO~1.PDF
+
+Attempting to avoid illusory memories: robust false recognition of associates persists user ...
+
+BRANDS~1.PDF
+
+Brands on the internet: is automation feasible?
+
+IDENWO~1.PDF
+
+Identical words are read differently in different languages
+
+10_PAU~1.PDF
+
+A cultural effect on brain function
+
+phonfreq.htm
+
+Phoneme Frequencies
+
+P474_S.PDF
+
+L2 users and English spelling
+
+HIRST9~1.PDF
+
+Lexical chains as representations of context for the detection and correction of malapropisms
+
+YOSHIK~1.GZ
+
+Detecting Japanese term variation in textual corpus
+
+engspell.htm
+
+Chapter 3 Rules of English spelling 02-Jul-02
+
+AZER94~1.PDF
+
+Spelling correction in agglutinative languages
+
+ETAOIN.HTM
+
+Letter frequency examples
+
+WLIST.HTM
+
+UK English word list with frequency classification
+
+HUPBRMS.PDF
+
+Maintenance of semantic information in capacity-limited short-term memory
+
+EUROPA~1.PDF
+
+Asymmetries in consonant confusion
+
+GEMCOG~1.PS
+
+Letter perceptions: towards a conceptual approach
+
+LOOKAL~1.PDF
+
+Look alike
+Norwegian degree thesis?
+
+J91-3001.PDF
+
+An algorithm for high accuracy name pronunciation by parametric speech synthesizer
+
+J97-4001.PDF
+
+Algorithms for grapheme-phoneme translation for English and French: applications for database searches and speech synthesis
+
+Varga96.htm
+
+The vocabulary knowledge framework
+
+METAPH~1.PDF
+
+Metaphoric structuring: understanding time through spatial metaphors
+
+NOPS32.PDF
+
+Thinking in Japanese?  What have we learned about language-specific thought since Ervin Tripp's psychological tests of Japanese-English bilinguals
+
+605CHR~1.PDF
+
+Soundex - can it be improved?
+
+TYLERE~1.PDF
+
+Reconsidering prepositional polysemy networks: The case of over
+
+WILL.PDF
+
+Constructing the future: desire, experientialism and the semantics of Will
+
+HUNT_A~1.HTM S-W-Hypothesis.pdf
+
+The Whorfian Hypothesis: A Cognitive Psychology Perspective
+
+N-GRAM~1.PDF
+
+N-gram based text categorization
+
+HOW_BR~1.PDF
+
+How brand names are special: brands, words, and hemispheres
+
+NAVARR~1.PDF
+
+Matchsimile: A flexible approximate matching tool for personal names searching
+
+JIN02E~1.PDF
+
+Efficient similarity string joins in large data sets
+
+FALOUT~1.PDF
+
+FastMap: A fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets
+
+YIANIL~1.PDF
+
+The LIKEIT intelligent string comparison facility
+
+ADCS98.PS.gz
+
+Conflation-based comparison of stemming algorithms
+
+HULL96~1.PDF
+
+A detailed analysis of English stemming algorithms
+
+KROVET~1.PDF
+
+Viewing morphology as an inference problem
+
+MORPHO~1.PDF
+
+Morphological typology of languages in IR
+
+VIGLIO~1.PDF
+
+Semantic and syntactic forces in noun phrase production
+
+PHONEME.PDF
+
+A phoneme effect in visual word recognition
+
+WORD_A~1.PDF
+
+Word association norms for young and older adults
+detailed tables of results
+
+largesemnets.pdf
+
+The large-scale structure of semantic networks: statistical analysis and a model of semantic growth
+
+MDWILS~1.PDF
+
+MRC psycholinguistic database: machine usable dictionary, version 2.00
+
+furnasetal1987vocabprob.pdf
+
+The vocabulary problem in human system communication: an analysis and a solution
+
+KRAHME~1.PDF
+
+Efficient context sensitive generation of referring expressions
+
+KRAHME~1.PS.gz
+
+Graph based generation of referring expressions
+
+SLOMAN~1.PDF
+
+Recent exposure affects artifact naming
+
+GRAPHEME.PDF
+
+Graphemes are perceptual reading units
+
+RAWQ.PDF
+
+Is English spelling chaotic?
+
+ISHIHARA.PDF
+
+English vocabulary recognition and production: A preliminary survey report
+
+TREIMA~1.PDF
+
+Effects of consonantal context on vowel reading
+
+TREIMA~2.PDF
+
+Children's own names influence their spelling
+
+TREIMA~3.PDF
+
+Dialect and authography: Some differences between American and British spellers
+
+Treimanspellingdialect.pdf
+
+Spelling and dialect: comparisons between speakers of african american vernacular english and white speakers
+
+CL02.PDF
+
+Human variation and lexical choice
+
+TR-399~1.GZ
+
+Semantic representation of near-synonyms for automatic lexical choice
+
+SANFIL~1.PDF
+
+EAGLES LE3-4244: Preliminary recommendations on lexical semantic encoding, final report
+
+DIMARC~1.PS.gz
+
+The semantic and stylistic differentiation of synonyms and near-synonyms
+
+THESEART.DOC
+
+Native speakers of arabic and ESL texts: evidence for the transfer of written word identification processes
+
+JAIR.PDF
+
+Acquiring correct knowledge for natural language generation
+
+GALESC~1.PDF
+
+Bi-directional conversion between graphemes and phonemes using a joint n-gram model
+
+P633-P~1.PDF
+
+A note on undetected typing errors
+
+P65-KIM.PDF
+
+Morpheme based grapheme to phoneme conversion using phonetic patterns and morphophonemic connectivity information
+
+SIGIR2~1.PDF
+
+Stemming and its effects on TFIDF ranking
+
+P86-KA~1.PDF
+
+Work language analysis and the naming problem
+
+P02-1019.PDF
+
+Pronunciation modeling for improved spelling correction
+
+LOPRES~1.PDF
+
+Cross-domain approximate string matching
+
+A-SEMI~1.PDF
+
+A semi-automatic system for the syllabification and stress assignment of large lexicons
+Parmar MSc 1997
+
+WHY_DI~1.PDF
+
+Why did I write this book?
+
+SPE948JZ.PDF
+
+Finding approximate matches in large lexicons
+
+IJODL.PDF
+
+Searchable words on the web
+
+SCIENC~1.PDF
+
+Evolution of universal grammar
+
+LANGUA~3.PDF
+
+Language evolution without natural selection: From vocabulary to syntax in a population of learners
+
+DAVIS.ZIP
+
+The self organizing lexical acquisition and recognition (SOLAR) model of visual word recognition
+Davis PhD
+
+Atheoret.htm
+
+A Theoretically Motivated Tool for Automatically Generating Command Aliases
+
+NUMBER~1.HTM
+
+Numbers and Numerical Prefixes
+
+VOCABU~1.HTM
+
+Vocabulary size, text coverage and word lists
+
+engwritsys.htm
+
+Meaning-based and sound-based writing systems
+
+PELLI2~1.PDF
+
+The remarkable inefficiency of word recognition
+
+ACL200~2.PDF
+
+A statistical approach to the semantics of verb-particles
+
+VVLG20~1.PDF
+
+Representing the meanings of object and action words: The featural and unitary semantic space (FUSS) hypothesis
+
+CLAWStagging.htm
+
+CLAWS4: The tagging of the British National Corpus
+
+IMPROV~1.PDF
+
+Improving Precision and Recall for Soundex Retrieval
+
+MADDEN~1.PDF
+
+Adult age differences in visual word identification: functional neuroanatomy by positron emission tomography
+
+ZEVIN_~1.PDF
+
+Age of Acquisition Effects in Word Reading and Other Tasks
+
+LB-GEN~1.PDF
+
+Not-just-grammatical gender: Effects of grammatical gender on meaning
+
+LEARNI~1.PDF
+
+Learning words in context: a survey
+
+LEAST~1.PDF
+
+The probability of the least likely non-length-controlled bigram affects lexical decision reaction times
+
+ALTMAN~1.PDF
+
+The language machine: psycholinguistics in review
+
+WORDLE~1.HTM
+
+The negative effects of learning words in semantic sets: a replication
+
+STRAIN~1.PDF
+
+Theories of word naming interact with spelling-sound consistency
+
+JBOSS.PDF
+
+JBOSS legal letter to Apache Software Foundation
+
+PERS.PDF
+
+WCRE-01.PDF
+
+Characterizing the knowledge contained in documentation sources
+
+A new account of personalization and effective communication
+
+176-AR~1.PDF
+
+The characteristics of Arabic orthographys low sits processing
+
+MORPHO~2.PDF
+
+Morphological and orthograic effects on hemispheric processing of nonwords: a cross-linguistic comparison
+
+KLEIN.PDF
+
+The representation of polysemous words
+
+POLYSE~1.PDF
+
+The many meanings of to run: Cognitive linguistics meets corpus-based linguistics
+
+TAGHVA~3.PDF
+
+Recognizing acronyms and their definitions
+
+SVNAME~1.PDF
+
+Names: A new frontier in text mining
+
+WORDNO~1.PDF
+
+Word association norms for two cohorts of British adults
+
+WOLFFB~1.PDF
+
+When Russians Learn English: How the Meaning of Causal Verbs May Change 
+
+PSYCHR~1.PDF
+
+A context noise model of episodic word recognition
+
+FREEAS~1.PDF
+
+What is and what does free association measure?
+
+0611.PDF
+
+Testing the distributional hypothesis: The influence of context on judgements of semantic similarity
+
+Biling2003.pdf
+
+Linguistic diversity and object naming by non-native speakers of English
+
+MISSIN~1.PDF
+
+Implicit activited memories: The missing links of remembering
+
+MUELLE~1.PDF
+
+Theoretical Implications of Articulatory Duration, Phonological Similarity, and Phonological Complexity in Verbal Working Memory
+
+0279.pdf
+
+An influence of spatial language on recognition memory for spatial scenes
+
+CHUM.PDF
+
+Phonetic alignment and similarity
+
+KONDRA~1.PDF
+
+Algorithms for language reconstruction
+Kondrak PhD 2002
+
+ICPHS_~1.PDF
+
+An Acoustic Model of Communication Efficiency in Consonants and Vowels taking into Account Context Distinctiveness
+
+FEISTG~1.PDF
+
+Factors involved in the use on In and On
+
+CSDL2002.PDF
+
+Isn't that fantabulous?  How similarity motivates intentional morphological blends in English
+
+PHYSIC~1.PDF
+
+Physical space and mental space: how to come and go in chinese
+
+LYNOTT~1.PDF
+
+The role of knowledge support in creating noun-noun compounds
+
+dist.female.first.txt
+dist.male.first.txt
+DISTALL~1.TXT
+
+Rankings of 1200 male, 4000 female first names, and 888000 surnames
+
+INANDON.PDF
+
+In and on: investigating the functional geometry of spatial prepositions
+
+MALOUF~1.PDF
+
+The order or prenominal adjectives in natural language generation
+
+P99-1018.pdf
+
+Ordering among premodifiers
+
+finalproj.pdf
+
+A survey of algorithms to properly order adjective trigrams
+
+CHEN96~1.PDF
+
+An empirical study of smoothing techniques for language modeling
+
+GINAP.TXT
+
+English-language personal given names
+
+KINTSCH.PDF
+
+Predication
+
+LANGEB~1.PDF
+
+Activation of multiple phoneme associates of graphemes in visual word recognition
+
+LEVELT99.PDF
+
+Models of word production
+
+MALMBE~2.PDF
+
+The word frequency effect for recognition memory and the elevated-attention hypothesis
+
+MALMBE~3.PDF
+
+List composition and the word frequency effect for recognition memory
+
+SEG-6.PS
+
+Searchable words on the web
+
+metaphone-kuhn.txt
+
+Phonetic search codes (metaphone)
+
+ANDERS~1.PDF
+
+On putting apples into bottles - a problem of polysemy
+
+EACL99.PDF
+
+Determinants of adjective noun plausibility
+
+LAMP_110.PDF
+
+A similarity-based approach and evaluation methodology for reduction of drug name confusion
+
+COSTEL~2.PDF
+
+Investigating creative language: people's choice of words in the production of novel noun-noun compounds
+
+NBM_SE~1.PDF
+
+Swedish dimensional adjectives
+
+P01-1046.PDF
+
+Evaluating smoothing algorithms against plausibility judgements
+
+JONES9~1.PDF
+
+Predicting semantics from syntactic cues - an evaluation of Levin's English verb classes and alternations
+
+S19xxF.TXT
+
+Most common female names for various years
+
+S19xxM.TXT
+
+Most common male names for various years
+
+fryer_levitt_qjerevision_final.pdf
+
+The causes and consequences of distinctive black names
+
+Budanitsky+Hirst-2004.pdf
+
+Evaluating WordNet-based measures of lexical semantic relatedness
+
+Hirst+Budanitsky-2001.pdf
+
+Correcting real-word spelling errors by restoring lexical cohesion
+
+LAS_Whosenameisit.pdf
+
+Whose name is it: names, ownership and databases
+
+P92-1032.pdf
+
+Estimating upper and lower bounds on the performance of word sense disambiguation programs
+
+variation-and-matching.pdf
+
+Surname variation and surname matching algorithms
+
+veronis98study.pdf
+
+A study of polysemy judgements and inter-annotator agreement
+
+paper 575.pdf
+
+How deep are effects on language on thought?  Time estimation in speakers of English, Indonesian, Greek, and Spanish
+
+paper429.pdf
+
+Individual differences and implicit language: personality, parts-of-speech and pervasiveness
+
+mthesis-cmu.pdf
+
+Improving pronunciation accuracy of proper names with language origin classes
+
+contextual-influences-on-near.pdf
+
+Contextual influences on near-synonym choice
+
+Inkpen-thesis.pdf
+
+Building a lexical knowledge base of near synonym differences
+
+ECP2000.PDF
+
+The DRC model of visual word recognition and reading aloud: An extension to German
+
+PerZieCol2002QJEP.pdf
+
+How predictable is spelling?  Developing and testing metrics of phoneme-grapheme contingency
+
+PerZieCol2002AP.pdf
+
+A dissociation between orthographic awareness and spelling production
+
+ZiePsychSci2001.pdf
+
+Identical words are read differently in different languages
+
+aging.pdf
+
+Words of wisdom:  language use over the life span
+
+dernier.pdf
+
+Beyond the two-strategy model of skilled spelling:  effects of consistency, grain size, and orthographic redundancy
+
+jeab-78-03-0551.pdf
+
+The competition-among-relations-in-nominals theory of conceptual combination: implications for stimulus class formation and class expansion
+
+marchetalmc1999.pdf
+
+The inadvertent use of prior knowledge in a generative cognitve task
+
+SteyversShiffrinNelsonFormatted.pdf
+
+Word association spaces for predicting semantic similarity effects in episodic memory
+
+Spatial_distance_Lexi_replmt.pdf
+
+Spatial distance and lexical replacement
+
+Monica_Tamariz03.pdf
+
+What makes words sound similar in spanish?
+
+tamariz02.pdf
+
+Parameters of word-form similarity in Spanish
+
+000071451.pdf
+
+Analysis of English nonsense syllable recognition in noise
+
+SoundAndMeaning2000.pdf
+
+Sound and meaning: how native language affects reading strategies
+
+wilkward2001.pdf
+
+Similarity and emergence in conceptual combinations
+
+wordsimilarity.pdf
+
+What makes words sound similar?
+
+connine_blasko_titone_1993.pdf
+
+Do the beginnings of spoken words have special status in auditory word recognition?
+
+peripheralreading36.pdf
+
+Reading quickly in the periphery - the roles of letters and sentenecs
+
+acqshop93.html
+
+Word Sense Disambiguation by Human Subjects: Computational and Psycholinguistic Applications
+
+feist04.pdf
+
+Talking about spaces:  A cross-linguistic perspective
+
+Wulf2004.pdf
+
+A multifactorial corpus analysis of adjective order in English
+
+Amin.pdf
+
+LASER: A lexical approach to analogy in software reuse
+
+NovBiaCas.htm
+
+The Costs and Benefits of Metaphor
+
+karithesis.pdf
+
+Natural naming in software development and maintenance
+
+KAMPRA~1.PDF
+
+Controlled language for multulingual document production:  Experience with caterpillar technical english
+
+J90-1003.pdf
+
+Word association norms, mutual information, and lexicography
+
+emnlp04.pdf
+
+VerbOcean: Mining the web for fine-grained semantic verb relations
+
+2005_deissenboeckf_naming.pdf
+
+Concise and consistent naming
+
+4007T1.PDF
+
+Meeting of the drug safety and risk management advisory committee
+
+b_lambert_e.pdf
+
+Computer assisted decision analysis in drug naming
+
+PynteKennedyDucrot.pdf
+
+The influence of parafoveal typographical errors on eye movements in reading
+
+amia01.pdf
+
+A study of abbreviations in the UMLS
+
+amia02.pdf
+
+A study of abbreviations in MEDLINE abstracts
+
+------------------------ version 1.00 ---------------------------
+
+AcorpusanalofSE.pdf
+
+A corpus analysis of spelling errors made by Japanese EFL writers
+
+trps_022.pdf
+
+Phonetic comparison algorithms
+
+NGramWordClassifier.pdf
+
+Automatic classification of previously unseen proper noun phrases into semantic categories using an n-gram letter model
+
+P02-1019.pdf
+
+Pronunciation modeling for improved spelling correction
+
+kondrak00new.pdf
+
+A new algorithm for the alignment of phonetic sequences
+
+binomials.pdf
+
+The chicken or the egg?  A probabilistic analysis of English binomials
+
+wright-hay-bent.pdf
+
+Ladies first?  Phonology, frequency and the naming conspiracy
+
+HarleyAcronyms2003.pdf
+
+Why is the CIA not *the NASA?  Acronyms, abbreviations and definite descriptions
+
+drug_jour.pdf confusdrugname.pdf
+
+Identification of confusable drug names: A new approach and evaluation methodlogy
+
+nicknames.txt
+
+Most common nicknames for first names
+
+PBR-final.pdf
+
+Reexamining the word length effect in visual word recognition: New evidence from the English lexicon project
+
+New-et-al2004-BRMIC.pdf
+
+Lexique 2: A new French lexical database
+
+HPP02.pdf
+
+Influence of onset density on spoken-word recognition
+
+Bowers_Davis_Hanley_submitt.pdf
+
+Interfering neighbours: The impact of novel word learning on the identification of visually similar words
+
+11.pdf
+
+Towards mining "concept keywords" from identifiers in large software projects
+
+TL_PBR.pdf
+
+Do transposed-letter effects occur across lexeme boundaries?
+
+TL_QJEP.pdf
+
+Do transposed-letter similarity effects occur at a prelexical phonological level?
+
+TL_syllables.pdf
+
+Do transposed-letter similarity effects occur at a syllable level?
+
+tr-95-57.pdf
+
+The analysis of noun sequences using semantic information extracted from on-line dictionaries
+
+Samantha.pdf
+
+Brief, detailed, spelling error data for Japanese writing English
+
+42_lawrie.pdf
+
+What's in a name?  A study of identifiers
+
+JaredSeid1990.pdf
+
+Naming multisyllabic words
+
+lettersimbib.html
+
+Letter similarity data set archive
+
+urn_nbn_se_liu_diva-4637-1.pdf
+
+Controlled languages in software user documentation
+
+shaw99ordering.pdf
+
+Ordering among premodifiers
+
+written-trigrams-freq.tgz
+
+Word trigrams
+
+anc-lexicon.tgz
+
+ANC lexicon
+
+anc-bigrams-freq.tgz
+
+ANC bigrams
+
+spoken-trigrams-freq.tgz
+
+Spoken trigrams
+
+AppleOrange.pdf
+
+Adding apples and oranges: alignment of semantic and formal knowledge
+
+Davis_Bowers_04.pdf
+
+What do letter migration errors reveal about letter position coding in visual word recognition?
+
+Davis_Bowers_06.pdf
+
+Contrasting five different theories of letter position coding: Evidence from orthographic similarity effects
+
+wcre04.pdf
+
+An information retrieval approach to concept location in source code
+
+sdnlist.txt
+
+ALPHABETICAL LISTING OF SPECIALLY DESIGNATED NATIONALS AND BLOCKED PERSONS
+
+international_naming.pdf
+
+A guide to names and naming practices
+
+MuellerMCLC42007.pdf
+
+Inferring contextual semantics from text using a model of human episodic memory and conceptual knowledge formation
+
+MuellerShiffrinCogSci2007.pdf
+
+Incorporating connotation of meaning into models of semantic representation: An application in text corpus analysis
+
+MuellerPsimetrica2006.pdf
+
+PSIMETRICA: tools for techniques for measuring phonological similarity
+
+phonsimmem.pdf
+
+Phonological similarity in free and serial recall: The effect of increasing retention intervals
+
+scam07-programmers-lexicon.pdf
+
+The programmer's lexicon, Volume 1: The verbs
+
+sem-universals.pdf
+
+Univerals in semantics
+
+nowak00theBasic.pdf
+
+The basic reproductive ratio of a word, the maximum size of a lexicon
+
+SLWS-paper.PDF
+
+A Corpus-based Study of Spelling Errors of Japanese EFL Writers with Reference to Errors Occurring in Word-initial and Word-final Positions
+
+hutchins95howTo.pdf
+
+How to invent a lexicon: The development of shared symbols in interaction
+
+2.pdf
+
+Syntactic identifier conciseness and consistency
+
+506.pdf
+
+MUDABlue: An automatic categorization system for open source repositories
+
+Bailey-Hahn2005.pdf
+
+Phoneme similarity and confusability
+
+lasa.pdf
+
+Look alike/ sound alike algorithms for assessing drug name similarities
+
+p342-koppel.pdf
+
+Determining an Author's Native Language by Mining a Text for Errors
+
+perealupkerjml.pdf
+
+Can CANISO activate CASINO? TRansposed-letter similarity effects with nonadjacent letter positions
+
+philip.pdf
+
+Connotative meaning in English and Italian colur-word metaphors
+
+1_LCDED.pdf
+
+Some Cobol name to identifier mappings
+
+male-female-text-final.pdf
+
+Gender, genre, and writing style in formal written texts
+
+ppig-2006.pdf
+
+Cognitive perspective on the role of naming in computer programs
+
+Kuhn06a.pdf
+
+Semantic clustering: Making use of linguistic information to reveal concepts in source code
+
+chum.pdf
+
+Phonetic alignment and similarity
+
+hlt-naacl07.pdf
+
+Applying mant-to-many alignments and hidden Markov models to letter-to-phoneme conversion
+
+japengspell7-rev-h.txt
+
+Japanese English spelling errors
+
+Subjective.pdf
+
+Similarity of Drug Names: Comparison of Objective and Subjective Measure
+
+SimRisk.pdf
+
+Similarity as a risk factor in drug name confusion errors: The look-alike (orthographic) and sound-alike (phonetic) model
+
+PredictLookSoundAlikes.pdf
+
+Predicting look- and sound-alike medication errors
+
+spellcheck.pdf
+
+Spelling correction for search engine queries
+
+BanglaPhoneticEncoding.pdf
+
+A Bangla phonetic encoding for better spelling suggestions
+
+IEA2003proc_yamade.pdf
+
+Experimental study on similarity of drug names and confusion errors
+
+PLDI03.ps
+
+The Design, Implementation, and Evaluation of a Compiler Algorithm for CPU Energy Reduction
+
+PACS02-dvs.ps
+
+Single region vs. multiple regions: A comparison of different compiler-directed dynamic voltage scheduling approaches
+
+Neighborhood-Effects.pdf
+
+Effects of frequency and similarity neighborhoods on pharmacists' visual perception of draug names
+
+Designing.pdf
+
+Designing safe drug names
+
+cpms-long-iwlc-06.pdf
+
+A computational phonetic model for Indian language scripts
+
+NZThesisUG.pdf
+
+Phonetic encoding for Bangla and its application to spelling checker, transliteration, cross language information retrieval and name searching
+
+icsm2007.pdf
+
+Mining the lexicon used by programmers during software evolution
+
+id_evol.sxc
+
+Identifiers added/deleted/removed in Neamtui paper
+
+DescripAnalysisLexicon.PDF
+
+Descriptive analysis of the drug name lexicon
+
+------------------------ version 1.1 ---------------------------
+
+isse07-id-recall.pdf
+
+Effective identifier names for comprehension and memory
+
+10.1.1.2.2996.pdf
+
+Estimation of English and non-English language usage on the WWW
+
+10.1.1.22.120.pdf
+
+An evaluation of phonetic spell checkers
+
+10.1.1.36.5649.pdf
+
+Automatic rule acquisition for spelling correction
+
+10.1.1.103.8078.pdf
+
+An unsupervised system for identifying English inclusions in German text
+
+10.1.1.64.8840.pdf
+
+Learning a spelling error model from search query logs
+
+zahariev04acronyms.pdf
+
+A (Acronyms) PhD thesis
+
+oopsla_sub.pdf
+
+Meaningful type names as a basis for object lifetime prediction
+
+mitton2.pdf
+
+English spelling and the computer
+
+pedler.pdf
+
+Computer correction of real-world spelling errors in dyslexic text
+
+592.pdf
+
+The adaptation of an English spellchecker for Japanese writers
+
+spelling_error_urdu.pdf
+
+Spelling error trends in Urdu
+
+hybrid_Urdu_spell_checking.pdf
+
+A hybrid approach for Urdu spell checking
+
+WilcoxOHearn-etal-2008.pdf
+
+Real-world spelling correction with trigrams: A reconsideration of Mays, Damerau, and Mercer model
+
+2008.Domain-terms.pdf
+
+On the use of domain terms in source code
+
+burt_tate.pdf
+
+Does a reading lexicon provide orthographic representations for spelling?
+
+burt_psycholingres.pdf
+
+Spelling in adults: The combined influences of language skills and reading experience
+
+burt_fury.pdf
+
+Spelling in adults: The role of reading skills and experience
+
+EffectRecall.pdf
+
+Immediate free recall of drug names: Effects of availability and famailiarity
+
+EffectRecog.pdf
+
+Effect of orthographic and phonological similarity on false recognition of drug names
+
+cp1.pdf
+
+Chinese personal names
+
+cp2.pdf
+
+Australian aboriginal names
+
+cp3.pdf
+
+Indexing personal names
+
+confus-drugnames-FDA.htm
+
+STOP, LOOK, AND LISTEN!
+
+misspelled.dat
+
+List of misspelled words
+
+hill-msr08.pdf
+
+AMAP: Automatically mining abbreviation expansions in programs to enhance software maintenance tools
+
+scam07-expansion.pdf
+
+Extracting Meaning from Abbreviated Identifiers
+
+scam08.pdf
+
+Exploiting the correspondence between micro patterns and class names
+
+langmod-spell.pdf
+
+Using contextual speller techniques and language modeling for ESL error correction
+
+IJCNLP_2004_proc_Nenadicl.pdf
+
+Mining biomedical abstracts: What's in a term?
+
+RCSJ2009PBR.pdf
+
+Item performance in visual word recognition
+
+butler10csmr.pdf
+
+Exploring the influence of identifier names on code quality: An empirical study
+
+ecoop09-hoest-debug-meth-nam.pdf
+
+Debugging method names
+
+fryAOIG2008.pdf
+
+Analysing source code: looking for useful verb-direct object pairs in all the right places
+
+gsridhar-semantic-sim.pdf
+
+Identifying Word Relations in Software: A Comparative Study of Semantic Similarity Tools
+
+hill-icse09.pdf
+
+Automatically Capturing Source Code Context of NL-Queries for Software Maintenance and Reuse
+
+wcre06.pdf
+
+How programs represent reality (and how they don't)
+
+frySeniorThesis08.pdf
+
+Improving automatic abbreviation expansion within source code to aid in program search tools
+
+GureckisGoldstone09-BabyNames.pdf
+
+How you named your child: Understanding the relationship between individual decisions and making collective outcomes
+
+HahnBentleyBabies.pdf
+
+Drift as a mechanism for cultural change: an example from baby names
+
+5979.pdf
+
+Elizabeth and John: sound patterns of men's and women's names
+
+pike85hideous.pdf
+
+The Hideous name
+
+sle08-prog-phrasebook.pdf
+
+The Java programmer's phrase book
+
+10.1.1.28.8821.pdf
+
+Hybrid text mining for finding abbreviations and their definitions
+
+PSI75280V.pdf
+
+Color naming: color scientists do it between Munsell sheets of color
+
+BIT.pdf
+
+Some psychological attributes of potential computer command names
+
+norm-vocab.pdf
+
+Normalizing source code vocabulary
+
+Mewhort_RP_15.pdf
+
+Case-sensitive letter and bigram frequency counts from large-scale English corpora
+
+Davis_10a.pdf
+
+The spatial coding model of visual word identification
+
+JSME11.doc.pdf (not used) d
+
+TIDIER: An identifier splitting approach using speech recognition techniques
+
+iwesep-submit.pdf (paper, not used) d
+
+Predicting fault-prone modules using length of identifiers
+
+msr11-pos.pdf
+
+Improving identifier informativeness using part of speech information
+
+icsm-11-normalization.pdf
+
+Expanding identifiers to normalize source code vocabulary
+
+da_jan_nonnen.pdf (paper, not used) d
+
+Naming consistency in source code identifiers
+
+1044_Host_DUO.pdf
+
+Meaningful method names
+
+rpair-msr12.pdf
+
+Inferring semantically related words from software context
+
+butler-ecoop11.pdf
+
+Improving the tokenisation of identifier names
+
+SimpsonetAl2013_BRM.pdf
+
+A letter visual-similarity matrix for Latin-based alphabets
+
+HanusVul2013.pdf
+
+Quantifying error distributions in crowding
+
+PerceptMotSkills-Kuennapas.pdf (paper, not used) d
+
+MULTIDIMENSIONAL SIMILARITY OF LETTERS
+
+544b860faaeMueller.pdf
+
+Theoretical Implications of Articulatory Duration, Phonological Similarity, and Phonological Complexity in Verbal Working Memory
+
+FurnasEtAl1983_BSTJ_p1753.pdf
+
+Statistical semantics: analysis of the potential performance of key-word information systems
+
+Clark_W-G.pdf
+
+Referring as a collaborative process
+
+Arnaoudova-PhD-2014.pdf
+
+TOWARDS IMPROVING THE CODE LEXICON AND ITS CONSISTENCY
+
+BaayenMilinRamscar_Aphasiology.pdf
+
+Frequency in lexical processing
+
+Renaming-main.pdf (cited) d
+
+REPENT: Analyzing the nature of identifier renaming
+
+2015_LalehMousaviEshkevari.pdf (Ranming..., other) d
+
+AUTOMATIC DETECTION AND CLASSIFICATION OF IDENTIFIER RENAMINGS
+
+Scanniello-TOSEM.pdf (not used) d
+
+Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names
+
+shorter-identifier-names.pdf (done) d
+
+Shorter Identifier Names Take Longer to Comprehend
+
+butler2015icpc.pdf
+
+A survey of the forms of Java reference names
+
+Avidan-MSc.pdf (done) d
+
+The Significance of Method Parameters and Local Variables as Beacons for Comprehension: An Empirical Study
+
+Hofmeister_BSc.pdf
+
+Influence of identifier length and semantics on the comprehensibility of source code
+
+10.1002@spe.43800.pdf (paper, not used) d
+
+Statistics for FORTRAN Identifiers and Scatter Storage Techniques
+
+CPA-preprint.pdf
+
+Exploiting Type Hints in Method Argument Names to Improve Lightweight Type Inference
+
+hulme1991.pdf
+
+Memory for Familiar and Unfamiliar Words: Evidence for a Long-Term Memory Contribution to Short-Term Memory Span
+
+msr13-binkley.pdf (+email, not used) d
+
+A DATASET FOR EVALUATING IDENTIFIER SPLITTERS
+
+1805.11651.pdf
+
+Splitting source code identifiers using Bidirectional LSTM Recurrent Neural Network
+
+Lin2017d.pdf (not used) d
+
+Investigating the Use of Code Analysis and NLP to Promote a Consistent Usage of Identifiers
+
+icpc18decompilation.pdf
+
+Meaningful Variable Names for Decompiled Code: A Machine Translation Approach
+
+1805.11683.pdf (not used) d
+
+DeepBugs: A Learning Approach to Name-based Bug Detection
+
+1-s2.0-S01641212.pdf
+
+From source code identifiers to natural language terms
+
+985.pdf
+
+Method Verb Recommendation Using Association Rule Mining in a Set of Existing Projects
+
+oopsla2018_DeepBugs.pdf (cited) d
+
+DeepBugs: A Learning Approach to Name-Based Bug Detection
+
+152415445.pdf
+
+Learning Natural Coding Conventions
+
+10817dft_05-26-14.pdf
+
+Guidance for Industry Best Practices in Developing Proprietary Names for Drugs
+
+2003.07914.pdf (not downloaded, not used) d
+
+Big Code != Big Vocabulary: Open-Vocabulary Models for Source Code
+
+3379443.pdf
+
+A Survey on Renamings of Software Entities
+
+rename_paper_2020.pdf (not used) d
+
+Contextualizing Rename Decisions using Refactorings, Commit Messages, and Data Types
+
+icsme19_at.pdf (not used) d
+
+An Open Dataset of Abbreviations and Expansions
+
+landauer1983.pdf (paper, not used) d
+
+Natural Command Names and Initial Leaming: A Study of Text-Editing Temis
+

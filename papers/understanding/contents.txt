@@ -1,0 +1,60 @@
+GIRARD~1.PDF
+
+Finding components in a hierarchy of modules: a step towards architecture understanding
+
+HARTMA~1.GZ
+
+Automatic control understanding for natural programs
+
+ASE.PDF
+
+Playing detective: reconstructing software architecture from available evidence
+
+MARTIN~1.PDF
+
+Specification and automatic recognition of algorithmic concepts within programs
+
+MARTIN~2.PDF
+
+Two program comprehension tools for automatic parallelization: a comparative study
+
+APPLIC~1.PDF
+
+Applicability of automatic program comprehension to sparse matric computations
+
+PAP-RE~1.PDF
+
+PAP recognizer: a tool for automatic recognition of parallelizable patterns
+
+KOSCHK~1.GZ
+
+Atomic architectural component recovery for program understanding and evolution
+
+LLNCS-~1.PS.gz
+
+Using attributed flow graph parsing to recognize cliches in programs
+
+WILLS93.PS.gz
+
+Flexible control for program recognition
+
+SCP00A.PS
+
+Program plan matching: experiments with a constraint-based approach
+
+CR-200~1.PDF
+
+Progress in the semantic analysis of scientific code
+
+RUGABE~1.PDF
+
+Understanding interleaved code
+
+AITR-1358.pdf
+
+Autornated Prograni Recognition by Graph Parsing
+
+StoryUnderstandProbSolv.pdf
+
+STORY UNDERSTANDING AS PROBLEM-SOLVING
+

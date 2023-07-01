@@ -1,0 +1,1085 @@
+Almiron2009.pdf
+
+The reliability of statistical functions in four software packages freely used in numerical computation
+
+LECSOABSR.pdf (paper, partial) d
+
+Large empirical study of architecture-based software reliability
+
+excel2007.pdf
+
+On the accuracy of statistical procedures in Microsoft Excel 2007
+
+excel-rng.pdf
+
+Microsoft Excel's 'Not The Wichmann-Hill' random number generators
+
+mccullough.pdf
+
+On the accuracy of statistical procedures in Microsoft Excel 97
+
+1006.pdf
+
+The accuracy of statistical distributions in Microsoft Excel 2007
+
+Stat_Software.pdf
+
+Reliability of Statistical Software
+
+v34i04.pdf
+
+On the Numerical Accuracy of Spreadsheets
+
+rely-model_user.pdf
+
+A user-oriented software reliability model
+
+10.1.1.22.9900.pdf
+
+Architecture-based approach to reliability assessment of software systems
+
+kat1.pdf
+
+Comparison of architecture-based software reliability models
+
+availability_web-sites.pdf (partial) d
+
+On correlated failures in survivable storage systems
+
+availability-mickens.pdf (not used) d
+nsdi06.pdf (availability, not used) d
+
+Exploiting availability prediction in distributed systems
+
+ijrqse.pdf (paper, not used) d
+
+Software reliability analysis incorporating second-order architecture statistics
+
+gcc-reliability-MSc.pdf (paper, done) d
+
+Empirical Assessment of Architecture-Based Reliability of Open-Source Software
+
+spravochnik.pdf
+
+Handbook of 217Plus reliability prediction models
+
+RomeReliability-book.pdf
+
+The Rome laboratory: Reliability engineer's toolkit
+
+adcomp.pdf
+
+Analytical models for architecture-based software reliability prediction.  A unification framework
+
+10.1.1.96.9475
+
+The Effect of Imperfect Error Detection on Reliability Assessment via Life Testing
+
+2009SELSE.pdf
+
+A foundation for the accurate prediction of the soft error vulnerability of scientific applications
+
+jonsthesis.pdf (paper, not used) d
+
+Software quality in climate modelling
+
+gmd-5-1009-2012.pdf
+
+Assessing climate model software quality: a defect density analysis of three models
+
+devale_ms.pdf (paper, see PhD, not used) d
+
+Measuring operating system robustness
+
+devale.pdf (paper, cited) d
+
+High performance robust computer systems
+
+dsn_2000 (paper, not used) d
+
+Robustness testing of the Microsoft Win32 API
+
+salfner10survey.pdf
+
+A survey of online failure prediction methods
+
+eurosys84-nightingale.pdf (paper, need to email, done) d
+
+Cycles, cells and platters: An empirical analysis of hardware failures on a million consumer PCs
+
+10.1.1.63.2678.pdf (paper, not used) d
+
+A conservative theory for long term reliability growth prediction
+
+TR-96.1.pdf (paper+file, partial) d
+
+Software reliability growth models
+
+worst-case-given-n.pdf
+
+Worst case reliability prediction based on a prior estimate of residual defects
+
+PlanningSoftwareReliability.pdf
+
+Planning and Certifying Software System Reliability
+
+zero-failure-exp.pdf
+
+M-bayesian credible limit method of parameter and its application
+
+tc11.pdf
+
+The reliability wall for exascale supercomputing
+
+19860020075_1986020075.pdf (done) d
+
+An experiment in software reliability
+
+19820013026_1982013026.pdf (done) d
+
+Software reliability: Repetitive run experimentation and modeling
+
+19840021433_1984021433.pdf (cited) d
+
+Software reliability: Additional investigations into modeling with replicated experiements
+
+19880010633_1988010633.pdf (paper, extract, not used) d
+
+An experiment in software reliability additional analysis using data from automated replications
+
+19900014642_1990014642.pdf (not used) d
+
+An experimental evaluation of software redundancy as a strategy for improving reliability
+
+19930016068_1993016068.pdf
+
+Statistical modeling of software reliability
+
+System Reliability-Statistical Methods-book.pdf
+
+System reliability theory
+
+Lee_PhD.pdf
+
+Software dependability in the operational phase
+
+TR2001-40.pdf (paper, not used) d
+
+An assessment of testing-effort dependent software reliability growth models
+
+iec-tr-62380.e.pdf
+
+IEC TR 62380: Reliability data handbook - Universal model for reliability prediction of electronic components, PCBs and equipment
+
+183i.pdf
+
+Government policy on the management of risk
+
+183ii.pdf
+
+Minutes of evidence taken before select committee on economic affairs
+
+unit3.4.1.pdf (paper, partial) d
+
+The Accidents Sub-Objective
+
+Item_2_-_Appendix_I.pdf
+
+Highways economic note no. 1 (appendix I)
+
+w9396.pdf
+
+CHANGES IN THE VALUE OF LIFE, 1940-1980
+
+w9487.pdf
+
+THE VALUE OF A STATISTICAL LIFE: A CRITICAL REVIEW OF MARKET ESTIMATES THROUGHOUT THE WORLD
+
+core.syntax.pdf
+
+Assessing the reliability of textbook data in syntax: Adger's core syntax
+
+vrp-paper.pdf (not used) d
+
+An empirical study of vulnerability rewards programs
+
+mukadam2013gerrit.pdf (not used) d
+
+Gerrit software code review data from Android
+
+3.pdf
+
+An investigation into fan reliability
+
+EECS-2013-49.pdf (EECS+vrp-paper..., done) d
+
+Towards evidence-based assessment of factors contributing to the introduction and detection of software vulnerabilities
+
+journal.pone.0038234.pdf (not asked, cited) d
+
+The effects of freesurfer version, workstation type, and macintosh operating system version on anatomical volume and cortical thickness measurements
+
+proofa.pdf
+
+The role and function of proof in mathematics
+
+pham_03.pdf (paper+file, from another paper, not used) d
+
+Software reliability and cost models: Perspectives, comparison, and practice
+
+TSE-2008-05-0176.pdf
+
+Towards a formalism for conservative claims about the dependability of software-based systems
+
+fangs-of-viper.pdf
+
+The fangs of the VIPER
+
+p102-210-yuan.pdf (cited)
+
+Characterizing Logging Practices in Open-Source Software
+
+ajsea.20130203.12.pdf (paper, not used) d
+
+A discussion of software reliability growth models with time-varying learning effects
+
+04110110065711546.pdf (paper, not used) d
+
+NHPP software reliability and cost models with testing coverage
+
+tse04.pdf (paper, faded away) d
+
+Empirical analysis of safety-critical anomalies during operations
+
+Apache-Gnome-fault-hist.pdf (paper, not used) d
+
+Reliability analysis and optimal version-updating for open source software
+
+TrackingUserClicksSubmits.pdf (paper, not used) d
+
+Tracking users' clicks and submits: TRaceoffs between user experience and data loss
+
+vuln_freq_ISF.pdf
+
+Does information security attack frequency increase with vulnerability disclosure? An empirical analysis
+
+02_06_ballista_retrospective.pdf (paper, not used) d
+
+Software Robustness Testing A Ballista Retrospective
+
+Synth-Diverse-Programs.pdf (paper, cited) d
+
+Tailored Source Code Transformations to Synthesize Computationally Diverse Program Variants
+
+Windows Reliability ICSE 2010.pdf (paper, images, not used) d
+
+Predicting the Reliability of Mass-Market Software in the Marketplace Based on Beta Usage: a Study of Windows Vista and Windows 7
+
+BlueWaters_DSN2014.pdf (paper, cited) d
+
+Lessons Learned From the Analysis of System Failures at Petascale: The Case of Blue Waters
+
+critics.pdf
+
+A reply to the criticisms of the Knight & Leveson experiment
+
+Data_integrity_v3.pdf (paper, cited) d
+
+Data integrity
+
+1312.2333.pdf
+
+Exploiting Data Representation for Fault Tolerance
+
+2008ICS.pdf
+
+Soft Error Vulnerability of Iterative Linear Algebra Methods
+
+Patrick_Oladimeji_MRes.pdf (partial) d
+
+Devices, Errors and Improving Interaction Design - A case study using an Infusion Pump
+
+2013.Paper.08.pdf (emailed, confidential) d
+
+Proactive Drive Failure Prediction for Large Scale Storage Systems
+
+DSN2014-li.pdf (2013.paper, confidential) d
+
+Hard Drive Failure Prediction Using Classification and Regression Trees
+
+is.15038.2011.pdf
+
+IEC 61164/IS 15038 (2005) RELIABILITY GROWTH — STATISTICAL TEST AND ESTIMATION METHODS
+
+tissec-2013.pdf
+
+Comparing vulnerability severity and exploits using case-control studies
+
+1203.5830v1.pdf
+
+An Independent Validation of Vulnerability Discovery Models
+
+Morales-saner15.pdf (not used) d
+
+Do Code Review Practices Impact Design Quality?  A Case Study of the Qt, VTK, and ITK Projects
+
+19870015477.pdf (paper, not used) d
+
+A Study on Fault Prediction and Reliability Assessment in the SEL Environment
+
+C15.pdf (not used) d
+
+Would Static Analysis Tools Help Developers with Code Reviews?
+
+srinivsn-phd-thesis.pdf
+
+Lifetime Reliability Aware Microprocessors
+
+OAKLAND-2015.pdf (not used) d
+
+The Attack of the Clones: A Study of the Impact of Shared Code on Vulnerability Patching
+
+luo_dsn14.pdf
+
+Characterizing Application Memory Error Vulnerability to Optimize Datacenter Cost via Heterogeneous-Reliability Memory
+
+Stat_modeling_soft_reli.pdf (paper, not used) d
+
+Statistical modeling and assessment of software reliability
+
+Handbook.dir (partial) d
+
+Handbook of Software Reliability Engineering
+
+lic_Small.pdf
+
+Dependability of IT Systems in Emergency Situations – Theory and Practice
+
+2014_beller_bacchelli.pdf (not used) d
+
+Modern Code Reviews in Open-Source Projects: Which Problems Do They Fix?
+
+2013_beller_quant_code_rev.pdf (2014_beller..., not used) d
+
+Quantifying Continuous Code Reviews
+
+RelGrowth.pdf (paper+file+emailed, added to misc) d
+
+Reliability Growth in Software Products
+
+00018004.pdf
+
+Software Reliability as a Function of User Execution Patterns
+
+TR-90.1.pdf (paper, not used) d
+
+A Census of Tandem System Availability Between 1985 and 1990
+
+lyu93improving.pdf (paper, not used) d
+
+Improving the N-Version Programming Process Through the Evolution of a Design Paradigm
+
+R8.pdf
+
+Triple-Triple Redundant 777 Primary Flight Computer
+
+2010-ASPLOS-Shoestring.pdf
+
+Shoestring: Probabilistic Soft Error Reliability on the Cheap
+
+10.1.1.90.2076.pdf
+
+Compiler-guided Register Reliability Improvement Against Soft Errors
+
+phdthesis_gareis.pdf
+
+Software Modulated Fault Tolerance
+
+Mitropoulou2015.pdf
+
+Performance Optimizations for Compiler-based Error Detection
+
+pact10_daft.pdf
+
+DAFT: Decoupled Acyclic Fault Tolerance
+
+a086334.pdf (paper, not used) d
+
+Analysis of discrete software reliability models
+
+a215546.pdf (paper, not used) d
+
+Validation of an exponentially decreasing failure rate software reliability model
+
+ADA030798.pdf (cited) d
+
+Software reliability study
+
+Biometrika_80_P193.pdf
+
+Stopping rules and estimation for recapture debugging with unequal failure rates
+
+19790007503.pdf (paper, not used) d
+
+The Determination of Measures of Software Reliability
+
+10.1.1.134.4466.pdf
+
+A Review of Software Inspections
+
+10.1.1.544.5899.pdf (paper, extracted, partial) d
+
+A Mathematical Model of the Finding of Usability Problems
+
+chris-kemerer.pdf (paper, emailed, not available, not used) d
+
+Technical Debt and the Reliability of Enterprise Software Systems: A Competing Risks Analysis
+
+a206293.pdf (paper+file, cited) d
+
+AN EXPERIMENTAL INVESTIGATION INTO SOFTWARE RELIABILITY
+
+ibmsj2203I.pdf (paper, not used) d
+
+Software reliability analysis
+
+musa1975.pdf
+
+A theory of software reliability and its application
+
+nsrec03_w16.pdf (done) d
+
+In-Flight Observations of Long-Term Single- Event Effect (SEE) Performance on Orbview-2 Solid State Recorders (SSR)
+
+SWRel_NASA_QRS16.pdf (extract, emailed) d
+
+Software Reliability Analysis of NASA Space Flight Software: A Practical Experience
+
+nuclear-software.pdf
+
+Licensing of safety critical software for nuclear reactors
+
+2014-04-13.pdf (paper, done) d
+
+Measuring commercial software operational reliability: an interdisciplinary modelling approach
+
+Thomas-LifetimeOfAndroidAPIVulns.pdf (plus ThomasPhD..., not used) d
+
+The Lifetime of Android API vulnerabilities: case study on the JavaScript-to-Java interface
+
+a113590.pdf (paper, not used) d
+
+A Compatible Hardware/Software Reliability Prediction Model
+
+a123421.pdf (paper, not used) d
+
+Software reliability modelling and estimation techniques
+
+a138196.pdf (paper, not used) d
+
+Reliability model demonstration :study
+
+a190018.pdf (paper, not used) d
+
+Methodology for software reliability prediction
+
+assertions.pdf assertions-old.pdf (paper, not used) d
+
+The use of self checks and voting in software error detection: an empirical study
+
+JESP-process-consistency.pdf (emailed, confidential) d
+
+The impact of software process consistency on residual defects
+
+jiang_emse16.pdf (not used) d
+
+Do Programmers do Change Impact Analysis?
+
+jsme14faultlocal.pdf (paper+emailed, cited) d
+
+Extended Comprehensive Study of Association Measures for Fault Localization
+
+00001317_77308.pdf (paper, emailed, not used) d
+
+Generative Inspection: An Intelligent Model to Detect and Remove Software Defects
+
+Disasters.pdf (cited) d
+
+NEWS DROUGHTS, NEWS FLOODS, AND U.S. DISASTER RELIEF
+
+RADC-TR-77-188_JUN1977.pdf (paper, cited) d
+
+SOFTWARE SYSTEMS RELIABILITY: A RAYTHEON PROJECT HISTORY
+
+Tschacher_BSc.pdf (paper, cited) d
+
+Typosquatting in Programming Language Package Managers
+
+book2.pdf
+
+A New Approach To System Safety Engineering
+
+ucm085371.pdf
+
+General Principles of Software Validation; Final Guidance for Industry and FDA Staff
+
+log-pois-time-model.pdf
+
+A Logarithmic Poisson Execution Time Model for Software Reliability Measurement
+
+2013-07-BlackHat-Vuln_Stats.pptx
+
+Buying into the bias: Why vulnerability statistics suck
+
+papersqj.pdf (not used) d
+
+A Large-scale Study of Call Graph-based Impact Prediction using Mutation Testing
+
+Vulnerability Rediscovery.pdf (cited) d
+
+Taking Stock Estimating Vulnerability Rediscovery
+
+NASA_19870020663.pdf (paper, done) d
+
+Development of {N}-Version Software Samples for an Experiment in Software Fault Tolerance
+
+NASA_19900002144.pdf (paper, done) d
+
+Experiments in Fault Tolerant Software Reliability
+
+NASA_19900016268.pdf (paper, not used) d
+
+Multiversion Software Reliability Through Fault-Avoidance and Fault-Tolerance
+
+ThomasPhD.pdf (done) d
+
+Security metrics for computer systems
+
+naragaraja.pdf (emailed?, faded away) d
+
+Understanding and Dealing with Operator Mistakes in Internet Services
+
+mcallister1991.pdf
+
+Cost modelling of fault-tolerant software
+
+TR-85.7.pdf (paper, not used) d
+
+Why Do Computers Stop and What Can Be Done About It?
+
+icst17.pdf (not used) d
+
+The Theory of Composite Faults
+
+0c401538756ff7bad.pdf (paper extract, not used) d
+
+A Statistical Failure/Load Relationship: Results of a Multicomputer Study
+
+10.1.1.51.5186.pdf
+
+Repeatable Software Engineering Experiments for Comparing Defect-Detection Techniques
+
+1709.08852.pdf (not used) d
+
+Is It Safe to Uplift This Patch?  An Empirical Study on Mozilla Firefox
+
+33.pdf
+
+Reliability-Estimation & Stopping-Rules for Software Testing, Based on Repeated Appearances of Bugs
+
+ross1985.pdf
+
+Software Reliability: The Stopping Rule Problem
+
+blumenthal1975.pdf
+
+Estimating Population Size with Exponential Failure
+
+B43-CSG_76.pdf (paper, not used) d
+
+PERFORMABILITY MODELING BASED ON REAL DATA: A CASE STUDY
+
+10.1109@ftcsh.1995.pdf (paper, not used) d
+
+A STATISTICAL LOAD DEPENDENCY MODEL FOR CPU ERRORS AT SLAC
+
+iyer1985.pdf (emailed) d
+
+Effect of System Workload on Operating System Reliability: A Study on IBM 3081
+
+iyer1986.pdf (emailed) d
+
+A Measurement-Based Model for Workload Dependence of CPU Errors
+
+lee1993.pdf (paper, not used) d
+
+Measurement-Based Evaluation of Operating System Fault Tolerance
+
+75_pdf_appendix.pdf
+
+ASSESSING SOFTWARE RELIABILITY BY UNREVEALED PROPORTION ESTIMATION IN STRATIFIED SAMPLING
+
+19850023539.pdf
+
+Exponential Order Statistic Models of Software Reliability Growth
+
+NASA_19860015674.pdf
+
+An Empirical study of flight control software reliability
+
+NASA_19870017986.pdf (paper, not used) d
+
+SECOND GENERATION EXPERIMENTS IN FAULT TOLERANT SOFTWARE
+
+OringJASA_1989.pdf (paper, not used) d
+
+Risk Analysis of the Space Shuttle: Pre-Challenger Prediction of Failure
+
+IterativeCodeReviews.pdf (paper, not used) d
+
+Estimating the Number of Faults Remaining in Software Code Documents Inspected with Iterative Code Reviews
+
+eick1992.pdf (paper, not used) d
+
+Estimating Software Fault Content Before Coding
+
+ERTS2010_final.pdf
+
+Tokeneer: Beyond Formal Program Verification
+
+CSL-TR-81-214.pdf (paper, cited) d
+
+An Exponential Failure/Load Relationship: Results of a Multi-Computer Statistical Study
+
+TUM-I0520.pdf
+
+A Software Reliability Model Based on a Geometric Sequence of Failure Rates
+
+10.1.1.1016.6603.pdf
+
+Program verification: the very idea
+
+1703.06337.pdf (partial) d
+
+Rediscovery Datasets: Connecting Duplicate Reports
+
+e82c2e2c7eb77af5.pdf
+
+Cost-reliability-optimal release policy for software reliability models incorporating improvements in testing efficiency
+
+triantafyllos1996.pdf
+
+Software Reliability Models for Computer Implementations - An Empirical Study
+
+06aeb2e7c003ad1b76.pdf
+
+Reliability analysis for complex, repairable systems
+
+duane1964.pdf (paper, extracted, not used) d
+
+Learning curve approach to reliability monitoring
+
+ucm073779.pdf
+
+Off-The-Shelf Software Use in Medical Devices
+
+ucm089593.pdf
+
+Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices
+
+BF03196990.pdf (paper, not used) d
+
+The effects of perceptual condition on proofreading for misspellings
+
+OSS2016.pdf (paper, done) d
+
+The Impact of a Low Level of Agreement among Reviewers in a Code Review Process
+
+nguyen-mass-13-asiaccs.pdf
+
+The (Un)Reliability of NVD Vulnerable Versions Data: an Empirical Experiment on Google Chrome Vulnerabilities
+
+LimitsReproducibilityNumerSim.pdf
+
+The Limits of Reproducibility in Numerical Simulation
+
+API_quality_PREREL.pdf (cited) d
+
+Benchmarking Web API Quality
+
+EstFaultRemainingAfterTest.pdf (emailed) d
+
+Estimating Fault Numbers Remaining After Testing
+
+MacKenzie-Comp-related-acc-death.pdf
+
+Computer-related accidental death: an empirical exploration
+
+917180.pdf (paper, not used) d
+
+FAILURE MODES IN MEDICAL DEVICE SOFTWARE: AN ANALYSIS OF 15 YEARS OF RECALL DATA
+
+gannon1975.pdf (paper, not used) d
+
+Language Design for Programming Reliability
+
+10.13182_nse79.pdf
+
+Statistical Evaluation of Major Human Errors During the Development of New Technological Systems
+
+langberg1985.pdf
+
+A UNIFICATION OF SOME SOFTWARE RELIABILITY MODELS
+
+forman1977.pdf
+
+An Empirical Stopping Rule for Debugging and Testing Computer Software
+
+a244184.pdf (paper, not used) d
+
+A STANDARDIZED SOFTWARE RELIABILITY MEASUREMENT
+
+19800013514.pdf (paper, not used) d
+
+Reliability Measurement For Operational Avionics Software
+
+19820004206.pdf
+
+Reliability Analysis of the F-8 Digital Fly-by-Wire System
+
+13.pdf
+
+A Modified Monte Carlo Technique for Confidence Limits of System Reliability Using Pass-Fail Data
+
+Vuln-Discovery-Ecosystems.pdf (emailed, received, partial) d
+
+An Empirical Study of Web Vulnerability Discovery Ecosystems
+
+littlewood1981.pdf
+
+Stochastic Reliability-Growth: A Model for Fault-Removal in Computer-Programs and Hardware-Designs
+
+littlewood1973.pdf
+
+A Bayesian Reliability Growth Model for Computer Software
+
+kouwe-thesis.pdf (emailed) d
+
+Improving Software Fault Injection
+
+issre2003.pdf (paper+file, not used) d
+
+An Empirical Study on Testing and Fault Tolerance for Software Reliability Engineering
+
+issre05_xcai.pdf (paper, not used) d
+
+An Experimental Evaluation on Reliability Features of N-Version Programming
+
+eickt1992.pdf (paper, done) d
+
+Estimating Software Fault Content Before Coding
+
+EECS-2017-217.pdf
+
+Large-Scale Analysis of Modern Code Review Practices and Software Security in Open Source Software
+
+ee77cf8051c4a24af0221.pdf (paper, not used) d
+
+An empirical evaluation of six methods to detect faults in software
+
+zhou2014peril.pdf
+
+The Peril of Fragmentation: Security Hazards in Android Device Driver Customizations
+
+kanoun1991.pdf (paper, not used) d
+
+A Method for Software Reliability Analysis and Prediction Application to the TROPICO-R Switching System
+
+peerj-preprints-2601.pdf (emailed) d
+
+Anatomy of a Crash Repository
+
+peerj-preprints-1705.pdf
+
+The Unreasonable Effectiveness of Traditional Information Retrieval in Crash Report Deduplication
+
+FuzzIEEE_FuzzyArithmetic_2017.pdf (emailed, gone away) d
+
+How Arithmically Fuzzy Are We?  An Empirical Comparison of Human Imprecise Calculation and Fuzzy Arithmetic
+
+njit-etd2006-043.pdf (paper, not used) d
+
+Quantifying software architecture attributes
+
+sibly1977.pdf (paper, not used) d
+
+Structural accidents and their causes
+
+UCAM-CL-TR-471.pdf
+
+Murphy’s law, the fitness of evolving species, and the limits of software reliability
+
+paper-npm.pdf (done) d
+
+On the impact of security vulnerabilities in the npm package dependency network
+
+MT-HT_ComputerBugs.pdf
+
+COMPUTER BUGS IN HOSPITALS: A NEW KILLER
+
+gerhart1976.pdf
+
+Observations of Fallibility in Applications of Modern Programming Methodologies
+
+Task_Force_Report.pdf
+
+Report of JPMorgan Chase & Co. Management Task Force Regarding 2012 CIO Losses
+
+34-70694.pdf
+
+In the Matter of Knight Capital Americas LLC Respondent.
+
+Main_5.pdf (not used) d
+
+Empirical Investigation of Fault Triggers in Open-Source Software
+
+10.1109@ftcs.1988.pdf (paper, not used) d
+
+Experimental evaluation of software reliability growth models
+
+tohma1989.pdf (paper, not used) d
+
+Structural Approach to the Estimation of the Number of Residual Software Faults Based on the Hyper-Geometric Distribution
+
+schmettow2013.pdf (file+email, not used) d
+
+With how many users should you test a medical infusion pump?  Sampling strategies for usability tests on high-risk systems
+
+7869-effect-arithmetic-prec.pdf
+
+The effect of arithmetic precision on some meteorological integrations
+
+50830335.pdf (paper, not used) d
+
+Understanding software through empirical reliability analysis
+
+ML003775310.pdf
+
+Software Engineering Measures for Predicting Software Reliability in Safety Critical Digital Systems
+
+kaniche1994.pdf (paper, not used) d
+
+Software Reliability Analysis of Three Successive Generations of a Switching System
+
+rosinski1997.pdf
+
+THE ACCUMULATION OF ROUNDING ERRORS AND PORT VALIDATION FOR GLOBAL ATMOSPHERIC MODELS∗
+
+24b1e556ab605a17a1b.pdf (paper, done) d
+
+Evaluation of Procedures for Adjusting Problem-Discovery Rates Estimated From Small Samples
+
+a035585.pdf (paper, not used) d
+
+QUANTitative mETHODS FOR Software rELIABILITY MEASUREMENTs
+
+gmd-11-697-2018.pdf
+
+Nine time steps: ultra-fast statistical consistency testing of the Community Earth System Model (pyCECT v3.0)
+
+gmd-9-2391-2016.pdf
+
+Evaluating statistical consistency in the ocean model component of the Community Earth System Model (pyCECT v2.0)
+
+gmd-8-2829-2015.pdf
+
+A new ensemble-based consistency test for the Community Earth System Model (pyCECT v1.0)
+
+htb+16exploits.pdf (not used) d
+
+An In-Depth Study of More Than Ten Years of Java Exploitation
+
+Equifax-Report.pdf
+
+The Equifax Data Breach Majority Staff Report 115th Congress
+
+Lessons-Weller_IEEESW_93.pdf (paper, extract, not used) d
+
+Lessons from Three Years of Inspection Data
+
+isse18.pdf (not used) d
+
+Maximal Software Execution Time: A Regression-based Approach
+
+ITRC_2018-End-of-Year.pdf (paper, not used) d
+
+2018 END-OF-YEAR DATA BREACH REPORT
+
+ITRCBreachReport2017i.pdf (paper, not used) d
+
+2017 Breach list
+
+ITRCBreachStatsReport2017c.pdf (paper, not used) d
+
+Identity Theft Resource Center 2017 Data Breach Stats
+
+1712.10230.pdf (cited) d
+
+On quality of implementation of Fortran 2008 complex intrinsic functions on branch cuts
+
+PLDI_Fuzzing.pdf (cited) d
+
+Many-Core Compiler Fuzzing
+
+ElicitingProbsfromExperts.pdf
+
+Eliciting probabilities from experts in complex technical problems
+
+atc19-xu_0.pdf
+
+Lessons and Actions: What We Learned from 10K SSD-Related Storage System Failures
+
+Thesis-Vesel.pdf
+
+LANGUAGE BIAS IN ACCIDENT INVESTIGATION
+
+HCSEC_OversightBoardReport-2019.pdf
+
+HUAWEI CYBER SECURITY EVALUATION CENTRE (HCSEC) OVERSIGHT BOARD ANNUAL REPORT 2019
+
+161-amit.pdf
+
+Virtual CPU Validation
+
+Severe_Accident_Risks.pdf
+
+An Assessment for Severe Accident Risks: An Assessment for Five U.S. Nuclear Power Plants
+
+jss04-1.pdf
+
+Capture-recapture in Software Inspections after 10 Years Research – Theory, Evaluation and Application
+
+chase2018-rev.pdf (not used) d
+
+Code review for newcomers:is it different?
+
+cdeae4e2782881a52e.pdf
+
+Perspectives on Human Error: Hindsight Biases and Local Rationality
+
+lang_github.pdf
+
+A Large Scale Study of Programming Languages and Code Quality in Github
+
+1911.07393.pdf
+
+Rebuttal to Berger et al., TOPLAS 2019
+
+rebuttal-rebuttal.pdf
+
+FSE/CACM Rebuttal Correcting A Large-Scale Study of Programming Languages and Code Quality in GitHub
+
+1912.03490.pdf (not used) d
+
+Dependability Assessment of the Android OS through Fault Injection
+
+contracts_care.pdf
+
+Smart Contract Vulnerabilities: Does Anyone Care?
+
+1802.06038.pdf
+
+Finding The Greedy, Prodigal, and Suicidal Contracts at Scale
+
+2002.09989.pdf (done) d
+
+Deriving a Usage-Independent Software Quality Metric
+
+weimer-gpem2013-robust.pdf (paper, not used) d
+
+Software mutational robustness
+
+eurosys2017-dsbugs.pdf
+
+An Empirical Study on the Correctness of Formally Verified Distributed Systems
+
+weideman_static_2017.pdf
+
+Static Analysis of Regular Expressions
+
+SEDStaffALARPwhitepaper.pdf
+
+As Low As Reasonably Practicable (ALARP) Risk-informed Decision Framework Applied to Public Utility Safety
+
+SoFarAsIsReasonablyPracticablev12.pdf
+
+A REVIEW OF, AND COMMENTARY ON, THE LEGAL REQUIREMENT TO EXERCISE A DUTY ‘SO FAR AS IS REASONABLY PRACTICABLE’ with specific regard to designers in the construction industry.
+
+Hyungmin_PhD.pdf
+
+SYSTEM-LEVEL EFFECTS OF SOFT ERRORS
+
+86d9582bd05eb4613.pdf
+
+The Tragedy of Defect Prediction, Prince of Empirical Software Engineering Research
+
+2004.05934.pdf
+
+Detecting Critical BugsUsing Blackbox Mutationalin SMT Solvers Fuzzing
+
+CelikETAL19mCoq.pdf (paper, cited) d
+
+Mutation Analysis for Coq
+
+CELIK-DISSERTATION-2019.pdf
+
+Proof Engineering for Large-Scale Verification Projects
+
+ICL-Tech84-Mellor.pdf (paper, not used) d
+
+Analysis of software failure data (1): adaptation of the Littlewood stochastic reliability growth model for coarse data
+
+chun2006.pdf
+
+Estimating the number of undetected software errors via the correlated capture–recapture model
+
+Intel overstates FPU accuracy.html (done) d
+
+Intel overstates FPU accuracy
+
+Slovic_089.pdf (paper, cited) d
+
+Judged Frequency of Lethal Events
+
+STPA_Handbook.pdf
+
+STPA handbook
+
+AUTOSAR_RS_CPP14Guidelines.pdf
+
+Guidelines for the use of the C++14 language in critical and safety-related systems
+
+KrutauzReviewDefectsDraft.pdf (not used) d
+
+The Impact of Code Review Measures on Post-Release Defects Replications and Bayesian Networks
+
+Managing_Quality_Fads-book.pdf
+
+MANAGING QUALITY FADS How American Business Learned to Play the Quality Game
+
+2020-data-breach-invest.pdf
+
+DBIR Data Breach Investigations Report
+
+Ambiguity_Natural_Lang_Req.pdf
+
+Ambiguity in Natural Language Software Requirements: A Case Study
+
+ebrahimi1997.pdf (paper, not used) d
+
+On the Statistical Analysis of the Number of Errors Remaining in a Software Design Document after Inspection
+
+10191350.pdf (not used) d
+
+Architectural Security Weaknesses in Industrial Control Systems (ICS) An Empirical Study based on Disclosed Software Vulnerabilities
+

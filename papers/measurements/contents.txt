@@ -1,0 +1,726 @@
+DATAST~1.PDF
+
+Data structure analysis: an efficient context-sensitive heap analysis
+
+BLOCK-~1.PDF
+
+Exploiting basic block value locality with block reuse
+
+YIXX_J~1.PDF
+
+Improving Processor Performance by Simplifying and Bypassing Trivial Computations
+
+TALLA0~1.PDF
+
+Execution characteristics of multimedia applications on a Pentium II processor
+
+RUNTIM~1.PDF
+
+Runtime predictability of loops
+
+SHERWO~1.PDF (paper, not used) d
+
+Loop termination prediction
+
+ISPASS.PDF
+
+Characterization and evaluation of hardware loop unrolling
+
+KRINTZ~1.PDF (paper, not used) d
+
+Predicting program power consumption
+
+SLAUGH~1.PDF
+
+Software development practices, software complexity, and software maintenance performance: a field study
+
+MONDEN~1.PDF
+
+Software quality analysis by code clones in industry legacy software
+
+SEIDL9~1.PDF
+SPE.PS
+
+Segregating heap objects by reference behavior and lifetime
+
+DETLEF~1.PDF (paper, not used) d
+
+Memory allocation costs in large C and C++ programs
+
+10.1.1.94.7296.pdf
+
+The optimal class size for object-oriented software
+
+OOSIZE.PDF
+
+The optimal class size for object oriented software: a replicated study
+
+GI.PS.gz
+
+Practical comparison of call string and functional approach in data flow analysis
+
+P388-P~1.PDF
+
+A static analysis of I/O characteristics of scientific applications in a production workload
+
+IEEETO~1.PDF
+
+Silent stores and store value locality
+
+PACT2K~1.PDF
+
+Characterization of silent stores
+
+DISKAC~1.PDF (paper, not used) d
+
+UNIX disk access patterns
+
+BONK92~1.PDF
+
+Performance analysis and optimization of numerically intensive programs
+
+S1026.PDF (paper, not used) d
+
+Error density and size in Ada software
+
+VALUE-~1.PDF
+
+Value-based clock gating and operation packing: dynamic strategies for improving processor power and performance
+
+SCP2001.PDF
+
+An empirical study into COBOL type inferencing
+
+PROFIL~1.PDF
+
+On the Stability of Temporal Data Reference Profiles
+
+EMPIRI~3.PDF (paper, not used) d
+
+Empirical study of opportunities for bit-level specialization of word-based programs
+
+STEFAN~1.PDF (paper, not used) d
+
+On availability of bit narrow operations in general purpose applications
+
+PASQUA~1.PS.gz
+
+Dynamic I/O characterization of I/O intensive scientific applications
+
+BELLCODE.PDF
+WEIDER01.PDF
+
+Software root cause analysis from 600 faults in 5ESS switch.
+
+SW94.PDF
+
+Understanding software development processes, organizations, and technologies
+
+IFIPS.PS.gz (paper, not used) d
+
+Program Comprehension and Enhancement of Software
+
+ICSE.PS.gz
+
+Comprehension processes during large scale maintenance
+
+MAYRHAUSER93.PS.gz
+MAYRHAUSER93a.PS.gz
+
+From code understanding needs to reverse engineering tool capabilities
+
+MAYRHAUSER4.PS.gz
+
+On the role of hypotheses during opportunistic understanding while porting large scale code
+ 
+5-91.PDF (paper, not used) d
+
+Survey of errors found, ranked 1-4, in C programs.  based on interviews
+with 40 C users (academic + one commerical organisation).  Durham University
+
+CDG-SIZE.PDF
+
+Empirical studies of control dependency graph size for C.
+
+NUMERQ~1.PS (paper, not used) d
+
+Is the quality of numerical subroutine code improving?  Based on Fortran programs published by ACM
+
+MOZILL~1.HTM
+
+Measurements of Mozilla 5 sources using Datix tool
+
+EXPWIT~1.PDF
+
+Experiments with coupling and cohesion metrics in a large system
+
+IMPACT~1.PDF
+
+An empirical study of function pointers using SPEC benchmarks
+
+LCSR-T~1.Z
+
+Function pointers in C - an empirical study
+
+MORISIO.PDF
+
+Framework based software development: Learning as an investment factor
+how a programmers productivity improves with experience, empirical results
+
+SWEENE~1.GZ (paper, not used) d
+
+A study of dead data members in C++ applications
+
+ENGBLO~1.PDF (paper, not used) d
+ENGBLO~5.PDF (earlier SIGPLAN version of the above?)
+
+Why SpecInt95 Should Not Be Used to Benchmark Embedded Systems Tools
+lots of interesting numbers
+
+ENGBLO~2.PDF (paper, not used) d
+
+Static Properties of Commercial Embedded Real-Time Programs, and Their Implications for Worst-Case Execution Time Analysis
+
+MARE-R~1.PDF (paper, not used) d
+
+Static Properties of Commercial Real-Time and Embedded Systems
+
+SELBY8~1.PDF
+
+Analysing Error-Prone System Structure
+
+TR990717.PS.gz (paper, not used) d
+
+Execution characteristics of just in time compilers
+
+WHALLE~2.PS (paper, not used) d
+
+Relating Static and Dynamic Machine Code Measurements
+
+ASPLOS~1 (paper, not used) d
+
+An empirical analysis of instruction repetition
+
+DBMSS-~1.PDF
+
+DBMSs on a modern processor: where does time go?
+
+ISERN-~7.PDF
+
+Communication and organization in software development: an empirical study
+
+KEMERE~1.PDF
+
+Determinants of software maintenance profiles: an empirical investigation
+
+SOFTWA~2.PDF
+
+Software engineering program software measurement guidebook
+NASA GB-001-94
+
+LEE98E~1.PDF (paper, not used) d
+
+Execution characteristics of desktop applications on windows NT
+
+WOO95S~1.PDF (paper, not used) d
+
+The SPLASH-2 programs: characterization and methodological considerations
+
+PERRYI~2.PDF
+
+Parallel changes in large scale software development: an observational case study
+
+BROOKS~1.PDF
+
+Dynamically exploiting narrow width operands to improve processor power and performance
+
+MAYDAN~1.PS.gz
+
+Effectiveness of data dependence analysis
+
+MEMORY~1.PDF (paper, not used) d
+
+Memory system characterization of commercial workloads
+
+EMPIRI~1.PDF
+EMPIRI~1.GZ (earlier version of above)
+MACRO~1.PDF final version
+
+Empirical analysis of C preprocessor usage
+
+FENTON~1.PDF 10.1.1.48.503.pdf (paper, not used) d
+
+Quantitive Analysis of faults and Failures in a Complex software system
+
+LOOPNEST.PS.gz (paper, not used) d
+
+Quantifying loop nest locality using SPEC'95
+
+F77EMP~1.PS.gz
+
+Empirical study of Fortran programs for parallelizing compilers
+
+DUPUY.PDF
+
+Empirical evaluation of the MC/DC Covererage criterion in the HETE-2 satellites oftware
+
+ICSE_C~1.PS.gz
+p158-murphy.PDF (later and longer version)
+
+Empirical study of static call graph extractors
+
+ASPLOS00.PS (paper, not used) d
+
+Frequent value locality and value-centric data cache design
+
+10.1.1.21.7186.pdf (paper+file, not used) d
+
+A comparative study of static and profile-based heuristics for inlining
+
+CALDER~2.PDF (paper, cited) d
+
+Quantifying Behavioral Differences Between C and C++ Programs
+
+DESHPA~1.PDF (paper, not used) d
+
+A study and analysis of function inlining
+
+TZKORN~1.PDF
+
+An Approach to Program Understanding by Natural Language Understanding
+
+pragmatics2.doc
+
+The language of comments in computer software: a sublanguage of English
+
+WCRE95.PDF
+
+Analyzing empirical data from a reverse engineering project
+
+P274-E~1.PDF (paper, not used) d
+
+A characterization of processor performance in the VAX 11/780
+
+98-WOW~1.GZ
+
+Performance and memory-access characteristics of data mining applications
+
+FREDER~1.PDF
+
+Using defect tracking and analysis to improve software quality
+
+ICSM01A.PDF
+
+Comparing the decompositions produced by software clustering algorithms using similarity measurements
+
+TEXP_I~1.GZ
+
+The T-experiments: errors in scientific software
+
+S2P2.PDF
+
+How Input Data Sets Change Program Behavior
+
+CAMERA~1.GZ (paper, not used) d
+
+Accelerating Multi-Media processing by Implementing Memoing in Multiplication and Division Units
+
+MULTMP~1.PS (paper, not used) d
+
+Measuring the performance of multimedia instruction sets
+
+SMLI_T~1.PDF (paper, not used) d
+
+Caching function results: faster arithmetic by avoiding unnecessary computation
+
+ODCintro.htm
+ODCATT~1.HTM
+
+The defect type attribute
+
+ODCTRI~1.HTM
+
+The defect trigger attribute
+
+DBIOTPC.PDF
+
+I/O Reference Behavior of Production Database Workloads and the TPC Benchmarks - An Analysis at the Logical Level
+
+MAR97A~1.PDF
+
+Data transport reduction in move processors
+
+REGISTER.PS.gz
+
+An evaluation of the potential benefits of register allocation for array references
+
+TR-200~1.PDF
+
+Dynamic points-to sets: A comparison with static analysis and potential applications in program understanding and optimization
+
+ISSTA00.PS.gz (paper, not used) d
+
+Which pointer analysis should I use?
+
+oss-src.htm
+
+Deliverable D18: FINAL REPORT Part V: Software Source Code Survey
+
+5-91.PDF
+
+An exploratory study of common coding faults in C programs
+
+ALR-20~1.PDF
+
+Two case studies of open source software development: Apache and Mozilla
+
+BCGHAC~1.PDF
+
+The Boston Consulting Group hacker Survey
+
+FLOSS_~2.PDF (paper, not used) d
+
+Free/Libre and open source software survey and study, part V: software source code survey
+
+91-554~1.PDF
+
+Processor pipelines and static worst-case execution time analysis
+
+SRC-HDR.PDF
+
+An investigation into the connectivity properties of source-header dependency graphs
+
+FVTECS.PS.gz (emailed) d
+
+Frequent value locality and its applications
+
+GABBAY~1.PDF
+
+Can program profiling support value prediction?
+
+LIPAST~1.PDF
+
+Value locality and load value prediction
+
+BURTSC~1.PDF
+
+Improving Context-Based Load Value Prediction
+
+NAKRAT.PS.gz
+
+A framework for performing prediction in VLIW architectures
+
+GABBAY~1.GZ
+
+Speculative Execution based on Value Prediction
+
+SAZEID~1.PDF (paper, not used) d
+
+The predictability of data values
+
+LCPC2002.PDF
+
+Compiler optimizations using data compression to decrease address reference entropy
+
+P466-L~1.PDF
+
+Characteristics of application software maintenance
+
+029-FR~1.PDF
+
+An empirical evaluation of high level transformations for embedded processors
+
+RELIABLE.PS.gz
+
+Reliable research: Towards experimental standards for computer science
+
+P643-C~1.PDF
+
+Computer instruction set usage by programmers: An empirical investigation
+
+CHOI_Y.PDF
+
+The impact of if-conversion and branch prediction on program execution on the Intel Itanium processor
+
+P78-CL~1.PDF
+
+An empirical study of list structure in Lisp
+
+P224-M~1.PDF
+
+Methods for improving controlled experimentation in software engineering
+
+CASES2~1.PDF
+
+The performance and energy consumption of embedded real-time operating systems
+
+FRANKL~1.PDF (paper, not used) d
+
+Register Traffic Analysis for Streamlining Inter-Operation Communication in Fine-Grain Parallel Processors
+
+SKADRO~1.PDF (paper, not used) d
+
+Improving Prediction for Procedure Returns with Return-Address-Stack Repair Mechanisms
+
+WHERE-~1.PDF (paper+file, cited) d
+
+Where does GOTO go to?
+
+BHARGA~1.PDF (paper, not used) d
+
+Understanding the impact of X86/NT computing on microarchitecture
+
+P145-M~1.PDF (paper, not used) d
+
+Contrasting Characteristics and Cache Performance of Technical and Multi-User Commercial Workloads
+
+SPE032KC.PDF (paper, not used) d
+
+An experiment with inline substitution
+
+as-formatted-by-ieee.pdf
+
+Analysis and visualization of predicate dependence on formal parameters and global variables (published version of above paper)
+
+CODD.HTM
+
+CODD tool for analyzing statistical measures of "developer involvement" in free software projects
+
+INFORM~1.PDF (paper, not used) d
+
+Information theory metric for assembly language
+
+02-IRE.PDF
+
+Bigram analysis of java bytecode sequences
+
+WALDRO~1.PDF (paper, not used) d
+
+Comparison of bytecode and stack frame usage by Eiffel and Java programs in the Java virtual machine
+
+DAGSTUL.PS (paper, not used) d
+
+The common case in forth programs
+
+MMACTE~1.PS
+
+Relating static and dynamic measurements for the java virtual machine instruction set
+
+ARE-MA~1.PDF
+
+Are Mallocs Free of Fragmentation?
+
+LARSON~1.PDF
+
+Memory Allocation for Long-Running Server Applications
+
+S2-1-R~1.PDF
+
+Performance Advantage of the Register Stack in Intel Itanium Processors
+
+LUYIN.PDF
+
+Quality assurance under the open source development model
+
+ADAUSAGE.HTM
+
+Language usage finindings (DOD language survey)
+
+MCMAHA~1.PDF (paper, not used) d
+
+Pathlengths of SPEC Benchmarks for PA-RISC, MIPS, and SPARC
+
+DINESH.PDF
+
+Loop Level Analysis of Security and Network Applications
+
+BINKLE~1.PDF
+
+Results from a large-scale study of performance optimization techniques for source code analyses based on graph reachability algorithms
+
+IDIOM.PDF
+
+Characterization of Repeating Dynamic Code Fragments
+
+CHENTH~1.GZ
+
+The Impact of Software Structure and Policy on CPU and Memory System Performance
+		 
+CHEN93~1.PDF (paper, not used) d
+
+The Impact of Operating System Structure on Memory System Performance
+
+CITI-T~1.PDF
+
+malloc() {Performance} in a Multithreaded Linux Environment
+
+AIC.PS.gz
+
+A survey of empirical results on program slicing
+
+SHERWO~2.PDF (paper, not used) d
+
+Time Varying Behavior of Programs
+
+PACT-0~1.PDF (paper, not used) d
+
+Basic block distribution analysis to find periodic behavior and simulation points in applications
+
+STOCKS~1.PDF (paper, not used) d
+
+Comparing flow and context sensitivity on the modification-side-effect problem
+
+P55-OS~1.PDF
+
+The distribution of faults in a large industrial software system
+
+COMPUT~1.PDF
+
+Experimental models for validating computer technology
+
+SHERWO~3.PDF
+
+Automatically characterizing large scale program behavior
+
+AS-SUB~1.PDF
+
+An analysis of slice size distributions
+
+TR04-11.pdf (paper, not used) d
+
+An empirical study of Java bytecode programs
+
+ICSE03.PS.gz
+
+An empirical study of predicate dependence levels and trends
+
+IT.PS.gz
+
+An empirical study of forward and backward program dependence trends and distributions
+
+hirzelms.pdf
+
+Effectiveness of garbage collection and explicit deallocation
+
+toplas02-gc-accuracy.pdf
+
+On the usefulness of type and liveness accuracy for garbage collection and leak detection
+
+debian-grex-jgb.pdf
+
+Toy story: an analysis of the evolution of Debian GNU/Linux
+
+ssfmbpfg1.pdf
+
+Validation of software in measurement systems
+
+ilcspec.ps.gz (paper, not used) d
+
+On the instruction level characteristics of the SPECfp92 programs on a vector computer
+
+LCTES03.PDF
+
+Profiling tools for hardware/software partitioning of embedded applications
+
+icsm05-cluster.ps
+
+Locating dependency clusters and dependence pollution
+
+casazza01identifying.pdf
+
+Identifying clones in the Linux kernel
+
+grove95profileguided.pdf
+
+Profile-guided receiver class prediction
+
+clones_fase06.pdf
+
+Relation of code clones and change couplings
+
+estcomptime.pdf
+
+Toward a progress indicator for program compilation
+
+fluri-commentchanges.pdf
+
+Do Code and Comments Co-Evolve? On the Relation Between Source Code and Comment Changes
+
+splitting_ICSE2008.pdf
+
+Automated semantics preserving splitting of procedures
+
+ghiya96is.pdf (paper, not used) d
+
+Is it a tree, a DAG, or a cyclic graph? A shape analysis for heap-directed pointers in C
+
+development-practices.pdf
+
+Software development practices, software complexity, and software maintenance performance: A field study
+
+------------------------ version 1.1 ---------------------------
+
+kolte95elimination.pdf (paper, not used) d
+
+Elimination of Redundant Array Subscript Range Checks
+
+tosem-slice-size.ps.gz (paper, not used) d
+
+An empirical study of static program slice size
+
+icse-2009-nier-for-web.pdf
+
+The comment density of open source softweare code
+
+10.1.1.132.4212.pdf
+
+A field study of the software design process in large systems
+
+EECS-2005-18.pdf (emailed) d
+
+What motivates programmers to comment?
+
+ICSM2008Malik.pdf (not yet emailed, faded away) d
+
+Understanding the Rationale for Updating a Function's Comment
+
+cComment_icse09.pdf (paper+email for more) d
+
+Listening to Programmers -- Taxonomies and Characteristics of Comments in Operating System Code
+
+HPL-1999-35R1.pdf (not downloaded, not used) d
+
+Workload characteristics of the 1998 world cup web site
+
+QWE10_Funahashi.pdf
+
+Reliability verification of search engines' hit counts
+
+distributed.pdf
+
+Does distributed development affect software quality? An empirical case study of Windows Vista
+
+10.1.1.145.333.pdf
+
+The total growth of open source
+
+PROMISE2008_v16.pdf
+
+Data sets and data quality in software engineering
+
+Wiggins2009-heartbeat.pdf
+
+Heartbeat: Measuring active user base and potential user interest in FLOSS projects
+
+NASA-dataset-quality.pdf (not used) d
+
+Data quality: Some comments on the NASA software defect data sets
+
+saner2015_clone.pdf (not used) d
+
+Threshold-Free Code Clone Detection for a Large-Scale Heterogeneous Java Repository
+
+10.1.1.2.3301.pdf (paper, not used) d
+
+Exploiting Basic Block Value Locality with Block Reuse
+

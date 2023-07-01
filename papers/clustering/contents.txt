@@ -1,0 +1,104 @@
+10.1.1.6.1737.pdf
+
+The structure and function of complex networks
+
+0106096v2.pdf
+
+Statistical mechanics of complex networks
+
+correlation04.pdf
+
+Correlation exploitation in error ranking
+
+2002_17.PDF (paper, not used) d
+
+What's the code?  Automatic classification of source code archives
+
+Clarke_BKK.pdf
+
+Analyzing clusters of class characteristics in OO applications
+
+10.1.1.113.9299.pdf
+
+An approach to mining call-usage patterns with syntactic context
+
+10.1.1.140.346.pdf
+
+A heuristic search approach to solving the software clustering problem
+
+10.1.1.28.8344.pdf
+
+Comparing the decompositions produced by software clustering algorithms using similarity measurement
+
+icsm05-wu.pdf
+
+Comparison of clustering algorithms in the context of software evolution
+
+10.1.1.94.4571.pdf
+
+Clustering large software systems at multiple layers
+
+10.1.1.103.6569.pdf
+
+An investigation into the connectivity properties of source-header dependency graphs
+
+clutering.pdf
+
+Software architecture reconstruction: An approach based on combining graph clustering and partitioning
+
+2005-IWPC_CSABFCC.pdf
+
+Clustering software artifacts based on frequent common changes
+
+ICSM-2010.pdf (not used) d
+
+Using multivariate time series and association rules to detect logical change coupling: an empirical study
+
+JSC07.pdf
+
+On the evaluation of the Bunch search-based software modularization algorithm
+
+Kuhn06SemanClust.pdf
+
+Semantic clustering: Identifying topics in source code
+
+CSUR09.pdf
+
+A survey of web clustering engines
+
+GethersPoshyvanyk-Coupling.pdf (not used) d
+
+Using relational topic models to capture coupling among classes in object-oriented software systems
+
+ICPC10-web-mining.pdf (not used) d
+
+Using data fusion and web mining to support feature location in software
+
+ICPC06.doc.pdf
+
+Combining probabilistic ranking and latent semantic indexing for feature identification
+
+McMillan-ICSM11-CRC.pdf (not used) d
+
+Categorizing software applications for maintenance
+
+SCAM10-CohesionMetrics.pdf (not used) d
+
+New conceptual coupling and cohesion metrics for object oriented systems
+
+kunegis-koblenz-net-coll.pdf (not used) d
+
+KONECT – The Koblenz Network Collection
+
+1208.2518.pdf (kunegis..., not used) d
+
+Software Systems through Complex Networks Science: Review, Analysis and Applications
+
+esem16.pdf (not used) d
+
+Clustering Mobile Apps Based on Mined Textual Features
+
+3338906.3342483.pdf (not used) d
+
+Software Clusterings with Vector Semantics and the Call Graph
+

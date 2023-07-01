@@ -1,0 +1,260 @@
+RADHAK~1.PDF (paper, not used) d
+
+Execution characteristics of object oriented programs on the UltraSPARC II
+empirical results for C & C++
+
+SEA2000.PDF
+
+Support for software maintenance using latent semantic analysis
+
+TOUCHT~1.HTM
+
+One-Handed Touch-Typing on a QWERTY Keyboard
+
+FNR_AN~1.PDF
+
+Why we need an explicit forum for negative results
+
+READING2.PS (emailed, no reply) d
+
+Comparing detection methods for software requirements inspections: a replication using professional subjects
+ 
+CONGRU~1.PDF
+
+Towards experimental evaluation of subsystem classification recovery techniques
+
+10.1.1.122.3927 (porter-siy..., done) d
+
+Identifying the mechanisms driving code inspection costs and benefits
+
+live.pdf (porter-siy.., done) d
+
+An experiment to assess the cost benefit of code inspections in large scale software development
+
+interval.pdf (porter-siy..., done) d
+
+Understanding the effects of developer activities on inspection interval
+
+1994-1~1.GZ
+
+Experimental evaluation in computer science: A quantitive study
+
+INSPECT_1.Z
+
+An experiment to assess cost-benefits of inspection meetings and their alternatives
+
+GMAKEA~1.GZ
+
+GNU Make 3.7.7 An Architecture extraction with the CIA toolset
+
+10.1.1.37.38.pdf (paper+file, done) d
+
+Learning from experience in a software maintenance environment
+
+10.1.1.8.7075 (10.1.1.37.38..., done) d
+
+Impact of experience on maintenance skills
+
+RUNESO~3.PDF (paper+file, partial) d
+0046352306e5e48701000000.pdf (published version)
+
+An experimental evaluation of an experience based capture recapture method in software code inspections
+
+TSE-SW~1.PDF
+
+Software anthropology: Performing field studies in software companies
+
+EASE00.PDF
+
+Using students as subjects - a comparitive study of students and professionals in lead time impact assessment
+
+ICAD20~1.PDF
+
+Musical program auralisation: Empirical studies
+
+PATSER~1.PDF
+
+A series of controlled experiments on design patterns: methodology and results
+
+TEXP_1~1.PDF
+
+The T experiments: errors in scientific software
+
+Benitez.ps (paper, not used) d
+
+Register deprivation measurements
+
+ISERN-~2.PDF (data, students, not used) d
+
+Empirical investigation of perspective-based reading: a replicated experiment
+
+ISERN-~3.PDF
+
+The reliability of ISO/IEC PDTR 15504 assessments
+
+ISERN-~3.PS.gz
+
+Empirical studies of software process assessment methods
+
+ISERN-~4.PDF
+
+The repeatability of code defect classifications
+
+ISERN-~4.PS.gz
+
+Replication of experimental results in software engineering
+
+ISERN-~5.PDF
+
+Investigating reading techniques for framework learning
+
+A-COMP~1.PDF
+
+A comparison of reading paper and on line documentation
+
+ISERN-~8.PS.gz
+
+Perspective based reading: Technique, validation and research in future
+
+EFOCS-4-94.ps (paper, not used) d
+
+An external replication of a Korson experiment
+
+IMEXPERT.HTM
+
+Experiments in Spreadsheet Development: Task Difficulty, Level of Expertise, and Error Rate
+
+LAITEN~2.PDF
+
+An internally replicated quasi-experimental comparison of checklist and perspective-based reading of code documents
+
+ISERN-~1.PDF
+
+The empirical investigation of perspective-based reading
+
+ISERN-~2.PS.gz
+
+Perspective based reading of code documents at Robert Bosch GmbH
+
+ISERN-~2.GZ
+
+Assessing the maintenance process through replicated controlled experiment
+
+ISESE2~1.PDF
+
+An approach to experimental evaluation of software understandability
+
+P347-G~1.PDF
+
+System structure and software maintenance performed
+
+10.1.1.47.2449.pdf
+
+Statistical power and its subcomponents -- missing and misunderstood concepts in empirical software engineering research
+
+CRITIQ~1.PDF
+
+Science and substance: a challenge to software engineers
+
+porter-siy.pdf (partial) d
+
+Understanding the sources of variations in software inspections
+
+R5032.PDF
+
+Should computer scientists experiment more?
+
+PSY_02~1.PDF
+
+Something Missing?
+
+M.Kim-EthnographicStudyofCopyPaste-ISESE.pdf
+
+An ethnographic study of copy and paste programming practices in OOPL
+
+Replicating software engineering experiments: a poisoned chalice or the holy grail
+
+StructuralComplexityV07.pdf
+
+The structural complexity of software: testing the interaction of coupling and cohesion
+
+TR04-02.pdf
+
+Making software cost data available for meta-analysis
+
+sjoberg.pdf
+
+Conducting realistic experiments in software engineering
+
+kitchenham2.pdf
+
+Preliminary guidelines for empirical research in software engineering
+
+survsoftexp.pdf
+
+A survey of controlled experiments in software engineering
+
+emse-sir-05.pdf
+
+Supporting controlled experimentation with testing techniques: An infrastructure and its potential impact
+
+steve.pdf
+
+Object-oriented cohesion as a surrogate of software comprehension: an empirical study
+
+StatPowerinSEexp.pdf
+
+A systematic review of statistical power in software engineering experiments
+
+ease2004submit.pdf
+
+Generalization and theory-building in software engineering research
+
+StatusEmpiricalResearch2006.pdf
+
+Status of empirical research in software engineering
+
+Ellis2007FactoryUsability.pdf
+
+The factory pattern in API design: A usability evaluation
+
+Lung-ICSE2008.pdf
+
+On the difficulty of replicating human subjects studies in software engineering
+
+Meulen_Exploration2.pdf (paper, partial) d
+
+An exploration of software faults and failure behavior in a large population of programs
+
+effectsize.pdf
+
+A systematic review of effect size in software engineering experiments
+
+subj-recruit.pdf
+
+How to recruit professionals as subjects in software engineering experiments
+
+FWCY10csur.pdf
+
+Privacy-preserving data publishing: A survey of recent development
+
+ArePerspectivesReallyDiffExp.pdf (not used) d
+
+Are the Perspectives Really– Further Experimentation Reading of Requirements Different?  on Scenario-Based
+
+10.1.1.455.1837.pdf (not used) d
+
+An Extended Replication of an Experiment for Assessing Methods for Software Requirements Inspections
+
+Larson-Lindquist-MSc.pdf (not used) d
+
+Unsupervised Outlier Detection in Software Engineering
+
+Simula.simula.2758.pdf
+
+Incorrect Results in Software Engineering Experiments: {How} to Improve Research Practices
+
+Oliver_Laitenberger_PhD.pdf
+
+Cost-effective Detection of Software Defects through Perspective-based Inspections
+

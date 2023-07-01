@@ -1,0 +1,1271 @@
+BIGBAL~1.HTM
+
+Big ball of mud
+
+ATKINTSE.PDF
+
+Using version control data to evaluate impact on software tools: a case study of the version editor
+
+SE_XXX~1.PDF
+
+An Empirical Approach to Studying Software Evolution
+
+EICKAS~1.PDF
+
+Does code decay?  Assessing the evidence from change management data
+interesting ideas and results
+
+AERO99.PDF
+
+Code decay analysis of legacy software through successive releases
+
+ICSM00.PDF
+
+Evolution in open source software: A case study
+
+556.PDF
+
+Laws of Software Evolution Revisted
+
+ATKINS01.PDF
+
+Measuring Technology Effects on Software Change Cost
+
+HAJEK.GZ
+
+Detection of logical coupling based on product release history
+
+OHLSSO~2.PDF
+
+Utilisation of historical data for controlling and improving software development
+
+MAGNUSO.PDF
+
+Controlling fault prone components for software evolution
+
+FEAST1.PDF
+
+Metrics and laws of software evolution - the nineties view
+
+TECH_R~1.PDF (paper students, not used) d
+
+Evaluating software degradation through entropy: technical report
+
+EnvironmentalVolatility.pdf
+
+How developmental decisions affect product volatility: A longitudinal study of software change histories
+
+00914547.pdf
+
+Fault-tolerant evolvable hardware using field-programmable transistor arrays
+
+thompson00evolution.pdf
+
+Evolution of robustness in an electronic design
+
+Cladistics.pdf
+
+Basics of cladistic analysis
+
+bug_patternsthesis.pdf (paper, cited) d
+
+Using evolution patterns to find duplicated bugs
+
+JSME_API_Evolution.pdf (paper, not used) d
+
+How do APIs evolve?  A story of refactoring
+
+secse2009.pdf
+
+Refactoring and the evolution of Fortran
+
+emse07.pdf (paper+files, not used) d
+
+Understanding component co-evolution with a study of Linux
+
+fuse04-wu.pdf (paper, not used) d
+
+Linker-based program extraction and its uses in studying software evolution
+
+infsoft2002.pdf
+
+Analyzing cloning evolution in the Linux kernel
+
+ESEC-FSE-07.pdf
+
+An empirical study on the evolution of design patterns
+
+herraiz-phd.pdf (done) d
+
+A statistical examination of the properties and evolution of libre software
+
+06_Lopez_ijitwe_sna.pdf
+
+Applying social network analysis techniques to community-driven libre software projects
+
+10.1.1.142.4047.pdf
+
+What's a typical commit? A characterization of open source software repositories
+
+10.1.1.142.4190.pdf
+
+A survey and taxonomy of approaches for mining software repositories in the context of software evolution
+
+msr-45-robles.pdf
+
+Mining large software compilations over time: another perspective of software evolution
+
+thesis-grex.pdf
+
+Empirical software engineering research on libre software: data sources, methodologies and results
+
+10.1.1.145.3104.pdf
+
+Trend analysis and issue prediction in large-scale open source systems
+
+10.1.1.88.1613.pdf
+
+Empirical evidence for SOC dynamics in software evolution
+
+0705.3616.pdf y
+
+On how developers test open source software systems
+
+10.1.1.129.2141.pdf (paper, not used) d
+
+How do developers drive software evolution
+
+10.1.1.131.2786.pdf
+
+On the prediction of the evolution of libre software projects
+
+01235403.pdf
+
+Populating a release history database from version control and bug tracking systems
+
+01357886.pdf
+
+The evolution of source folder structure in actively evolved open source system
+
+dmg2003_elisa.pdf
+
+Using software trails to rebuild the evolution of software
+
+dmgicsm2004.pdf
+dmg2006_emse_fineGrained.pdf
+
+An empirical study of fine-grained software modifications
+
+dmg2008_emse_softCompilations.pdf
+
+Macro-level software evolution: a case study of a large software compilation
+
+emse09.pdf (cited) d
+
+An Empirical Study on the Maintenance of Source Code Clones
+
+icse2010.pdf (not used) d
+
+An exploratory study of the evolution of software licensing
+
+810.pdf
+
+Evolutional analysis of licenses in FOSS
+
+Vasa-ISESE2005.pdf (not used) d
+
+Detecting structural changes in object oriented software systems
+
+VasaPhdThesis.pdf (done) d
+
+Growth and change dynamics in open source software systems
+
+WCRE09b.doc.pdf (not used) d
+
+Tracking design smells: lessions from a study of god classes
+
+michlmayr-phd.pdf
+
+Quality improvement in volunteer free and open source software projects
+
+nier2010.pdf
+
+An eclectic approach for change impact analysis
+
+spip2005.pdf
+
+Agent-based simulation of open source evolution
+
+splc-2010-fm-evol.pdf (done) d
+
+Evolution of the Linux kernel variability model
+
+icsm08-roles.pdf
+
+An empirical study of the relationship between design pattern roles and class change proneness
+
+icsm2009_alam.pdf (not replying)
+
+Measuring the progress of projects using the time dependence of code changes
+
+lozano10iwsc.pdf
+
+Tracking clones’ imprint
+
+10.1.1.153.8421.pdf (Linux_evol....tgz, done) d
+
+The linux kernel as a case study in software evolution
+
+10.1.1.78.6979.pdf
+
+Success of open source projects: Patterns of downloads and releases with time
+
+115-354-1-PB.pdf
+
+The evolution of the Linux build system
+
+MASCOTS-03a.pdf
+
+Tracking the evolution of web traffic: 1995-2003
+
+lin09collateral.pdf
+
+Collateral evolution of applications and databases
+
+aosd10-palix.pdf (not used) d
+
+Tracking change patterns over multiple software versions with Herodotos
+
+Wiggins2010-reclassifying.pdf
+
+Reclassifying success and tragedy in FLOSS projects (replication study)
+
+journal.pone.0003057.pdf
+
+Random drift versus selection in academic vocabulary: An evolutionary analysis of published keywords
+
+Selby-FASE06.pdf (paper, not used) d
+
+The pervasiveness of global data in evolving software systems
+
+developer-turnover.pdf
+
+Contributor turnover in libre software projects
+
+esecfse05-kim-clonegene.pdf
+
+An empirical study of code clone genealogies
+
+CloneGenealogy_SCAM2010.pdf
+
+Evaluating code clone genealogies at release level: An empirical study
+
+Bali06aHowDevelopersCopy.pdf
+
+How Developers copy
+
+wcre07.pdf
+
+A study of consistent and inconsistent changes to code clones
+
+lozano07msr.pdf
+
+Evaluating the harmfulness of cloning: a change based experiment
+
+OSDI04-CPMiner.pdf
+
+CP-Miner: a tool for finding copy-paste and related bugs in operating system code
+
+ewic_ea09_s4paper2.pdf
+
+Harmfulness of Code Duplication A Structured Review of the Evidence
+
+suh10aswec.pdf
+
+Studying software evolution for taming software complexity
+
+10.1.1.123.113.pdf (paper, done) d
+
+CP-Miner: Finding copy-paste and related bugs in large-scale software code
+
+MozBugGroups.pdf
+
+Visualizing feature evolution of large-scale software based on problem and modification reports
+
+DiPenta.pdf
+
+The evolution and decay of statically detected source code vulnerabilities
+
+903275.pdf
+
+Using n-grams to rapidly characterise the evolution of software code
+
+07-07-08.pdf
+
+Using software archaeology to measure knowledge loss in software projects due to developer turnover
+
+AlexBentley1Bp.pdf
+
+Regular rates of popular culture change reflect random copying
+
+JavaInheritevol.pdf (paper+file, example, cited) d
+
+An empirical investigation of inheritance trends in Java OSS evolution
+
+p351-kawrykow.pdf (not used) d
+
+Non-essential changes in version histories
+
+kawrykow-2011.pdf (p351-kawrykow, not used) d
+
+Enabling precise interpretations of software change data
+
+MSR11.doc.pdf (partial) d
+
+An exploratory study of identifier renamings
+
+ICEIS2008.pdf (partial) d
+
+Schema evolution in wikipedia toward a Web Information System Benchmark
+
+hotswup11wu.pdf
+
+Schema evolution analysis for embedded databases
+
+1103.0711.pdf (paper, not used) d
+
+Class schema evolution for persistent object-oriented software: Model, empirical study, and automated support
+
+ITM2006.pdf (confidential, extracted, not used) d
+
+An empirical analysis of software life spans to determine the planning horizon for new software
+
+isese06izurieta.pdf
+
+The evolution of FreeBSD and Linux
+
+omar_alem_thesis.pdf
+
+Studying software evolution using the time dependence of code changes
+
+DSjoberg-1.pdf (paper, not used) d
+
+Quantifying schema evolution
+
+comets.pdf (not used) d
+
+COMETS: A dataset for empirical research on software evolution using source code metrics and time series analysis
+
+CSE-2012-32.pdf (paper, not emailed, not used) d
+fse13-db-study.pdf
+
+An empirical analysis of the co-evolution of schema and code in database applications
+
+milkorwine.pdf (done) d
+
+Milk or wine: Does software security improve with age?
+
+10.1.1.167.2843.pdf (earlier version of milk or wine)
+
+The likelihood of vulnerability rediscovery and the social utility of vulnerability hunting
+
+Survival.pdf (paper, done) d
+
+Survival of eclipse third-party plug-ins
+
+SCAM2012.pdf (paper+ see busingePhD, done) d
+
+Compatibility prediction of eclipse third-party plug-ins in new eclipse releases
+
+1102.2262.pdf (paper, not used) d
+
+A study of language usage evolution in open source software
+
+herraiz-csmr2006.pdf (data not available)
+
+Comparison between SLOCs and number of lines as size metrics for software evolution analysis
+
+cvs-vintage.pdf (not used) d
+
+CVS-vintage: A dataset of 14 CVS repositories of Java software
+
+Gala-Perez-13.pdf (done) d
+
+Intensive Metrics for the Study of the Evolution of Open Source Projects: Case studies from Apache Software Foundation projects
+
+p293.pdf
+
+Main effects screening: A distributed continuous quality assurance process for monitoring performance degradation in evolving software systems
+
+APIEvolution.pdf (not used) d
+
+Exploring the intent behind API evolution: A case study
+
+ecmfa13.pdf (paper, not used) d
+
+A case study in evidence-based DSL evolution
+
+icse11-refactoringbug.pdf
+
+An empirical investigation into the role of API-level refactorings during software evolution
+
+busingePhD.pdf (paper+file, done) d
+
+Co-evolution of the eclipse framework and its third-party plug-ins
+
+bikhchandani92fads.pdf
+
+A theory of fads, fashion, custom and cultural change as informational cascades
+
+fse2012-porting.pdf (received emailed, done) d
+
+A case study of cross-system porting in forked projects
+
+bray_PhD.pdf (fse2012+bsd.tar..., done) d
+
+Analysis of cross-system porting and porting errors in software projects
+
+2004-Metrics_CapiluppiRamil.pdf (not used) d
+
+Multi-level empirical studies: an approach focused on open source software
+
+icsm2013_apache.pdf (done) d
+
+The evolution of project inter-dependencies in a software ecosystem: the case of Apache
+
+EMSE 2014.pdf (icsm2013_apache, +email file, done) d
+
+How the Apache Community Upgrades Dependencies: An Evolutionary Study
+
+cossette2012.pdf (not used) d
+
+Seeking the ground truth: A retroactive study of the evolution and migration of software libraries
+
+smr1615.pdf (partial) d
+
+Studying the laws of software evolution in a long-lived FLOSS project
+
+German-CSMR2013.pdf
+
+The evolution of the R software ecosystem
+
+CSMR13c.doc.pdf (not used) d
+
+On the relationship between program evolution and fault-proneness: An empirical study
+
+paper_0a.pdf (refed) d
+
+Coevolution of variability models and related artifacts: A case study from the Linux kernel
+
+covrig-issta-14.pdf (partial) d
+
+Covrig: A framework for the analysis of code, test, and coverage evolution in real software
+
+2007-20.pdf (paper+file, partial) d
+
+Analysis of the Linux Kernel Evolution Using Code Clone Coverage
+
+icse14_varex.pdf (not used) d
+
+Exploring Variability-Aware Execution for Testing Plugin-Based Web Applications
+
+10.1007-s10664-012-9214-z.pdf (not used) d
+
+How changes affect software entropy: an empirical study
+
+ase13.pdf (emailed) d
+
+A Study of Repetitiveness of Code Changes in Software Evolution
+
+PPB+15.pdf (not used) d
+
+Feature Scattering in the Large: A Longitudinal Study of Linux Kernel Device Drivers
+
+PTD+14.pdf (not used) d
+
+Coevolution of Variability Models and Related Software Artifacts
+
+debsources-esem-2014.pdf (partial) d
+
+Debsources: Live and Historical Views on Macro-Level Software Evolution∗
+
+wermelinger15msr.pdf (not used) d
+
+An Architectural Evolution Dataset
+
+C4.pdf (not used) d
+
+When and Why Your Code Starts to Smell Bad
+
+p269-geipel.pdf (not used) d
+
+Software Change Dynamics: Evidence from 35 Java Projects
+
+Herzig_Phd.pdf (icse2013-bugclassify, refed) d
+
+Mining and Untangling Change Genealogies
+
+ZIBRAN-DISSERTATION.pdf (paper, twice emailed, faded away) d
+
+Management Aspects of Software Clone Detection and Analysis
+
+2015_FSE_Impact_Turnover.pdf (not used) d
+
+Impact of Developer Turnover on Quality in Open-Source Software
+
+29.pdf (not used) d
+
+Detection and evolution analysis of code clones for efficient management of large-scale software systems
+
+6148a215.pdf (emailed) d
+
+Semantic Versioning versus Breaking Changes: A Study of the Maven Repository
+
+icsme2015era-preprint.pdf (done) d
+
+Towards a Survival Analysis of Database Framework Usage in Java Projects
+
+1701.00416.pdf (icsme2015era-preprint, other) d
+
+On the Interaction of Relational Database Access Technologies in Open Source Java Projects
+
+2006005173.pdf (paper, not used) d
+
+Requirements Volatility and Its Impact on Change Effort: Evidence-based Research in Software Development Projects
+
+goulao12csmr.pdf (not used) d
+
+Software evolution prediction using seasonal time analysis: a comparative study
+
+ER_2015_UoI.pdf (not used) d
+
+How is Life for a Table in an Evolving Relational Schema? Birth, Death & Everything in Between
+
+IST_2016_PHP.pdf (not used) d
+
+Studying the evolution of PHP web applications
+
+php-dynamic-evolution.pdf (not used) d
+
+Evolution of Dynamic Feature Usage in PHP
+
+RE2015.pdf (paper, not used) d
+
+Understanding Changes in Use Cases: A Case Study
+
+SANER-2016.pdf (cited) d
+
+When GitHub meets CRAN: An Analysis of Inter-Repository Package Dependency Problems
+
+TUD-SERG-2016-005.pdf (not used) d
+
+FEVER: Extracting Feature-oriented Changes from Commits
+
+a143407.pdf (paper+file, not used) d
+
+A software approach to the software problem
+
+Ruby-hosting_Squires.pdf (not used) d
+
+Data Sets: The Circle of Life in Ruby Hosting, 2003-2015
+
+Xiaoni-Zhang_PhD.pdf (paper, emailed, cited) d
+
+An Analysis of the Effect of Environmental and Systems Complexity on Information Systems Failures
+
+DP-01-tosem.pdf (paper, not used) d
+
+Parallel Changes in Large-Scale Software Development: An Observational Case Study
+
+shi2013.pdf (paper+file, emailed twice, not used) d
+
+Learning from Evolution History to Predict Future Requirement Changes
+
+MA-I4-2014-07-Rothberg.pdf (paper, not used) d
+
+Years of Variability Bugs in Linux – How to Avoid them
+
+RossiEtAl2011.pdf (emailed, confidential) d
+
+Path dependent stochastic models to detect planned and actual technology use: A case study of OpenOffice
+
+1207.2743.pdf (cited) d
+
+The evolutionary origins of modularity
+
+1604.01450v1.pdf (not used) d
+
+Does Technical Debt Lead to the Rejection of Pull Requests?
+
+robinson1976a.pdf (paper, done) d
+
+Fashions in Shaving and Trimming of the Beard: {The} Men of the {Illustrated London News}, 1842-1972
+
+88p077.pdf
+
+Why Culture is Common, but Cultural Evolution is Rare
+
+understanding_gartners_hype.pdf
+
+Understanding Gartner's Hype Cycles, 2011
+
+PNAS-2012-Loreto-6819-24.pdf
+
+On the origin of the hierarchy of color names
+
+journal.pone.0125019.pdf
+
+Individual Biases, Cultural Evolution, and the Statistical Nature of Language Universals: The Case of Colour Naming Systems
+
+shtub1993.pdf (emailed, faded away) d
+
+Learning and Forgetting Industrial Skills: An Experimental Model
+
+Learning_and_Forgetting_AER.pdf
+
+Learning and forgetting: The dynamics of aircraft production
+
+Plaza-Ngwenyama-Rholf-2009.pdf
+
+A comparative analysis of learning curves: Implications for new technology implementation management
+
+WP-85-019.pdf (paper, extract, not used) d
+
+The automotive road to technological change: diffusion of the automobile as a technological substitution process
+
+evolutionInSimpleModel.pdf
+
+The Evolution of Technology within a Simple Computer Model
+
+MA-2012-06.pdf (emailed, data lost) d
+
+The Edit History of the National Vulnerability Database
+
+1000.pdf (done) d
+
+Approximating the Evolution History of Software from Source Code
+
+henrich_boyd_1998.pdf
+
+The Evolution of Conformist Transmission and the Emergence of Between-Group Differences
+
+Phelps-Singh_Social-Inf.pdf (pdf+emailed, cited) d
+
+Networks, Social Influence, and the Choice Among Competing Innovations: Insights from Open Source Software Licenses
+
+10.1.1.198.8928.pdf (paper+email, not used) d
+
+Diffusion Models: Managerial Applications and Software
+
+ndss2017jslibs.pdf (raw data only, not used) d
+
+Thou Shalt Not Depend on Me: Analysing the Use of Outdated JavaScript Libraries on the Web
+
+msr2017v1.pdf (not used) d
+
+Towards Understanding How Code Forges Die
+
+1015.pdf (not used) d
+
+Modeling Library Dependencies and Updates in Large Super Repository Universes
+
+2016-gleison-original.pdf (paper, not used) d
+
+On the use of replacement messages in api deprecation: an empirical study
+
+2016-saner-api.pdf
+
+Do Developers Deprecate APIs with Replacement Messages? A Large-Scale Analysis on Java Systems
+
+belady.pdf
+
+A model of large program development
+
+CAiSE_2014.pdf (not used) d
+
+Open-Source Databases: Within, Outside, or Beyond Lehman's Laws of Software Evolution?
+
+hotswup2011.pdf (not used) d
+
+Predicting Upgrade Failures Using Dependency Analysis
+
+how-java-apis-break.pdf (not used) d
+
+How Java APIs Break - An Empirical Study
+
+JourProdEconomics108A40.pdf (paper, not used) d
+
+Economic manufacture quantity (EMQ) model with lot-size dependent learning and forgetting rates
+
+J16.pdf (done) d
+
+Gravitating to Rigidity: Patterns of Schema Evolution -and its Absence- in the Lives of Tables
+
+LehmanForFOSSDB.pdf (not used) d
+
+Growing up with Stability: how Open-Source Relational Databases Evolve
+
+PC_RED.pdf (paper, not used) d
+
+The PC Industry: new economy or early life-cycle?
+
+mazzucat.pdf (paper, extracted, done) d
+
+Risk, Variety and Volatility in the PC Industry: New Economy or Early Life-Cycle?
+
+Skoulis_MSc_Thesis.pdf (J16, done) d
+
+Analysis of Schema Evolution for Databases in Open-Source Software
+
+TUD-SERG-2015-004.pdf (emailed, faded away) d
+
+Analysing Feature Model Changes using FMDiff
+
+1703.08527.pdf (not used) d
+
+Extracting Build Changes with BUILDDIFF
+
+237860.pdf (done) d
+
+Analysing the Evolution of System Requirements A case study of AUTOSAR at Volvo Car Group
+
+241284.pdf (237860..., other) d
+
+Should We Adopt a New Version of a Standard?  – A Method and its Evaluation on AUTOSAR
+
+Why_how_devs_fork.pdf (cited) d
+
+Why and how developers fork what from whom in GitHub
+
+feast1.pdf (paper, not used) d
+
+Metrics and Laws of Software Evolution - The Nineties View
+
+PLHistoryDesign25yrs.pdf
+
+Programming languages - the first 25 years
+
+BHR_1992_langlois-PCs.pdf (paper, not used) d
+
+External Economies and Economic Progress: The Case of the Microcomputer Industry
+
+techlag-paper.pdf (not used) d
+
+Technical Lag in Software Compilations: Measuring How Outdated a Software Deployment is
+
+Evol_learning_strat_temp.pdf
+
+Evolution of learning strategies in temporally and spatially variable environments: A review of theory
+
+Osma17b-exception-usage.pdf (not used) d
+
+On the Evolution of Exception Usage in Java Projects
+
+Osma17d-exception-evolution.pdf (not used) d
+
+Exception Evolution in Long-lived Java Systems
+
+article1.pdf
+
+The Reaction of Open-Source Projects to New Language Features: An Empirical Study of C# Generics
+
+SoftEvolMaint-book.pdf
+
+Software evolution and maintenance
+
+peerj-preprints-2367.pdf (partial) d
+
+From computer operating systems to biodiversity: co-emergence of ecological and evolutionary patterns
+
+twerp052.pdf (paper, not used) d
+
+The spread of computer usage in the UK, 1954-1970
+
+Zhongpeng_Lin-PhD.pdf
+
+Understanding and simulating software evolution
+
+ed3efb870840ca48.pdf
+
+Evolution of Data-Base Management Systems
+
+Meyer_PhD_two_sided_markets.pdf (paper, not used) d
+
+Path dependence in two-sided markets: A simulation study on technological path dependence with an application to platform competition in the smartphone industry
+
+Internet-Modularity-v5.pdf (paper, done) d
+
+Modularity and the Evolution of the Internet
+
+1709.04626.pdf (not used) d
+
+Modeling Library Dependencies and Updates in Large Software Repository Universes
+
+jssc-Weifeng Pan.pdf (email, not used) d
+
+MULTI-GRANULARITY EVOLUTION ANALYSIS OF SOFTWARE USING COMPLEX NETWORK THEORY∗
+
+1710.04936.pdf (not used) d
+
+An Empirical Comparison of Dependency Network Evolution in Seven Software Packaging Ecosystems
+
+EMSE2017_DecadeLinuxSysCalls.pdf syscalls_emse_R2_final.pdf (not used, cited) d
+
+Analyzing a decade of Linux system calls
+
+SANER2017-ConstantinouMens.pdf (not used) d
+
+Socio-Technical Evolution of the Ruby Ecosystem in GitHub
+
+emse_wei.pdf (not used) d
+
+An Exploratory Study of API Changes and Usages based on Apache and Eclipse Ecosystems
+
+DTR98-11.pdf (paper, not used) d
+
+The influence of global factors on software system evolution
+
+1510.06988.pdf (not used) d
+
+Evolutionary Trends of Developer Coordination: A Network Approach
+
+2016_emse_continuous-mining.pdf (msr-data-git-linux, cited) d
+
+Continuously mining distributed version control systems: an empirical study of how Linux uses Git
+
+Tech_Obsolescence_ASME.pdf (conf+extracted, op-amps, not used) d
+
+Integrating technology obsolescence considerations into product design planning
+
+ProcurementLifePaper.pdf (paper, extract, not used) d
+
+Forecasting electronic part procurement lifetimes to enable the management of DMSMS obsolescence
+
+WP191Malerbaetal.pdf
+
+Vertical Integration and Dis-integration of Computer Firms: A History Friendly Model of the Co-evolution of the Computer and Semiconductor Industries
+
+160384.full.pdf
+
+The natural selection of bad science
+
+7027646553c35b0f1a.pdf
+
+Patterns and Practices in How Information Technology Spread around the World
+
+bell's_law_msr-2007-tr-146a.pdf 10.1.1.308.2542.pdf
+
+Bell’s Law for the birth and death of computer classes: A theory of the computer’s evolution
+
+Chaikalis_Forecasting.pdf (not used) d
+
+Forecasting Java Software Evolution Trends employing Network Models
+
+ORTIZ-TRONCOSO-MSc.pdf (email, not used) d
+
+Evaluating phylogenetic methods for quantifying risks and opportunities presented by forks in open source software
+
+09_20_2017.pdf
+
+Alternative evolutionary histories in the sequence space of an ancient protein
+
+atc16_paper-huang.pdf (emailed, faded away) d
+
+An Evolutionary Study of Linux Memory Management for Fun and Profit
+
+127_pdf_appendix.pdf
+
+Information Theory Broadens the Spectrum of Molecular Ecology and Evolution
+
+saner17era-eraid219.pdf (paper, cited) d
+
+Analyzing the Evolution of Testing Library Usage in Open Source Java Projects
+
+2017-saner-breaking-apis.pdf (emailed) d
+
+Historical and Impact Analysis of API Breaking Changes: A Large-Scale Study
+
+ER_2017.pdf (Computing19_FK-Evolution, other) d
+
+Schema Evolution and Foreign Keys: Birth, Eviction, Change and Absence
+
+Zhongquan-Xie_Phd.pdf (paper, not used) d
+
+Innovations and Sectoral Evolution of Embedded Software in Japan —The Cases of Robotic, Automotive and Mobile Phone Software
+
+Agarwal_Gort-1996.pdf
+
+The Evolution of Markets and Entry, Exit and Survival of Firms
+
+Agarwal-1997.pdf
+
+Survival of Firms over the Product Life Cycle
+
+Beheim_Go_2014.pdf (paper, not used) d
+
+Strategic social learning and the population dynamics of human behavior: the game of Go
+
+malloy-esem-2017.pdf (done) d
+
+Quantifying the Transition from Python 2 to 3: An Empirical Study of Python Applications
+
+rosler1984.pdf
+
+The Evolution of C--Past and Future
+
+1703.10698.pdf
+
+Neutral evolution and turnover over centuries of English word popularity
+
+socialheuristics.pdf
+
+The Evolutionary Rationality of Social Learning
+
+CAiSE_Electrolysis_2017.pdf (not used) d
+
+Survival in schema evolution: putting the lives of survivor and dead tables in counterpoint
+
+li2018characterising.pdf (not used) d
+
+Characterising Deprecated Android APIs
+
+1098.pdf (not used) d
+
+An Empirical Study on the Impact of Refactoring Activities on Evolving Client-Used APIs
+
+1806.01545.pdf (not used) d
+
+On the evolution of technical lag in the npm package dependency network
+
+B-Blum.pdf (paper, other) d
+
+A Software Environment: Some Surprising Empirical Results
+
+blum1989.pdf (paper, done) d
+
+Improving Software Maintenance by learning from the Past: A Case Study
+
+icpc2011_crc.pdf (emailed, confidential) d
+
+Feature Profiling for Evolving Systems
+
+fse18sustainability.pdf (not used) d
+
+Ecosystem-Level Determinants of Sustained Activity in Open-Source Projects: A Case Study of the PyPI Ecosystem
+
+10.1.1.260.1427.pdf
+
+Is It Dangerous to Use Version Control Histories to Study Source Code Evolution?
+
+1703.04184.pdf
+
+An Evolutionary Theory for the Variability Hypothesis
+
+smith-prosim06.pdf
+
+Agent-based Simulation of Open Source Software Evolution
+
+msr2017dependency.pdf (not used) d
+
+Structure and Evolution of Package Dependency Networks
+
+promise18-14.pdf (not used) d
+
+A Longitudinal Study of Anti Micro Patterns in 113 versions of Tomcat
+
+10.1016@j.ins.2011.pdf (email, not used) d
+
+A quantitative model for software engineering trends
+
+EMSE2018_Thongtanunam.pdf (+emailed for more, faded away) d
+
+Will this clone be short-lived? Towards a better understanding of the characteristics of short-lived clones
+
+peerj-preprints-27159.pdf (not used) d
+
+Phylogenetic analysis of software evolution, a case study: VE&MINT
+
+garciaswartz2015.pdf (paper, not used) d
+
+Network effects on the iPhone platform: An empirical examination
+
+CIA-RDP88-00733R00010.pdf
+
+Monthly report -- Key west bureau -- October 1987
+
+bleys-PhD.pdf
+
+Language Strategies for the Domain of Colour
+
+Kivi_Smura.pdf (paper, extract, not used) d
+
+Technology product evolution and the diffusion of new product features
+
+Eriksson_et_al_2010.pdf
+
+Bentley’s conjecture on popularity toplist turnover under random copying
+
+rsos.171217.pdf (not used) d
+
+Robust clustering of languages across Wikipedia growth
+
+7466b3bccea7ad413b7.pdf (paper, not used) d
+
+Population Size and the Rate of Language Evolution: A Test Across Indo-European, Austronesian, and Bantu Languages
+
+nature05c.pdf
+
+Evolution of indirect reciprocity
+
+10952.full.pdf
+
+Evolution of cooperation bymultilevel selection
+
+nihms49939.pdf
+
+Five rules for the evolution of cooperation
+
+Lehman-LawsOfSoftEvo.pdf (paper, not used) d
+
+Programs, life cycles, and laws of software evolution
+
+1803.08698.pdf (not used) d
+
+Measurement of the evolution of technology: A new perspective
+
+EvolutionWorkstations.pdf
+
+The  Evolution of Workstations
+
+MiniandMicroIndustries.pdf
+
+The Mini and Micro Industries
+
+peterson1998.pdf
+
+Measuring the evolution of microcomputer technology
+
+287_978-952-1_v2.pdf
+
+Understanding Code Forking in Open Source Software
+
+icsme2017.pdf (not used) d
+
+Revisiting Turnover-Induced Knowledge Loss in Software Projects
+
+Chong-Hok-Yuen-1981-PhD.pdf
+
+A PHENOMENOLOGY OF PROGRAM MAINTENANCE AND EVOLUTION
+
+lehmanPaper.pdf
+
+On the Evolution of Lehman’s Laws
+
+IWSECO2015.pdf (done) d
+
+On the Development and Distribution of R Packages: An Empirical Analysis of the R Ecosystem
+
+jmebart.pdf (cited) d
+
+Cross-country technology adoption: making the theories face the facts
+
+1908.11431.pdf (not used) d
+
+A Methodology for Analyzing Uptake of Software Technologies Among Developers
+
+scico19.pdf
+
+A Large-Scale Empirical Exploration on Refactoring Activities in Open Source Software Projects
+
+9698.full.pdf
+
+Principles of parametric estimationlanguage competition in modeling
+
+deprecation_reasons.pdf (not used) d
+
+Why are features deprecated? An investigation into the motivation behind deprecation
+
+ICSE20WindowsReliability.pdf
+
+Characterizing the Differences Between Pre- and Post- Release Versions of Software
+
+lags.pdf (w15319, not used) d
+
+Technology usage lags
+
+Semantic-Versioning_2.0.0.htm
+
+Semantic Versioning 2.0.0
+
+PEP-440_Version-Identification-and-Dependency-Specification.htm
+
+PEP 440 -- Version Identification and Dependency Specification
+
+08704965.pdf (not used) d
+
+Evolution of the Unix System Architecture: An Exploratory Case Study
+
+1908.06412.pdf (not used) d
+
+Characterizing the Transition to Kotlin of Android Apps: A Study on F-Droid, Play Store, and GitHub
+
+Dintzner-PhD.pdf (not used) d
+
+Feature-Oriented Evolution of Variant-rich software systems
+
+1907.04527.pdf (not used) d
+
+Dynamics of Team Library Adoptions: An Exploration of GitHub Commit Logs
+
+C57.pdf (email, not used) d
+
+ArchTrace: Policy-Based Support for Managing Evolving Architecture-to-Implementation Traceability Links
+
+li2018moonlightbox.pdf (done) d
+
+MoonlightBox: Mining Android API Histories for Uncovering Release-time Inconsistencies
+
+econstSaner17.pdf (not used) d
+
+Socio-Technical Evolution of the Ruby Ecosystem in GitHub
+
+Rahman-PhD.pdf (emailed) d
+
+Investigating Modern Release Engineering Practices
+
+rsos.150645.pdf (not used) d
+
+Comparative phylogenetic analyses uncover the ancient roots of Indo-European folktales
+
+1912.02179.pdf (not used) d
+
+A Longitudinal Study of Static Analysis Warning Evolution and the Effects of PMD on Software Quality in Apache Open Source Projects
+
+Zerouali-PhD.pdf
+
+A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems
+
+wcre03-tseVersion.pdf (paper, cited) d
+
+Using Origin Analysis to Detect Merging and Splitting of Source Code Entities
+
+saner2019_preprint.pdf
+
+Exploring Regular Expression Evolution
+
+HOPL2-Uncut.pdf
+
+The Evolution of Lisp
+
+PatternOfLanguageEvolution.pdf
+
+A Pattern of Language Evolution
+
+glubb.pdf
+
+THE FATE OF EMPIRES and SEARCH FOR SURVIVAL
+
+Plausibility_of_Life.pdf
+
+The Plausibility of Life
+
+8086history.pdf
+
+Intel Microprocessors: 8008 to 8086
+
+800254.807761.pdf
+
+AN EXAMINATION OF EVOLUTION DYNAMICS
+
+359327.359335.pdf
+
+The Evolution of the DECsystem 10
+
+woodside1979.pdf
+
+A Mathematical Model for the Evolution of Software
+
+JoDS_2017.pdf (not used) d
+
+Schema Evolution Survival Guide for Tables: Avoid Rigid Childhood and You're En Route to a Quiet Life
+
+IS_2015_LL4DB.pdf
+
+Growing up with stability: How open-source relational databases evolve
+
+Chapter-ORM-2017.pdf
+
+Analyzing the Evolution of Database Usage in Data-Intensive Software Systems
+
+Computing19_FK-Evolution.pdf (cited) d
+
+Schema Evolution and Foreign Keys: a Study on Usage, Heartbeat of Change and Relationship of Foreign Keys to Table Activity
+
+memoirthesis.pdf (+email discussion, not used) d
+
+Challenges in the collaborative evolution of a proof language and its ecosystem
+
+xiao2019.pdf (not used) d
+
+An Empirical Study of Fault Triggers in the Linux Operating System: An Evolutionary Perspective
+
+spip03.pdf
+
+Qualitative Simulation of Models of Software Evolution
+
+Meurice-PhD.pdf
+
+Analyzing, Understanding and Supporting the Evolution of Dynamic and Heterogeneous Data-Intensive Software Systems
+
+ICL-Tech82-Kitchenham.pdf (paper, not used) d
+
+System evolution dynamics of VME/B
+
+2005.11523.pdf (done) d
+
+A Comprehensive Study on Software Aging across Android Versions and Vendors
+
+natella_androidaging.pdf (2005.11523, other) d
+
+Software Aging Analysis of the Android Mobile OS
+
+jsep-2019.pdf (not used) d
+
+A Formal Framework for Measuring Technical Lag in Component Repositories — and its Application to npm
+
+10.2307@1814397.pdf
+
+Technological Change and the Demand for Computers
+
+hal-02543794.pdf (done) d
+
+Software Provenance Tracking at the Scale of Public Source Code
+
+Shamim_Pirzada-PhD.pdf (paper, extract, not used) d
+
+A Statistical Examination of The Evolution of the UNIX System
+
+2008.10925.pdf (not used) d
+
+Replicability and Reproducibility of a Schema Evolution Study in Embedded Databases
+
+Gardner_2008.pdf
+
+The Price equation
+
+EMSE_2020.pdf (not used) d
+
+Characterizing the evolution of statically-detectable performance issues of Android apps
+
+10.1.1.366.4070.pdf
+
+Fisher’s ‘fundamental theorem’ made clear
+
+2101.09563.pdf (not used) d
+
+Präzi: From Package-based to Call-based Dependency Networks
+
+2101.00090.pdf (not used) d
+
+PHP code smells in web apps: survival and anomalies
+

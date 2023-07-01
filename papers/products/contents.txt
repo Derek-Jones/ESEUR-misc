@@ -1,0 +1,52 @@
+2011_FeatureVisu.pdf (not used) d
+
+Feature cohesion in software product lines: An exploratory study
+
+Succ-Aband_SF-Projects8.pdf (not used) d
+
+Successful and abandoned Sourceforge.Net projects in the initiation stage (cap 8)
+
+Succ-Aband_SF-Projects7.pdf (not used) d
+
+Successful and abandoned Sourceforge.Net projects in the initiation stage (cap 7)
+
+wisa2013labels.pdf (not used) d
+
+Towards a methodical evaluation of antivirus scans and labels
+
+Reuse_Productivity_Empirical.pdf (paper+file, not used) d
+
+Reuse and productivity in integrated computer-aided software engineering: An empirical study
+
+Butts_NASA.pdf (paper+file, partial) d
+
+The Joint Confidence Level Paradox: A History of Denial
+
+a493847.pdf (paper+file, not used) d
+
+Measurement of software project management effectiveness
+
+review_classif_pp.pdf (not used) d
+
+Bug Report, Feature Request, or Simply Praise?  On Automatically Classifying App Reviews
+
+Bayus&Putsis(MS).pdf (paper, not used) d
+
+Product Proliferation: An Empirical Analysis of Product Line Determinants and Market Outcomes
+
+60ab3f87412d28f0e1.pdf (paper, not used) d
+
+An Analysis of Product Lifetimes in a Technologically Dynamic Industry
+
+8102.pdf (paper, extract, not used) d
+
+The Social Lives of Products: Analyzing Product Demography for Management Theory and Practice
+
+Product_Demography_opt_disk.pdf (paper, extract, not used) d
+
+Product Demography of De Novo and De Alio Firms in the Optical Disk Drive Industry, 1983–1999
+
+1908.06895.pdf (not used) d
+
+The Strengths and Behavioral Quirks of Java Bytecode Decompilers
+

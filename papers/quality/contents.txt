@@ -1,0 +1,13 @@
+iwpse.pdf
+
+Software process data quality and characteristics - a historical view on open and closed source projects
+
+32_Koru_etal2007.pdf
+
+A survey of quality assurance practices in biomedical open source software projects
+
+msr2014-mcintosh.pdf (not used) d
+
+The impact of code review coverage and code review participation on software quality
+
+

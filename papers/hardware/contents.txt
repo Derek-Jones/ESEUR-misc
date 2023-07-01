@@ -1,0 +1,813 @@
+schroeder.gibson.pdf (still not available, ignore) d
+
+Disk failures in the real world: What does MTTF of 1,000,000 hours mean to you?
+
+sigmetrics09.pdf (paper, not used) d
+
+DRAM Errors in the Wild: A Large-Scale Field Study
+
+usenix2010-li.pdf (not used) d
+
+A realistic evaluation of memory hardware errors and software system susceptibility
+
+fast08.pdf (paper, not used) d
+
+An analysis of data corruption in the storage stack
+
+dsn06.pdf (done) d
+
+A large-scale study of failure in high-performance computing systems
+
+dsn07.pdf (event_log..., not used) d
+
+What Supercomputers Say: A Study of Five System Logs
+
+Blue-Gene_103.pdf
+
+Using Log Information to Perform Statistical Analysis on Failures Encountered by Large-Scale HPC Deployments
+
+taerat09blue.pdf (logs, partial) d
+
+Blue gene/L log analysis and time to interrupt estimation
+
+10.1.1.124.788.pdf (logs, cited) d
+
+Filtering failure logs for BlueGene/L prototype
+
+10.1.1.123.1699.pdf (logs, not used) d
+
+BlueGene/L failure analysis and prediction models
+
+paper-TOS-08.pdf
+
+Efficient management of idleness in storage systems
+
+paper-WASL08.pdf
+
+Disk drive workload captured in logs collected during field return incoming tests
+
+paper-iiswc-09.pdf
+
+Evaluation of disk-level workloads at different time-scales
+
+schroeder,pdf
+
+Understanding latent sector errors and how to protect against them
+
+availability-ldns.pdf (not used) d
+
+Availability, usage, and deployment characteristics of the domain name system
+
+availability-microsoft.pdf (not used) d
+
+Feasibility of a serverless distributed file system deployed on an existing set of desktop PCs
+
+availability-skype.pdf (not used) d
+
+An experimental study of the Skype peer-to-peer VoIP system
+
+seti_mascots09.pdf (not used) d
+
+Mining for statistical models of availability in large-scale distributed systems: An empirical study of SETI@home
+
+seti_dsom08.pdf
+
+Ensuring collective availability in volatile resource pools via forecasting
+
+wasl09.pdf
+
+Extracting message types from BlueGene/L's logs
+
+fta_paper.pdf
+
+The failure trace archive: Enabling comparative analysis of failures in diverse distributed systems
+
+p-95-19.ps.gz (not used) d
+
+Job Characteristics of a Production Parallel Scientific Workload on the NASA Ames iPSC/860
+
+SymbianOSFailures.pdf
+
+How do mobile phones fail?  A failure analysis of Symbian OS smart phones
+
+clu04.pdf
+
+Assessing fault sensitivity in MPI applications
+
+lee2007-tutorial.pdf (partial) d
+
+A tutorial in spatial sampling and regression strategies for microarchitectural analysis
+
+lee2006-tech-reg.pdf (partial) d
+
+Regression modeling strategies for microarchitectural performance and power prediction
+
+GRID2007.pdf (Grid500, RR-6172 refed) d
+
+On the dynamic resource availability of grids
+
+RR-6172.pdf (paper+Grid5000, refed) d
+
+On the dynamic resources available in grids
+
+NERSC_Results.pdf (pdsi/, not used) d
+
+Reliability Results of NERSC Systems
+
+soft_errors_1_1.pdf
+
+Soft errors in electronic memory - A white paper
+
+latent-sigmetrics07.pdf
+
+An analysis of latent sector errors in disk drives
+
+MS_TR_~1.PDF
+
+Rules of thumb in data engineering
+
+10.1.1.27.7611.pdf (paper, not used) d
+
+When the CRC and TCP checksum disagree
+
+inst-derating.dsn2008.pdf (paper, done) d
+
+A Characterization of Instruction-level Error Derating and its Implications for Error Detection
+
+Fundamentals_Comp_Design.pdf
+
+Fundamentals of computer design (book)
+
+JCSE-V5N2-02.pdf
+
+Computing and reducing transient error propagation in registers
+
+smart-10.9557.pdf (not used) d
+
+Machine learning methods for predicting failures in hard drives: a multiple-instance application
+
+p55-danowitz.pdf (done) d
+
+CPU DB: Recording microprocessor history
+
+SysDrivers_2011.pdf (paper+file, not used) d
+
+System drivers, International technology roadmap for semiconductors 2011 edition
+
+2013PIDS.pdf (PIDS_2013Tables.xlsx, not used) d
+
+Process integration, devices, and structures, ITRS 2013
+
+ASPLOS2012.pdf (have asked; Bluegene etc, cited) d
+
+Cosmic rays don't strike twice: Understanding the nature of DRAM error and the implications for system design
+
+1000a047.pdf (asked, confidential) d
+
+A study of DRAM failures in the field
+
+hpca13-isa-power.pdf (not used) d
+
+Power struggles: Revisiting the RISC vs. CISC debate on contemporary ARM and x86 architectures
+
+isa-power-struggles-tr.pdf (paper, not used) d
+
+A detailed analysis of contemporray ARM and x86 architectures
+
+green-change-web.pdf (green-data...) d
+green-nier-web.pdf (web version)
+
+Green mining: A methodology of relating software change to power consumption
+
+selse2013_SEMA.pdf (confidential) d
+
+Analysis and modeling of memory errors from large-scale field data collection
+
+selse2012_submission.pdf (confidential) d
+
+A field study of DRAM errors
+
+temperature_cam.pdf
+
+Temperature management in data centers: Why some (might) like it hot
+
+vimb-meng.pdf (paper, not used) d
+
+SCALE DRAM subsystem power analysis
+
+hotpower12-final5.pdf (paper, not emailed, partial) d
+
+Memory performance at reduced CPU clock speeds: An analysis of current x86_64 processors
+
+wanner_hotpower10.pdf (done) d
+
+A case for opportunistic embedded sensing in presence of hardware power variability
+
+wanner_date11.pdf (done) d
+
+Variability-aware duty cycle scheduling in long running embedded sensing systems
+
+MemoingMM98.pdf (paper; not used) d
+
+Accelerating multi-media processing by implementing memoing in multiplication and division units
+
+hotpower12-final29.pdf (partial) d
+
+Accurate characterization of the variability in power consumption in modern mobile processors
+
+jiang_1.pdf (emailed, no reply) d
+
+Are disks the dominant contributor for storage failure? A comprehensive study of storage subsystem failure characteristics
+
+00-1594.pdf (paper, done) d
+
+In-Flight Observations of Multiple-Bit Upset in DRAMs
+
+10.1.1.186.9213.pdf
+
+A higher order estimate of the optimum checkpoint interval for restart dumps
+
+10.1.1.77.1351.pdf
+
+High-performance CMOS variability in the 65-nm regime and beyond
+
+J20_paper.pdf (paper, emailed, partial) d
+
+Power variability in contemporary DRAMs
+
+zheng_asu_0010n_10586.pdf (paper, not used) d
+
+Aging predictive models and simulation methods for analog and mixed-signal circuites
+
+3C-5.pdf (emailed) d
+
+Real-time soft-error testing of 40nm SRAMs
+
+radecs2008_SER65nm.pdf (paper, emailed) d
+
+Altitude and Underground Real-Time SER Characterization of CMOS 65nm SRAM
+
+j23.pdf (not used) d
+
+Hardware variability-aware duty cycling for embedded sensors
+
+McCullough.pdf (not used) d
+
+Evaluating the effectiveness of model-based power characterization
+
+AUT10.pdf (emailed, partial) d
+
+Soft-errors indiced by terrestrial neutrons and natural alpha-particle emitters in advanced memory circuits at ground level
+
+wip.pdf (drive_data..., email, not used) d
+
+Disk failure investigations at the internet archive
+
+smartphone-tos12.pdf (paper, not emailed, not used) d
+
+Revisiting storage for smartphones
+
+dram-power-paper.pdf
+
+Flikker: Saving dram refresh-power through critical data partitioning
+
+conference_HPCA-12.pdf (paper, not emailed, not used) d
+
+Retension-aware placement in dram (rapid): Software methods for quasi-non-volatile dram
+
+LauraThesis (paper, emailed, not used) d
+
+Symbiotic solid state drives: Management of modern NAND flash memory
+
+li.PhD12.pdf (not used) d
+
+Towards a better understanding of the properties and impact of memory hardware errors
+
+10.1.1.155.171.pdf (paper, not used) d
+
+Characterizing flash memory: Anomalies, obervations, amd applications
+
+BleakFlash.pdf (paper, not used) d
+
+The bleak future of NAND flash memory
+
+PID1143756.pdf
+
+Soft errors induced by natural radiation at ground level in floating gate flash memories
+
+Snowdon_phd.pdf (extract?, emailed) d
+
+Operating system directed power management
+
+eurosys-2012.pdf (paper, not used) d
+
+Where is the energy spent inside my app?  Fine grained energy accounting on smartphones with eprof
+
+flash-error-anal-man.pdf
+
+Error analysis and retention-aware error management for nand flash memory
+
+hd_dsn12.pdf (paper, not used) d
+
+A study of soft error consequences in hard disk drives
+
+ispass2013_deterministic.pdf (tr1051..., other) d
+
+Non-determinism and overcount on modern hardware performance counter implementations
+
+vmw_thesis.pdf (tr1051..., other) d
+
+Using dynamic binary instrumentation to create faster, validated, multi-core simulations
+
+phone-pow-con.pdf (paper, not used) d
+
+An analysis of power consumption in a smartphone
+
+hyojun_201212_phd.pdf (done) d
+
+INFORMED STORAGE MANAGEMENT FOR MOBILE PLATFORM
+
+VRSN_Bitsquat_20120320.pdf
+
+Observations on checksum errors in DNS queries to verisign's name servers
+
+Dinaburg_Bitsquatting_WP.pdf (dnslogs+filtered_..., not used) d
+
+Bitsquatting: DNS hijacking without exploitation
+
+20120821_Grochowski.pdf (paper, done) d
+
+Future Technology Challenges For NAND Flash and HDD Products
+
+Comp-Architecture-Quantitative-Approach_5th-book.pdf
+
+Computer architecture: A quantitative approach
+
+2nd-gen-core-desktop-spec-upd.pdf
+
+2nd Generation Intel Core Processor Family Desktop, Intel Pentium Processor Family Desktop, and Intel Celeron Processor Family Desktop Specification Update
+
+xeon-e5-family-spec-update.pdf
+
+Intel Xeon Processor E5 Family Specification Update
+
+64-ia-32-arch-softdev-man-325462.pdf
+
+Intel 64 and IA-32 Architectures Software Developer’s Manual
+
+s00516ed2v01y201306cac024.pdf
+
+The Datacenter as a Computer
+
+khan-efficacy-sigmetrics2014.pdf (not used) d
+
+The Efficacy of Error Mitigation Techniques for DRAM Retention Failures: A Comparative Experimental Study
+
+dram-retention_isca13.pdf (khan-efficacy, not used) d
+
+An Experimental Study of Data Retention Behavior in Modern DRAM Devices: Implications for Retention Time Profiling Mechanisms
+
+Chandrasekar_Thesis.pdf
+
+High-Level Power Estimation and Optimization of DRAMs
+
+JamesHamilton_20100608.pdf (paper, not used) d
+
+Cloud-Computing Economies of Scale
+
+MSTR10_paper.pdf (done) d
+
+ViPZonE: Exploiting DRAM Power Variability for Energy Savings in Linux x86-64
+
+Schiffel-PhD.pdf
+
+Hardware Error Detection Using AN-Codes
+
+bircher_PhD_20109.pdf (paper+file, emailed, partial) d
+
+Predictive Power Management for Multi-Core Processors
+
+10.1.1.100.4245.pdf
+
+Instruction Level Power Analysis and Optimization of Software
+
+10.1.1.260.1032.pdf (paper+bircher_PhD, not used) d
+
+Complete System Power Estimation using Processor Performance Events
+
+After_Hard_Drives.pdf
+
+After Hard Drives—What Comes Next?
+
+DAC2011PowerCut.pdf
+
+Understanding the Impact of Power Loss on Flash Memory
+
+kim-isca14.pdf
+
+Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors
+
+thesis_Marijn_Jongerden.pdf
+
+Model-based energy analysis of battery powered systems
+
+IEEE_TII_paper.pdf
+
+Computing Optimal Schedules of Battery Usage in Embedded Systems
+
+53e223520cf24f90ff65bdcd.pdf
+
+Assessment of the Impact of Cosmic-Ray-Induced Neutrons on Hardware in the Roadrunner Supercomputer
+
+Getting-Started-Arduino_3rd-Ed.pdf
+
+Make: Getting started with Arduino
+
+IEE_Moore_Quantum.pdf
+
+Moore's law and the energy requirement of computing versus performance
+
+aldram-hpca21.pdf (not used) d
+
+Adaptive-Latency DRAM: Optimizing DRAM Timing for the Common-Case
+
+TR2015-NVMDB.pdf (not used) d
+
+A Survey of Trends in Non-Volatile Memory Technologies: 2000–2014
+
+SC13_camera_ready.pdf (paper, not used) d
+
+Feng Shui of Supercomputer Memory
+
+2001659.pdf
+
+Energy Modelling of SoftwareEmbedded Microprocessor for a Hardware Multi-threaded
+
+A-634-these.pdf
+
+La loi de convexit{\'e} {\'e}nergie-fr{\'e}quence de la consommation des programmes : mod{\'e}lisation, thermosensibilit{\'e} et applications
+
+2015_hackenberg_hppac.pdf
+
+An Energy Efficiency Feature Survey of the Intel Haswell Processor
+
+50742_15h_Models_60h-6Fh_BKDG.pdf
+
+BIOS and Kernel Developer’s Guide (BKDG) for AMD Family 15h Models 60h-6Fh Processors
+
+power_measurement_tr.pdf
+
+VMW Group Power Measurement Techniques
+
+TACO08-selective.pdf
+
+Exploiting Selective Placement for Low-cost Memory Protection
+
+jerry-li-phd-thesis.pdf
+
+Soft Error Modeling and Analysis for Microprocessors
+
+10.1.1.630.3929.pdf (paper, not used) d
+
+Inadvertently Programmed Bits in Samsung 128Mbit Flash Devices: A Flaky Investigation
+
+155_quinn_paper.pdf (paper, faded away) d
+
+Radiation-Induced Multi-Bit Upsets in Xilinx SRAM-Based FPGAs
+
+1508.07740v1.pdf (paper, cited) d
+
+Parameter Sensitivity Analysis of the Energy/Frequency Convexity Rule for Nanometer-scale Application Processors
+
+44830.pdf
+
+Disks for Data Centers
+
+eurosys16.crayon.pdf
+
+Crayon: Saving Power through Shape and Color Approximation on Next-Generation Displays
+
+FC2015.pdf (emailed) d
+
+A Quantitative Evaluation of the RAPL Power Control System
+
+meza_dsn15.pdf (not used) d
+
+Revisiting Memory Errors in Large-Scale Production Data Centers: Analysis and Modeling of New Trends from the Field
+
+flash-memory-failures-facebook.pdf
+
+A Large-Scale Study of Flash Memory Failures in the Field
+
+a056521.pdf (paper, not used) d
+
+Spare memory and timing parameters in avionics computer system requirements
+
+MemErrorsProductionDataCenters.pdf
+
+Revisiting Memory Errors in Large-Scale Production Data Centers: Analysis and Modeling of New Trends from the Field
+
+2016_ProcessVariationSurvey.pdf
+
+A Survey Of Architectural Techniques for Managing Process Variation
+
+086.pdf
+
+Intel SGX Explained
+
+baumann-hotos17.pdf (done) d
+
+Hardware is the new software
+
+AdamsReport1967Q4-1968Q1.pdf (paper, cited) d
+
+Computer Characteristics Quarterly: Volume 7, Number 4 - Volume 8, Number 1
+
+AdamsReport1967Q1-2.pdf (paper, not used) d
+
+Computer Characteristics Quarterly: Volume 7, Number 1 - Volume 7, Number 2
+
+Shaw-msMD-SC09.pdf
+
+Millisecond-Scale Molecular Dynamics Simulations on Anton
+
+1601940.pdf (not used) d
+
+Energy efficiency on the product roadmap: an empirical study across releases of a software product
+
+MR1617/ (paper, not used) d
+
+Electrical requirements for a digital society
+
+msr_2017_final.pdf (not used) d
+
+A Study on the Energy Consumption of Android App Development Approaches
+
+gordon_moore_1965_article.pdf
+
+Cramming more components onto integrated circuits
+
+LifetimeReliabilityMicroprocessors.pdf
+
+Lifetime reliability aware microprocessors
+
+SystemLevelAnalysis.pdf (paper, not emailed, not used) d
+
+System Level Analysis of Fast, Per-Core DVFS using On-Chip Switching Regulators
+
+breaking_the_x86_isa.pdf (sandsifter, cited) d
+
+Breaking the x86 ISA
+
+doc-487ecec0af0da.pdf
+
+Technological Innovation in the Semiconductor Industry: {A} Case Study of the International Technology Roadmap for Semiconductors ({ITRS})
+
+10.1.1.323.9505.pdf (done) d
+
+Implications of Historical Trends in the Electrical Efficiency of Computing
+
+2010-05-26_TIAX_CMELs.pdf (paper, not used) d
+
+Commercial Miscellaneous Electric Loads: Energy Consumption Characterization and Savings Potential in 2008 by Building Type
+
+Logic_Of_Computer_Arithmetic_1963.pdf
+
+The logic of computer arithmetic
+
+LBNL-45917b.pdf (paper, not used) d
+
+Electricity Used by Office Equipment and Network Equipment in the U.S.: Detailed Report and Appendices
+
+studyofcomputerm00bill.pdf (paper, not used) d
+
+A STUDY OF THE COMPUTER MANUFACTURING INDUSTRY IN THE UNITED STATES
+
+1-s2.0-S0026271414000882.pdf
+
+Real-time soft-error rate measurements: A review
+
+InTech-Soft_error_rate-SRAM.pdf (done) d
+
+Soft-Error Rate of Advanced SRAM Memories: Modeling and Monte Carlo Simulation
+
+NS_coin_cell_white_paper.pdf (paper, not used) d
+
+High pulse drain impact on CR2032 coin cell battery capacity
+
+10.1.1.85.3909.pdf
+
+Fundamentals of Time Shared Computers
+
+Dartmouth_Time-Sharing_System-book.pdf
+
+The dartmouth time-sharing system
+
+European_EDP_Jan61.pdf (paper, not used) d
+
+European electronic data processing -- A report on the industry and the state-of-the-art
+
+NSA-HGPEDC_1964.pdf
+
+History of NSA General-Purpose Electronic Digital Computers
+
+Richards_Arith_Ops_Computers-book.pdf
+
+Arithmetic operations in digital computers (1955)
+
+chandrakasan1995.pdf (paper, not used) d
+
+Minimizing Power Consumption in Digital CMOS Circuits
+
+chandrakasan_arbe2008.pdf
+
+Ultralow-Power Electronics for Biomedical Applications
+
+desktop-6th-gen-spec-upd.pdf
+
+6th Generation Intel® Processor Family Specification Update
+
+lewis_phd.pdf
+
+LOW POWER ASYNCHRONOUS DIGITAL SIGNAL PROCESSING
+
+wp286.pdf (paper, not used) d
+
+Continuing Experiments of Atmospheric Neutron Effects on Deep Submicron Integrated Circuits
+
+SS_6.pdf
+
+Less is more in the Fifties. Encounters between Logical Minimalism and Computer Design during the 1950s
+
+m246_1_chapter12.pdf (paper, not used) d
+
+Random processes
+
+SurveyAutoDigComp1953.pdf
+
+A Survey of Automatic Digital Computers
+
+DP_equipEncycVol2_1961.pdf (paper, not used) d
+
+Data Processing Equipment Encyclopedia: {Electronic} Devices
+
+SurveyComputersAnalogDigitalDec52.pdf
+
+A survey of automatic computers-analog and digital
+
+JPLPUB09-33.pdf
+
+Scaled {CMOS} Technology Reliability Users Guide
+
+buchholz1959.pdf
+
+Fingers or Fists?  (The Choice of Decimal or Binary Representation)
+
+ceruzzi1981.pdf
+
+The Early Computers of Konrad Zuse, 1935 to 1945
+
+398.pdf
+
+From Analytical Engine to Electronic Digital Computer: The Contributions of Ludgate, Torres, and Bush
+
+2018-2-7908.pdf (paper, not used) d
+
+A Large-Scale Study of Failures on Petascale Supercomputers
+
+293695.pdf (paper, not used) d
+
+AUTOMATIC SELECTION OF DIGITAL ELECTRONIC COMPUTERS (ASDEC)
+
+a622372.pdf
+
+Report on The ENIAC (Electronic Numerical Integrator and Computer)
+
+10.1016@j.peva.2018.pdf
+
+Characterizing machines lifecycle in Google data centers
+
+1808.05982.pdf
+
+Memristor – The fictional circuit element
+
+TernaryComputersSetun.pdf
+
+Ternary Computers: The Setun and the Setun 70
+
+c379330c94670518ddb.pdf (paper, not used) d
+
+An enhanced standard computer keyboard system for single-finger and typing-stick typing
+
+nww093.pdf
+
+Energy storage through intercalation reactions: electrodes for rechargeable batteries
+
+1908.09549.pdf
+
+Oprema – The Relay Computer of Carl Zeiss Jena
+
+KGAL18.pdf
+
+Towards an affordable brain computer interface for the assessment of programmers’ mental workload
+
+102702019.05.01.acc.pdf
+
+Intel 386 Microprocessor Design and Development Oral History Panel
+
+dsn17-wang.pdf
+
+What Can We Learn from Four Years of Data Center Hardware Failures?
+
+1904.09724.pdf
+
+RowHammer: A Retrospective
+
+UCAM-CL-TR-932.pdf
+
+CheriABI: Enforcing valid pointer provenance and minimizing pointer privilege in the POSIX C run-time environment
+
+Discovering Hard Disk Physical Geometry through Microbenchmarking.htm Discovering Hard Disk Physical Geometry through Microbenchmarking_2.htm
+
+Discovering Hard Disk Physical Geometry through Microbenchmarking
+
+rstb.2018.0372.pdf
+
+A brief history of liquid computers
+
+lithium-battelectvehicles.pdf
+
+A review on the key issues for lithium-ion battery management in electric vehicles
+
+1804.00261.pdf
+
+A Survey of Techniques for Dynamic Branch Prediction
+
+Cray_Site_Planning.pdf
+
+M Series Site Planning Reference Manual
+
+3651r_00.pdf
+
+Service-Life Prediction—State-of-the-Art Report Reported by ACI Committee 365
+
+LOVELLY_T.pdf (paper, not used) d
+
+COMPARATIVE ANALYSIS OF SPACE-GRADE PROCESSORS
+
+356540.356543.pdf
+
+Electronic Computers: A Historical Survey
+
+6A_1_Larson.pdf
+
+High-Throughput Pairwise Point Interactions in Anton, a Specialized Machine for Molecular Dynamics Simulation
+
+2002.03344.pdf
+
+Understanding HPC Benchmark Performance on Intel Broadwell and Cascade Lake Processors
+
+ws_pmbsf122s2-file1.pdf
+
+Automated Instruction Stream Throughput Prediction for Intel and AMD Microarchitectures
+
+Intel-MPX-Explained.pdf
+
+Intel MPX Explained: A Cross-layer Analysis of the Intel MPX System Stack
+
+rsta20160343.pdf
+
+The thermodynamic efficiency of computations made in cells across the range of life
+
+Computer-Arch-select-committe
+
+COMPUTER FAMILY ARCHITECTURE SELECTION COMMITTEE
+
+eurosys19-power.pdf (website, not yet, not used) d
+
+Per-Application Power Delivery
+
+09063714.pdf (technology_integration_trend_v9, other) d
+
+A Density Metric for Semiconductor Technology
+
+2020-moore.pdf (technology_integration, other) d
+
+The Node Is Nonsense: {There} are better ways to measure progress than the old Moore's Law
+
+EECS-2006-183.pdf
+
+The Landscape of Parallel Computing Research: A View from Berkeley
+
+2009.06489.pdf
+
+The Hardware Lottery
+
+1003735.pdf (paper, not used) d
+
+A Survey of Eniac Operations and Problems 1946-1952
+
+3430936.pdf
+
+The Decline of Computers as a General Purpose Technology
+

@@ -1,0 +1,297 @@
+TSE.PDF
+
+Calibrating Software Cost Models Using Bayesian Analysis
+
+COBOLMET.PDF
+
+An investigation of software metrics affect on cobol program reliability
+
+LIVING~1.HTM
+
+Living with Function Points
+
+00ASE.PDF
+
+Practical large scale what-if queries: case studies with software risk assessment
+
+FENTON~1.PDF
+
+Software metrics: Roadmap
+
+NE99CR~1.PDF
+
+A critique of software defect prediction models
+
+JORGEN~1.PS
+
+Software quality measurement
+
+TR2092~1.PDF
+
+Software size measurements: a framework for counting source statements
+
+TR2292~1.PDF
+
+Software size measurements: a framework for counting problems and defects
+
+FRAPPI~1.PDF
+
+Software metrics study: Technical memorandum 2
+
+LAFRAM~1.PDF
+
+A Risk Assessment Method and Grid for Software Measurement Programs
+
+MACD97C.PS.gz (paper, not used) d
+
+Metrics for database systems: an empirical study
+
+MAINTA~1.GZ
+
+Defining and measuring maintainability
+theory + some empirical
+
+LRGL-S~1.HTM
+
+Mapping of Datrix? software metrics set to ISO 9126 maintainability sub-characteristics 
+
+NON_OO~1.HTM
+
+Recommended thresholds for non-OO languages
+
+NON_OO~2.HTM
+
+Non-OO metric definitions
+
+OOMETD~1.HTM
+
+Object oriented metric definitions
+
+OOMETD~2.HTM
+
+Recommended thresholds for OO languages
+
+PRODUC~1.HTM
+
+Software engineering baselines (productivity)
+
+object-oriented-metrics-a.pdf
+
+Object-oriented metrics - A survey
+
+elemam99confounding.pdf
+
+The confounding effect of class size on the validity of object-oriented metrics
+
+qaoose05CyclomaticOO.pdf
+
+On the relationship between cyclomatic complexity and the degree of object orientation
+
+basili95validation.pdf
+
+A validation of object-oriented design metrics as quality indicators
+
+TR-2005-149.pdf
+
+Mining metrics to predict component failures
+
+icpc08-abram.pdf (done) d
+
+Reading Beside the Lines: Indentation as a Proxy for Complexity Metrics
+
+exp-structprop-fortran.pdf
+
+Experimental validation of a structural property of Fortran Algorithms
+
+ToTheoEstProgEff.pdf (paper, not used) d
+
+Towards a theoretical basis for estimating programming effort
+
+UAMR0853.pdf (paper+file, refed) d
+
+On the experiments in algorithm dynamics
+
+SoftSciRevisit.pdf
+
+Software science revisited: A critical analysis of the theory and its empirical support
+
+PotConSStoReli.pdf (paper, not used) d
+
+Potential contributions of software science to software reliability
+
+PredNumBugInMod.pdf (paper, not used) d
+
+Predicting the number of bugs expected in a program module
+
+MethNatSciUndSoft.pdf
+
+Using the methods of natural science to understand software
+
+impurities-alg-imp.pdf
+
+Impurities found in algorithm implementations
+
+comp-prog-and-prose.pdf
+
+A quantitative connection between computer programs and technical prose
+
+soft-sci_tech-paper.pdf
+
+A software science analysis of the writing of a technical paper
+
+soft-sci-cobol.pdf
+
+A software science analysis of Cobol programs
+
+fortran-soft-phys.pdf (paper, refed) d
+
+An experiment comparing Fortran programming times with the software physics hypothesis
+
+Cosmic-Methodv3.0.1.pdf
+
+The COSMIC functional size measurement method: Measurement manual
+
+mkIIr131.pdf
+
+MK II function point analysis counting practices manual (v 1.3.1)
+
+COCOMO_II-modelman.pdf
+
+COCOMOCO II model definition manual
+
+mccabe.pdf
+
+A complexity measure
+
+TR 71-067.pdf (paper, refed) d
+
+A theoretical relationship between mental work and machine language programming
+
+TR 73-097.pdf (paper, refed) d
+
+Experimental verification of two theorems of software physics
+
+CuadradoEtAl_PROFES07.pdf (paper, see BTH2011Padmanabhuni..., done) d
+
+Convertability between IFPUG and COSMIC function size measurements
+
+convert-FPA-to-COSMIC.pdf (paper, sogeti..., done) d
+
+Changing from FPA to COSMIC a transition framework
+
+10.1.1.131.835.pdf (paper, see BTH2011Padmanabhuni..., done) d
+
+Convertability of function points to COSMIC-FFP: Identification and analysis of functional outliers
+
+BTH2011Padmanabhuni.pdf (paper+file, partial) d
+
+A comprehensive evaluation of conversion approaches for different function points
+
+10.1.1.144.2035.pdf (paper, sogeti.csv, done) d
+
+Applicability of COSMIC full function points in an administrative environment Experiences of an early adopter
+
+SMEF2007_Proceedings.pdf (paper, not used) d
+
+Proceedings of Software measurement european forum 2007
+
+softwaremetrics-book.pdf
+
+Software metrics: A rigorous & practical approach
+
+a258447.pdf (paper, not used) d
+
+The application of function points to predict source lines of code for software development
+
+AlbrechtGaffneyFunctionPoint.pdf (paper, not used) d
+
+Software function, source lines of code, and development effort prediction: A software science validation
+
+card1988.pdf (paper, not used) d
+
+Measuring Software Design Complexity
+
+a227313.pdf (paper, not used) d
+
+CYCLOMATIC COMPLEXITY AS A UTILITY FOR PREDICTING SOFTWARE FAULTS
+
+a231860.pdf (paper, not used) d
+
+AN EMPIRICAL STUDY OF THE FAULT-PREDICTIVE ABILITY OF SOFTWARE CONTROL-STRUCTURE METRICS
+
+love1976.pdf (paper, not used) d
+
+An Independent Test of the Theory of Software Physics
+
+Computation_logical_effort.pdf
+
+COMPUTATION OF LOGICAL EFFORT IN HIGH LEVEL LANGUAGES
+
+ASE17-Readability.pdf (not used) d
+
+Automatically Assessing Code Understandability: How Far Are We?
+
+binder1990.pdf (paper, not used) d
+
+Field Experiments With Local Software Quality Metrics
+
+ab1dcbebbb2b2377d94b.pdf (paper, not used) d
+
+A Group Process for Defining Local Software Quality: Field Applications and Validation Experiments
+
+cobol-file1.pdf
+
+AN INVESTIGATION OF SOFTWARE METRICS AFFECT ON COBOL PROGRAM RELIABILITY
+
+ISO-NESMA-functional-size.pdf
+
+Software engineering — Nesma functional size measurement method — Definitions and counting guidelines for the application of Function Point Analysis
+
+measure-progclarity.pdf
+
+A Qualitative Justification for a Measure of Program Clarity
+
+harrison1981.pdf
+
+A COMPLEXITY MEASURE BASED ON NESTING LEVEL
+
+ICSM-ICSME2013_HowDoes.pdf (not used) d
+
+How does Context Affect the Distribution of Software Maintainability Metrics?
+
+Introductionv4.0.pdf
+
+The COSMIC Functional Size Measurement Method Version 4.0 Introduction to the COSMIC method of measuring software
+
+19890016247.pdf (paper, not used) d
+
+The Software Product Assurance Metrics Study: JPL's Software Systems Quality and Productivity
+
+AssocMeasuresFaultLoc.pdf
+
+Extended Comprehensive Study of Association Measures for Fault Localization
+
+PHD-2018-02.pdf (not used) d
+
+The Consistency, Independence and Validity of Software Complexity Metrics
+
+b80c0965059a117817.pdf
+
+When do Software Complexity Metrics Mean Nothing?  – When Examined out of Context
+
+356715.356717.pdf
+
+A Review And Evaluation Of Software Science
+
+SED-TR2014-001-LOC.pdf (paper, cited) d
+
+Differences in the Definition and Calculation of the LOC Metric in Free Tools
+
+analyticsofliter00sheruoft.pdf
+
+Analytics of Literature A MANUAL FOR THE OBJECTIVE STUDY OF ENGLISH PROSE AND POETRY
+
+ottenstein1979.pdf (paper, not used) d
+
+Quantitative Estimates of Debugging Requirements
+

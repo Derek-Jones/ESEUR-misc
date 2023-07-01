@@ -1,0 +1,124 @@
+10.1.1.48.7652.pdf
+
+Re-evaluating inheritance depth on the maintainability of object-oriented software
+
+serv-req-commercial-softapps.pdf
+
+An investigation on the occurrence of service requests in commercial software applications
+
+wcre07.pdf
+
+Examining the effects of global data usage on software maintainability
+
+corr_comp-warn_rev-num.pdf
+
+Empirical analysis on the correlation between GCC compiler warnings and revision numbers of source files in five industrial software projects
+
+Hatt2008a.pdf
+
+On the nature of commits
+
+AbramHindle-PhD.pdf (see other papers, other) d
+
+Evidence-based software process recovery
+
+FryISSTA12_PREPRINT.pdf (not used) d
+
+A human study of patch maintainability
+
+checklists_in_inspections.pdf (not used) d
+
+Testing the value of checklists in code inspections
+
+msr08.pdf
+
+Small patches get in!
+
+msr2011.pdf (partial) d
+
+Do time of day and developer experience affect commit bugginess?
+
+13.emse.bugginess.pdf (msr2011, done) d
+
+Correlations between bugginess and time-based commit characteristics
+
+fsstudy.pdf (partial) d
+
+A study of Linux file system evolution
+
+Bijlsma_MSc.pdf (not used) d
+
+Indicators of issue handling efficiency
+
+icse2011-mcintosh.pdf (classified_files.tbz2+build.csv, moved to misc) d
+
+An empirical study of build maintenance effort
+
+wcre13main-idm125-p-19100.pdf (not used) d
+
+Towards understanding how developers spend their effort during maintenance activities
+
+bird-fse-2012.pdf
+
+Assessing the value of branches with what-if analysis
+
+a174454.pdf (paper, done) d
+
+A Study of Software Maintenance Costs of Air Force Large Scale Computer Systems
+
+kadar2016.pdf (not used) d
+
+A Code Refactoring Dataset and Its Assessment Regarding Software Maintainability
+
+16Moderating_Effects_Struct.pdf
+
+The moderating effects of structure on volatility and complexity in software enhancement
+
+ReasonforChange_ICSM2000.pdf (cited) d
+
+Identifying Reasons for Software Changes Using Historic Databases
+
+Vockac_EMSE2004.pdf
+
+A Controlled Experiment Comparing the Maintainability of Programs Designed with and without Design Patterns—A Replication in a Real Programming Environment
+
+patmain_tse2001.pdf (moved to misc) d
+
+A Controlled Experiment in Maintenance Comparing Design Patterns to Simpler Solutions
+
+purushothaman2005.pdf (paper, partial) d
+
+Toward Understanding the Rhetoric of Small Source Code Changes
+
+10.2307@40539248.pdf (emailed) d
+
+A Matter of Balance: Specialization, Task Variety, and Individual Learning in a Software Maintenance Environment
+
+Reading-Between-the-Lines.pdf
+
+Reading between the lines: Source code documentation as a conservation strategy for software-based art
+
+chase2018.pdf (also JBCS2018A and vem2017, not used) d
+
+Who Gets a Patch Accepted First?  Comparing the Contributions of Employees and Volunteers
+
+J7.pdf (not used) d
+
+On the Diffuseness and the Impact on Maintainability of Code Smells: A Large Scale Empirical Investigation
+
+fulltext_Norway-Maint.pdf (paper, not used) d
+
+Software Maintenance in Norway: A Survey Investigation
+
+Norway-dev-maint.pdf (paper, not used) d
+
+A study of development and maintenance in Norway: assessing the efficiency of information systems support using functional maintenance
+
+35f6eb29ff52be6fba8afb.pdf (paper, not used) d
+
+Factors Affecting Information Systems Volatility
+
+4ddzXwEtjTLB.pdf (extracted) d
+
+Indirectly predicting the maintenance effort of open-source software
+

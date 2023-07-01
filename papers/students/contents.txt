@@ -1,0 +1,236 @@
+simula_22.pdf
+
+Individual differences in how much people are affected by irrelevant and misleading information
+
+simula_anchor_stud.pdf (not used) d
+
+Impact of effort estimates on software project work
+
+10.1.1.107.2442.pdf
+
+An empirical evaluation of refactoring
+
+ese12.pdf
+
+Do background colors improve program comprehension in the #ifdef hell?
+
+nanz-et-al_esem11.pdf
+
+Design of an empirical study for comparing the usability of concurrent programming languages
+
+SLS+13.pdf
+
+Does the Discipline of Preprocessor Annotations Matter? A Controlled Experiment
+
+2004_isese.pdf (paper, not used) d
+
+Extreme Programming: A Survey of Empirical Data from a Controlled Case Study
+
+10.1.1.42.1508.pdf (paper, not used) d
+
+An Empirical Evaluation of Three Defect-Detection Techniques
+
+PB_risk_anal-Experiment.pdf (not used) d
+
+Perspective Based Risk Analysis - A Controlled Experiment
+
+1612.00330.pdf EmpiricalEvalSafetyAnalTech.pdf (not used) d
+
+A Controlled Experiment for the Empirical Evaluation of Safety Analysis Techniques for Safety-Critical Software
+
+ewic_ea07_paper5.pdf (paper, not used) d
+
+An Experiment Measuring the Effects of Maintenance Tasks on Program Knowledge
+
+ITiCSE04-wg.pdf
+
+A Multi-National Study of Reading and Tracing Skills in Novice Programmers
+
+mccracken-wg-2001.pdf
+
+A multi-national, multi-institutional study of assessment of programming skills of first-year {CS} students
+
+43--iticse2013.pdf
+
+A Fresh Look at Novice Programmers’ Performance and Their Teachers’ Expectations
+
+jakk_pattern09-1997.pdf (prechelt.txt, not used) d
+
+An experiment on the usefulness of design patterns: Detailed description and evaluation
+
+MeasProgExperience.pdf (not used) d
+
+Measuring and Modeling Programming Experience
+
+7af21c92a03257d7a562.pdf (paper, not used) d
+
+Do Programmer Pairs make different Mistakes than Solo Programmers?
+
+C++LambdasProgrammerExp.pdf (email, not used) d
+
+An Empirical Study on The Impact of C++ Lambdas And Programmer Experience
+
+2016-sclit-uup.pdf (done) d
+
+Do Students’ Programming Skills Depend on Programming Language?
+
+1997-jese-guid.pdf (paper, not used) d
+
+A Controlled Experiment to Evaluate On-Line Process Guidance
+
+CS-TR-415.pdf (paper, not used) d
+
+A partial replication of Thelin et al.’s usage-based reading experiment
+
+shimeall.pdf (paper, not used) d
+
+An empirical comparison of software fault tolerance and fault elimination
+
+EFoCS-25-97.pdf (paper, not used) d
+
+A Comparison of Tool-Based and Paper-Based Software Inspection
+
+ReplicatedAssessRequirementsInsp.pdf (prechelt, not used) d
+
+A replicated experiment to assess requirements inspection techniques
+
+10.1287@isre.7.pdf (emailed, lost) d
+
+Are attributes entities?  A study of database designers' memory structures
+
+love1977.pdf (paper, not used) d
+
+AN EXPERIMENTAL INVESTIGATION OF THE EFFECT OF PROGRAM STRUCTURE ON PROGRAM UNDERSTANDING
+
+07404062.pdf (not used) d
+
+The Role of Method Chains and Comments in Software Readability and Comprehension—An Experiment
+
+A28_Pea_86.pdf
+
+Language-Independent Conceptual "Bugs" in Novice Programming
+
+Thesis-1989-T625s.pdf (paper, not used) d
+
+A STUDY OF THE EFFECT OF THE OBJECT-ORIENTED PROGRAMMING PARADIGM ON PROGRAM DESIGN COMPLEXITY USING ADA, MODULA-2, AND C++
+
+emse17_paper.pdf
+
+Empirical Software Engineering Experts on the Use of Students and Professionals in Experiments
+
+tse03.pdf
+
+An Experimental Comparison of Usage-Based and Checklist-Based Reading
+
+sample-acmsmall.pdf
+
+Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names
+
+uhm_phd_8622096_r.pdf (paper, not used)
+
+NATURAL VERSUS COMPUTER LANGUAGES: A READING COMPARISON
+
+bateson1987.pdf
+
+Cognitive processing differences between novice and expert computer programmers
+
+Reactive-Prog-Empirical.pdf (paper, not used) d
+
+On the Positive Effect of Reactive Programming on Software Comprehension: An Empirical Study
+
+paper3.pdf (paper, not used) d
+
+Mental models, Consistency and Programming Aptitude
+
+1807.02971.pdf (not used) d
+
+A Longitudinal Cohort Study on the Retainment of Test-Driven Development
+
+31295005227466.pdf (paper, not used) d
+
+IDENTIFYING THE ACADEMIC FACTORS THAT PREDICT THE SUCCESS OF ENTERING FRESHMEN IN A BEGINNING COMPUTER SCIENCE COURSE
+
+undergraduate_retention.pdf (paper, not used) d
+
+Undergraduate retention and attainment across the disciplines
+
+10.1.1.11.8250.pdf
+
+Cognitive Strategies and Looping Constructs: An Empirical Study
+
+sdarticle2.pdf (paper, not used) d
+
+Effects of Programming Experience in Debugging Semantic Errors
+
+student-opt-pred.pdf (paper, not used) d
+
+Characteristics of software engineers with optimistic predictions
+
+SollowayEhrlich.pdf
+
+Empirical studies of programming knowledge
+
+Struct-prog-learn-FORTRAN.pdf (paper, not used) d
+
+Structured programming as an aid in learning FORTRAN programming, useful factors for predicting success in a FORTRAN programming course, and the interaction involved
+
+EvalUsage-Based_Reading.pdf
+
+Evaluation of Usage-Based Reading—Conclusions after Three Experiments
+
+bonner2008.pdf
+
+Informational intra-group influence: The effects of time pressure and group size
+
+borstler2016.pdf (not used) d
+
+The Role of Method Chains and Comments in Software Readability and Comprehension – An Experiment
+
+Feldt2018_OnTheUseOfStud.pdf
+
+Four commentaries on the use of students and professionals in empirical software engineering experiments
+
+under-misunderstandings-fse-2017.pdf (not used) d
+
+Understanding Misunderstandings in Source Code
+
+SIGCSE2016.pdf (paper, not used) d
+
+Students’ Syntactic Mistakes in Writing Seven Different Types of SQL Queries and its Application to Predicting Students’ Success
+
+Harju_Esa_pro_gradu_2019.pdf (not used) d
+
+Predicting programming assignment difficulty
+
+Reporting_bad_news_soft_proj.pdf
+
+Reporting bad news on software projects: the effects of culturally constituted views of face-saving
+
+ist08-taskorder.pdf
+
+The effect of task order on the maintainability of object-oriented software
+
+cherry1986.pdf
+
+An experimental evaluation of prefix and postfix notation in command language syntax
+
+iselin1988.pdf
+
+Conditional statements, looping constructs, and program comprehension: an experimental study
+
+2846680.2846681.pdf (not used) d
+
+Frequency Distribution of Error Messages
+
+1805.02544.pdf (not used) d
+
+Need for Sleep: the Impact of a Night of Sleep Deprivation on Novice Developers’ Performance
+
+nbnfi-fe201901111977.pdf (not used) d
+
+A controlled experiment on time pressure and confirmation bias in functional software testing
+
+Mantyla_ICSE2014_Time_pressure.pdf (email, not used) d
+
+Time Pressure: A Controlled Experiment of Test Case Development and Requirements Review
+

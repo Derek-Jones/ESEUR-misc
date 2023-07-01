@@ -1,0 +1,484 @@
+tcheck_tse98.pdf (+prechelt.txt, done) d
+
+A controlled experiment to assess the benefits of procedure argument type checking
+
+metrics96.pdf
+
+An Experiment to Assess the Benefits of Inter-Module Type Checking
+
+JJ-Yi_PhD.pdf (paper, not used) d
+
+Improving processor performance and simulation methodology
+
+MemoPower03PACS.pdf (paper, partial) d
+
+"Look it up" or "Do the math": Am energy, area, and timing analysis of instruction reuse and memoization
+
+mayerA1-oopsla2012.pdf (paper, partial) d
+
+An empirical study of the influence of static type systems on the usability of undocumented software
+
+kleinschmagerAl-icpc2012.pdf (paper, partial) d
+
+Do static type systems improve maintainability of software systems?  An empirical study
+
+TR_DCC-20120418-005.pdf (very similary to mayerA1, partial) d
+
+Static type systems (sometimes) have a positive impact on the usability of undocumented software: An empirical evaluations
+
+hanenberg-oopsla2010.pdf (paper, not used) d
+
+An experiment about static and dynamic type systems
+
+10.1.1.76.1883.pdf
+
+Experimental computer science: The need for a cultural change
+
+tb102veytsman-typo.pdf
+
+Towards evidence-based typography: Literature review and experiment design
+
+tb104veytsman-typo.pdf (partial) d
+
+Towards evidence-based typography: First results
+
+Dybdahl_MSc.pdf (paper, not used) d
+
+Source Code Inspection: Measuring the Difference Between Individual and Group Performance
+
+CLAN.pdf (not used) d
+
+Detecting similar software applications
+
+1994-17.pdf
+
+Experimental evaluation in computer science: A quantitative study
+
+journal.pone.0067111.pdf (not used) d
+
+Toward reproducible computational research: An empirical analysis of data and code policy adoption by journals
+
+tr-cs-Reproducibility.pdf (refed) d
+
+Measuring reproducibility in computer systems research
+
+ty963xm8739.pdf
+
+Rejuvenating experimental computer science
+
+simula32.pdf
+
+Quality of design, analysis and reporting of software engineering experiments: A systematic review
+
+theoryuse-review.pdf
+
+A Systematic Review of Theory Use in Software Engineering Experiments
+
+1312.5670.pdf
+
+The availability of research data declines rapidly with article age
+
+zelkowitz-1984.pdf (paper, not used) d
+
+Data collection and evaluation for experimental computer science research
+
+datashare-dependson.pdf
+
+Willingness to share research data is related to the strength of the evidence and the quality of reporting of statistical results
+
+2013_LatifaGuerrouj.pdf (Identifier, not used) d
+
+Context-aware source code identifier splitting and expansion for software maintenance
+
+context-emse.pdf (Identifier..., not used) d
+
+An experimental investigation on the effects of context on source code identifiers splitting and expansion
+
+1303.6485v2.pdf (partial) d
+
+Identifying compiler options to minimise energy consumption for embedded platforms
+
+Ponz2014b.pdf (not used) d
+
+Mining stackoverflow to turn the IDE into a self-confident programming prompter
+
+p457.pdf (partial) d
+
+Do Developers Benefit from Generic Types?
+
+plateau09-hanenberg.pdf (paper, not used) d
+
+What is the impact of static type systems on programming time?  Preliminary empirical results
+
+Gan77.pdf (partial) d
+
+An experimental evaluation of data type conventions
+
+DOSPERT_30_coding_instruct.doc
+
+Scoring Instructions for the DOSPERT Scale
+
+asplos13-quantreg.pdf (icpe13-datamill, not used) d
+
+Why you should care about quantile regression
+
+nanz-et-al_esem13.pdf (not used) d
+
+Benchmarking usability and performance of multicore languages
+
+JohnDalyThesis.pdf (paper, students, not used) d
+
+Replication and a multi-method approach to empirical software engineering research
+
+Unexpected Results in Online Controlled Experiments
+
+ExPUnexpectedSIGKDD.pdf
+
+addiction.pdf
+
+How to have a high success rate in treatment: advice for evaluators of alcoholism programs
+
+TOSEM-Portfolio-Preprint.pdf (not used) d
+
+Portfolio: Searching for Relevant Functions and Their Usages in Millions of Lines of Code
+
+MuellerHoefer2007.pdf (paper+file, done) d
+
+The Effect of Experience on the Test-Driven Development Process
+
+emp_pbr.pdf (partial) d
+
+The Empirical Investigation of Perspective-Based Reading
+
+iso9126_defect_classification.pdf (not used) d
+
+Using the ISO/IEC 9126 product quality model to classify defects : a Controlled Experiment
+
+Science-2015--.pdf
+
+Estimating the reproducibility of psychological science
+
+2015083pap.pdf
+
+Is Economics Research Replicable?  Sixty Published Papers from Thirteen Journals Say “Usually Not”
+
+RepeatabilityTR.pdf
+
+Repeatability and Benefaction in Computer Systems Research — A Study and a Modest Proposal
+
+doc-design-exp-tosem.pdf (not used) d
+
+Documenting Design Pattern Instances: a Family of Four Controlled Experiments on Source Code Comprehensibility
+
+journal.pone.0010068.pdf
+
+"Positive" Results Increase Down the Hierarchy of the Sciences
+
+caratpercom15.pdf (cited) d
+
+Energy Modeling of System Settings: {A} Crowdsourced Approach
+
+case-study-research-book.pdf
+
+Case study research in software engineering
+
+PreZieSch15-cesidifficulty.pdf
+
+Difficulty Factors of Obtaining Access for Empirical Studies in Industry
+
+p223.pdf (done) d
+
+Analysis of the Influences on Server Power Consumption and Energy Efficiency for {CPU}-Intensive Workloads
+
+blind-se-exp.pdf (not used) d
+
+Using Blind Analysis for Software Engineering Experiments
+
+fcdae-book.pdf
+
+A First Course in Design and Analysis of Experiments
+
+1401.4655v1.pdf (paper, cited) d
+
+The Energy/Frequency Convexity Rule: Modeling and Experimental Validation on Mobile Devices
+
+steve-kerrison-phd.pdf (emailed) d
+
+Energy modelling of multi-threaded, multi-core software for embedded systems
+
+dropouts.pdf
+
+The Pitfall of Experimenting on the Web: How Unattended Selective Attrition Leads to Surprising (Yet False) Research Conclusions
+
+myers1978.pdf (paper+file, partial) d
+
+A Controlled Experiment in Program Testing and Code Walkthroughs/Inspections
+
+Miara1983Program.pdf
+
+Program indentation and comprehensibility
+
+1512.08409.pdf
+
+Using Students as Experimental Subjects in Software Engineering Research — A Review and Discussion of the Evidence
+
+ioannidis-JAMA2005.pdf
+
+Contradicted and Initially Stronger Effects in Highly Cited Clinical Research
+
+min_experiment_time.pdf
+
+An optimal adjustment procedure to minimize experiment time in decisions with multiple alternatives
+
+nondeterminism.pdf (emailed) d
+
+Investigating Execution Path Non-determinism in the Linux Kernel
+
+okech2014assc.pdf
+
+Utilizing Inherent Diversity in Complex Software Systems
+
+p147-von-kistowski.pdf (paper, not used) d
+
+Variations in CPU Power Consumption
+
+evaluate-toplas-2016.pdf
+
+The Truth, The Whole Truth, and Nothing But the Truth: A Pragmatic Guide to Assessing Empirical Evaluations
+
+Stewart_Ungemach_2015.pdf (not used) d
+
+The average laboratory samples a population of 7,300 Amazon Mechanical Turk workers
+
+wicherts2006.pdf
+
+The poor availability of psychological research data for reanalysis
+
+20572823.pdf (not used) d
+
+Researcher Bias: The Use of Machine Learning in Software Defect Prediction
+
+CommentsResearcherBiasML.pdf (not used) d
+
+Comments on "Researcher Bias: The Use of Machine Learning in Software Defect Prediction"
+
+Vanpaemel2015AWWAG.pdf
+
+Are We Wasting a Good Crisis? The Availability of Psychological Research Data after the Storm
+
+1510.02086v1.pdf (emailed) d
+
+Inherent Diversity in Replicated Architectures
+
+ExpRelCOSMICMeasurements.pdf (paper, not used) d
+
+An Experimental Study on the Reliability of COSMIC Measurement Results
+
+ftalat.pdf (extract?, email, done) d
+
+Evaluation of CPU Frequency Transition Latency
+
+pallister_phd.pdf (emailed) d
+
+Exploring the fundamental differences between compiler optimisations for energy and for performance
+
+PlackettBurman_compiler-opt.pdf (paper, not used) d
+
+Plackett and Burman analysis to select effective compiler optimizations
+
+9723957606d9dad.pdf (paper, not used) d
+
+A Simple Experiment in Top-Down Design
+
+debnath.pdf (paper+file, done) d
+
+Exploiting the Impact of Database System Configuration Parameters: A Design of Experiments Approach
+
+IS-82-74.pdf
+
+Conditional statements and program coding: an experimental evaluation
+
+a082687.pdf (paper, not used) d
+
+Experimental evaluation of on-line program construction
+
+2015PLOSONE.pdf (cited) d
+
+Why a Confirmation Strategy Dominates Psychological Science
+
+Banner Ads Considered Harmful Gwern.net.htm (not used) d
+
+Banner Ads Considered Harmful (Here)
+
+gannon1976.pdf (paper, not used) d
+
+An experiment for the evaluation of language features
+
+Experimentation-Juristo-book.pdf
+
+BASICS OF SOFTWARE ENGINEERING EXPERIMENTATION
+
+a152924.pdf (paper, not used) d
+
+CLEANROOM Software Development: An Empirical Evaluation
+
+stvr95.pdf (paper, done) d
+
+An Experimental Evaluation of Capture-Recapture in Software Inspections
+
+schatzoff1967.pdf (paper, not used) d
+
+All Experimental Comparison of Time Sharing and Batch Processing
+
+replication-empirical-SE.pdf
+
+Replication of empirical studies in software engineering research: a systematic mapping study
+
+1802.04580.pdf (not used) d
+
+Replication studies considered harmful
+
+G-Theory_Statistics.pdf
+
+Reliability Coefficients and Generalizability Theory
+
+Dieste-experience.pdf (not used) d
+
+Empirical Evaluation of the Effects of Experience on Code Quality and Programmer Productivity: An Exploratory Study
+
+gould1975.pdf (paper, not used) d
+
+Some Psychological Evidence on How People Debug Computer Programs
+
+p448-nakagawa.pdf
+
+Quantifying Programmers’ Mental Workload during Program Comprehension Based on Cerebral Blood Flow Measurement: A Controlled Experiment
+
+DSL_Replication.pdf (students, not used) d
+
+Program comprehension of domain-specific and general-purpose languages: replication of a family of experiments using integrated development environments
+
+8504019.pdf
+
+THE CLOZE PROCEDURE AND SOFTWARE COMPREHENSION
+
+Comp-3-notations.pdf (not used) d
+
+Comparing Three Notations for Defining Scenario-based Model Tests: A Controlled Experiment
+
+korson_87.pdf (paper+file, not used) d
+
+An empirical study of the effects of modularity on program modifiability
+
+fpsyg-06-00621.pdf
+
+Replication, falsification, and the crisis of confidence in social psychology
+
+usccse82-500.pdf (paper+file, not used) d
+
+PROTOTYPING VS. SPECIFYING: A MULTI-PROJECT EXPERIMENT
+
+SSRN-id3204791.pdf
+
+p-Hacking and False Discovery in A/B Testing
+
+SonarQube_TD_remediation.pdf (not used) d
+
+On the Accuracy of SonarQube Technical Debt Remediation Time
+
+1910.10601.pdf (not used) d
+
+Empirical Review of Automated Ethereum SmartAnalysis Tools on 47,587 Contracts
+
+j15.pdf (emailed) d
+
+Does Automated Unit Test Generation Really Help Software Testers?  A Controlled Empirical Study
+
+FSE2019_ExpFeatTrace.pdf (not used) d
+
+Effects of Explicit Feature Traceability on Program Comprehension
+
+1902.02467.pdf (cited) d
+
+How Different Are Different diff Algorithms in Git?  Use --histogram for Code Changes
+
+1606.06543.pdf (not used) d
+
+An Uncertainty-Aware Approach to Optimal Configuration of Stream Processing Systems
+
+2019-kvarven.pdf (cited) d
+
+Comparing meta-analyses and preregistered multiple-laboratory replication projects
+
+ase2017_1.pdf (website+email, done) d
+
+Exploring Regular Expression Comprehension
+
+DavisMichael-ESECFSE19.pdf (website, cited) d
+
+Why Aren’t Regular Expressions a Lingua Franca? An Empirical Study on the Re-use and Portability of Regular Expressions
+
+2018Kconfig_0.pdf
+
+Uniform Sampling from Kconfig Feature Models
+
+17FSE.pdf
+
+Finding Near-Optimal ConfigurationsRandom Sampling in Product Lines by
+
+Kerr1998.pdf
+
+HARKing: Hypothesizing After the Results are Known
+
+1707.09642.pdf (not used) d
+
+Adaptive Performance Optimization under Power Constraint in Multi-thread Applications with Diverse Scalability
+
+pbio.1002106.pdf (done) d
+
+The Extent and Consequences of P-Hacking in Science
+
+2002.07764.pdf
+
+Sampling in Software Engineering Research: A Critical Review and Guidelines
+
+ase2018.pdf (emailed for more) d
+
+Mining File Histories: Should We Consider Branches?
+
+2018Hernandez_DataInBrief.pdf (not used) d
+
+Two datasets of defect reports labeled by a crowd of annotators of unknown reliability
+
+2004.05332.pdf (not used) d
+
+A Procedure and Guidelines for Analyzing Groups of Software Engineering Replications
+
+2001.07283.pdf (not used) d
+
+In-The-Field Monitoring of Functional Calls: Is It Feasible?
+
+lamarca-ladner.pdf (paper, cited) d
+
+The Influence of Caches on the Performance of Sorting
+
+2019-curran.pdf
+
+I'm paid biweekly, just not by leprechauns: Evaluating valid-but- incorrect response rates to attention check items
+
+zelkowitz-wallace-1997.pdf
+
+Experimental validation in software engineering
+
+ExperCompareMaintain.pdf (emailed) d
+
+A Controlled Experiment Comparing the Maintainability of Programs Designed with and without Design Patterns—A Replication in a Real Programming Environment
+
+priming.pdf (not used) d
+
+Primers or Reminders?  The Effects of Existing Review Comments on Code Review
+
+2009.10660.pdf (not used) d
+
+Measuring affective states from technical debt A psychoempirical software engineering experiment
+

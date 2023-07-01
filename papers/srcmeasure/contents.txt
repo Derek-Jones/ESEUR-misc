@@ -1,0 +1,1174 @@
+ip-oopsla05-c.pdf (paper, not used) d
+
+Micro patterns in Java code
+
+getter-methods.pdf
+
+How many trivial getter methods does Java have?
+
+icsm05.pdf
+
+Static analysis of object references in RMI-based Java software
+
+ryder99static.pdf (paper, not used) d
+
+A static study of Java exceptions using JESP
+
+to-appear-jss-jochyich.ps.gz (paper, not used) d
+
+An uncaught exception analysis for Java
+
+200401_04.pdf (paper, not used) d
+
+Mining control patterns from Java program corpora
+
+melton-statics.pdf (paper, done) d
+
+Static members and cycles in Java software
+
+UoA-SE-2006-1.pdf
+
+An empirical study of cycles among classes in Java
+
+nanopatterns.pdf
+
+Fundamental nano-patterns to characterize and classify java methods
+
+eq-cd.pdf
+
+An Empirical Study of the Design and Implementation of Object Equality in Java
+
+rountev04static.pdf
+
+Static and dynamic analysis of call chains in Java
+
+vhi-01-2009.pdf
+
+An empirical study of open source software architectures' effect on product quality
+
+umi-umd-3682.pdf
+
+Using historical data from source code revision histories to detect source code properties
+
+dmg2010ninka.pdf (not used) d
+
+A sentence-matching method for automatic license identification of source code files
+
+UoA-SE-2008-4.pdf
+
+An empirical study of overriding in open source java
+
+10.1.1.150.1702.pdf
+
+On the Complexity of Maintaining the Linux Kernel Configuration
+
+identify-refact-06.pdf
+
+Identifying refactorings from source-code changes
+
+ICSE2010-cpp.pdf (done) d
+
+An analysis of the variability if forty preprocessor-based software product lines
+
+fse10.pdf (emailed) d
+
+A study of the uniqueness of source code
+
+Grechanik_java.pdf (treasure..., cited) d
+
+An empirical investigation into a large-scale Java open source code repository
+
+hicss-42-csdistr-final-web.pdf
+
+The commit size distribution of open source software
+
+jsmeter_tr.pdf (not emailed, not used) d
+
+JSMeter: Characterizing real-world behavior of Javascript programs
+
+javascript-wild.pdf (not emailed, not used) d
+
+JSMeter: Measuring javascript behavior in the wild
+
+Alias07SQJ.pdf
+
+Common Coupling and Pointer Variables, with Application to a Linux Case Study
+
+BaxterShape.pdf
+
+Understanding the shape of java software
+
+Vasa-ASWEC2010.pdf
+
+On the use of properties in Java applications
+
+FILESTRUCT.PDF
+
+An analysis framework for understanding layered software architectures
+
+Delorey2007b.pdf (paper, not used) d
+
+Programming language trends in open source development: An evaluation using data from all production phase sourceforge projects
+
+size6_APSEC_final.pdf
+
+An empirical study of class sizes for large Java systems
+
+10.1.1.65.1171.pdf
+
+When functions change their names: Automatic detection of origin relationships
+
+10.1.1.150.3829.pdf
+
+Automatic labeling of software components and their evolution using log-likelihood ratio of word frequencies in source code
+
+oni0017-arafat.pdf
+
+The commenting practice of open source
+
+algolsta.pdf (paper, not used) d
+
+Some statistics from Algol programs
+
+weimer-path-techreport.pdf
+
+The road not taken: Estimating path execution frequency statically
+
+10.1.1.89.1925.pdf (paper, not used) d
+
+Categorization of common coupling and its application to the maintainability of the Linux kernel
+
+UoA-SE-2007-10.pdf
+
+An empirical view of inheritance in Java software
+
+TemperoASWEC09.pdf
+
+How fields are used in Java: An empirical study
+
+wcre_tao-after-mh.pdf
+
+Analysis of procedure splitability
+
+Herraiz_12.pdf (not used) d
+
+On the statistical distribution of object-oriented system properties
+
+parnin2011jga.pdf (email, generics.zip, not cited) d
+
+Java generics adoption: How new fatures are introduced, championed, or ignored
+
+generics2.pdf (cited) d
+
+Adoption and use of Java generics
+
+Spi08b.pdf (not used) d
+
+A tale of four kernels
+
+2011_seke.pdf (paper, not used) d
+
+How annotations are used in Java: An empirical study
+
+icsm12.pdf (partial) d
+
+The order of things: How developers sort fields and methods
+
+spe1059.pdf (paper, not used) d
+
+A study of irreducibility in C programs
+
+EMSE-features.pdf (paper, not used) d
+
+How (and why) developers use the dynamic features of programming languages: The case of smalltalk
+
+Spreadsheet_maint.pdf (not used) d
+
+Measuring maintainability of spreadsheets in the wild
+
+scam11.pdf (email, not used) d
+
+A study of cloning in the Linux SCSI drivers
+
+1211.4775v6.pdf (not used) d
+
+Contracts in practice
+
+Linaro Wiki-Assmbly.htm (not used) d
+
+Optimisation and porting - assembly
+
+icsews12wetsom-robles.pdf (wetsom..., done) d
+
+Modification and developer metrics at the function level: Metrics for the study of the evolution of a software project
+
+icsm2012.pdf (not used) d
+
+An empirical analysis of the distribution of unit test smells and their impact on software maintenance
+
+hofmann-riehle-oss-2009.pdf (confidential) d
+
+Estimating commit sizes efficiently
+
+ecoop11.pdf (cited) d
+
+The Eval that men do
+
+Selby_Jason.pdf (paper; emailed twice, not used) d
+
+Unconventional applications of compiler analysis
+
+jccpprt2_advances2003.pdf (not used) d
+
+Are scripting languages any good?  A validation of Perl, Python, Rexx, and Tcl against C, C++, and Java
+
+jccpprt_computer2000.pdf (not used) d
+
+An empirical comparison of C, C++, Java, Perl, Python, Rexx, and TCL
+
+scam08.pdf (icpc08_whitespace..., not used) d
+
+From indentation shapes to code structures
+
+article7.pdf (emailed) d
+
+Parameter-based refactoring and the relationship with fan-in/fan-out coupling
+
+tidier-jsme.pdf (not used) d
+
+TIDIER: An identifier splitting approach using speech recognition techniques
+
+naturalness.pdf
+
+On the naturalness of software
+
+obj-protocols.pdf (not used) d
+
+An empirical study of object protocols in the wild
+
+icwe13.pdf (not used) d
+
+Hidden-web induced by client-side scripting: An empirical study
+
+AOSD2011.pdf (not used) d
+
+Analyzing the discipline of preprocessor annotations in 30 million lines of C code
+
+AsaduzzamanICSM2013LHDiff.pdf (not used) d
+
+LHDiff: A language-independent hybrid approach for tracking source code lines
+
+paper_16.pdf
+
+Syntactic and functional variability of a million code submissions in a machine learning MOOC
+
+CASCON_2013.pdf (not used) d
+
+A multidimensional empirical study on refactoring activity
+
+iwsc2011-kamiya-paper.pdf (partial) d
+
+How code skips over revisions
+
+tb12refaflex.pdf (not used) d
+
+RefaFlex: Safer refactorings for reflective Java programs
+
+icse14.pdf (done) d
+
+Mining billions of AST nodes to study actual and potential usage of Java language features
+
+issta2012.pdf (not used) d
+
+Static detection of brittle parameter typing
+
+main-ieee.pdf (partial) d
+
+Popularity, interoperability, and impact of programming languages in 100,000 open source projects
+
+spreadsheet-clone.pdf (paper, not used) d
+
+Data clone detection and visualization in spreadsheets
+
+Taylor2012.pdf (paper, emailed, partial) d
+
+Analysis and characterization of author contribution patterns in open source software development
+
+Taylor2011.pdf (paper, emailed) d
+
+An analysis of author contribution patterns in eclipse foundation source code
+
+medeiros-jucs-14.pdf (not used) d
+
+A catalogue of refactorings to remove incomplete annotations
+
+TSE-2013-08-0271_V1.0a.pdf
+
+Conservation of information: Software's hidden clockwork?
+
+1310.0242.pdf (906-2728-OhlohAnalytics.zip, not used) d
+
+Towards base rates in software analytics
+
+906-2728-1-PB.pdf (not used) d
+
+An initial quality analysis of the Ohloh software evolution data
+
+aosd14ready.pdf (not used) d
+souzaMSc.pdf
+
+How do programmers use optional typing? An empirical study
+
+J3.pdf (not used) d
+
+Labeling source code with information retrieval methods: An empirical study
+
+burrows_2010a_phd.pdf (not used) d
+
+Source code authorship attribution
+
+lang-modeling-java.pdf (not used) d
+
+Mining source code repositories at massive scale using language modeling
+
+jkraaijeveld_MSc.pdf (not used) d
+
+Exploring characteristics of code churn
+
+use-api_public-version.pdf (not used) d
+
+How do developers use APIs? A case study of concurrency
+
+EDCA_SANER15_Hack.pdf (cited) d
+
+Are {PHP} applications ready for Hack?
+
+al-mutawa_MSc.pdf (done) d
+
+On the Classification of Cyclic Dependencies in Java Programs
+
+1409.0252.pdf (cited) d
+
+A Comparative Study of Programming Languages in Rosetta Code
+
+Enron-spreadsheets.pdf (cited) d
+
+Enron’s Spreadsheets and Related Emails: A Dataset and Analysis
+
+pub-fs-fp.pdf (done) d
+
+Formal Specifications Better Than Function Points for Code Sizing
+
+ccs12_jsinclude.pdf (paper, not used) d
+
+You Are What You Include: Large-scale Evaluation of Remote JavaScript Inclusions
+
+green-data.pdf (not used) d
+
+A Green Miner’s Dataset: Mining the Impact of Software Change on Energy Consumption
+
+HZS+14.pdf (not used) d
+
+Preprocessor-Based Variability in Open-Source and Industrial Software Systems: An Empirical Study
+
+API-div-article.pdf (done) d
+
+Empirical Evidence of Large-Scale Diversity in API Usage of Object-Oriented Software
+
+Landman2014-ccsloc-icsme2014.pdf (also JSEP-2015, done) d
+
+Empirical analysis of the relationship between CC and SLOC in a large corpus of Java methods
+
+JSEP-2015.pdf (done) d
+
+Empirical analysis of the relationship between CC and SLOC in a large corpus of Java methods and C functions
+
+generative-model-depen-graph.pdf (not used) d
+
+A Generative Model of Software Dependency Graphs to Better Understand Software Evolution
+
+TemperoYangNobleECOOP2013-pre.pdf (not used) d
+
+What Programmers do with Inheritance in Java
+
+MSR14-Android-energy-CRC.pdf (not used) d
+
+Mining Energy-Greedy API Usage Patterns in Android Apps: An Empirical Study
+
+qsic14.pdf (not used) d
+
+Anti-pattern Mutations and Fault-proneness
+
+MSR_2013_A_Network_of_Rails.pdf (not used) d
+
+A Network of Rails A Graph Dataset of Ruby on Rails and Associated Projects
+
+ecoop2015.pdf (see llee, not used) d
+
+The Good, the Bad, and the Ugly: An Empirical Study of Implicit Type Conversions in JavaScript
+
+2015_beller_zaidman_karpov.pdf (not used) d
+
+The Last Line Effect
+
+MCAA_ICPC15_Makefiles.pdf (Martin_Douglas, other) d
+
+Make It Simple – An Empirical Analysis of GNU Make Feature Use in Open Source Projects
+
+Martin_Douglas_H_201704_PHD.pdf (done) d
+
+An Empirical Analysis of GNU Make in Open Source Projects
+
+1311.3414v1.pdf (email, done) d
+
+Mining Software Repair Models for Reasoning on the Search Space of Automated Program Fixing
+
+cvs-vintage-paper.pdf (not used) d
+
+CVS-Vintage: A Dataset of 14 CVS Repositories of Java Software
+
+2012-unused-code-maintenance.pdf (paper+emailed+not available, not used) d
+
+How Much Does Unused Code Matter for Maintenance?
+
+jss_2015.pdf (not used) d
+
+A Large-Scale Study on the Usage of Java’s Concurrent Programming Constructs
+
+2015-04-27_Mult_Language_Util.pdf (not used) d
+
+An Empirical Analysis of the Utilization of Multiple Programming Languages in Open Source Projects
+
+var-feature-resolution.pdf (not used) d
+
+Variable Feature Usage Patterns in PHP
+
+Zhu_et_al-2014-SPE.pdf (done) d
+
+An analysis of programming language statement frequency in C, C++, and Java source code
+
+greense.pdf (not used, misc) d
+
+How Does Code Obfuscation Impact Energy Usage?
+
+TSE_2015_Soft_Evol_Model.pdf (not used) d
+
+Forecasting Java Software Evolution Trends Employing Network Model
+
+ISSTA-2013.pdf (paper, not used) d
+
+An Empirical Study of PHP Feature Usage
+
+seke15paper_97.pdf (not used) d
+
+An empirical study on the impact of Python dynamic features on change-proneness
+
+saal1977.pdf
+
+AN EMPIRICAL STUDY OF APL PROGRAMS
+
+2015_sosym.pdf (done) d
+
+The shape of feature code: an analysis of twenty C-preprocessor-based systems
+
+ase14.pdf (not used) d
+
+Information Flows as a Permission Mechanism
+
+esem15-js-callbacks-study.pdf (done) d
+
+Don’t Call Us, We’ll Call You: Characterizing Callbacks in JavaScript
+
+Mast2015a.pdf
+
+Use at Your Own Risk: The Java Unsafe API in the Wild
+
+csse14-01.pdf (cited) d
+
+Integers In C: An Open Invitation To Security Attacks?
+
+eurosys2016posix.pdf (done) d
+
+POSIX Abstractions in Modern Operating Systems: The Old, the New, and the Missing
+
+a131757.pdf (paper, not used) d
+
+DATA COMPENDIUM SERIES DACS NASA/SEL SOFTWARE DEVELOPMENT DATA APRIL 1981
+
+a131755.pdf (paper, not used) d
+
+THE DACS DATA COMPENDIUM December 1982
+
+methodsorder-icpc16.pdf (cited) d
+
+On method ordering
+
+icse2016-perf.pdf (emailed) d
+
+PerformanceIssues and Optimizations in JavaScript: an Empirical Study
+
+TR_DCC-20141204-004.pdf (partial, other) d
+
+Understanding and Addressing Exhibitionism in Java Empirical Research about Method Accessibility
+
+overExposedClasses.pdf (TR_DCC-..., cited) d
+
+Over-exposed Classes in Java: An Empirical Study
+
+main-methods.pdf Over-exposed-classes-Java.pdf (TR_DCC-20141204-004, cited) d
+
+Over-exposed Classes in Java: An Empirical Study
+
+1306.0762v1.pdf (not used) d
+
+Detecting Missing Method Calls As Violations of the Majority Rule
+
+peerj-cs-12.pdf (not used) d
+
+Mining usage patterns for the Android API
+
+peerj-cs-49.pdf (not used) d
+
+How are functionally similar code clones syntactically different? An empirical study and a benchmark
+
+23114A.pdf (not used) d
+
+What Programmers do with Inheritance in Java and C#
+
+BCI2015_Reuse.pdf (not used) d
+
+An Empirical Study on the Reuse of Third-Party Libraries in Open-Source Software Development
+
+icse2016-names.pdf (emailed, pending, faded away) d
+
+Nomen est Omen: Exploring and Exploiting Similarities between Argument and Parameter Names
+
+brookes1982.pdf (paper, not used) d
+
+A Static Analysis of Pascal Program Structures
+
+elshoff1976.pdf (paper, not used) d
+
+A Numerical Profile of Commercial PL/I Programs
+
+empirical-fortran.pdf (paper, not used) d
+
+An Empirical Study of FORTRAN programs
+
+folder-short.pdf
+
+The Relationship Between Folder Use and the Number of Forks: A Case Study on Github Repositories
+
+ootos-scc_main.pdf (not used) d
+
+Circular Dependencies and Change-Proneness: An Empirical Study
+
+cheung-emse2016.pdf (not used) d
+
+Development nature matters: An empirical study of code clones in JavaScript applications
+
+robbesAl-emse2015.pdf (done) d
+
+Object-oriented software extensions in practice
+
+Rosenblum11Dissertation.pdf
+
+The provenance hierarchy of computer programs
+
+bolz_data_struct_racket.pdf (partial) d
+
+Record Data Structures in Racket Usage Analysis and Optimization
+
+clone_oracle.pdf (not used) d
+
+A Code Clone Oracle
+
+13-13.pdf (done) d
+
+A LLVM Just-in-Time Compilation Cost Analysis
+
+1508.00628v1.pdf (done) d
+
+How Scale Affects Structure in Java Programs
+
+Krein2016a.pdf (not used) d
+
+A Multi-Site Joint Replication of a Design Patterns Experiment Using Moderator Variables to Generalize across Contexts
+
+Latifa-SQJ.pdf (not used) d
+
+Investigating the relation between lexical smells and change- and fault-proneness: an empirical study
+
+C++_concurrency_constructs.pdf
+
+An extensive empirical study on C++ concurrency constructs
+
+empirical_study_C++_templates.pdf (paper, emailed, 3356579, other) d
+
+An empirical study on the actual use of C++ templates
+
+3356579.pdf (done) d
+
+How C++ Templates Are Used for Generic Programming: An Empirical Study on 50 Open Source Systems
+
+seke14paper_230.pdf
+
+An empirical study on the adoption of C++ templates: Library templates versus user defined templates
+
+bolz_data_struct_racket.pdf (partial) d
+Osma16a.pdf (paper, emailed, done) d
+
+Tracking Null Checks in Open-Source Java Systems
+
+Complexity18EmpSE.pdf Complexity17ICPC.pdf (done) d
+
+Syntax, Predicates, Idioms -- What Really Affects Code Complexity?
+
+1708.00817.pdf (done) d
+
+Revisiting Exception Handling Practices with Exception Flow Analysis
+
+shimasaki1980.pdf (paper+file, done) d
+
+An Analysis of Pascal Programs in Compiler Writing
+
+assert-main.pdf (icse2015-assert..., other) d
+
+Assert Use in GitHub Projects
+
+icse2015-assert-revised.pdf (not used) d
+
+Replication of Assert Use in GitHub Projects
+
+RevisitingAssertUseGitHub.pdf (not used) d
+
+Revisiting assert use in GitHub projects
+
+atc17-dietrich.pdf (not used) d
+
+cHash: Detection of Redundant Compilations via AST Hashing
+
+14987dcf2e7486f3a.pdf (paper, done) d
+
+Quantifying the closeness between program components and features
+
+J04.pdf (paper, done) d
+
+Iterative Enhancement: {A} Practical Technique for Software Development
+
+peerj-preprints-2723.pdf
+
+Lifting the curse of stringly-typed code
+
+Raemaekers_thesis_V2.pdf (paper, not downloaded, not used) d
+
+Origin, Impact and Cost of Interface Instability
+
+li2016accessing.pdf (paper, done) d
+
+Accessing Inaccessible Android APIs: An Empirical Study
+
+42184.pdf (paper, not used) d
+
+Programmers’ Build Errors: A Case Study (at Google)
+
+Mensura2011_CameraReady.pdf (paper, cited) d
+
+On Estimating Source Lines of Code from a Binary Program
+
+Lin2017b.pdf (email, done) d
+
+On the Uniqueness of Code Redundancies
+
+SQJ_2015_Coherence.pdf (done) d
+
+Coherence of comments and method implementations: a dataset and an empirical investigation
+
+JSS_2017relation_coupling.pdf (not used) d
+
+Understanding the Interplay between the Logical and Structural Coupling of Software Classes
+
+icpc2017-prev-anti-patterns.pdf (not used) d
+
+Studying the Prevalence of Exception Handling Anti-Patterns
+
+04812752.pdf (paper, not used) d
+
+Analyzing the Evolution of the Source Code Vocabulary
+
+1704.00135v2.pdf
+
+Topic modeling of public repositories at scale using names in source code
+
+afp_mining.pdf (not used) d
+
+Mining the Archive of Formal Proofs
+
+nicta_publication_full_8318.pdf (afp_mining, other) d
+
+Empirical Study Towards a Leading Indicator for Cost of Formal Software Verification
+
+1708.08205.pdf
+
+Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions
+
+cloplag_emse.pdf (cited) d
+
+A Comparison of Code Similarity Analysers
+
+f27afdfbccc8d5ac0.pdf
+
+Static Branch Prediction Using High-Level Language Control Structure
+
+oopsla17b.pdf (partial) d
+
+DéjàVu: A Map of Code Duplicates on GitHub
+
+1709.06182.pdf
+
+A Survey of Machine Learning for Big Code and Naturalness
+
+syntactic_rule.pdf (paper, email) d
+
+Understanding the syntactic rule usage in java
+
+Tan12MS.pdf (paper, not used) d
+
+@TCOMMENT: Testing javadoc comments to detect comment-code inconsistencies
+
+Icse15-bugstudy.pdf (done) d
+
+An Empirical Study on Real Bug Fixes
+
+msr05.pdf (email, done) d
+
+Understanding source code evolution using abstract syntax tree matching
+
+nagappan_fse15.pdf (paper, email?, cited) d
+
+An Empirical Study of Goto in C Code from GitHub Repositories
+
+Mazinanian_OOPSLA_2017.pdf (cited) d
+
+Understanding the Use of Lambda Expressions in Java
+
+1703.03994.pdf
+
+Under-Optimized Smart Contracts Devour Your Money
+
+fse2016.pdf (done) d
+
+Parameter-Free Probabilistic API Mining across GitHub
+
+IWPD2017_Ueda.pdf (paper, not used) d
+
+How is IF Statement Fixed Through Code Review?  -A case study of Qt project-
+
+peerj-preprints-26491.pdf (not used) d
+
+113 Times Tomcat: a dataset
+
+250672.pdf (done) d
+
+Comparing Programming Languages in Google Code Jam
+
+1803.10198.pdf (not used) d
+
+Proactive Empirical Assessment of New Language Feature Adoption via Automated Refactoring: The Case of Java 8 Default Methods
+
+p362-nguyen.pdf (paper, emailed) d
+
+A Large-Scale Study On Repetitiveness, Containment, and Composability of Routines in Open-Source Projects
+
+2018_comlan.pdf (paper, done) d
+
+How Do Developers Use Dynamic Features?  The Case of Ruby
+
+CMU-ISR-10-131.pdf (not used) d
+
+Types for Correct Concurrent API Usage
+
+gpce15.pdf (paper, not used) d
+
+An Empirical Study on Configuration-Related Issues: Investigating Undeclared and Unused Identifiers
+
+kimura2014.pdf
+
+Does Return Null Matter?
+
+Gonzaga-MSc.pdf (done) d
+
+Empirical Studies on Fine-Grained Feature Dependencies
+
+sanerws18maltesquemain.pdf
+
+Investigating Type Declaration Mismatches in Python
+
+ICSE_2017.pdf (not used) d
+
+Clone Refactoring with Lambda Expressions
+
+ada-goto.pdf (paper, not used) d
+
+The Evolution of GOTO Usage and Its Effects on Software Quality
+
+67ab268e6149d86a35060.pdf
+
+Roles of Variables in Experts' Programming Knowledge
+
+e29bdbd62de3ff7c9f769.pdf (paper, not used) d
+
+Roles of Variables in Three Programming Paradigms
+
+ebt-icpe2017.pdf (not used) d
+
+An Empirical Study of Computation-Intensive Loops for Identifying and Classifying Loop Kernels
+
+paper13.pdf (paper, not used) d
+
+An Empirical Study on the Rewritability of the with Statement in JavaScript
+
+xlGrammar.pdf (paper, not used) d
+
+A Grammar for Spreadsheet Formulas Evaluated on Two Large Datasets
+
+TUD-SERG-2017-013.pdf (emailed) d
+
+Parsing Excel formulas: A grammar and its application on four large datasets
+
+pani-MSc.pdf (partial) d
+
+Loop Patterns in C Programs
+
+1809.07945.pdf (not used) d
+
+SCC: Automatic Classification of Code Snippets
+
+1-s2.0-S0164121.pdf (paper, partial) d
+
+What to expect of predicates: An empirical analysis of predicates in real world programs
+
+sast_2017.pdf (paper, partial) d
+
+On the costs of applying logic-based criteria to mobile applications: An empirical analysis of predicates in real-world Objective-C and Swift applications
+
+10.1.1.707.2639.pdf (not used) d
+
+Quantifying the Characteristics of Java Programs that May Influence Symbolic Execution from a Test Data Generation Perspective
+
+VEE18.pdf (cited) d
+
+An Analysis of x86-64 Inline Assembly in C Programs
+
+HSG17.pdf (not used) d
+
+The Long-Term Growth Rate of Evolving Software: Empirical Results and Implications
+
+atom-finder-msr-2018.pdf (not used) d
+
+Prevalence of Confusing Code Atoms of Confusionin Sotware Projects in the Wild
+
+SourceStudyFeaturesVar.pdf (not used) d
+
+A Source Level Empirical Study of Features and Their Interactions in Variable Software
+
+FenskeSS_GPCE17.pdf (not used) d
+
+How Preprocessor Annotations (Do Not) Affect Maintainability: A Case Study on Change-Proneness
+
+icsme2017.pdf (not used) d
+
+An Empirical Study of Local Database Usage in Android Applications
+
+Luk_Patrick_MSC.pdf (not used) d
+
+An Empirical Analysis of PHP in Open Source Applications
+
+LOC2005.pdf
+
+Estimating source lines of code from object code: Windows and Embedded Control Systems
+
+PQM+18.pdf (not used) d
+
+A Study of Feature Scattering in the Linux Kernel
+
+1901.07440.pdf
+
+9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay
+
+1803.09473.pdf
+
+code2vec: Learning Distributed Representations of Code
+
+1803.09544.pdf
+
+A General Path-Based Representation for Predicting Program Properties
+
+msr-2019-swh.pdf
+
+The Software Heritage Graph Dataset: Public software development under one roof
+
+1907.00863.pdf (done) d
+
+Understanding GCC Builtinsto Develop Better Tools
+
+16.ecoop.dynamic-immut.pdf
+
+C++ const and Immutability: An Empirical Study of Writes-Through-const
+
+1905.11044.pdf (not used) d
+
+Power laws in code repositories: A skeptical approach ∗
+
+anal-exploitation-api-diver.pdf (not used) d
+
+Analysis and Exploitation of Natural Software Diversity: The Case of API Usages
+
+19.icse.static-const.pdf
+
+How C++ Developers Use Immutability Declarations: an Empirical Study
+
+1805.01965.pdf (not used) d
+
+Characterizing the Usage, Evolution and Impact of Java Annotations in Practice
+
+1901.02533.pdf (cited) d
+
+A Journey Among Java Neutral Program Variants
+
+1905.04482.pdf (not used) d
+
+GE852: A Dataset of 852 Game Engines
+
+1907.09003.pdf (cited) d
+
+On the adoption, usage and evolution of Kotlin Features on Android development
+
+1907.11031.pdf (not used) d
+
+Not All Bugs Are the Same: Understanding, Characterizing, and Classifying the Root Cause of Bugs
+
+1907.13012.pdf (not used) d
+
+An Empirical Study of GraphQL Schemas
+
+1908.07883.pdf (cited) d
+
+Scala Implicits are Everywhere A large-scale study of the use of Implicits in the wild
+
+Parent_Simon.pdf (not used) d
+
+How Programmers Comment When They Think Nobody's Watching
+
+How maintainable is the Firefox codebase.htm (done) d
+
+How maintainable is the Firefox codebase?
+
+FFA.pdf
+
+An Exploratory Study on Exception Handling Bugs in Java Programs
+
+cfbf7748bd38fedeb1f.pdf (not used) d
+
+An Empirical Study on Developer Related Factors Characterizing Fix-Inducing Commits
+
+1910.06932.pdf (not used) d
+
+From Academia to Software Development: Publication Citations in Source Code Comments
+
+TSE'18-DeadCode.pdf (not used) d
+
+A Multi-Study Investigation Into Dead Code
+
+1901.10220.pdf (not used) d
+
+On the Impact of Programming Languages on Code Quality A Reproduction Study
+
+dilley-lange-saner19.pdf (not used) d
+
+An Empirical Study of Messaging Passing Concurrency in Go Projects
+
+sangle2019.pdf (not used) d
+
+On the Use of Lambda ExpressionsProjects in 760 Open Source Python
+
+journal-emse-lambda.pdf (not used) d
+
+Programmers do not Favor Lambda Expressions for Concurrent Object-Oriented Code
+
+porting-with-tuscan.pdf
+
+Making Data-Driven Porting Decisions with Tuscan
+
+687a2883006f864124951.pdf
+
+Detecting Argument Selection Defects
+
+tse17-refactoringifdef.pdf (paper, not used) d
+
+Discipline Matters: Refactoring of Preprocessor Directives in the #ifdef Hell
+
+1-s2.0-S0164121219-main.pdf
+
+Automatically detecting the scopes of source code comments
+
+1905.01467.pdf (not used) d
+
+Domain Specific Code Smells in Smart Contracts
+
+english2010.pdf (emailed) d
+
+A replicated and refined empirical study of the use of friends in C++ software
+
+1912.04014.pdf (not used) d
+
+Defect patterns and software metric correlations in a mature ubiquitous system
+
+chi16-ifttt.pdf (restricted use, not used) d
+
+Trigger-Action Programming in the Wild: An Analysis of 200,000 IFTTT Recipes
+
+1906.08076.pdf (emailed) d
+
+Growth and Duplication of Public Source Code over Time: Provenance Tracking at Scale
+
+2019-scp.pdf (cited) d
+
+Measuring and Analyzing Code Authorship in 1+118 Open Source Projects
+
+rahman2018.pdf (partial) d
+
+The modular and feature toggle architectures of Google Chrome
+
+java-methods-grow.pdf (emailed) d
+
+How Do Java Methods Grow?
+
+2015_zhou2015harvesting.pdf
+
+Harvesting Developer Credentials in Android Apps
+
+2017-iwsc-clonesInScratch.pdf (not used) d
+
+Software Clones in Scratch Projects: On the Presence of Copy-and-Paste in Computational Thinking Learning
+
+2019INFO008.pdf (not used) d
+
+When and How Java Developers Give Up Static Type Safety
+
+ISSTA2016.pdf (not used) d
+
+Exploring Regular Expression Usage and Context in Python
+
+RegexGeneralizability-ASE19.pdf (partial) d
+
+Testing Regex Generalizability And Its Implications A Large-Scale Many-Language Measurement Study
+
+ASE18.pdf
+
+ReScue: Crafting Regular Expression DoS Attacks∗
+
+DavisCoghlanServantLee.pdf (cited) d
+
+The Impact of Regular Expression Denial of Service (ReDoS) in Practice: An Empirical Study at the Ecosystem Scale
+
+icsme2018.pdf (not used) d
+
+Threats of Aggregating Software Repository Data
+
+graphqls_sle19.pdf (not used) d
+
+Empirical Study on the Usage of Graph Query Languages in Open Source Java Projects
+
+ANDERSON-MSc-2018.pdf (paper, cited) d
+
+MODELING AND ANALYSIS OF SQL QUERIES IN PHP SYSTEMS
+
+e5ec2184242d8321a999.pdf (cited) d
+
+Usage and refactoring studies of python regular expressions
+
+C48.pdf (not used) d
+
+How the Experience of Development Teams Relates to Assertion Density of Test Classes
+
+MSR_Dataset_Audi_Series.pdf (not used) d
+
+A Novel Industry Grade Dataset for Fault Prediction based on Model-Driven Developed Automotive Embedded Software
+
+02-Zheyang-Yiwen-report.pdf
+
+An Empirical Study on BadPractices in Bash Scripts
+
+Function_side_effects.pdf (paper, emailed) d
+
+On the Prevalence of Function side effects in General Purpose Open Source Software Systems
+
+paper2015.pdf (paper, not used) d
+
+An empirical examination of the prevalence of inhibitors to the parallelizability of open source software systems
+
+h-miyakawa16master.pdf (paper, not used) d
+
+Analysis on Evolution of Network-related Functions in the Linux Kernel
+
+1908.09757.pdf (not downloaded, not used) d
+
+Analyzing 2.3 Million Maven Dependencies to Reveal an Essential Core in APIs
+
+lin2016.pdf (paper, not used) d
+
+An Empirical Study on the Characteristics of Python Fine-Grained Source Code Change Types
+
+stat-analysis-of-syntax-errors.pdf (paper, not used) d
+
+A STATISTICAL ANALYSIS OF SYNTAX ERRORS
+
+2006.09973.pdf (cited) d
+
+Breaking Type-Safety in Go: An Empirical Study on the Usage of the unsafe Package
+
+ehmg15-deadpath.pdf
+
+Hidden Truths in Dead Software Paths
+
+pararule.pdf (not used) d
+
+An Empirical Study on API Parameter Rules
+
+Landman-PhD.pdf
+
+Reverse engineering source code Empirical studies of limitations and opportunities
+
+E101.D_2018EDP7004.pdf (paper, not used) d
+
+How are IF-Conditional Statements Fixed Through Peer CodeReview?
+
+2007.00752.pdf (cited) d
+
+Is Rust Used Safely by Software Developers?
+
+msr20intent.pdf (not used) d
+
+Behind the Intents: An In-depth Empirical Study on Software Refactoring in Modern Code Review
+
+spe_2009_published.pdf
+
+On the modularization and reuse of exception handling with aspects
+
+2005.13709.pdf (not downloaded) d
+
+Code Duplication and Reuse in Jupyter Notebooks
+
+2007.10146.pdf (not downloaded) d
+
+Jupyter Notebooks on GitHub: Characteristics and Code Clones
+
+1811.06888.pdf (email, confidential) d
+
+The MalSource Dataset: Quantifying Complexity and Code Reuse in Malware Development
+
+1-s2.0-S0164121220302533-main.pdf (not used) d
+
+On the diversity and frequency of code related to mathematical formulas in real-world Java projects
+

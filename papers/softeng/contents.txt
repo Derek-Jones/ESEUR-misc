@@ -1,0 +1,97 @@
+ZRANKI~1.PDF
+
+Z-ranking: using statistical analysis to counter the impact of static analysis approximationa
+
+pldi05.pdf
+
+Scalable statistical bug isolation
+
+CICS.PDF
+
+Evaluating the effectiveness of Z
+
+GRAPHLAY.PDF
+
+Empirical evaluation of aethetics-based graph layout
+
+105.PDF
+
+Factor analysis of comprehension states in the learning phases of a programming language
+
+NM-IHW~1.PDF
+
+Inferring lexical and grammatical structure from sequences
+
+GREEN9~1.PDF
+AUTOMA~1.PDF
+
+Automatically generating hypertext by computing semantic similarity
+
+NEVILL~1.PDF
+
+Inferring sequential structure
+
+IEEE00.PDF
+
+Online and offline heuristics for inferring hierarchies of repetitions in sequences
+
+PAPREAD.PDF
+
+Read before you cite
+
+SHAH3.PDF
+
+Understanding the nature of participation and coordination in open gated source software development communities
+
+HUNT98~1.PDF
+
+Delta algorithms: an empirical analysis
+
+SS_NAT~1.PDF
+
+Collective dynamics of 'small-world' networks
+
+Rohde-MRCA-two.pdf
+
+On the common ancestors of all living humans
+
+0504185.pdf
+
+Frequency of occurrence of numbers in the World Wide Web
+
+05-sas-jukishyi.ps
+
+Taming false alarms from a domain-unaware C analyzer by a bayesian statistical post analysis
+
+bmscam06.pdf
+
+Prioritizing software inspection results using static profiling
+
+Dit-STSM08.pdf
+
+Measuring the semantic similarity of comments in bug reports
+
+how-we-refact.pdf (paper, cited) d
+
+How we refactor, and how we know it
+
+UMLcostbenefit.pdf (paper, not used) d
+
+Empirical evaluation of the costs and benefits of UML in software maintenance
+
+nature-of-theory-MIS.pdf
+
+The nature of theory in information systems
+
+10.1.1.22.6130.pdf
+
+Applying meta-analytical procedures to software engineering experiments
+
+2007.05760.pdf (not used) d
+
+How the adoption of feature toggles affects branch merges and defects in open-source projects?
+
+GoalsPlans-Spreadsheet.pdf
+
+Goals and Plans in Spreadsheet Calculation
+

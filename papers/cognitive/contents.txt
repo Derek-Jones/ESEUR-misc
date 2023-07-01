@@ -1,0 +1,3151 @@
+MEUTER~1.PDF
+
+Bilingual language switching in naming: Asymmetrical costs of language selection
+
+WorkMemLifeSpan.htm
+
+What Develops in Working Memory? A Life Span Perspective
+
+SEVENO~1.PDF
+
+Spanning seven orders of magnitude: a challenge for cognitive modeling
+
+LARKIN.PDF
+
+Why a diagram is (sometimes) worth ten thousand words
+
+LOVESL~1.PS.gz
+
+Mutability and the determinants of conceptual transformation
+
+10.1.1.163.4989.pdf
+
+The multiple faces of working memory: storage, processing, supervision, and coordination
+
+SPATIA~1.PDF
+
+Spatial working memory and intelligence biological correlates
+
+P90-1006.PDF
+
+Memory capacity and sentence processing
+
+O_B1.PDF
+
+Inspection time and general speed of processing
+
+IT_00_~1.PDF
+
+Inspection time in the structure of cognitive abilities: where does IT fit?
+
+FACTRE~1.PDF
+
+Fact retrieval in younger and older adults: The role of mental models
+
+REV109~1.PDF
+
+Decisions and the evolution of memory: multiple systems, multiple functions
+
+OSHERS~2.PDF
+
+Category based induction
+
+RULES-~1.PDF
+
+Rules and exemplars in category learning
+
+PAYOFFS.PDF
+
+Costs and benefits in perceptual categorization
+
+MCD_WA~1.PDF
+
+The rise and fall of false recall: the impact of presentation duration
+
+SOLOMON.PDF
+
+Are there kinds of concepts?
+
+FEEDBA~1.PDF
+
+Feedback effects on cost-benefit learning in perceptual categorization
+
+DAILY0~1.PDF
+
+Modelling working memory differences
+
+COMMON~1.HTM
+
+Common sense reasoning: problems and probabilities
+
+BAYESREAS.HTM
+
+How to improve Bayesian reasoning without instruction : frequency formats 
+
+ILLUSO~1.HTM
+
+Illusory Inferences about Probabilities
+
+VERBAL~1.HTM
+
+Verbal Working Memory and Sentence Comprehension
+
+STOREYWPC97.PS
+JSS.PDF (very similar)
+
+Cognitive design elements to support the construction of a mental model during program visualization
+Use fig 1, plus other stuff
+
+LJS_JR~1.PDF
+
+The role of process in the rational analysis of memory
+
+EDINBU~1.PDF
+
+An exemplar based random walk model of perceptual categorization
+
+COMPAR~1.PDF
+
+Comparison and the development of knowledge
+
+CPCORR~1.PDF
+
+Altering object representations through category learning
+
+HAARMA~1.PDF
+
+Individual differences in semantic short-term memory capacity and reading comprehension
+
+954.PDF
+
+New evidence for distinct right and left brain systems for deductive versus probabilistic reasoning
+
+CONJUN~1.PDF
+
+Conjunctive bias in memory
+
+MCRAE9~1.PDF
+
+The role of correlated properties in accessing conceptual memory
+
+FE-EV-VE.PDF
+
+A rarity heuristic for hypothesis testing
+
+MCFARL~1.PDF
+
+Comparison of four primary methods for coordinating the interruption of people in human computer interaction
+
+MCFARL~3.PDF
+
+Interruption of people in human computer interaction (McFarlane PhD)
+
+MCFARL~4.PDF
+
+Interruption of people in human computer interaction: a general unifying definition of human interruption and taxonomy
+
+LATORE~1.PDF
+
+Investigating interruptions: implications for flightdeck performance
+
+DFDEM.PDF
+
+The item and list methods of directed forgetting: test differences and the role of demand characteristics
+
+STRATE~1.PDF
+
+The strategic regulation of grain size in memory reporting
+
+RECOG2.PDF
+
+Correct rejections in recognition memory
+
+SCHOPPEK.PDF
+
+Memory for continually changing information: a task analysis and model of the keeping track task
+
+MODULA~1.PDF
+
+Modularity and artificial grammar learning
+
+ROED_J~1.PDF
+
+Misinformation Effects in Recall: Creating False Memories through Repeated Retrieval
+
+95-COG~1.PDF
+
+Implicit learning in the presence of multiple cues
+
+98-COG~1.PDF
+
+The serial reaction time task: learning without knowing, or knowing without learning?
+
+TRANCHAP.PDF
+
+Transfer of implicit knowledge across domains: How implicit and how abstract?
+
+TEXTCL~1.PDF
+
+Sequential sampling models of human text classification
+
+WMMODEL2.PDF
+
+Beyond resources - a model of complexity effects and age differences in working memory
+
+ZWAAN_~1.PDF
+
+The presence of an event in the narrated situation affects its availability to the comprehender
+
+BER07.PDF
+
+Working memory capacity - facets of a cognitive ability construct
+
+481.PDF
+
+Toward a psychology of memory accuracy
+
+INTERT~1.PDF
+
+Time Discounting: A Critical Review
+
+GILBE~13.PDF
+
+The illusion of external agency
+
+GILBE~12.PDF
+
+Decisions and revisions: the affective forecasting of changeable outcomes
+
+GILBE~10.PDF
+
+The assent of man: mental representation and the control of belief
+
+GILBER~9.PDF
+
+Immune neglect a source of durability vias in affective forecasting
+
+GILLBE~1.PDF
+
+How mental systems believe
+
+GILBER~4.PDF
+
+When comparisons arise (deals with social comparisons)
+
+GILBER~8.PDF
+
+You can't not believe everything you read
+
+GILBER~7.PDF
+
+Unbelieving the unbelivable some problems in the rejections of false information
+
+THEPSY~1.PDF
+
+The Psychology of the Unthinkable: Taboo Trade-Offs, Forbidden Base Rates, and Heretical Counterfactuals
+
+PATEL.PDF
+
+Auditors belief revision: recency effects of contrary and supporting audit evidence and source reliability
+
+INCORP~1.PDF
+
+Incorporating the irrelevant: anchors in judgments of belief and value
+
+WANG98~1.PDF
+
+Order effects in human belief revision (Wang PhD)
+
+shepard99.htm
+
+Perceptual-Cognitive Universals as Reflections of the World
+							    
+LOADTH~2.PDF
+
+Research into cognitive load theory and instructional design at UNSW
+
+RESPECTS.PDF
+
+Respects for similarity
+
+KAMCIN~1.PDF
+
+Dispositional differences in effortful thought and survey response effects
+
+00-002.PDF
+
+Non-conscious and contaminative effects of hypothetical questions on subsequent decision making
+
+AG-PSY~1.PDF
+
+Forgetting to remember: The functional relationship of decay and interference
+
+ALTMG0~1.PDF
+
+An integrated model of set shifting and maintenance
+
+PATM.PDF
+
+Paying attention to meaning
+
+KIERAS~1.PDF
+
+An overview of the EPIC architecture for cognition and performance with application to human-computer interaction
+
+ALTMT99B.PDF
+
+Memory for goals in means ends behaviour
+
+FU-GRAY.PDF
+
+Memory versus perceptual-motor tradeoffs in a blocks world task
+
+AG-HFE~1.PDF
+
+Managing attention by preparing to forget
+
+ALTGRA~1.PDF
+
+Serial attention as strategic memory (Altmann & Gray)
+
+GRAY_FU.PDF
+
+Ignoring Perfect Knowledge In-The-World for Imperfect Knowledge In-The-Head: Implications of Rational Analysis for Interface Design
+
+GRAY-ERR.PDF
+
+The nature and processing of errors in interactive behaviour
+
+GRAY&B~1.PDF
+
+Milliseconds matter: An introduction to microstrategies and their use in describing and predicting interactive behaviour
+
+CLARK.PDF
+
+Chronometric investigations of task switching (Fagot PhD)
+
+ANNUAL~1.PDF
+
+Attention and performance (review by Pashler)
+
+FEATUR~2.PDF
+
+Features of similarity and category-based induction
+
+BACKGR~1.PDF
+
+Background knowledge and models of categorization
+
+ELD14.PDF
+
+Wisdom and aging: Irrational preferences in college students but not older adults
+
+ER-CIP.PDF
+
+External representations in complex information processing tasks
+
+brainlimits.htm
+
+Energy Limits to the Computational Power of the Human Brain
+
+COGNIT~1.PDF
+
+More Is Not Always Better: The Benefits of Cognitive Limits
+
+unskilled.htm
+
+Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments 
+
+STEWAR~1.PDF
+
+Seven Components of Judgmental Forecasting Skill: Implications for Research and Improving Forecasts
+
+SLONIM.PDF
+
+Competing against experienced and inexperienced players
+
+10.1.1.589.4733.pdf
+
+First Impressions Matter: A model of confirmatory bias
+
+HRTCFJ~1.HTM
+GIGERE~1.PDF
+
+The "Conjunction Fallacy" Revisited: How Intelligent Inferences Look Like Reasoning Errors
+
+coordinated_noncognition.pdf
+
+Cognition as coordinated non-cognition
+
+COGSCI~1.PDF
+
+A probabilistic model of lexical and syntactic access and disambiguations
+
+BYRNEP~1.GZ
+
+A working memory model of a common procedural error
+
+CH11.PDF
+
+The human element in the development process
+
+ATTENT~1.HTM
+
+Investment of attention as an analytic approach to cognitive dimensions
+
+ATTENT~2.HTM
+
+Models of attention
+
+BIOGRA~1.HTM
+
+Biographies of major contributors to cognitive science
+
+MAGICA~1.HTM
+
+The magical number 4 in short-term memory: a reconsideration of mental storage capacity 
+
+THECOG~1.HTM
+
+The one hundred most influential works in cognitive science from the 20th century
+
+THEMAG~1.HTM
+
+The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information
+
+MONTHE~1.PDF
+
+Representation and strategy in reasoning: An individual differences approach (Monaghna PhD)
+
+STROOP~1.PDF
+
+Symbolic Distance Between Numerosity and Identity Modulates Stroop-Like Interference (Pavese)
+very interesting empirical results
+
+STROOP~2.PDF
+
+Further evidence on the effects of symbolic distance on Stroop like interference
+
+CAMERE~1.PDF
+
+Prospect theory in the wild: Evidence from the field (excellent example of non optimial behaviours)
+
+CAMERE~3.PDF
+
+Strategic learning and teaching
+
+CAMERE~4.PDF
+
+Detecting failures of backward induction: monitoring information search in sequential bargaining
+
+MONAGH~1.GZ
+
+A corpus-based analysis of individual differences in proof-style
+
+MONAGH~1.PDF
+MONAGH~2.PDF (later, shorter version of above)
+
+Generalising individual differences and strategies across different deductive reasoning domains
+
+PETEA00.PDF
+
+Effects of presentation format on memory for order
+
+RAM92USE.PDF
+
+The use of explicit goals for knowledge to guide inference and learning
+good points raised
+
+RP-199~1.GZ
+
+Holist and serialist strategies in complex reasoning tasks: cognitive style and strategy change
+
+TCW-20~1.PDF
+
+Whether skill acquisition is rule or instance based is determined by the structure of the task
+
+VAG20.PDF
+
+On the psychology of vague predicates (empirical findings)
+
+CS94_B~1.PDF
+
+Bottom up recognition learning: a compilation based model of limited lookahead learning
+
+LAURA9~1.PDF
+
+A note on superadditive probability judgment
+
+OBERLA~1.PDF
+
+Unnatural language discourse: an empirical study of multimodal proof styles
+
+SOUGNE~1.PDF
+SOUGNE~3.PDF (published pape rof above)
+
+Simulation of the negative conclusion bias with INFERNET
+
+SOUGNE~2.PDF
+
+A connectionist model of reflective reasoning using temporal properties of node firing
+
+SUBSU28.PDF
+
+The relation between probability and evidence judgement: an extension of support theory
+
+ALPHAR~1.PDF
+
+Modeling speed up and transfer of declarative and procedural knowledge
+
+OBERLAND.PDF
+
+Individual differences in proof structures following multimodal logic teaching
+
+COH.PDF
+
+Coherent probability from incoherent judgement
+
+HYBRID~1.Z
+
+A hybrid learning model of abductive reasoning
+
+LOEWEN~1.PDF
+
+Projection bias in predicting future utility
+
+AUSTCO~1.PDF
+
+Learning to reason: a reason!-able approach (gelder)
+
+GRAESSER.PDF
+
+Discourse comprehension (extensive overview)
+
+HOBBS9~1.PDF
+
+Interpretation as abduction
+
+GILLIA~1.PS
+
+Very long term retension of knowledge
+
+PSYCH_~1.Z
+
+Memory for serial order: a network model of the phonological loop and its timing
+
+CP-SEM.PDF
+
+Short term memory for serial order: the start end effect
+
+HENSON~1.Z
+
+Short term memory for serial order (Henson PhD)
+
+INDIVI~1.HTM
+
+Individual Differences in Reasoning: Implications for the Rationality Debate?
+
+evolut~1.htm
+
+Evolutionary Psychology: A Primer
+
+DEONTIC.PDF
+
+Inept reasoners or pragmatic virtuosos? Relevamce and the deonitic selection task
+
+ON-THE~1.PDF
+
+On the reality of the conjunction fallacy
+
+PEN.PDF
+
+Penicillin for the mind?  reason, education and cognitive science
+
+INDUCT~1.PDF
+
+Properties of inductive reasoning
+
+JP01.PDF
+
+Representation shifts in category learning
+
+RELEVA~1.PDF
+
+No interpretation without representation: The role of domain-specific representation and inferences in the wason selection task
+
+CHI200~1.PDF
+COST-O~1.PDF more detailed version of one above
+
+Cost of knowledge issues from specifications
+
+INFERE~1.PDF
+
+Inference by believers in the law of small numbers
+
+ANALOG~1.PDF
+
+Analogy-making as a complex adaptive system (discussion of copycat)
+
+ANNREV.PS
+
+Cognitive skill acquisition
+
+CSC93.PDF
+
+What mediates the self-explanation effect?  Knowledge gaps, schemas and analogies?
+
+BURL_C~1.PDF
+
+Bottom-Up Recognition Learning: A Compilation-Based Model of Limited-Lookahead Learning
+
+WILSON~1.PDF
+
+Cognitive factors affecting subjective probability assessment
+
+ADDICT~1.HTM
+
+Investigating the addictive nature ofcomputer programming: An argument for further investigation
+
+HRAJOJ~1.HTM
+
+Are Judgments of the Positional Frequencies of Letters Systematically Biased Due to Availability?
+
+Noveck-Politzer.html
+
+Leveling the playing field: Investigating competing claims concerning relative inference difficulty 
+
+PAZZAN~1.PDF
+JEPLMC.PDF (scan of published paper)
+
+The influence of prior knowledge on concept aquisition: experimental and computational results
+
+GENTNE~1.PDF
+
+MAC/FAC: A model of similarity-based retrieval
+
+AR2001.PDF
+
+Thinking
+
+SMITHS~1.PDF
+
+Human judgment and imprecise probabilities
+
+CONTEXT.PDF
+
+Similarity in context
+
+JML98.PDF
+
+Category learning by inference and classification
+
+OBHDP95.PDF
+
+Similarity and alignment in choice
+
+Visualspanchess.htm
+
+Visual span in chess
+
+CLEERE~1.PDF
+
+The representation of structure in sequence prediction tasks
+
+CONSCI~1.PDF
+
+Consciousness and control in task switching
+
+JIANGQ~1.PDF
+
+Selective attention modulates implicit learning
+
+KNOWLE~1.PDF
+
+Knowledge and concept learning
+
+ML2001.PDF
+
+Does greater amount of information always bolster attitudinal resistance?
+
+NATCAT2.PDF
+
+Necessity and natural categories
+
+NBACK.PDF
+
+Working memory and focal attention
+
+NIAM.PS.gz
+
+Measuring relational complexity in oddity discrimination tasks
+
+RSON2A.PDF
+
+Reasoning (Rips)
+
+UNDERO~1.PDF
+
+Children's understanding of number is adults's and rats'
+
+WHENNO~1.PDF
+
+Processing of negated product features
+
+RATS.PS.gz
+
+Rational categories
+
+ALMORM~1.PDF
+
+Reasoning versus text processing in the Wason selection task
+
+ROLFP20.PDF
+
+The acquisition of qualitive physics knowledge during textbook based physics training
+
+MEMORY~1.PDF
+
+Memory structures that subserve sentence comprehension
+
+ATTENDED.PDF
+
+Attended and non-attended states in working memory: accessing categorized structures
+
+LAB202~1.PDF
+
+Recall & recognition memory
+
+ALTMAN96.PS
+
+Episodic memory for external information (Altmann PhD)
+
+ALTMAN~1.PDF
+
+Forgetting to remember
+
+ALTMT0~1.PDF
+
+Memory for goals: An activation based model
+
+BER08.PDF
+
+Working memory capacity and intelligence: an integrative approach based on brunswik symmetry
+
+HOLT.PDF
+
+Software architecture as a shared mental model
+
+CONTEXT2.PDF
+
+Mutability, conceptual transformation, and context
+
+GILLIA~1.PDF
+
+Very long term retention of knowledge
+
+SINGER14.PDF
+
+Studies of the work practices of software engineers
+
+WILLS1.PDF
+
+Adapting to a response deadline in categorization
+
+MOMENT~1.PDF
+
+Evaluation by moments: past and future
+
+UTILIT~1.PDF
+
+Experienced utility and objective happiness: a moment based approach
+
+REDER9~1.PDF
+
+The effect of context on training: is learning situated?
+
+SEQ.PDF
+
+Gestalt characteristics of experiences: the defining features of summarized events
+
+NON-CO~1.PDF
+
+Non-Conscious and contaminative effects of hypothetical questions on subsequent decision making
+
+91-06.PDF
+
+The role of deliberate practice in acquisition of expert performance
+
+CONCEPTS.PDF
+
+Concepts and categorization
+
+KAHANNA~1.PDF
+
+Associative symmetry and memory theory
+
+CULTCOG2.PDF
+
+Culture and cognition
+
+EXPERT~1.PDF
+
+Expertise and category-based induction
+
+RACE.PS.gz
+
+A comparison of two response time models applied to perceptual matching
+
+FDEZYA~1.PDF
+
+The relative value of environmental context reinstatement in free recall
+
+Stroop.htm
+
+Studies of interference in serial verbal reactions
+
+MAGGAD~1.PDF
+
+Navigation-related structural change in the hippocampi of taxi drivers
+
+GLENBERG.PDF
+
+What is memory for
+
+LOGIEE~1.PDF
+
+Visual similarity effects in immediate verbal serial recall
+
+SCHUNN~1.PDF
+
+To Calculate or Not to Calculate: A Source Activation Confusion Model of problem Familiarity's Role in Strategy Selection
+
+AGECOG~1.PDF
+
+Structural models of the relations between age and measures of cognitive functioning
+
+LIFEWR~1.HTM
+
+What Develops in Working Memory? A Life Span Perspective
+
+DUMAIS.PDF
+
+Data-driven approaches to information access
+
+ENG-CO~1.PDF
+
+The effect of spatial experience on engineering students visualization abilities
+
+SKILLACC.PDF
+
+Comprehension based skill acquisition
+
+99800299.PDF
+
+Belief change as propositional update
+
+BRAINA~1.PDF
+
+Sex Differences in Object Location Memory
+
+INTDIF~1.PDF
+
+Human intelligence differences: a recent history
+
+LONG-T~1.PDF
+
+Long term retension of sequentially organized information, knowledge, and skills: an empirical review
+
+TICSIN~1.PDF
+
+Human intelligence differences: towards a combined experimental-differential approach
+
+ABSTRA~1.PDF
+
+Abstraction: Nature, costs, and benefits
+
+HALFOR~1.PDF
+HALFORD.HTM
+
+Processing Capacity Defined by Relational Complexity: Implications for Comparative, Developmental, and Cognitive Psychology
+
+relational_complexity_reply.pdf
+
+Authors' reply: Processing Capacity Defined by Relational Complexity: Implications for Comparative, Developmental, and Cognitive Psychology
+
+WP-200~1.PDF
+
+Age and Individual Productivity: A Literature Survey
+
+SLOMAN~1.PDF
+
+Feature centrality and conceptual coherence
+
+GEHRIN~1.PDF
+
+The mind's eye, looking inward?  In search of executive control in internal attention shifting
+
+CAUSAL~1.PDF
+
+Inferring causal networks from observations and interventions
+
+COLLIN~1.PDF
+
+Retrieval time from semantic memory
+
+TALARI~1.PDF
+
+Confidence, not consistency, characterizes flashbulb memories
+
+JEPLMC~1.PDF
+
+What you get out of memory depends on the question you ask
+
+ALTM02.PDF
+
+Functional decay of memory tasks
+
+08STAM~1.PDF
+
+Non-linear analysis of the effect of working memory capacity on organic synthesis problem solving
+
+VERHAE~1.PDF
+
+Aging, executive control, and attention: a review of meta-analyses
+
+MARKVI~1.PDF
+
+The development of conditional reasoning: A mental model account
+
+TURNER~1.PDF (englelab)
+
+Is Working Memory Capacity Task Dependent?
+
+KANE_E~1.PDF (englelab)
+
+Working memory capacity and the control of attention
+
+LAPOIN~1.PDF (englelab)
+
+Simple and complex word spans as measures of working memory capacity
+
+BADDELEY.PDF
+
+Working memory: Looking back and looking forward
+
+MONSELL.PDF
+
+Task switching
+
+HAMBRICK.PDF
+
+Effect of Domain Knowledge, Working Memory Capacity, and Age on Cognitive Performance: An Investigation of the Knowledge-Is-Power Hypothesis
+
+WAHOAL03.PDF
+
+Task switching and long term priming: Role of episodic stimulus task bindings in task shift costs
+
+CV317.PDF
+
+Genetic covariance among measures of information processing speed, working memory, and IQ
+
+koehler.htm
+
+The base rate fallacy reconsidered: descriptive, normative and methodological challenges 
+
+ANDERS~1.PDF
+
+The adaptive nature of human cetagorization
+
+CHATER~1.PDF
+
+Ten years of the rational analysis of cognition
+
+ROSS-M~1.PDF
+
+Food for thought: cross classification and category organization in a complex real world domain
+
+MILLER~1.PDF
+
+Mate choice turns cognitive
+
+SIROET~1.PDF
+
+ESAM: A model of free recall
+
+OBHDP.pdf
+
+The influence of prior beliefs on scientific judgments of evidence quality
+
+HEIRAR~1.PDF
+
+Hierarchical memory distortions: the basic-level convergence effect
+
+KAHAAD~1.PDF
+
+Note on the power law of forgetting
+
+KAHAHO~1.PDF
+
+Spacing and lag effects in free recall of pure lists
+
+KAY97C~1.PDF
+
+Color naming across languages
+
+ROSCHM~1.PDF
+
+Family resemblences: studies in the internal structure of categories
+
+ROSCH_~1.PDF
+
+Basic objects in natural categories
+
+memaccuracy.htm
+
+Toward a psychology of memory accuracy
+
+caplan.htm
+
+Verbal Working Memory and Sentence Comprehension
+
+updating.doc
+
+Updating situation models
+
+SWITCHCOST.PDF
+
+Costs of switching perspectives in route and survey descriptions
+
+SCHWAR~1.DOC
+
+Affective and Cognitive Consequences of Visual Fluency: When Seeing is Easy on the Mind
+
+AVS-JEPG.PDF
+
+Grounding spatial language in perception: an empirical and computational perspective
+
+79-84.PDF
+
+Cognitive processes in skimming stories
+
+WHEN-D~1.PDF
+
+When does semantic similarity help episodic retrieval?
+
+RUBINS~1.PDF
+
+Executive control of cognitive processes in task switching
+
+JEP41~1.PDF
+
+Egocentric framework and attentional bias in searching imagined environments
+
+THEBIA~1.PDF
+
+The bias blind spot: perceptions of bias in self versus others
+
+WINKIE~1.PDF
+
+The role of ease of retrieval and attribution in memory judgments
+
+JEP-Gen_1989.pdf
+
+Serial position and set size in short term memory: The time course of recognition
+
+225.pdf
+
+Evolving informational credentials:  The (mis)attribution of believable facts to credible sources
+
+Lin-Murphy_97.pdf
+
+Effects of background knowledge on object categorization and part detection
+
+Tallistypical.PDF
+
+Tall is typical: Central tendency, ideal dimensions and graded structure among tree experts and novices
+
+animbehav2004.pdf
+
+An operating cost of learning in Drosophila melanogaster
+
+Categorical_Inference.pdf
+
+Categorical inference is not a tree: the myth of inheritance hierarchies
+
+baddeley.pdf
+
+The episodic buffer: a new component of working memory?
+
+catdisc.pdf
+
+Influences of categorization on perceptual discrimination
+
+confirm.pdf
+
+Feature distribution and biased estimation of visual displays
+
+siam.pdf
+
+Similarity, interactive activation, and mapping
+
+complex.pdf
+
+Probability, algorithmic complexity and subjective randomness
+
+j.intell.2003.12.002.pdf
+
+Working memory is (almost) perfectly predicted by g
+
+GentnerImaiBoroditsky02.pdf
+
+As time goes by: evidence for two systems in processing space time metaphors
+
+Goel_Cognition_03.pdf
+
+Explaining modulation of reasoning by belief
+
+Kaplan-Murphy_00.pdf
+
+Category learning with minimal prior knowledge
+
+dp347.pdf
+
+Does decision quality (always) increase with the size of information samples?  Some vicissitudes in applying the law of large numbers
+
+TREE-01.pdf
+
+Controversies in the evolutionary social sciences: a guide for the perplexed
+
+epmdn.pdf
+
+Evolutionary psychology, meet developmental neurobiology: against promiscuous modularity
+
+basic_level_convergence.pdf
+
+The basic-level convergence effect in memory distortions
+
+future.pdf
+
+Teacakes, trains, texicabs and toxins: a bayesian account of predicting the future
+
+Belief.pdf
+
+Believe it or not: on the possibility of suspending belief
+
+BaarsFranklinTICS2003.pdf
+
+How conscious experience and working memory interact
+
+BR.pdf
+
+Cognitive templates for religious concepts: cross-cultural evidence for recall of counter-intuitive representations
+
+ErrorManagementTheory.pdf
+
+Error management theory: A new perspective on biases in cross-sex mind reading
+
+Krugeretal05.pdf
+
+Egocentrism over e-mail: Can we communicate as well as we think?
+
+the case for space.pdf
+
+Can language restructure cognition?  The case for space
+
+20finalbusssocexweb.pdf
+
+Neurocognitive adaptations designed for social exchange
+
+Anderson_Pichert.pdf
+
+Recall of previously unrecallable information following a shift in perspective
+
+EpleyandDunning2001.pdf
+
+Feeling "Holier than thou": Are self-serving assessments produced by errors in self- or social prediction?
+
+Gilo.Medvec.Sav.pdf
+
+The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance
+
+Gilo.Sav.Medvec.pdf
+
+The illusion of transparency: Biased assessments of other's ability to read one's emotional states
+
+Gilovichetal2005.pdf
+
+Shallow thoughts about the self
+
+stroop_and_garner_effect.pdf
+
+Stroop and Garner effects in comparative judgment of numerals: The role of attention
+
+serial lexical.pdf
+
+Serial mechanisms in lexical access: The rank hypothesis
+
+Palmeri-JEPLMC1999.pdf
+
+Theories of automaticity and the power law of practice
+
+Palmeri1997-jeplmc.pdf
+
+Exemplar similarity and the development of automaticity
+
+Rips_Shoben_1973.pdf
+
+Semantic distance and the verification of semantic relations
+
+SmithShobRips.pdf
+
+Structure and process in semantic memory: A featural model for semantic decisions
+
+p125.pdf
+
+Individual differences and the impact of forward and backward causal relations on the online processing of narratives
+
+JonidesLustig.pdf
+
+The mind and brain of short-term memory
+
+NosofskyPalmeri-PBR1996.pdf
+
+Learning to classify integral-dimension stimuli
+
+PIsat.pdf
+
+Proactive interference slows recognition by eliminating fast assessments of familiarity
+
+nosofsky.86_attn.sim.id.pdf
+
+Attention, similarity, and the identification-categorization relationship
+
+Isakson_Spyridakis_Sem_Syn.pdf
+
+The influence of semantics and syntax on what readers remember
+
+EpleyCaruso.pdf
+
+Egocentric ethics
+
+motioncognition.pdf
+
+Shake, rattle, 'n' roll: the representation of motion in language and cognition
+
+oddity.pdf
+
+Measuring relational complexity in oddity discrimination tasks
+
+p354.pdf
+
+Negation in nonliteral sentences
+
+equ_work_mem.pdf
+
+Working memory: Activation limitations on retrieval
+
+exp-dep_percep-grouping_atten.pdf
+
+Experience-dependent perceptual grouping and object-based attention
+
+fazendeiro2005.pdf
+
+False recognition across meaning, language, and stimulus format: Conceptual relatedness and the feeling of familiarity
+
+easyonthemind.pdf
+
+Prototypes are attractive because they are easy on the mind
+
+HortonGerrigCOG.pdf
+
+The impact of memory demands on audience design during language production
+
+HortonGerrigDP2005.pdf
+
+Conversational common ground and memory processes in language production
+
+HortonGerrigJML2002.pdf
+
+Speaker's experiences and audience design: knowing when and knowing how to adjust utterances to addressees
+
+HortonKeysarCog1996.pdf
+
+When do speakers take into account common ground?
+
+JEP-LMC_1999.pdf
+
+Isolating the contributions of familiarity and source information to item recognition: A time course analysis
+
+JML_2000.pdf
+
+The time course of conceptual processing in three bilingual populations
+
+JRA_CFS_MC_1995.pdf
+
+Causal inferences as perceptual judgements
+
+SerSchAnderson1990.pdf
+
+Learning artificial grammars with competitive chunking
+
+RationalAnalysisHM.pdf
+
+A rational analysis of human memory
+
+Pronin_Gilo_Ross_05.pdf
+
+Objectivity in the eye of the beholder: Divergent perceptions of bias in self versus others
+
+RatAnaCat.pdf
+
+A rationale analysis of categorization
+
+PraRet1999.pdf
+
+Practice and retention: A unifying analysis
+
+Marois_Ivanoff-2005.pdf
+
+Capacity limits of information processing in the brain
+
+jones_and_anderson_87.pdf
+
+Short- and long-term memory retrieval: A comparison of the effects of information load and relatedness
+
+CS05.pdf
+
+Categorization under complexity: A unified MDL account of human learning of regular and irregular categories
+
+sunk.pdf
+
+Searching for the sunk cost fallacy
+
+WeberBlaisBetz.pdf
+
+A domain-specific risk-attitude scale: measuring risk perceptions and risk behaviors
+
+schooler_and_anderson_91.pdf
+
+Does memory reflect statistical regularity in the environment?
+
+Sim-as-trans.pdf
+
+Similarity as transformation
+
+google.pdf
+
+Google and the mind
+
+conf-bias.pdf
+
+A rational analysis of confirmation with deterministic hypotheses
+
+72720441.pdf
+
+Short-term storage and mental speed account for the relationship between working memory and fluid intelligence
+
+10.1.1.121.1951.pdf
+
+Men, women and risk aversion: Experimental evidence
+
+CogSci2002.pdf
+
+Cultural preferences for formal versus intuitive reasoning
+
+paper287.pdf
+
+Scale-invariance of human latencies
+
+pnas-2007.pdf
+
+Russian blues reveal effects of language on color discrimination
+
+risk-quest-09.pdf
+
+The domain-specific risk taking scale for adult populations: Item selection and preliminary psychometric properties
+
+FG-2006-SOTIS-published.pdf
+
+Suboptimal tradeoffs in information seeking
+
+riskpeasants.pdf
+
+Are peasants risk-averse decision makers?
+
+2004_barrett_15677095.pdf
+
+Spreading non-natural concepts: The role of intuitive conceptual structures in memory and transmission of cultural materials
+
+yovel.revelle.mineka.05.pdf
+
+Who sees trees before Forest?
+
+Risk-gender-diff.pdf
+
+Gender differences in risk assessment: Why do women take fewer risks than men?
+
+HJW_PS06.pdf
+
+Domain specificity in experimental measures and participant recruitment
+
+age_20-50_cognition.pdf
+
+Age-related effects on cognition between 20 and 50 years of age
+
+age-trend-relation-cog.pdf
+
+Adult age trends in the relations among cognitive abilities
+
+pay-enough.pdf
+
+Pay enough or don't pay at all
+
+powerlaw.pdf
+
+The power law repealed: The case for an exponential law of practice
+
+0909.4043.pdf (paper, done) d
+
+The evolution of overconfidence
+
+duration-cognition-2007.pdf
+
+Time in the mind: Using space to think about time
+
+memsrcactiv.pdf
+
+Modeling individual differences in working memory performance: a source activation account
+
+MIT.Encyclopedia.Cog.Sci.pdf
+
+MIT Encyclopedia of the Cognitive Sciences
+
+Milgram_people_looking_up.pdf
+
+Note on the drawing power of crowds of different sizes
+
+PEBLManual0.14.pdf
+
+The PEBL manual (may 2014)
+
+0000159.pdf
+
+Categories and induction in young children
+
+100YearsOfForgetting.pdf
+
+One Hundred Years of Forgetting: {A} Quantitative Description of Retention
+
+0000063.pdf
+
+Organization Revealed by Recall Orders and Confirmed by Pauses
+
+CambHandThinkingReason-book.pdf
+
+The Cambridge Handbook of Thinking and Reasoning
+
+Berlin&KayBCT.pdf
+
+Basic Color Terms: {Their} Universality and Evolution
+
+1993-Koriat-PR FOK.pdf
+
+How Do We Know That We Know? The Accessibility Model of the Feeling of Knowing
+
+AltmannTraftonHambrickJEPA.pdf (partial) d
+
+Effects of Interruption Length on Procedural Errors
+
+interruptions.pdf
+
+Timecourse of recovery from task interruption: Data and a model
+
+Trafton2015JHCS.pdf (not used) d
+
+Brief Lags in Interrupted Sequential Performance: Evaluating a Model and Model Evaluation Method
+
+remington2016.pdf (done) d
+
+With Practice, Keyboard Shortcuts Become Faster Than Menu Selection: A Crossover Interaction
+
+HambrickEtAl.pdf
+
+Deliberate practice: Is that all it takes to become an expert?☆
+
+norby2015.pdf
+
+Why Forget? On the Adaptive Value of Memory Loss
+
+verbsevents.pdf
+
+Verbs, events and spatial representations
+
+WagemansPsychBull12.pdf
+
+A Century of Gestalt Psychology in Visual Perception: I. Perceptual Grouping and Figure–Ground Organization
+
+Kubovy_Van_den_Berg.pdf
+
+The Whole Is Equal to the Sum of Its Parts: A Probabilistic Model of Grouping by Proximity and Similarity in Regular Patterns
+
+20619ca42c5799f3c.pdf
+
+The serial position effect of free recall
+
+hovland1938.pdf (paper, not used) d
+
+Experimental studies in rote-learning theory. I. Reminiscence following learning by massed and by distributed practice
+
+plaus_supersede_fact_retriev.pdf
+
+When plausibility judgments supersede fact retrieval: The example of the odd-even effect on product verification
+
+zbrodoff1995.pdf (paper, not used) d
+
+Why is 9 + 7 harder than 2 + 3?  Strength and interference as explanations of the problem-size effect
+
+latency_interresponse_time.pdf (paper, can extract, not used) d
+
+An analysis of latency and interresponse time in free recall
+
+prob-size_effect_comp_cult.pdf (emailed) d
+
+Decomposing the problem-size effect: A comparison of response time distributions across cultures
+
+RTdistPalmerEtAlJEPHPP11.pdf (done) d
+
+What Are the Shapes of Response Time Distributions in Visual Search?
+
+Reason&Rationality.pdf
+
+Reason and Rationality
+
+spatialattention.pdf
+
+What Enumeration Studies Can Show Us About Spatial Attention: Evidence for Limited Capacity Preattentive Processing
+
+Process_perf_experts.pdf
+
+The process performance paradox in expert judgment: {How} can the experts know so much and predict so badly?
+
+universal.pdf
+
+How universal can an intelligence test be?
+
+mbti.pdf
+
+Measuring the MBTI...  And Coming Up Short
+
+MBTI-5factor.pdf
+
+Reinterpreting the Myers-Briggs Type Indicator From the Perspective of the Five-Factor Model of Personality
+
+10.1.1.446.9252.pdf
+
+Strong Evidence for Gender Differences in Risk Taking
+
+dp8184.pdf
+
+A Reconsideration of Gender Differences in Risk Attitudes
+
+Expert-adapt-to-task.pdf
+
+Expert and Exceptional Performance: Evidence of Maximal Adaption to Task Constraints
+
+baddeley-barrouillet.pdf (paper, done) d
+
+Working memory
+
+10.1.1.367.6158.pdf
+
+Cognitive Niches: An Ecological Model of Strategy Selection
+
+10.1037@0278-7393.30.pdf
+
+Intentional Control of Event Counting
+
+10.1080@01449290.pdf
+
+The expanding telephone number Part 1: Keying briefly presented multiple-digit numbers
+
+DDDDDDD
+
+Flawed Self-Assessment.pdf
+
+Flawed Self-Assessment Implications for Health, Education, and the Workplace
+
+proxinarithmetic.pdf
+
+Proximity and Precedence in Arithmetic
+
+nihms59478.pdf
+
+Using E-Z Reader to Model the Effects of Higher-Level Language Processing on Eye Movements During Reading
+
+Pollatstek2006-CogEyeMovement.pdf
+
+Tests of the E-Z Reader model: Exploring the interface between cognition and eye-movement control
+
+Schad.VisCogn.preprint.pdf (not used) d
+
+The zoom lens of attention: simulating shuffled versus normal text reading using the SWIFT model
+
+Oberauer.Kliegl.JML.pdf (not used) d
+
+A formal model of capacity limits in working memory
+
+royetal.2005.pdf
+
+Underestimating the Duration of Future Events: Memory Incorrectly Used or Memory Bias?
+
+Soukoreff-PhD.pdf (paper, refed) d
+
+Quantifying text entry performance
+
+journal.pone.0033832.pdf (paper, not used) d
+
+Impact of High Mathematics Education on the Number Sense
+
+Maruyama2012.pdf
+
+The cortical representation of simple mathematical expressions
+
+Seow2005.pdf
+
+Information Theoretic Models of HCI: A Comparison of the Hick-Hyman Law and Fitts' Law
+
+chi-08.01.pdf
+
+An Error Model for Pointing Based on Fitts' Law
+
+Schneider-12-Cognition.pdf
+
+Eye gaze reveals a fast, parallel extraction of the syntax of arithmetic formulas
+
+Visual_Search_Click-Down_Menus.pdf (paper, not used) d
+
+Eye Tracking the Visual Search of Click-Down Menus
+
+HRA_Report.pdf
+
+Human Reliability Analysis Methods Selection Guidance for NASA
+
+feigenson2004.pdf
+
+Core systems of number
+
+On Distinguishing Epistemic from Pragmatic Action
+
+hull1976.pdf (paper, not used) d
+
+Reducing sources of human error in transmission of alphanumeric codes
+
+J12-1004.pdf
+
+Generating Numerical Approximations
+
+MuellerKrawitz-jmp.pdf
+
+Reconsidering the two-second decay hypothesis in verbal working memory
+
+Squire_Dede_CSH_PerspBiol.pdf
+
+Conscious and Unconscious Memory Systems
+
+WM-TheoriesModelsControversies.pdf
+
+Working Memory: Theories, Models, and Controversies
+
+10819154.pdf
+
+Spontaneous number representation in semi-free-ranging rhesus monkeys
+
+art3A10.10072Fs10071-015.pdf (paper+file, not used) d
+
+Monkeys display classic signatures of human symbolic arithmetic
+
+evolmemory02.pdf
+
+Decisions and the Evolution of Memory: Multiple Systems, Multiple Functions
+
+luria1971.pdf
+
+Towards the Problem of the Historical Nature of Psychological Processes
+
+alteneder1935.pdf (paper extracted, done) d
+
+The Learning Curve in Solving a Jig-Saw Puzzle: {A} Teaching Device
+
+skill-acquisition-practice.pdf
+
+Mechanisms of skill acquisition and the power law of practice
+
+StevensCoupe1978.pdf
+
+Distortions in Judged Spatial Relations
+
+F&K_1997.pdf
+
+Making Sense of Randomness: {Implicit} Encoding as a Basis for Judgment
+
+Rosch-CogPsych1976.pdf
+
+Basic Objects in Natural Categories
+
+FELDMA~1.PDF feldman_nature.pdf (emailed, done) d
+
+Minimization of Boolean complexity in human concept learning
+
+feldman_algebra.pdf (emailed, feldman_nature, done) d
+
+An algebra of human concept learning
+
+briscoe_feldman.pdf
+
+Conceptual complexity and the bias/variance tradeoff
+
+mathy_feldman_2012.pdf (31-249-1-PB, partial) d
+
+What's magic about magic numbers? Chunking and data compression in short-term memory
+
+47333428.pdf (31-249-1-PB, partial) d
+
+Chunk formation in immediate memory and how it relates to data compression
+
+amp-51-6-599.pdf
+
+Intelligence and Inspection Time Achievements, Prospects, and Problems
+
+deary1993.pdf (paper, emailed) d
+
+Nonstationarity and the measurement of psychophysical response in a visual inspection-time task
+
+10.1.1.319.135.pdf
+
+The Information Capacity of Visual Attention
+
+Landauer1986.pdf
+
+How Much Do People Remember!  Some Estimates of the Quantity of Learned Information in Long-term Memory
+
+10.1177@0959354391014004.pdf
+
+An Alternative Metaphor in the Study of Judgment and Choice: {People} as Politicians
+
+AccountabilityContextJudgment.pdf
+
+Accountability: {The} Neglected Social Context of Judgment and Choice
+
+simonson1989.pdf
+
+Choice Based on Reasons: {The} Case of Attraction and Compromise Effects
+
+Brady_2008_PNAS.pdf
+
+Visual long-term memory has a massive storage capacity for object details
+
+10.1016@0010.pdf (paper, done) d
+
+Order Effects in Belief Updating: The Belief-Adjustment Model
+
+shj61.pdf
+
+Learning and Memorization of Classifications
+
+CostsPredTaskSwitch.pdf
+
+Costs of a Predictable Switch Between Simple Cognitive tasks
+
+Hogarthetal1991JEPLMC.pdf
+
+Learning From Feedback: {Exactness} and Incentives
+
+2281-8505-1-PB.pdf
+
+Eye Movements in Reading: Models and Data
+
+ParafovealProcessingReading.pdf
+
+Parafoveal processing in reading
+
+Asch1956.pdf (paper, done) d
+
+Studies of Independence and Conformity: {A} Minority of One Against a Unanimous Majority
+
+E-Z_ReaderSim_EyeMove_Nonr.pdf
+
+Using E-Z Reader to Simulate Eye Movements in Nonreading Tasks: A Unified Framework for Understanding the Eye–Mind Link
+
+09541440600709955.pdf
+
+Parsing of algebraic expressions by experienced users of mathematics
+
+engbert_etal_05.pdf
+
+SWIFT: A Dynamical Model of Saccade Generation During Reading
+
+higgins1997regulatoryfocus.pdf
+
+Beyond Pleasure and Pain
+
+foerster_higgins_taylorbianco2003.pdf
+
+Speed/accuracy decisions in task performance: Built-in trade-off or separate strategic concerns?
+
+Higgins_2005.pdf
+
+Value From Regulatory Fit
+
+higgins.pdf
+
+Value From Hedonic Experience and Engagement
+
+10.1.1.800.4201.pdf
+
+Temporal aspects of simple addition and comparison
+
+parkman1972.pdf
+
+Temporal aspects of simple multiplication and comparison
+
+campbell1997.pdf (paper, done) d
+
+On the Relation Between Skilled Performance of Simple Division and Multiplication
+
+Atran_A_Birds_Eye_View.pdf
+
+A bird’s eye view: biological categorization and reasoning within and across cultures
+
+ConwayLongTermRetention.pdf
+
+On the Very Long-Term Retention of Knowledge Acquired Through Formal Education: Twelve Years of Cognitive Psychology
+
+gray_sims_fu_schoelles_2006.pdf
+
+The Soft Constraints Hypothesis: A Rational Analysis Approach to Resource Allocation for Interactive Behavior
+
+Intelligence-short-intro.pdf
+
+INTELLIGENCE A Very Short Introduction
+
+jansen-PhD.pdf
+
+Encoding and Parsing of Algebraic Expressions by Experienced Users of Mathematics
+
+LandyBrookesSmout14.pdf
+
+Abstract Numeric Relations and the Visual Structure of Algebra
+
+LandySilbertGoldin2013.pdf (LandyBigNumbersInLine, other) d
+
+Estimating Large Numbers
+
+LandyCharlesworthOttmar2014.pdf
+
+Cutting In Line: Discontinuities in the Use of Large Numbers by Adults
+
+LandyBigNumbersInLine.pdf (done) d
+
+Categories of Large Numbers in Line Estimation
+
+IllusionofControl.pdf
+
+The Illusion of Control
+
+Oberauer12b.pdf
+
+Modeling working memory: An interference model of complex span
+
+Adap-strat-decision-mak.pdf (paper, not used) d
+
+Adaptive strategies in decision making
+
+RandomWalksOptimalForaging.pdf
+
+Random Walks on Semantic Networks Can Resemble Optimal Foraging
+
+effectsofgradtraining.pdf
+
+The Effects of Graduate Training on Reasoning
+
+Hills_et_al-2015.pdf
+
+Foraging in Semantic Fields: How We Search Through Memory
+
+Shenhav_et_al_ARN_inPress.pdf
+
+Toward a rational and mechanistic account of mental effort
+
+RubinHinton&Wenzel.pdf (paper, emailed, partial) d
+
+The Precise Time Course of Retention
+
+Hurlstone-Hitch-Baddeley.pdf
+
+Memory for serial order across domains: An overview of the literature and directions for future research
+
+OaksfordChaterPsychReview1994.pdf
+
+A Rational Analysis of the Selection Task as Optimal Data Selection
+
+Wason-selection.pdf
+
+On the failure to eliminate hypothesis in a conceptual task
+
+Wiley-1998.pdf
+
+Expertise as mental set: The effects of domain knowledge in creative problem solving
+
+cogsci05.pdf (bayesmodels-Code.zip, not used) d
+
+Are There Two Kinds of Reasoning?
+
+rips-reasoning.pdf (cogsci05, not used) d
+
+Two kinds of reasoning
+
+1998modal.pdf (paper, done) d
+
+A Model Theory of Modal Reasoning
+
+Wason_68.pdf
+
+Reasoning about a rule
+
+modes_thinking-logic.pdf
+
+Modes of thinking and ways of speaking: culture and logic reconsidered
+
+88p095.pdf
+
+An Evolutionary and Chronological Framework for Human Social Behaviour
+
+05_Sloman_1996.pdf
+
+The Empirical Case for Two Systems of Reasoning
+
+ADA068498.pdf
+
+An Aptitude-Strategy Interaction in Linear Syllogistic Reasoning
+
+SocContReasoningConv.pdf
+
+The Social Context of Reasoning: Conversational Inference and Rational Judgment
+
+StanovichBBS.pdf
+
+Individual differences in reasoning: Implications for the rationality debate?
+
+evans1983.pdf
+
+On the conflict between logic and belief in syllogistic reasoning
+
+Sloman.Lagnado.pdf
+
+Counterfactual Undoing in Deterministic Causal Reasoning
+
+SlomanBarbeyHotaling2009.pdf
+
+A Causal Model Theory of the Meaning of Cause, Enable, and Prevent
+
+6c36a062dd45e03cf.pdf
+
+Naive causality: a mental model theory of causal meaning and reasoning
+
+DoWeDo.pdf (paper, done) d
+
+Do We "do"?
+
+Jeplmc00.pdf
+
+Automatic Comparisons of Artificial Digits Never Compared: Learning Linear Ordering Relations
+
+Space-linear-orders.pdf
+
+Spatial processes in linear ordering
+
+nihms-544669.pdf
+
+Six-term transitive inference with pigeons: successive-pair training followed by mixed-pair training
+
+bacon2003.pdf
+
+Individual differences in strategies for syllogistic reasoning
+
+MoL-2015-15.text.pdf (paper, not used) d
+
+Toward Probabilistic Natural Logic for Syllogistic Reasoning
+
+MercierWhydohumansreason.pdf
+
+Why do humans reason? Arguments for an argumentative theory
+
+SlomanLagnadoAnnualReview2014.pdf
+
+Causality in Thought
+
+28931180.pdf
+
+Rhesus monkeys (Macaca mulatta) spontaneously compute addition operations over large numbers
+
+20f9cc05f2f2c009.pdf
+
+Symbols and quantities in parietal cortex: elements of a mathematical theory of number representation and manipulation
+
+Nunez_11_JCCP.pdf
+
+No Innate Number Line in the Human Brain
+
+lethsteensen2000.pdf (paper, not used) d
+
+A Model of Response Time Effects in Symbolic Comparison
+
+0755.pdf (paper, not used) d
+
+A little logic goes a long way: basing experiment on semantic theory in the cognitive science of conditional reasoning
+
+PP-2000-04.text.pdf
+
+Semantics as a Foundation for Psychology: A Case Study of Wason’s Selection Task
+
+f2639709eb575be6587b4.pdf (bayesmodels-Code.zip, not used) d
+
+Evaluation of a Behavioral Measure of Risk Taking: The Balloon Analogue Risk Task (BART)
+
+Hawkins-HicksLaw.pdf (done) d
+
+Context effects in multi-alternative decision making: Empirical data and a Bayesian model
+
+Shenhav_et_al_ARN_inPress.pdf
+
+Toward a Rational and Mechanistic Account of Mental Effort
+
+nihms515946.pdf
+
+An opportunity cost model of subjective effort and task performance
+
+socexcog89.pdf
+
+The logic of social exchange: Has natural selection shaped how humans reason?  Studies with the Wason selection task
+
+FLO-JEL-2002-1ko3v9w.pdf
+
+Time Discounting and Time Preference: A Critical Review
+
+jeabehav00017-0103.pdf
+
+Subjective probability and delay
+
+arkes1986.pdf
+
+Factors Influencing the Use of a Decision Rule in a Probabilistic Task
+
+104350_12.pdf (f2639709eb575be6587b4, other) d
+
+Cognitive Model Decomposition of the BART: Assessment and Application
+
+wallsten_pleskac_lejuez2005.pdf (f2639709eb575be6587b4, other) d
+
+Modeling Behavior in a Clinically Diagnostic Sequential Risk-Taking Task
+
+10.1016@0030.pdf (paper, done) d
+
+Do Those Who Know More Also Know More about How Much They Know?
+
+2004Chiao.pdf
+
+Mental representations of social status
+
+1985_2.pdf
+
+Evidence for hierarchies in cognitive maps
+
+Is_three_greater_five.pdf
+
+Is three greater than five: The relation between physical and semantic size in comparison tasks
+
+1501.02732.pdf (not used) d
+
+Predicting Performance During Tutoring with Models of Recent Performance
+
+bednarik.pdf
+
+Methods to Analyze Visual Attention Strategies: Applications in the Studies of Programming
+
+Chater_TemporalModelMemory.pdf (cited) d
+
+A Temporal Ratio Model of Memory
+
+SpatialWMClocationbias.pdf
+
+Spatial Working Memory Capacity Predicts Bias in Estimates of Location
+
+Dedeyne2008EBFAM.pdf (cited) d
+
+Exemplar by feature applicability matrices and other Dutch normative data for semantic concepts
+
+lba.pdf
+
+The simplest complete model of choice response time: Linear ballistic accumulation
+
+lefevre1997.pdf (done) d
+
+The Role of Experience in Numerical Skill: Multiplication Performance in Adults from Canada and China
+
+McGonigle2003.pdf
+
+Concurrent disjoint and reciprocal classification by Cebus apella in seriation tasks: evidence for hierarchical organization
+
+reward-rate-optimality.pdf
+
+People adopt optimal policies in simple decision-making, after practice and guidance
+
+riefer2002.pdf (not used) d
+
+Cognitive Psychometrics: Assessing Storage and Retrieval Deficits in Special Populations With Multinomial Processing Tree Models
+
+seibel1963.pdf (extract, not used) d
+
+Discrimination reaction time for a 1,023-alternative task
+
+mental-rotation.pdf
+
+Mental Rotation of Three-dimensional Objects
+
+Wilson_Embodied_Cog.pdf
+
+Six views of embodied cognition
+
+LS_How_2005.pdf
+
+How Forgetting Aids Heuristic Inference
+
+WardTanGrenfell.pdf
+
+Examining the relationship between free recall and immediate serial recall: the effects of list length and output order
+
+ProblemSerialOrder.pdf
+
+The Problem of Serial Order in Behavior
+
+Glenberg_Few_Believe_ms.pdf
+
+Few Believe the World is Flat: How Embodiment is Changing the Scientific Understanding of Cognition
+
+8ee48700173e2f09aeff.pdf
+
+Norm Theory: Comparing Reality to Its Alternatives
+
+i0022-5002-83-1-1.pdf
+
+The Sunk Cost Effect in Pigeons and Humans
+
+limitedcapacitypreattentivestage.pdf
+
+Why Are Small and Large Numbers Enumerated Differently? A Limited-Capacity Preattentive Stage in Vision
+
+anchorprecision.pdf
+
+Precision of the Anchor Influences the Amount of Adjustment
+
+mandler1982.pdf
+
+Subitizing: An Analysis of Its Component Processes
+
+cognitive-control-model.pdf (not used) d
+
+An Integrated Model of Cognitive Control in Task Switching
+
+PenicillinfortheMind.pdf
+
+PENICILLIN FOR THE MIND?  REASON, EDUCATION AND COGNITIVE SCIENCE
+
+10.1.1.419.5350.pdf
+
+Survey of time preference, delay discounting models
+
+ProspectTheory.pdf
+
+Prospect Theory: An Analysis of Decision under Risk
+
+Nuerk_Wood_Willmes2005.pdf (paper, done) d
+
+The Universal SNARC Effect: The Association between Number Magnitude and Space is Amodal
+
+Dehaene_SNARC1993.pdf
+
+The Mental Representation of Parity and Number Magnitude
+
+615a36c33e61ca309b8.pdf
+
+Representativeness Revisited: Attribute Substitution in Intuitive Judgment
+
+Heuristics_Biases-book.pdf
+
+HEURISTICS AND BIASES The Psychology of Intuitive Judgment
+
+fpsyg-01-00235.pdf (not used)  d
+
+Forgetting constrains the emergence of cooperative decision strategies
+
+journal.pone.0018945.pdf (not used) d
+
+The Good, the Bad, and the Rare: Memory for Partners in Social Interactions
+
+JEPG-1992--121-p352-p363.pdf
+
+Generation of random series in two-person strictly competitive games
+
+Gen_Random_Seq_Human_Sub.pdf (paper, not used) d
+
+Generation of Random Sequences by Human Subjects: Cognitive Operations or Psychophysical Process?
+
+JEPHPP-1987-13-p25-p39.pdf (paper, not used) d
+
+A Markov Model for Generation of Random Binary Sequences
+
+Prod_perc_randomness_02.pdf (paper, not used) d
+
+The Production and Perception of Randomness
+
+Neuringer_1986_JEP-Gen.pdf (paper, not used) d
+
+Can People Behave "Randomly?". The Role of Feedback
+
+1992LoganJEPLMC.pdf (emailed, lost) d
+
+Shapes of Reaction-Time Distributions and Shapes of Learning Curves: A Test of the Instance Theory of Automaticity
+
+1988LoganPR.pdf (paper, not used) d
+
+Toward an Instance Theory of Automatization
+
+1991LoganMC.pdf (paper, emailed, lost) d
+
+The transition from algorithm to retrieval in memory-based theories of automaticity
+
+1995LoganPR.pdf
+
+The Weibull Distribution, the Power Law, and the Instance Theory of Automaticity
+
+SourcesandConsequences.pdf (paper+file, done) d
+
+The sources and Consequences of the Fluent Processing of numbers
+
+Stewart_Reimers_Harris_2015.pdf (file+emailed, not used) d
+
+On the origin of utility, weighting, and discounting functions: how they get their shapes and how to change their shapes
+
+byrne2016-annualreview.pdf
+
+Counterfactual Thought
+
+free_recall_serial_recall.pdf (paper, not used)
+
+Examining the relationship between free recall and immediate serial recall: The serial nature of recall and the effect of test expectancy
+
+fific_nosofsky_townsend.pdf
+
+Information-Processing Architectures in Multidimensional Classification: A Validation Test of the Systems Factorial Technology
+
+JohnBlahHouptTown10.pdf
+
+Systems Factorial Technology provides new insights on global-local information processing in autism spectrum disorders>
+
+JudgementAndChoice.pdf
+
+A Perspective on Judgment and Choice
+
+Pigeon_Hicks_Law.pdf
+
+Pigeon reaction time, Hick's Law, and intelligence
+
+ling_relativity_Language-book.pdf
+
+Language in Mind
+
+RH_Decisions_2004.pdf (paper, not used) d
+
+Decisions From Experience and the Effect of Rare Events in Risky Choice
+
+Zamiska_PhD.pdf
+
+An investigation of the learning and forgetting of workers in dual resource constrained systems
+
+spont-giving-calc-greed.pdf
+
+Spontaneous giving and calculated greed
+
+10.1.1.662.2344.pdf
+
+Dysfunctional implications of narrow window theory: Variability in the intuitive assessment of correlation
+
+5409.pdf (paper, not used) d
+
+Optimization of repetition spacing in the practice of learning
+
+Jensen-uncorrect_proof.pdf
+
+Truly Random Operant Responding Results and Reasons
+
+Bounds_of_Reason_Game_Theory-book.pdf
+
+The Bounds of Reason Game Theory and the Unification of the Behavioral Sciences
+
+gigeGray17topiCS.pdf
+
+A Simple Heuristic Successfully Used by Humans, Animals, and Machines: The Story of the RAF and Luftwaffe, Hawks and Ducks, Dogs and Frisbees, Baseball Outfielders and Sidewinder Missiles—Oh My!
+
+Graveyard_Undead_Theories.pdf
+
+A Vast Graveyard of Undead Theories Publication Bias and Psychological Science's Aversion to the Null
+
+Measuring-Psychic-Distance.pdf (not used) d
+
+Developing a Multidimensional Instrument to Measure Psychic Distance Stimuli
+
+Number_Sense-book.pdf
+
+The number sense
+
+10.1.1.183.2827.pdf
+
+Round Numbers as Goals: {Evidence} From Baseball, {SAT} Takers, and the Lab
+
+SSRN-id417321.pdf
+
+Price clustering and natural resistance points in the Dutch stock market: a natural experiment
+
+10.1.1.464.6526.pdf
+
+The Psychology of Intertemporal Tradeoffs
+
+10.3758_s13423-016.pdf (paper, not used) d
+
+Linked linear mixed models: A joint analysis of fixation locations and fixation durations in natural reading
+
+bigelow2016large.pdf (not used) d
+
+A Large Dataset of Generalization Patterns in the Number Game
+
+10.1.1.175.3543.pdf
+
+Confirmation, Disconfirmation, and Information in Hypothesis Testing
+
+McKenzieJDMChapter2005.pdf
+
+Judgment and decision making
+
+NavarroPerfors2010_pts.pdf
+
+Hypothesis Generation, Sparse Categories, and the Positive Test Strategy
+
+gazzan.pdf
+
+Lightness Perception and Lightness Illusions
+
+qt9bk9d042.pdf
+
+Confirmation bias is rational when hypotheses are sparse
+
+piantadosi2016logical.pdf (not used) d
+
+The Logical Primitives of Thought: Empirical Foundations for Compositional Cognitive Models
+
+a088677.pdf
+
+Hypothesis generation in an automobile malfunction inference task
+
+METAPH~1.PDF
+
+Metaphoric structuring: understanding time through spatial metaphors
+
+lee_cummins.pdf (not used) d
+
+Evidence accumulation in decision making: Unifying the “take the best” and the “rational” models
+
+trust_lee_dry.pdf (not used) d
+
+Decision Making and Confidence Given Uncertain Advice
+
+LeeEtAl2011CSR.pdf (not used) d
+
+Psychological models of human and optimal performance in bandit problems
+
+Lee2016_StevensHandbook.pdf (not used) d
+
+Bayesian methods in cognitive modeling
+
+Lee2017StepChange.pdf (not used) d
+
+A Simple and Flexible Bayesian Method for Inferring Step Changes in Cognition
+
+2010-MTurk-CHI.pdf (cited) d
+
+Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design
+
+WRAP_PIIS13646613.pdf
+
+Bayesian Brains without Probabilities
+
+portugal2010.pdf
+
+Weber-Fechner Law and the Optimality of the Logarithmic Scale
+
+LeeBlancoBo2015.pdf (not used) d
+
+Testing Take-the-Best in New and Changing Environments
+
+jdm14821.pdf (not used) d
+
+Evidence for and against a simple interpretation of the less-is-more effect
+
+TowseNeil98.pdf
+
+Analyzing human random generation behavior: A review of methods used and a computer program for describing performance
+
+62079197140324deeeb.pdf
+
+On the cognitive effects of learning computer programming
+
+bul-bul0000138.pdf
+
+Perfectionism Is Increasing Over Time: A Meta-Analysis of Birth Cohort Differences From 1989 to 2016
+
+arfer-paper.pdf (not used) d
+
+The predictive accuracy of intertemporal-choice models
+
+gg_striking_2004.pdf
+
+Striking a Blow for Sanity in Theories of Rationality
+
+hci1992.pdf (paper, cited) d
+
+Fitts's law as a research and design tool in human-computer interaction
+
+piantadosi2016rational.pdf
+
+A rational analysis of the approximate number system
+
+Smith_Graesser1981.pdf (paper, extract?, faded away) d
+
+Memory for actions in scripted activities as a function of typicality, retention interval, and retrieval task
+
+Sunk Cost_080331.pdf
+
+Why humans care about sunk costs while (lower) animals don't.  An evolutionary explanation
+
+wagenaar-1972-ran-seq-human.pdf
+
+GENERATION OF RANDOM SEQUENCES BY HUMAN SUBJECTS: A CRITICAL SURVEY OF LITERATURE
+
+a060522.pdf (paper, not used) d
+
+Cognitive Structures in the Comprehension and Memory of Computer Programs: An investigation of Computer Program Debugging
+
+adelson1981.pdf (paper, partial) d
+
+Problem solving and the development of abstract categories in programming languages
+
+10.1.1.572.6683.pdf
+
+Age of acquisition predicts naming and lexical-decision performance above and beyond 22 other predictor variables: An analysis of 2,342 words
+
+10.1.1.721.5852.pdf
+
+Eye Movements in Code Reading: Relaxing the Linear Order
+
+word-list-recall.pdf
+
+Hierarchical Retrieval Schemes in Recall of Categorized Word Lists
+
+m4.pdf
+
+Hick’s Law in a Stochastic Race Model with Speed–Accuracy Tradeoff
+
+BostonHaleKlieglJEMR08.pdf (not used) d
+
+Parsing cosys as predictors of reading difficulty: An evaluation using the Potsdam sentence corpus
+
+59-242-1-SM.pdf (not used) d
+
+An Activation-Based Model of Sentence Processing as Skilled Memory Retrieval
+
+128ba4d423c2e87d9136.pdf
+
+Some empirical tests of an interactive activation model of eye movement control in reading
+
+417f0fd02e5f8b60b3a.pdf
+
+Eye movements as time-series random variables: A stochastic model of eye movement control in reading
+
+MurrayForsterSerialMech.pdf
+
+Serial Mechanisms in Lexical Access: The Rank Hypothesis
+
+3c15e15b92bd0803244517.pdf
+
+The {Whorfian} hypothesis and numerical cognition: is 'twenty-four' processed in the same way as 'four-and-twenty'?
+
+Rememthingsparsed77.pdf
+
+Remembrance of things parsed: Story structure and recall
+
+10-verbatim-GJGlangcog.pdf
+
+Incidental verbatim memory for language
+
+jvlvb75.pdf
+
+Comprehension and Recall of Text as a Function of Content Variables
+
+daneman1980.pdf (paper, extracted, done) d
+
+Individual Differences in Working Memory and Reading
+
+daneman1983.pdf
+
+Individual Differences in Integrating Information Between and Within Sentences
+
+Complexitymetrics.pdf
+
+Competing complexity metrics and adults' production of complex sentences
+
+kintsch1973.pdf (paper, extracted, done) d
+
+Reading Rate and Retention as a Function of the Number of Propositions in the Base Structure of Sentences
+
+scripts_memory_text.pdf
+
+Scripts in Memory for Text
+
+DoolingChristiaansen77.pdf (paper, extracted, done) d
+
+Episodic and Semantic Aspects of Memory for Prose
+
+graesser1980.pdf (paper, done) d
+
+Memory for Typical and Atypical Actions in Scripted Activities
+
+graesser1980a.pdf
+
+Structural Components of Reading Time
+
+10.1.1.486.7065.pdf
+
+Memory Limitations and Structural Forgetting: The Perception of Complex Ungrammatical Sentences as Grammatical
+
+1982spatialdescs.pdf
+
+Spatial Descriptions and Referential Continuity
+
+Kolers76.pdf (paper, extracted, done) d
+
+Reading A Year Later
+
+Kolers75.pdf
+
+Memorial Consequences of Automatized Encoding
+
+0f4e3237e6ab83c17b.pdf
+
+Word Perception and Misperception in Context
+
+TowardComprehension.pdf
+
+Toward a Comprehensive Model of Comprehension
+
+gardner1987.pdf
+
+The word frequency effect in lexical decision: Finding a frequency-based component
+
+lewicki1988.pdf (paper, extracted, done) d
+
+Acquisition of Procedural Knowledge about a Pattern of Stimuli That Cannot be Articulated
+
+Sumscramstories.pdf
+
+Summarizing scrambled stories
+
+weimer-icse2017p.pdf
+
+Decoding the representation of code in the brain: An fMRI study of code review and expertise
+
+2014_SemcatPicturesWords.pdf (not used) d
+
+Semantic classification of pictures and words
+
+AnchoringSimulations.pdf
+
+The anchoring bias reflects rational use of cognitive resources
+
+megastudy_chapter.pdf
+
+Megastudies What do millions (or so) of trials tell us about lexical processing?
+
+neil_phd_thesis.pdf (cited) d
+
+Constructing the world: Active causal learning in cognition
+
+OrdinalNatureEmotions.pdf
+
+The Ordinal Nature of Emotions
+
+1804.03919.pdf (done) d
+
+An Experimental Evaluation of a De-biasing Intervention for Professional Software Developers
+
+Experimental_Psych-book.pdf
+
+Experimental psychology revised edition
+
+woodworth_1899.pdf (paper, not used) d
+
+The accuracy of voluntary movement
+
+phd_1601.pdf
+
+Economic behaviour & psychological biases in human-computer interaction
+
+Farrell-Hurlstone-Lewand-13.pdf (cited) d
+
+Sequential dependencies in recall of sequences: Filling in the blanks
+
+archivesofpsycho163.pdf (paper, not used) d
+
+SELF-ESTIMATES OF IMPROVEMENT IN REPEATED TASKS
+
+archivesofpsycho200.pdf (paper, not used) d
+
+THE ATMOSPHERE EFFECT: An Experimental Study of Reasoning
+
+archivesofpsycho210.pdf
+
+Trial-and-Error, Gradual Analysis, and Sudden Reorganization An Experimental Study of Problem Solving
+
+archivesofpsycho281.pdf (paper, not used) d
+
+Anchoring Effects in the Absolute Judgment of Verbal Materials
+
+Loschelder2016_PSci.pdf (cited) d
+
+The Too-Much-Precision Effect: When and Why Precise Anchors Backfire With Experts
+
+totas 454384
+1-s2.0-S0960982218314209-main.pdf
+
+Metacognitive Failure as a Feature of Those Holding Radical Beliefs
+
+0677c4ab6c31c107150819.pdf (paper, not used) d
+
+PUTTING ADJUSTMENT BACK IN THE ANCHORING AND ADJUSTMENT HEURISTIC: Differential Processing of Self-Generated and Experimenter-Provided Anchors
+
+10.1.1.458.4646.pdf (done) d
+
+Remembering the news: Modeling retention data from a study with 14,000 participants
+
+69ec23083dbc2b2bf7f.pdf (id10008049, not used) d
+
+Ecologically Rational Choice and the Structure of the Environment
+
+id10008049.pdf (not used) d
+
+The ecology of competition: A theory of risk–reward environments in adaptive decision making
+
+cantlon2015origins.pdf
+
+The Origins of Counting Algorithms
+
+Handbook-Math-Psy-Vol-II.pdf
+
+Handbook for mathematical psychology, volume II
+
+Handbook-Math-Psy-Vol-III.pdf
+
+Handbook for mathematical psychology, volume III
+
+readingsinmathem00luce.pdf
+
+Readings in Mathematical Psychology, volume I
+
+DearyBrother_sister_sex_diff.pdf
+
+Brother–sister differences in the g factor in intelligence: Analysis of full, opposite-sex siblings from the NLSY1979
+
+CamererChimps.pdf
+
+Experienced chimpanzees behave more game-theoretically than humans in simple competitive interactions 
+
+biometricSensors_07-03-14.pdf
+
+Using psycho-physiological measures to assess task difficulty in software development
+
+recin-psychrev.pdf
+
+A Theory of Reaction Time Distributions
+
+journal.pone.0120644.pdf (done) d
+
+Replication and Analysis of Ebbinghaus' Forgetting Curve
+
+larzabal_c_18_254.pdf (not used) d
+
+Extremely long-term memory and familiarity after 12 years
+
+LeeGluckWalsh2018.pdf (cited) d
+
+Understanding the Complexity of Simple Decisions: Modeling Multiple Behaviors and Switching Strategies
+
+ecf9bc7d95599e41483831.pdf (paper, not used) d
+
+On the Course of Forgetting in Very Long-Term Memory
+
+jdm101112.pdf
+
+Using the ACT-R architecture to specify 39 quantitative process models of decision making
+
+kruschke1993.pdf (done) d
+
+Human Category Learning: Implications for Backpropagation Models
+
+Kruschke1996CS.pdf (done) d
+
+Dimensional Relevance Shifts in Category Learning
+
+Kruschke2009PLM.pdf (not used) d
+
+Highlighting: A Canonical Experiment
+
+WRAP-asym-atten-opportunity.pdf (not used) d
+
+The Value of Nothing: Asymmetric Attention to Opportunity Costs Drives Intertemporal Decision Making
+
+The_Learning_Curve.pdf
+
+The learning curve: Implications of a quantitative analysis
+
+1e81e1d77ce1425dc.pdf (paper, not used) d
+
+Subitizing: An Analysis of Its Component Processes
+
+2018_NHB_Personality-types.pdf (JRP2014, cited) d
+
+A robust data-driven approach identifies four personality types across four large data sets
+
+JRP2014.pdf (cited) d
+
+Measuring thirty facets of the Five Factor Model with a 120-item public domain inventory: Development of the IPIP-NEO-120
+
+anchor_adjustment.pdf
+
+The Anchoring-and-Adjustment Heuristic Why the Adjustments Are Insufficient
+
+memorycontributi00ebbiuoft.pdf
+
+Memory: A Contribution to Experimental Psychology
+
+Goldberg.Big-Five.pdf (paper, not used) d
+
+An Alternative "Description of Personality": The Big-Five Factor Structure
+
+gallistel_et_al_2014.pdf (cited) d
+
+The Perception of Probability
+
+BootEtAl07.pdf
+
+The effects of video game playing on attention, memory, and executive control
+
+LEVARI2018COMPLETE.pdf (done) d
+
+Prevalence-induced concept change in human judgment
+
+31-249-1-PB.pdf (partial) d
+
+Simple and Complex Working Memory Tasks Allow Similar Benefits of Information Compression
+
+ChekafCowanMathy.pdf (31-249..., other) d
+
+Chunk formation in immediate memory and how it relates to data compression
+
+ChildApesResponsesTwo.pdf (paper, extract, not used) d
+
+Children’s and Apes’ Preparatory Responses to Two Mutually Exclusive Possibilities
+
+2002_van-der-henst_carles-time.pdf
+
+Truthfulness and Relevance in Telling The Time
+
+racing-diffusion.pdf (not used) d
+
+The Racing Diffusion Model of Speeded Decision Making
+
+psychrev04c.pdf
+
+A Diffusion Model Account of the Lexical Decision Task
+
+neuralcomp08.pdf
+
+The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
+
+SSRN-id3201031.pdf
+
+The Origins of WEIRD Psychology
+
+RandomnessAsInference.pdf (not used) d
+
+Subjective randomness as statistical inference
+
+sex-diff-tail-cogabil.pdf
+
+Sex differences in the right tail of cognitive abilities: A 30 year examination
+
+Scriptie.pdf
+
+Optimal Learning and the Spacing Effect: Theory, Application and Experiments based on the Memory Chain Model
+
+globalLocal.pdf (cited) d
+
+A test of interference versus decay in working memory: Varying distraction within lists in a complex span task
+
+Paul Fitts 1954.pdf (paper, not used) d
+
+The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement
+
+e7bdc2668ae42c11f.pdf
+
+AGE IN THE DEVELOPMENT OF CLOSURE ABILITY IN CHILDREN
+
+Hyman 1953.pdf (paper, not used) d
+
+STIMULUS INFORMATION AS A DETERMINANT OF REACTION TIME
+
+1901.07024.pdf (done) d
+
+Temporal Discounting in Technical Debt: How do Software Practitioners Discount the Future?
+
+Tillman-PhD.pdf (not used) d
+
+Advancing Methods and Mathematical Models of Perceptual Decision Making
+
+LandyGuayMarghetis-PBR.pdf (partial) d
+
+Bias and ignorance in demographic perception
+
+shapewf.pdf
+
+On the Shape of the Probability Weighting Function
+
+jmb1989.pdf
+
+A note on the information-theoretic basis for Fitts' law
+
+QualityRespTimeDataInf.pdf (cited) d
+
+The Quality of Response Time Data Inference: A Blinded, Collaborative Assessment of the Validity of Cognitive Models
+
+Econometrica_1998_66.pdf
+
+The Probability Weighting Function
+
+884f1abddfd371d.pdf (cited) d
+
+THE LOSS OF POSITIONAL CERTAINTY IN LONG-TERM MEMORY
+
+18.pdf (884f1abddfd371d, not used) d
+
+Positional uncertainty in long-term memory
+
+TruebloodBusemeyer2011.pdf
+
+A Quantum Probability Account of Order Effects in Inference
+
+82644986.pdf
+
+The Perception of Randomness
+
+fnins-06-00105.pdf
+
+Cognitive processes in decisions under risk are not the same as in decisions under uncertainty
+
+lee1977.pdf
+
+Order and Position in Primary Memory for Letter Strings
+
+BenchmarksWM-model.pdf (cited) d
+
+Benchmarks for Models of Short Term and Working Memory
+
+Huang_Pashler_PR2007.pdf
+
+A Boolean Map Theory of Visual Attention
+
+trends16-1p31ugz.pdf
+
+Diffusion Decision Model: Current Issues and History
+
+Ellsberg-Risk_Ambiguity.pdf
+
+Risk, Ambiguity, and the Savage Axioms
+
+robinson1964.pdf
+
+CONTINUOUS ESTIMATION OF A TIME-VARYING PROBABILITY
+
+rspb.2009.0121.pdf
+
+A quantum probability explanation for violations of ‘rational’ decision theory
+
+Vincent_Stewart_2019.pdf (not used) d
+
+The case of muddled units in temporal discounting
+
+Trueblood_causal.pdf
+
+A quantum probability framework for human probabilistic inference
+
+A17_Pea_Kurland_83.pdf
+
+On the Cognitive Prerequisites of Learning Computer Programming
+
+voskuilenchapter17.pdf
+
+Diffusion Models of Memory and Decision Making
+
+HollandsDyre2000Cyclic.pdf (emailed, faded away) d
+
+Bias in Proportion Judgments: The Cyclical Power Model
+
+brewer-et-al-2017.pdf (not used) d
+
+Examining Depletion Theories Under Conditions of Within-Task Transfer
+
+b240480aa0fd489d6ed.pdf
+
+The Cost of Thinking
+
+KSW_HeterogeneityBiases.pdf (Stevens-Discrete..., other) d
+
+Individual Differences in the Perception of Probability
+
+Stevens-DiscreteEvidence.pdf (done) d
+
+Discrete Adjustment to a Changing Environment: Experimental Evidence
+
+units.pdf
+
+Psychological parameters have units: A bug fix for stochastic prospect theory and other decision models
+
+ChekafGauvritGuidaMathy.pdf (done) d
+
+Compression in Working Memory and its Relationship with Fluid Intelligence
+
+fpsyg-07-00778.pdf (images, emailed no data, not used) d
+
+Probability Weighting Functions Derived from Hyperbolic Time Discounting: Psychophysical Models and Their Individual Level Testing
+
+nyarko_elicited_beliefs.pdf (not used) d
+
+An Experimental Study of Belief Learning Using Elicited Beliefs
+
+fnhum-07-00701.pdf
+
+Training of ultra-fast speech comprehension induces functional reorganization of the central-visual system in late-blind humans
+
+pone.0132196.pdf
+
+Network Modeling for Functional Magnetic Resonance Imaging (fMRI) Signals during Ultra-Fast Speech Comprehension in Late-Blind Listeners
+
+Multilab_Replication_Ego-Depl.pdf
+
+A Multilab Preregistered Replication of the Ego-Depletion Effect:
+
+Medin-folkbiology-fish.pdf
+
+Folkbiology of Freshwater Fish
+
+CogSci05.pdf
+
+Processes of Similarity Judgment
+
+MedinGoldstoneGentner90.pdf
+
+SIMILARITY INVOLVING ATTRIBUTES AND RELATIONS: JUDGMENTS OF SIMILARITY AND DIFFERENCE ARE NOT INVERSES
+
+HumanMemory_AdaptivePerspec.pdf
+
+Human memory: an adaptive perspective
+
+Evo_Constraints_on_Remem.pdf
+
+Adaptive Memory: Evolutionary Constraints on Remembering
+
+RationalAnalysisOfMemory.pdf
+
+The rational analysis of memory
+
+10.1.1.111.1682.pdf
+
+REFLECTIONS OF THE ENVIRONMENT IN MEMORY
+
+GlanzerHilfordMaloney.2009.pdf
+
+Likelihood ratio decisions in memory: Three implied regularities
+
+PSA+18tse.pdf
+
+A Look into Programmers’ Heads
+
+perception-study.pdf (done) d
+
+A Psychophysical Investigation of Size as a Physical Variable
+
+spence1990.pdf
+
+Visual Psychophysics of Simple Graphical Elements
+
+489.full.pdf
+
+Whorf hypothesis is supported in the right visual field but not the left
+
+2020.01.28.923953v1.full.pdf (website, email, cited) d
+
+Expert programmers have fine-tuned cortical representations of source code
+
+nihms-567875.pdf
+
+Searchlight analysis: promise, pitfalls, and potential
+
+1997whygmatters.pdf
+
+Why g Matters: The Complexity of Everyday Life
+
+Explanation-understanding.pdf
+
+Explanation and Understanding
+
+HorneMuradogluCimpian.pdf
+
+Explanation as a Cognitive Process
+
+NEG_AFF_in_the_Brain.pdf
+
+Negative and affirmative sentences increase activation in different areas in the brain
+
+DeliberatePracticeLimits.pdf
+
+Deliberate Practice and Proposed Limits on the Effects of Practice on the Acquisition of Expert Performance: Why the Original Definition Matters and Recommendations for Future Research
+
+Darley-JersualemJericho.pdf
+
+"FROM JERUSALEM TO JERICHO": A STUDY OF SITUATIONAL AND DISPOSITIONAL VARIABLES IN HELPING BEHAVIOR
+
+Correlation_neglect.pdf (cited) d
+
+Correlation Neglect in Belief Formation
+
+attneave1953.pdf (paper, not used) d
+
+PSYCHOLOGICAL PROBABILITY AS A FUNCTION OF EXPERIENCED FREQUENCY
+
+fnins-06-00001.pdf
+
+Ubiquitous log odds: a common representation of probability and frequency distortion in perception, action, and cognition
+
+GreenLuce_PandP_1974.pdf (paper, not used) d
+
+Variability of magnitude estimates: A timing theory analysis
+
+LuceMo_BritJofMSP_1965.pdf (paper, not used) d
+
+MAGNITUDE ESTIMATION OF HEAVINESS AND LOUDNESS BY INDIVIDUAL SUBJECTS: A TEST OF A PROBABILISTIC RESPONSE THEORY
+
+18-153-1-PB.pdf (not used) d
+
+Selected Personality Data from the SAPA-Project: On the Structure of Phrased Self-Report Items
+
+CategoryEffStim.pdf
+
+Category effects on stimulus estimation: Shifting and skewed frequency distributions
+
+1-s2.0-S01695347203.pdf
+
+The Adaptive Value of Numerical Competence
+
+1609.04212.pdf
+
+Formalizing Neurath’s Ship: Approximate Algorithms for Online Causal Learning
+
+2018-prominent.numbers.pdf (not used) d
+
+The role of “Prominent Numbers” in open numerical judgment: Strained decision makers choose from a limited set of accessible numbers
+
+1903.03426.pdf (not used) d
+
+A Replication Study on Code Comprehension and Expertise using Lightweight Biometric Sensors
+
+207958003.pdf (Trippas-2018, other) d
+
+The SDT Model of Belief Bias: Complexity, Time, and Cognitive Ability Mediate the Effects of Believability
+
+2013trippas10254843phd.pdf (Trippas-2018, other) d
+
+Motivated Reasoning and Response Bias: A Signal Detection Approach
+
+Trippas-2018belief-bias-syll.pdf (done) d
+
+Assessing the Belief Bias Effect With ROCs: It’s a Response Bias Effect
+
+1997-gordon.pdf
+
+Everyday Life as an Intelligence Test: Effects of Intelligence and Intelligence Context
+
+dp6710.pdf (emailed, no reply) d
+
+The “Bomb” Risk Elicitation Task
+
+10.1038@s41562.pdf
+
+Replicating patterns of prospect theory for decision under risk
+
+Trippas_15.pdf (Trippas-2018, other) d
+
+Better but still biased: Analytic cognitive style and belief bias
+
+2009-erdfelderetal.pdf
+
+Multinomial Processing Tree Models A Review of the Literature
+
+2015_kellen_singmann.pdf
+
+Further Evidence for Discrete-State Mediation in Recognition Memory
+
+klauer2000.pdf
+
+On Belief Bias in Syllogistic Reasoning
+
+b61395d244dc6f5f6.pdf
+
+Assessing the Belief Bias Effect With ROCs: It’s a Response Bias Effect
+
+bramley et al.pdf (not used) d
+
+Time in Causal Structure Learning
+
+big5-covariation.pdf
+
+What Explains Personality Covariation? A Test of the Socioecological Complexity Hypothesis
+
+c2bb2a621983c0e590.pdf
+
+Multinomial Modeling and the Measurement of Cognitive Processes
+
+Quantum-Models_Cognition-book.pdf
+
+Quantum Models of Cognition and Decision
+
+0230.pdf (partial, todo) d
+
+Measuring Belief Bias with Ternary Response Sets
+

@@ -1,0 +1,196 @@
+random.ps.gz
+
+Randomness and coincidences: Reconcilling intuition and probability theory
+
+0709.0178v2.pdf
+
+Effective generation of subjectively random binary sequences
+
+2681034-1.pdf
+
+Student selection of random digits
+
+Psych_Rev_2009_Hahn.pdf
+
+Perception of randomness: Why three heads are better than four
+
+WRAP_STrand_Sex_Differencesw.pdf (paper, done) d
+
+Sex differences in cognitive abilities test scores: A UK national picture
+
+blinderoppenheimer08.pdf
+
+Beliefs about what types of mechanisms produce random sequences
+
+falk.pdf
+
+Making sense of randomness: Implicit encoding as a basis for judgement
+
+rabin.pdf
+
+Inference by believers in the law of small numbers
+
+feldman_eureka.pdf
+
+How surprising is a simple pattern? Quantifying "Eureka!"
+
+journal.pone.0041531.pdf (emailed, no reply, faded away) d
+
+Analysing humanly generated random number sequences: A pattern-based approach
+
+2001_jeplmc.pdf
+
+Implicit learning of first-, second- and third-order transition probabilities
+
+2008_qjep.pdf
+
+Implicit learning of second-, third-, and fourth-order adjacent and nonadjacent sequential dependencies
+
+2010_mc.pdf
+
+Implicit learning of fifth- and sixth-order sequential probabilities
+
+HowSmartDoYouThink.pdf
+
+How smart do you think you are?  A meta-analysis on the validity of self-estimates of cognitive ability
+
+SSRN-id1601785.pdf
+
+The weirdest people in the world?
+
+judge-angle.pdf
+
+Judgment of angle size: An experimental appraisal
+
+bstj62-6-1659.pdf
+
+Experiments on qualitative judgments of graphs and maps
+
+cleveland.pdf
+
+Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Method
+
+disp_prop_perc.pdf
+
+Displaying Proportions and Percentages
+
+graphstablesfrontiers.pdf
+
+Flexibility in data interpretation: effects of representational format
+
+2D3DInfoVizTelecoms.pdf
+
+Comparison of 2D and 3D representations for visualising telecommunication usage
+
+Info-Proc_Graph_Perception.pdf
+
+An Information-Processing Analysis of Graph Perception
+
+nihms294863.pdf
+
+Individual differences in visual word recognition: Insights from the English lexicon project
+
+Vessey Dec Sci 1991.pdf
+
+Cognitive Fit: A Theory-Based Analysis of the Graphs Versus Tables Literature
+
+scatter-preprint.pdf
+
+Perception of Average Value in Multiclass Scatterplots
+
+jeffrey.aja2007.pdf
+
+Inventor Perseverance after Being Told to Quit: The Role of Cognitive Biases
+
+526FSQUERY.pdf
+
+An Integrated Theory of the Mind
+
+2000_KennedyScholey_glucose.pdf
+
+Glucose administration, heart rate and cognitive performance: effects of increasing mental effort
+
+Scholey2013NutritionCognitive.pdf
+
+Effects of chocolate on cognitive function and mood: a systematic review
+
+DeWolf&Vosniadou,2014.pdf
+
+The representation of fraction magnitudes and the whole number bias reconsidered
+
+Dehaene_NumbersAnimalsInfants.pdf
+
+Abstract representations of numbers in the animal and human brain
+
+number_scale_logarithms.pdf
+
+Log or Linear? Distinct Intuitions of the Number Scale in Western and Amazonian Indigene Cultures
+
+willpower_glucose_self-control.pdf
+
+The Physiology of Willpower: Linking Blood Glucose to Self-Control
+
+ericsson-charness-am-psy.pdf
+
+Expert Performance Its Structure and Acquisition
+
+Dehaene_Is_numerical_comp_digital.pdf
+
+Is Numerical Comparison Digital? Analogical and Symbolic Effects in Two-Digit Number Comparison
+
+art-BF03204275.pdf (paper+file, done) d
+
+A probabilistic model for the discrimination of visual number
+
+Reading_inthebrainrevisited.pdf
+
+Reading in the Brain Revised and Extended: Response to Comments
+
+chips2002.pdf
+
+Mr. Chips 2002: new insights from an ideal-observer model of reading
+
+chips97.pdf
+
+Mr. Chips: An Ideal-Observer Model of Reading
+
+EricssonDeliberatePractice.pdf
+
+The Role of Deliberate Practice in the Acquisition of Expert Performance
+
+Rayner-Bartlett.pdf
+
+Eye movements and attention in reading, scene perception, and visual search
+
+Hick 1952.pdf (paper, to extract, faded away) d
+
+On the rate of gain of information
+
+j.1756-8765.2009.01066.x.pdf
+
+Bar and Line Graph Comprehension: An Interaction of Top-Down and Bottom-Up Processes
+
+croxton1927.pdf
+
+Bar Charts Versus Circle Diagrams
+
+eells1926.pdf
+
+The Relative Merits of Circles and Bars for Representing Component Parts
+
+RM936.pdf
+
+An experiment in mental generation of random numbers
+
+Skau-EuroVis-2016.pdf (cited) d
+
+Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts
+
+Stewart-et-al-CogPsych-2006.pdf (extract? emailed, cited) d
+
+Decision by sampling
+
+1409.4080.pdf
+
+Algorithmic complexity for psychology: A user-friendly implementation of the coding theorem method.
+

@@ -1,0 +1,238 @@
+Volume 1 Rev0.pdf
+
+Handbook for object-oriented technology in aviation (Volume 1)
+
+Volume 2 Rev0.pdf
+
+Handbook for object-oriented technology in aviation (Volume 2)
+
+Volume 3 Rev0.pdf
+
+Handbook for object-oriented technology in aviation (Volume 3)
+
+Volume 4 Rev0.pdf
+
+Handbook for object-oriented technology in aviation (Volume 4)
+
+ISSC_21_final_with_refs.pdf
+
+Software safety: why is there no consensus?
+
+ind_experience_spark.pdf
+
+Industrial experience with SPARC
+
+SPARK95.pdf
+
+RavenSPARK
+
+towards-the-static-detection.pdf
+
+Towards the static detection of erroneous executions in Ada 95
+
+acmcs.pdf
+
+Formalising the safety of Java, the java virtual machine and java card
+
+bowen92safetycritical.pdf
+
+Safety-critical systems, formal methods and standards
+
+fenton97how.pdf
+
+How to improve safety critical systems standards
+
+nonq-paper.pdf
+
+The infeasibility of quantifying the reliability of life-critical real-time software
+
+CACMnov93.pdf
+
+Validation of ultra-high dependability for software-based systems
+
+ReinhardtMSc.pdf
+
+Use of the C++ programming language in safety critical systems
+
+andygermanpaper.pdf
+
+Software static code analysis: Lessons learned
+
+SC22N3913.pdf
+
+New work item proposal for guidance in avoiding vulnerabilities in programming languages through language selection and use
+
+YCS-2002-341.pdf
+
+Assessment of the java programming language for use in high integrity systems
+
+ir5769.ps
+
+C++ in safety critical systems
+
+CSD-88-400.pdf
+
+Modeling and implementation of visibility in programming languages
+
+NIST_Special_Publication_500-265.pdf
+
+Proceedings of workshop on software security assurance tools, techniques, and metrics
+
+1996-S~1.PDF
+
+Writing secure programs, a tutorial, 107 pages
+
+BISH86.PDF
+
+How to write a secure setuid.
+
+ROBUST.PDF
+
+Robust programming
+
+ADA549~1.Z
+
+Ada95 trustworhtiness study, a framework for analysis
+
+ADA549~2.Z
+
+Ada95 trustworhtiness study, a framework for analysis (Appendices)
+
+ADA549~3.Z
+
+Ada95 trustworthiness study: guidance on the use of Ada95 in the development of high integrity systems, version 2.0
+
+ADA549~4.Z
+
+Analysis report TR-97-5499-03a
+
+CRPITV3McDermid.pdf
+
+Software safety: Where's the evidence?
+
+issre09.pdf
+
+Towards a unifying approach in understanding security problems
+
+ist-scam08.pdf ist-vuln-tr.pdf (done) d
+
+The life and death of statically detected vulnerabilities: an empirical study
+
+cars-oakland2010.pdf
+
+Experimental security analysis of a modern automobile
+
+AOP52-Edition-1.pdf
+
+Guidance on software safety design and assessment of munitions-related computing systems
+
+mil-std-882d.pdf
+
+MIL-STD-882D Standard Practice for System Safety
+
+MIL-STD-882E.pdf
+
+MIL-STD-882E Standard Practice for System Safety
+
+allodi-12-badgers.pdf (confidential+symantic, refed) d
+
+A preliminary analysis of vulnerability scores for attacks in wild
+
+CSI_FBI_ComputerCrime0904.pdf (paper, not used) d
+CSI_FBI2005.pdf (paper, not used) d
+CSI_FBI2006.pdf (paper, not used) d
+CSI_Survey_2007.pdf (paper, not used) d
+CSIsurvey2008.pdf (paper, not used) d
+CSIsurvey2009.pdf (paper, not used) d
+CSIsurvey2010.pdf (paper, not used) d
+
+CSI/FBI Computer crime and security survey
+
+HPL-2012-63R1.pdf (paper, not used) d
+
+An historical examination of open source releases and their vulnerabilities
+
+coderev-essos13.pdf (paper; done) d
+
+An empirical study on the effectiveness of security code review
+
+nspw2009-herley.pdf
+
+So long, and no thanks for the externalities: The rational rejection of security advice by users
+
+Alemzadeh_IEEE&P_2013.pdf (partial) d
+
+Analysis of safety-critical computer failures in medical devices
+
+ns-tast-gd-046.pdf
+
+Computer based safety systems (nuclear safety technical assessment guide)
+
+0804.0797.pdf
+
+Sarbanes-Oxley: What about all the spreadsheets?
+
+rnoti-p1249.pdf
+
+The misfortunes of a trio of mathematicians using computer algebra systems.  Can we trust them?
+
+paper_microcode.pdf
+
+Security Analysis of x86 Processor Microcode
+
+10.1.1.45.6580.pdf
+
+Report on the Formal Specification and Partial Verification of the VIPER Microprocessor
+
+AvraProofPaper.pdf
+
+The Notion of Proof in Hardware Verification
+
+is.iec.61508.0.2005.pdf
+
+IS/IEC 61508-0:2005 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+is.iec.61508.1.1998.pdf
+
+IS/IEC 61508-1:1998 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+is.iec.61508.2.2000.pdf
+
+IS/IEC 61508-2:2000 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+is.iec.61508.3.1998.pdf
+
+IS/IEC 61508-3:1998 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+is.iec.61508.4.1998.pdf
+
+IS/IEC 61508-4:1998 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+is.iec.61508.5.1998.pdf
+
+IS/IEC 61508-5:1998 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+is.iec.61508.6.2000.pdf
+
+IS/IEC 61508-6:2000 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+is.iec.61508.7.2000.pdf
+
+IS/IEC 61508-7:2000 FUNCTIONAL SAFETY OF ELECTRICAU ELECTRONIC/PROGRAMMABLE ELECTRONIC SAFETY-RELATED SYSTEMS
+
+caratwww14.pdf (confidential) d
+
+The Company You Keep: Mobile Malware Infection Rates and Inexpensive Risk Indicators
+
+MISRA-Cpp-2008.pdf
+
+MISRA C++:2008 Guidelines for the use of the C++ language in critical systems
+
+TC-15-62.pdf
+
+Single Event Effects Mitigation Techniques Report
+
+2003.06893.pdf
+
+BARR-C:2018 and MISRA C:2012: Synergy Between the Two Most Widely Used C Coding Standards
+

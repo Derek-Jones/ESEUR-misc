@@ -1,0 +1,16 @@
+1701.07419.pdf
+
+A gentle introduction to the minimal Naming Game
+
+abramitzky_handbook.pdf
+
+On the (lack of) stability of communes: an economic perspective
+
+1709.04621.pdf (not used) d
+
+Do Developers Update Their Library Dependencies?  An Empirical Study on the Impact of Security Advisories on Library Migration
+
+1709.04638.pdf
+
+On the Impact of Micro-Packages: An Empirical Study of the npm JavaScript Ecosystem
+

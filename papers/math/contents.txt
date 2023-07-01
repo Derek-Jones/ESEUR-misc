@@ -1,0 +1,415 @@
+gfology2.pdf
+
+generatingfunctionology
+
+931-3096-2-PB.pdf
+
+Minimal and maximal plateau lengths in Motzkin paths
+
+abramowitz_and_stegun.tar.gz
+
+Abramowitz and stegun
+
+analytic-combin.pdf
+
+Analytic combinatorics
+
+stolfi97selfvalidated.pdf
+
+Self-validated numerical methods and applications
+
+AeqB.pdf
+
+[50] Develop computer programs for simplifying sums that involve binomial coefficients
+
+fasc0a.ps.gz
+
+Introduction to combinatorial searching
+
+fasc0b.ps.gz
+
+Boolean basic
+
+fasc0c.ps.gz
+
+Boolean evaluation
+
+fasc1a.ps.gz
+
+Bitwise tricks and techniques
+
+fasc1b.ps.gz
+
+Binary decision diagrams
+
+FASC2C.PS.gz
+
+The art of computer programming
+knuth fascicle 2c
+
+FASC2A.PS.gz
+
+The art of computer programming
+knuth fascicle 2a
+
+fasc3b.ps.gz
+
+Generating all partitions
+
+fasc5a.ps.gz
+
+Mathematical preliminaries redux
+
+SHANNO~1.PDF
+
+A Mathematical Theory of Communication
+
+InfoTheory-Inf-Learning.pdf
+
+Information theory, inference, and learning algorithms
+
+MATHWR~1.PDF
+
+Mathematical writing
+
+pi_spigot.c
+
+Spigot algorithm to calculate pi
+
+SRC-124.PDF
+
+A block-sorting lossless data compression algorithm
+
+Mayley_EC1996.ps.gz
+
+Landscape, learning costs and genetic assimilation
+
+proofs.pdf
+
+Social processes and proofs of theorems and programs
+
+whither10.pdf
+
+Whither mathematics?
+
+SchmelzerBaillie.pdf
+
+Summing a curious, slowly convergent series
+
+cmj123-134.pdf
+
+The golden ratio -- A contrary viewpoint
+
+DuFl03-LNCS.pdf
+
+Loglog counting of large cardinalities
+
+0607166.pdf
+
+Generalizing Benford's law using power laws: Application to integer sequences
+
+Welford.pdf
+
+Note on a method for calculating corrected sums of squares and products
+
+SGT.AWK
+SGT.C
+
+Code for Good Turing smoothing
+
+matrix-cookbook.pdf
+
+The matrix cookbook
+
+map-projections.pdf
+
+Map projections - A working manual
+
+9906064v1.pdf
+
+When do finite sample effects significantly affect entropy estimates?
+
+Table of integrals series and products.djvu
+
+Tables of integrals series and products
+
+mxMaxima-intro.pdf
+
+Maxima by Example: Ch. 1, introduction to Maxima
+
+MaximaBook.pdf
+
+Introduction to Maxima
+
+RedBlack.pdf
+
+How to gamble if you must
+
+Concrete Mathematics.pdf
+
+Concrete mathematics
+
+Hopcroft-Kannan-jun-16_book.pdf
+
+Foundations of data science
+
+nonuniformrandomvariates.zip
+
+Non-uniform random variate generation
+
+inversions.pdf
+
+Permutations with inversions
+
+MacKenzie-2335-50.pdf
+
+Computing and the cultures of proving
+
+fasc6a.ps.gz
+
+Satisfiability
+
+0910.0165v2.pdf
+
+The performance of modularity maximization in practical contexts
+
+short-math-guide.pdf
+
+Short math guide for LaTeX
+
+s8863.pdf
+
+The Most Dangerous Equation 
+
+526178a corrected2.pdf
+
+The biggest mystery in mathematics: {Shinichi Mochizuki} and the impenetrable proof
+
+beyer.pdf
+
+When Is "Nearest Neighbor" Meaningful?
+
+200929113797192-2009-03Hill.pdf
+
+Knowing When to Stop
+
+0906.0612.pdf
+
+Community detection in graphs
+
+stat_geom_described_v5.pdf
+
+Statistical geometry described
+
+1510.01167.pdf
+
+On the number of unary-binary tree-like structures with restrictions on the unary height
+
+bridges14.pdf
+
+The Art of Random Fractals
+
+Venna.pdf
+
+Telugu Measures and Arithmetic Marks
+
+Kepler_Conjecture_Hales_Proof.pdf
+
+The Kepler Conjecture The Hales-Ferguson Proof
+
+tx080700773p.pdf
+
+Desperately Seeking Mathematical Truth
+
+fasc5c.ps.gz
+
+Dancing links
+
+SSRN-id2918642.pdf
+
+Simple explanation of Zipf’s mystery via new rank-share distribution, derived from combinatorics of the ranking process
+
+pricetheory1976.pdf
+
+A General Theory of Bibliometric and Other Cumulative Advantage Processes
+
+BF03211315.pdf
+
+Artifactual power curves in forgetting
+
+BF03211316.pdf
+
+Genuine power curves in forgetting: A quantitative analysis of individual subject forgetting functions
+
+1512.06808-book.pdf
+
+GAME THEORY An open access textbook with 165 solved exercises
+
+thurston.pdf
+
+ON PROOF AND PROGRESS IN MATHEMATICS
+
+piantadosi2018one.pdf
+
+One parameter is always enough
+
+osu1354311965.pdf
+
+Euclid's {Elements}, from {Hilbert's} Axioms
+
+1505.05571.pdf
+
+Fast Exact Summation Using Small and Large Superaccumulators
+
+TNbook.pdf
+
+Topology of Numbers
+
+Murre-Chessa2011_Article.pdf
+
+Power laws from individual differences in learning and forgetting: mathematical analyses
+
+qt8f44j9wx.pdf
+
+Spurious Power Laws of Learning and Forgetting: Mathematical and Computational Analyses of Averaging Artifacts
+
+bf73bc13b4f97c468ab.pdf
+
+The power law as an emergent property
+
+8bd70250b9860c7cedf.pdf
+
+Toward an explanation of the power law artifact: Insights from response surface analysis
+
+lame_ovals.pdf
+
+Lame ovals
+
+Little_Notes.pdf
+
+Applied Stochastic Processes in science and engineering
+
+AppliedStochasticModel.pdf
+
+Applied Stochastic Modelling
+
+dmAG0104.pdf
+
+Some exactly solvable models of urn process theory
+
+blackwell1964.pdf
+
+THE MARTIN BOUNDARY FOR POLYA'S URN SCHEME, AND AN APPLICATION TO STOCHASTIC POPULATION GROWTH
+
+ramsay2006.pdf
+
+The Distribution of Sums of Certain I.I.D.  Pareto Variates
+
+1904.12320.pdf
+
+Real numbers, data science and chaos: How to fit any dataset with a single parameter
+
+PrefAttach-with-Fitness.pdf
+
+First to Market is not Everything: an Analysis of Preferential Attachment with Fitness
+
+CSo2005-msc.pdf (paper, cited) d
+
+An Analysis of Mathematical Expressions Used in Practice
+
+MathematicsHandbookv4.1.pdf
+
+The Mathematics Handbook
+
+Proofs_from_THE_BOOK_4th.pdf
+
+Proofs from THE BOOK Fourth Edition
+
+1803.05316.pdf
+
+Seven Sketches in Compositionality: An Invitation to Applied Category Theory
+
+1101.4795.pdf
+
+Numerical Evaluation of Algorithmic Complexity for Short Strings: A Glance Into the Innermost Structure of Randomness
+
+fasc8a.ps.gz
+
+Hamilton paths and cycles
+
+fasc9b.ps.gz
+
+A potpourri of puzzles
+
+1990-wells.pdf
+
+Are These the Most Beautiful?
+
+eichenauer-herrmann1992.pdf
+
+Inversive Congruential Pseudorandom Numbers: A Tutorial
+
+IJRRAS_11_3_08.pdf
+
+GEOMETRIC MEAN FOR NEGATIVE AND ZERO VALUES
+
+msw-058.pdf
+
+An Erdos-Renyi law with Shifts
+
+a15181da4c3e7b7e.pdf
+
+A Relation Between Restricted and Unrestricted Weighted Motzkin Paths
+
+bb0f26e735dfead6287.pdf
+
+A Recursive Relation for Weighted Motzkin Sequences
+
+c00f157d67621201fe7.pdf
+
+On the order of the recursion relation of Motzkin numbers of higher rank
+
+rsif20140654.pdf
+
+Exact, time-independent estimation of clone size distributions in normal and mutated cells
+
+1109.2661.pdf
+
+Counting Humps in Motzkin paths
+
+1002.4504.pdf
+
+Humps for Dyck and for Motzkin paths
+
+1806.06403.pdf
+
+Geometric mean extension for data sets with zeros
+
+1901.10961.pdf
+
+Egyptian Multiplication and some of its ramifications
+
+manolios2001.pdf
+
+On the desirability of mechanizing calculational proofs
+
+p15-blue.pdf
+
+A Portable Fortran Program To Find the Euclidean Norm of a Vector
+
+Mathmode.pdf
+
+Math mode – v. 2.47
+
+Urn_models_applications.djvu
+
+Urn Models and Their Application
+
+SAT_SMT_by_example.pdf
+
+SAT/SMT by Example
+
+recipnote.pdf
+
+TO WHAT DOES THE HARMONIC SERIES CONVERGE?
+

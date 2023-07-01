@@ -1,0 +1,211 @@
+optillus.htm
+
+Various optical illusions
+
+SALVUC~1.PDF
+
+Automated eye-movement protocol analysis
+
+03_JA_~1.PDF
+
+The effect of distinctive visual information on false recognition
+
+JVLC97.PS.gz
+
+Visual programming languages and the empirical evidence for and against
+
+KOESLI~1.GZ
+
+The effects of structural information on perceived numerosity in two-dimensional object distributions
+
+RBNOTE.PDF
+
+Is repetition blindness a visual phenomenon?  A critical review
+
+IS-VIS~1.PDF
+
+Is Vision Continuous With Cognition?  The Case for Cognitive Impenetrability of Visual Perception
+
+69.PDF
+
+Visual Attention During Brand Choice: The Impact of Time Pressure and Task Motivation
+
+CHP4.PDF
+
+Visual orienting
+
+patterneyemov.htm
+
+Patterns of Eye Movements During Parallel and Serial Visual Search Tasks
+
+HF19-H~1.PDF
+
+Font requirements for next generation air traffic management systems
+
+PVP00VR.PDF
+
+The psychophysics of visual search
+
+HUEBNE~1.PDF
+
+On attentional control as a source of residual shift cost: evidence from two-component task shifts
+
+BURKEL~1.PDF
+
+Searching through subsets: a test of the visual indexing hyposthesis
+
+GS3.PDF
+
+Guided search 3.0
+Brief overview of simulation system
+
+WRIGHT.PDF
+
+The role of visual indexes in spatial vision and imagery
+subitizing related
+
+FEATUR~1.PDF
+
+Feature integration that routinely occurs without focal attention (Kubovy)
+
+GESTALTR.PDF
+
+Gestalt: From phenomena to laws
+Grouping of dots.  Experimental results, log/linear law.
+
+visualphen.htm
+
+Some Visual Phenomena & Optical Illusions
+
+COGPSY~1.PDF
+
+Contextual cueing: implicit learning and memory of visual context guides spatial attention
+
+A-MODE~1.PDF
+
+A model of eye movements and visual attention
+
+CSR00.PDF
+
+An integrated model of eye movements and visual encoding
+some good figs
+
+VERGHE~1.PDF
+
+Visual search and attention: A signal detection theory approach
+
+NOMEME~1.PDF
+
+Visual search has no memory
+
+JEPLMC~1.PDF
+
+Organization of visual short term memeory
+
+DEPLOY~1.PDF
+
+The deployment of visual attention: two surprises
+ 
+O'REGA~1.HTM
+
+A sensorimotor account of vision and visual consciousness 
+
+STAPLE~1.PDF
+
+3-D visualization of software structure
+
+TR_03-97.PS.gz
+
+A new view of call graphs for visualising code structures
+3D!
+
+VERGHE~3.PDF
+
+The scale bandwidth of visual search
+
+VERGHE~2.PDF
+
+The information capacity of visual attention
+
+ZELINS~1.PDF
+
+Synchronizing visual and language processing
+
+ppig04_ne_sa.pdf
+
+Comparison of three eye tracking devices in psychology of programming research
+
+1998CO~1.PDF
+
+On the lawfulness of grouping by proximity
+
+FELDMA~1.PDF
+
+Perceptual grouping by selection of a logically minimal model
+
+LAVIGN~1.PDF
+
+The influence of semantic context on initial eye landing sites in words
+
+LEGGE1~1.PDF
+
+Psychophysics of reading - I. normal vision
+
+GOODNESS.PDF
+
+Goodness of visual regularities: a nontransformational approach
+
+HAHNSIM.PDF
+
+Similarity as transform
+
+Najemnik-Geisler-05-N.pdf
+
+Optimal eye movement strategies in visual search
+
+tow71al.pdf
+
+Alphabetic confusion: a test of models for individuals
+
+tow71theoretical.pdf
+
+Theoretical analysis of an alphabetic confusion matrix
+
+----------------------- version 1.00 -------------------------
+
+Vogel_nature_04.pdf
+
+Neural activity predicts individual differences in visual working memory capacity
+
+StudiesReadingTextLegibility.pdf
+
+Studies in reading and text legibility
+
+MuellerWeidemannShiffrin2007.pdf
+
+Alphabetic letter similarity matrices: Effects of bias, perceivability, similarity and evidence discounting
+
+151.pdf
+
+Analyzing individual performance of source code review using reviewers' eye movement
+
+Feldman_Singh_2004.pdf
+
+Information along contours and object boundaries
+
+Diemand-Yauman_Oppenheimer.pdf
+
+Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes
+
+MuellerWeidemann2012.pdf
+
+Alphabetic letter identification: Effects of perceivability, similarity, and bias☆
+
+10.1.1.294.6770.pdf
+
+Variations on the {Hermann} grid: an extinction illusion
+
+1903.03358.pdf (not used) d
+
+Developer Reading Behavior While Summarizing Java Methods: Size and Context Matters
+

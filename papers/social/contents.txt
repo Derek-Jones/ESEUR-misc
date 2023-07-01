@@ -1,0 +1,230 @@
+nia2010vna.pdf
+
+Validity of network analyses in open source projects
+
+Free-Open_BSD_sn.pdf (partial) d
+
+Social interactions around cross-system bug fixings: the case of FreeBSD and OpenBSD
+
+Malmgren-08-105-18153.pdf
+Malmgren-08-105-18153-app.pdf
+Malmgren-08-105-18153-SI.pdf
+
+A poissonian explanation for heavy tails in e-mail communication
+
+eth-254-02.pdf (not used) d
+
+Dynamics of communities and code in open source software
+
+CSMR 2012.pdf (not used) d
+
+Do developers introduce bugs when they do not communicate?  The case of eclipse and mozilla
+
+kcsd2009_Ohira.pdf (paper, not used) d
+
+A time-lag analysis toward improving the efficiency of communication among OSS developers
+
+Bohn_et_al-email.pdf (R-emailing, not used) d
+
+Content-Based Social Network Analysis of Mailing Lists
+
+SocNet_TheoryApp.pdf
+
+Social network analysis
+
+4922a709.pdf
+
+Understanding OSS peer review roles in peer review social network (PeRSoN)
+
+p49-hamasaki.pdf (not used) d
+
+Who does what during a code review?  Datasets of OSS peer review repositories
+
+E99.D_2015EDP7261.pdf (p49-hamasaki, not used) d
+
+Peer Review Social Network (PeRSoN) in Open Source Projects
+
+Guzzi2013msr.pdf (not used) d
+
+Communication in open source software development mailing lists
+
+wcre2009-contribs.pdf (not used) d
+
+Who are source code contributors and how do they change?
+
+0295-5075_99_2_28002.pdf
+
+Universal properties of mythological networks
+
+secrets_code_review.pdf (paper, not used) d
+
+Best kept secrests of peer code review
+
+richardson-al03a.pdf (Epinions.txt.gz, not used) d
+
+Trust management for the semantic web
+
+stakerare_limfinkelstein.pdf
+
+Stakerare: Using social networks and collaborative filtering for large scale requirements elicitation
+
+stakeholder.txt (paper, not used) d
+
+Understanding Project Sociology by Modeling Stakeholders
+
+korunka_2007bc.pdf
+
+Job and organizational factors as predictors of quality of working life and turnover intention of IT work places
+
+Korunka_Universal_model.pdf
+
+Towards a universal turnover model for the IT work force - a replication study
+
+Hoonakkeretal-turnover.pdf
+
+Job and organizational factors as predictors of turnover in the IT work force: Differences between men and women
+
+1501.06857v1.pdf (not used) d
+
+Measuring the local GitHub developer community
+
+ali-cascon-paper.pdf (not used) d
+
+Involvement, Contribution and Influence in Github and Stack Overflow
+
+msr_data15.pdf (not used) d
+
+A Data Set for Social Diversity Studies of GitHub Teams
+
+saner2016.pdf (not used) d
+
+More Common Than You Think: An In-Depth Study of Casual Contributors
+
+accuracy I.pdf accuracy II.pdf accuracy III.pdf accuracy VI.pdf accuracy V.pdf
+
+Informant Accuracy in Social Network Data
+
+1605.09548.pdf
+
+Dynamics of Evolving Social Groups
+
+52.pdf
+
+BIRDS OF A FEATHER: Homophily in Social Networks
+
+ESE_revision.pdf
+
+Cheap Talk, Cooperation, and Trust in Global Software Engineering An Evolutionary Game Theory Model with Empirical Support
+
+paper_bQeEC8G.pdf (paper, not used) d
+
+From Aristotle to Ringelmann: a large-scale analysis of team productivity and coordination in Open Source Software projects
+
+science_ng_cm_2018.pdf (done) d
+
+Experimental evidence for tipping points in social convention
+
+ihara2008.pdf
+
+Spread of costly prestige-seeking behavior by social learning
+
+8f785a2ea53b3e537.pdf
+
+Is the Desire for Status a Fundamental Human Motive? A Review of the Empirical Literature
+
+Nature98.pdf
+
+Evolution of indirect reciprocity by image scoring
+
+nature04605-s1.pdf
+
+A simple rule for the evolution of cooperation on graphs and social networks
+
+hamilton1964a.pdf
+
+The Genetical Evolution of Social Behaviour. I
+
+b__titus.pdf
+
+Social Facilitation: A Meta-Analysis of 241 Studies
+
+Culture_of_an_Info_econ-book.pdf
+
+The Culture of an Information Economy Influences and Impacts in the Republic of Ireland
+
+main_group.pdf
+
+The use of recognition in group decision-making
+
+RecognitionPsychReview.pdf
+
+Models of Ecological Rationality: The Recognition Heuristic
+
+social_loafing-review.pdf
+
+Social Loafing: {A} Meta-Analytic Review and Theoretical Integration
+
+5c133f983cabd61370c6.pdf
+
+Dynamics of Social Group Competition: Modeling the Decline of Religious Affiliation
+
+10.1.1.544.4830.pdf
+
+The leading eight: Social norms that can maintain cooperation by indirect reciprocity
+
+Watching-watchmaker.pdf
+
+Watching the Watchmaker On regulating the social in lieu of the technical
+
+ohtsuki2004.pdf
+
+How should we define goodness?—reputation dynamics in indirect reciprocity
+
+fse19-ForkEfficency.pdf (done) d
+
+What the Fork: A Study of Ine�icient and E�icient Forking Practices in Social Coding
+
+fourmethods.pdf
+
+COMPARING FOUR DIFFERENT METHODS FOR MEASURING PERSONAL SOCIAL NETWORKS
+
+rspb.2011.1172.pdf (email, done) d
+
+The evolutionary basis of human social learning
+
+muthukrishna_2016.pdf (not used) d
+
+The when and who of social learning and conformist transmission
+
+2004.07509.pdf (not used) d
+
+Organisational Structure Patterns in Agile Teams: An Industrial Empirical Study
+
+hh334.pdf
+
+The Appsmiths: Community, Identity, Affect and Ideology among Cocoa Developers from NeXT to iPhone
+
+Molleman-et-al-EHB-2019.pdf (not used) d
+
+Unleashing the BEAST: a brief measure of human social information use
+
+MKSG-Nature-HB.pdf (not used) d
+
+People prefer coordinated punishment in cooperative interactions
+
+SSRN-id3571220.pdf (done) d
+
+Conditional punishment: descriptive social norms drive negative reciprocity
+
+Derex_etal_NatHumBeh_2019.pdf (cited) d
+
+Causal understanding is not necessary for the improvement of culturally evolving technology
+
+Hwang2005.pdf
+
+The Social Shaping of ICTs Standards :A Case of National Coded Character Set Standards Controversy in Korea
+
+005223v2.full.pdf
+
+STRATEGIC SOCIAL LEARNING AND THE POPULATION DYNAMICS OF HUMAN BEHAVIOR: THE GAME OF GO
+ 

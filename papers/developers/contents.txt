@@ -1,0 +1,1062 @@
+DATABA~1.PDF
+
+Revisting the perennial question:  Are IS people different?
+
+MISQRA~1.PDF
+
+Factors affecting software developers' performance:  An integrated approach
+
+TURLEY~1.PDF
+
+Competencies of exceptional and non-exceptional software engineers
+
+varianceTR.pdf (prechelt.txt, partial) d
+
+The 28:1 Grant/Sackman legend is misleading, or how large is interpersonal variation really?
+
+10.1.1.63.9124.pdf (prechelt.txt, students, not used) d
+
+An empirical study of working speed differences between software engineers for various kinds of tasks
+
+CAIS20~1.PDF
+
+Identifying exceptional application software developers: a comparison of students and professionals
+
+MISQIT~1.PDF (emailed)
+
+One road to turnover:  An examination of work exhaustion in technology professionals
+
+P47-WI~1.PDF
+
+Are Programmers Paranoid?
+
+KOCH-O~1.PDF
+
+Results from software engineering research into open source developments using public data
+
+bird2007obi.pdf
+
+Open borders? Immigration in open source projects
+
+p144.pdf
+
+Geographic location of developers at sourceForge
+
+feldt_2010_ist_sepersonalities.pdf (emailed, no idea) d
+
+Links between the personalities, views and attitudes of software engineers
+
+fritz10.pdf
+
+A degree-of-knowledge model to capture source code familiarity
+
+jeong-esecfse-2009.pdf
+
+Improving bug triage with bug tossing graphs
+
+icsm10bhattacharya.pdf
+
+Fine-grained incremental learning and multi-feature tossing graphs to improve bug triaging
+
+guo_usenix09_camera_ready.pdf
+
+Linux kernel developer responses to static analysis bug reports
+
+tool-expert-code-qual.pdf
+
+Experiments for comparing the automatically assessed source code quality with experts' opinion
+
+readability-tse.pdf (done) d
+
+Learning a metric for code readability
+
+BusePhD.pdf (readability..., other) d
+
+Automatically Describing Program Structure and Behavior
+
+fryICSM10.pdf (not used) d
+
+A human study of fault localization accuracy
+
+Thelin-Metrics04.pdf
+
+A replicated experiment of usage-based and checklist-based reading
+
+R11-pairprog-hannay-ist09.pdf
+
+The effectiveness of pair programming: A meta-analysis
+
+SBSE09.pdf
+
+On the use of discretized source code metrics for author identification
+
+VulPashler-PS-2008.pdf
+
+Measuring the crowd within
+
+Woolley2010a.pdf
+
+Evidence for a collective intelligence factor in the performance of human groups
+
+icse06-venolia.pdf
+
+Maintaining mental models: A study of developer work habits
+
+10.1.1.94.5362.pdf
+
+Myth buster: Do engineers trust parametric models over their own intuition?
+
+10.1.1.99.6272.pdf
+
+Identifying the dominant personality and attitudinal traits in computer science students
+
+empiric-src-repos.pdf
+
+An empirical analysis of the open source development process based on mining of source code repositories
+
+Goldberg_etal_2006_IPIP.pdf
+
+The international personality item pool and the future of public-domain personality measure
+
+MTI.pdf (paper, done) d
+
+Identifying and characterizing highly performing testers - A case study in three software product companies
+
+simular_20.pdf
+
+Idealistic thinking leads to more realistic estimates of software development effort
+
+simula_est-learning.pdf
+
+Assessing uncertainty of software development effort estimates: Learning from outcome feedback
+
+code-review-cisco.pdf (paper, secrets_code_review..., other) d
+
+Code review at Cisco systems
+
+CarusoWaytzEpleyCognition.pdf
+
+The intentional mind and the hot hand: Perceiving intentions makes streaks seem likely to continue
+
+sports.pdf
+
+From a fixation on sports to an exploration of mechanism: The past, present, and future of hot hand research
+
+ISES04.pdf (paper, emailed) d
+
+Assuring fault classification agreement - An empirical study
+
+mpls2007WeyukerOstrandBell.pdf
+
+Using developer information as a factor for fault prediction
+
+p1369.pdf
+
+The hot hand fallacy and the gambler's fallacy: Two faces of subjective randomness?
+
+oskarsson et al 2009.pdf
+
+What's next? Judging sequences of binary events
+
+replicated-PSP-study.pdf
+
+A replicated empirical study of the impact of the methods in the PSP on individual engineers
+
+psp-data-analysis.pdf (paper, emailed, confidential, cited) d
+
+A critical analysis of PSP data quality: Results from a case study
+
+98-08.pdf
+
+DATA QUALITY PROBLEMS IN THE PERSONAL SOFTWARE PROCESS
+
+pspe_tse2000.pdf (paper, not used) d
+
+An experiment measuring the effects of personal software process (PSP) training
+
+2010_SallehMendesGrundy.pdf
+
+Empirical studies of pair programming for CS/SE teaching in higher education: A systematic literature review
+
+1697.pdf (paper, not used) d
+
+Identifying top Java errors for novice programmers
+
+10.1.1.84.1237.pdf
+
+The repeatability of code defect classifications
+
+age_productivity-assembly.pdf
+
+Productivity and age: Evidence from work teams at the assembly line
+
+beecham.pdf
+
+Motivation in software engineering: A systematic literature review
+
+ruse-camera-ready.pdf (not used) d
+
+A simpler model of software readability
+
+EBAA5796.pdf (not used) d
+
+The use of MBTI in software engineering
+
+icpc2011.pdf (not used) d
+
+The influence of the task on programmer behavior
+
+10.1.1.47.2206.pdf
+
+Assessor agreement in rating SPICE processes
+
+10.1.1.30.9350.pdf (paper, not used) d
+
+Evaluating capture-recapture models with two inspectors
+
+EffectsStructComplex.pdf
+
+Effects of structural complexity and team task strategy on object-oriented software maintenance: an experimental test
+
+ease2011.pdf
+
+Using background colors to support program comprehension in software product lines
+
+Paulk2005.pdf
+
+An empirical study of process discipline and software quality
+
+simula_optimism.pdf
+
+Characteristics of software engineers with optimistic predictions
+
+Fogarty-CHI05-p331-fogarty.pdf
+
+Examining task engagement in sensor-based statistical models of human interruptibility
+
+fortune-favor-bold.pdf
+
+Fortune favours the bold: An agent-based model reveals adaptive advantages of overconfidence in war
+
+2009wcas1005.pdf
+
+False alarms, tornado warnings, and tornado casualties
+
+hra.pdf (paper, refed) d
+
+NASA human error analysis
+
+FKLAH12.pdf (not used) d
+
+Measuring programming experience
+
+SiKaLi+13.pdf (not used) d
+
+Measuring and modeling programming experience
+
+phdSiegmund12.pdf
+
+Framework for measuring program comprehension
+
+PSP_Data.pdf
+
+The impact of design and code reviews on software quality: An empirical study based on PSP data
+
+reward-dev.pdf
+
+The effect of intrinsic and extrinsic rewards for developers on information systems project success
+
+2012-JosephBohAngSlaughter.pdf (paper+employment-nls..., emailed) careerpaths-appen.pdf (paper, emailed, done) d
+
+The career paths less (or more) travelled: a sequence analysis of IT career histories, mobility patterns, and career success
+
+TR2003-6Sep10.pdf
+
+A controlled experiment with professionals to evaluate the effect of a delegated versus centralized control style on the maintainability of object oriented software
+
+tse11a.pdf (eclipse/, not used) d
+
+How we refactor, and how we know it
+
+a226678.pdf (paper, students) d
+
+Decision making heuristics and biases in software project management: An experimental investigation
+
+1211.4347.pdf (cseps/, not used) d
+
+How many software engineering professionals hold this certificate?
+
+pairprog-anal.pdf (asked for, Sillitti, faded away) d
+
+An interpretation of the results of the analysis of pair programming during novices integration in a team
+
+IEEE2013.pdf (emailed, Sillitti, faded away) d
+
+Pair Programming and Software Defects— A Large, Industrial Case Study
+
+Bergersen_skill_mem.pdf (email again jul 15, Oct 16, received summary, faded away) d
+
+Programming skill, knowledge and working memory among software developers from an investment theory perspective
+
+Bergersen-skill-level.pdf (emailed) d
+
+Evaluating methods and technologies in software engineering with respect to developers' skill level
+
+Bergersen-inferring-skill.pdf (emailed) d
+
+Inferring skill from tests of programming performance: Combining time and quality
+
+Bergersen_et_al_2014(postprint).pdf
+
+Construction and Validation of an Instrument for Measuring Programming Skill
+
+icse2013_Coupling.pdf (not used) d
+
+An empirical study on the developers' perception of software coupling
+
+wcre2012_patterns.pdf (not used) d
+
+An empirical study of the effect of file editing patterns on software quality
+
+CSEET9~1.PDF
+
+A survey of the relevance of computer science and software engineering education
+
+EDRELJ~1.PDF
+
+The Relevance of software education: A survey and some recommendations
+
+SCACCH~1.PDF
+
+Understanding software productivity
+
+GRAVES~1.PDF
+
+Identifying productivity drivers by modeling work units using partial data
+
+FLOSS_~1.PDF (paper, not used) d
+
+Free/Libre and open source software survey and study, part 4: survey of developers
+
+PAPERJ~1.PDF (paper, not used) d
+
+Impact of experience on maintenance skills
+
+CSMR13.pdf (not used) d
+
+Analyzing the Eclipse API usage: Putting the developer in the loop
+
+esem2011.pdf (ist12..., not used) d
+
+End-user programmers and their communities: An artifact-based analysis
+
+ist12.pdf (not used) d
+
+Discovering how end-user programmers and their communities use public repositories: a study of Yahoo! pipes
+
+ICPC12b.doc.pdf (not used) d
+
+Women and Men - different but equal: On the impact of identifier style on source code reading
+
+grant-sackman-66.pdf
+
+Exploratory experimental studies comparing online and offline programming performance
+
+03-CritiqueProgPerf.pdf
+
+A critique of "An Exploratory investigation of programmer performance under on-line and off-line conditions"
+
+skills-required.pdf (paper, not used) d
+
+Analysis of skills required for entry-level programmer/analysts in Fortune 500 Corporations
+
+10.1.1.193.1053.pdf (paper, not used) d
+
+The variation of software development productivity 1995-2005
+
+Kareev_04_ConsistencyPerception.pdf
+
+On the perception of consistency
+
+simula.pdf (emailed) d
+
+Evaluating pair programming with respect to system complexity and programmer expertise
+
+1304.5257v2.pdf (not used) d
+
+What makes code hard to understand?
+
+FeScPa+12 (email, not used) d
+
+Supporting program comprehension in large preprocessor-based software product lines
+
+TR 73-096.pdf (paper+file, done) d
+
+AN EXPERIMENT IN ALGORITHM IMPLEMENTATION
+
+wisdom-of-nature.pdf
+
+The wisdom of nature: An evolutionary heuristic for human enhancement
+
+sqj.pdf
+
+Resumption strategies for interrupted programming tasks
+
+MSR-TR-2013-111.pdf MSR-TR-2013-84.pdf (appendix) (not used) d
+
+Analyze this! 145 Questions for data scientists in software engineering
+
+eu_20050923_vlhcc.pdf (paper, not used) d
+
+Estimating the number of end users and end user programmers
+
+colourmaps.pdf
+
+Digital Video Colourmaps for Checking the Legibility of Displays by Dichromats
+
+Zeileis+Hornik+Murrell-2009.pdf
+
+Escaping RGBland: Selecting Colors for Statistical Graphics
+
+2002-MS-Ang.pdf
+
+Human capital and institutional determinants of information technology compensations: modeling multilevel and cross-level interactions
+
+74-267-1-PB.pdf (paper+file, partial) d
+
+Exploratory comparison of expert and novice pair programmers
+
+ICPC2010-CamelCaseUnderScoreClouds.pdf
+
+An eye tracking study on camelCase and under_score identifier styles
+
+tr-loy110720.pdf (not used) d
+ident-style-comp-2012.pdf
+
+Extended models on the impact of identifier style on effort and comprehension
+
+SCP2009.pdf
+
+Identifier length and limited programmer memory
+
+dorn-mcs-paper.pdf (partial) d
+
+A general software readability model
+
+1408.2607v1.pdf (emailed to update, partial) d
+
+What java developers know about compatibility, and why this matters
+
+Fog Creek Professional Ladder - Joel on Software.htm (paper, not used) d
+
+Fog Creek Professional Ladder
+
+msr2014.pdf (not used) d
+
+Mining Questions About Software Energy Consumption
+
+AssessEffectCodeObfusc.pdf (cited) d
+
+A Family of Experiments to Assess the Effectiveness and Efficiency of Source Code Obfuscation Techniques
+
+ICSM12.doc.pdf (done) d
+
+An Empirical Study on Requirements Traceability Using Eye-Tracking
+
+2014-EMSE-Arnaodova-et-al.pdf (not used) d
+
+Linguistic Antipatterns: What They Are and How Developers Perceive Them
+
+msr14gregorio.pdf (not used) d
+
+FLOSS 2013: A Survey Dataset about Free Software Contributors: Challenges for Curating, Sharing, and Combining
+
+ICSE2014-docstypes.pdf (paper+file, misc, done) d
+
+How Do API Documentation and Static Typing Affect API Usability?
+
+proxinarithmetic.pdf
+
+Proximity and Precedence in Arithmetic
+
+BTH2013Kiani.pdf (not used) d
+
+The Role of Awareness in Software Projects
+
+modfp46-daSilva.pdf (not used) d
+
+An Empirical Study on How Developers Reason about Module Cohesion
+
+MSR2013-Mens.pdf (not used, yet) d
+
+A historical dataset for GNOME contributors
+
+TOSEM-Maalej-Comprehension-2.pdf (not used) d
+
+On the Comprehension of Program Comprehension
+
+tse15-sketching.pdf (not used) d
+
+How Software Designers Interact with Sketches at the Whiteboard
+
+05232798.pdf (paper, emailed no reply) d
+
+Mining for computing jobs
+
+Soukoreff-PhD.pdf (paper, refed) d
+
+Quantifying text entry performance
+
+nanz-et-al_europar13.pdf (paper+file, not used) d
+
+Examining the Expert Gap in Parallel Programming
+
+memoryfailures.pdf
+
+Programmer Information Needs After Memory Failure
+
+icse14_fmri.pdf
+
+Understanding Understanding Source Code with Functional Magnetic Resonance Imaging
+
+grant1967.pdf
+
+An Exploratory Investigation of Programmer Performance Under On-Line and Off-Line Conditions
+
+a145757.pdf (paper, extract?, faded away) d
+
+A Methodology For The Analysis Of Programmer Productivity And Effort Estimation Within The Framework of Software Conversion
+
+614415.pdf (paper+file, cited) d
+
+Factors affecting coding errors
+
+50790641.pdf (paper, done) d
+
+Employment of trained computer personnel - A quantitative survey
+
+smith-chase-2016.pdf (not used) d
+
+Beliefs, Practices, and Personalities of Software Engineers: A Survey in a Large Software Company
+
+978.pdf (not used) d
+
+Who Should Review My Code?
+
+Paper2.pdf (not used) d
+
+Replication of an experiment on linguistic tool support for consolidation of requirements from multiple sources
+
+Limson_Myra_Final_Thesis.pdf (emailed) d
+
+Survival Analysis of Digital Technology Employee Retention In a News Media Organization
+
+HRA_Report.pdf
+
+Human Reliability Analysis Methods Selection Guidance for NASA
+
+pair-hcs-2006.pdf (b20697417_ir, partial) d
+
+Pair programming productivity: Novice–novice vs. expert–expert
+
+b20697417_ir.pdf (partial) d
+
+Pair programming for software development and for the management of inexperienced programmers
+
+Pairs_in_Program_Design_Tasks.pdf (paper, not used) d
+
+The Effect of Pairs in Program Design Tasks
+
+Bergersen2015_PhD.pdf (emailed) d
+
+Measuring Programming Skill
+
+pennington87.pdf
+
+Stimulus Structures and Mental Representations in Expert Comprehension of Computer Programs
+
+ProgrammerAptitude.pdf
+
+Revised programmer aptitude test (IBM)
+
+10.1.1.201.61.pdf (paper+file, emailed, not available, not used) d
+
+Understanding and Addressing the Essential Costs of Evolving Systems
+
+sdarticle11.pdf (paper, emailed, partial) d
+
+Knowledge Organization and Skill Differences in Computer Programmers
+
+LuthigerJungwirth_PervasiveFun.pdf (partial) d
+
+Pervasive Fun
+
+Gender-Wage-Diff-IS-1991_2008.pdf (paper, cited) d
+
+An Empirical Investigation of Gender Wage Differences in Information Systems Occupations: 1991 – 2008
+
+10.1.1.297.5102.pdf (emailed, no reply) d
+
+Evaluating and improving adaptive educational systems with learning curves
+
+10.1.1.419.929.pdf (email, queried) d
+
+Developer Fluency: Achieving True Mastery in Software Projects
+
+20060094.pdf
+
+Spass und Software-Entwicklung Zur Motivation von Open-Source-Programmierern
+
+time-unit-effect-woauthorinf.pdf unit-effects.pdf (email, done) d
+
+Unit effects in project estimation: It matters whether you estimate in work-hours or workdays
+
+Kontogiorgos-MSc.pdf
+
+The unconscious thought effect in software engineering: Deliberation without consciousness
+
+APJIS_26_2_322.pdf (paper, emailed) d
+
+The Dark Side of Emotional Involvement in Software Development: A Behavioral Economics Perspective
+
+hofman2010.pdf (HofmanRadoslaw..., other) d
+
+Behavioral economics in software quality engineering
+
+HofmanRadoslawS4260.pdf (paper+file, partial) d
+
+Behavioral Products Quality Assessment Model on the Software Market
+
+Climbing_the_Technical_Ladder.pdf
+
+Climbing the Technical Ladder: Obstacles and Solutions for Mid-Level women in Technology
+
+2007-HRM-Ang.pdf (paper, not used) d
+
+Firm-Specific Human Capital and Compensation-Organizational Tenure Profiles: {An} Archival Analysis of Salary Data for {IT} Professionals
+
+06880395.pdf
+
+Who Will Stay in the FLOSS Community?  Modeling Participant’s Initial Behavior
+
+hicssInsultsv2.pdf (not used) d
+
+FLOSS as a Source for Profanityand Insults: Collecting the Data
+
+1703.02925.pdf (not used) d
+
+Assessing Code Authorship: The Case of the Linux Kernel
+
+esem2015Wang.pdf (emailed, cited) d
+
+Language Matters
+
+IM2015_2.pdf
+
+Does IT team climate matter? An empirical study of the impact of co-workers and the Confucian work ethic on deviance behavior
+
+1703.04993.pdf (not used) d
+
+On the Unhappiness of Software Developers
+
+SingleLetter17ICPC.pdf (cited) d
+
+Meaningful Identifier Names: The Case of Single-Letter Variables
+
+9c281daea9dd89.pdf
+
+Threat of Professional Obsolescence and Mobility Intentions: The Mediating Role of Coping Strategies
+
+Gubler_2011_PhD_Career.pdf (emailed, no reply, survey, faded away) d
+
+Protean and boundaryless career orientations – An empirical study of IT professionals in Europe
+
+01statscigalley.pdf (cited) d
+
+Computer Intrusion: Detecting Masquerades
+
+latorre2014.pdf (paper+email, done) d
+
+Effects of Developer Experience on Learning and Applying Unit Test-Driven Development
+
+1988-GreenbergPhDThesis.pdf (paper, not used) d
+
+Tool use, reuse, and organization in command-driven interfaces
+
+caliskan-islam_deanonymizing.pdf (cited) d
+
+De-anonymizing Programmers via Code Stylometry
+
+Learning_in_Soft_Dev.pdf (emailed) d
+
+Learning from Experience in Software Development: A Multilevel Analysis
+
+SoftDevRhythms-book.pdf
+
+Software development rhythms
+
+ed41932d8d9ae9a30.pdf (paper, cited) d
+
+Understanding and improving time usage in software development
+
+P73-MO~1.PDF
+
+How to turn around 'Turnover Culture' in IT
+
+RAMP.PDF
+
+The ramp-up problem in software projects: a case study of how software immigrants naturalize
+
+DEFLOG~1.PDF
+
+Accelerating learning from experience: avoiding defects faster
+
+IR-02-~1.PDF
+
+Variations in Productivity over the Life Span: A Review and Some Implications
+
+SAWYER.TXT
+
+Software development: Processes and performance 
+
+CONFLI~1.PDF
+
+Effects of intra-group conflict on packaged software development team performance
+
+UNDERS~1.HTM
+SCACCH~1.PDF
+
+Understanding software productivity
+
+PERSON~1.PDF
+
+Personality type, career preference and implications for computer science recruitment and teaching
+
+latoza06.pdf
+
+Maintaining mental models: A study of developer work habits
+
+Girb05cOwnershipMap.pdf
+
+How developers drive software evolution
+
+s70.pdf
+
+Motivation in software engineering: A systematic literature review
+
+McGee_Book-4.2.2.pdf
+
+My Adventures with Dwarfs: A Personal History in Mainframe Computers
+
+1707.00838.pdf
+
+Worse Than Spam: Issues In Sampling Software Developers
+
+2016-fse-why-we-refactor.pdf (not used) d
+
+Why We Refactor? Confessions of GitHub Contributors
+
+a097029.pdf (paper, cited) d
+
+The effects of the symbology and spatial arrangement of software specifications in a coding task
+
+a104541.pdf (paper, not used) d
+
+The effects of the symbology and spatial arrangement of software specifications in a debugging task
+
+a109833.pdf (paper, not used) d
+
+The effects of the symbology and spatial arrangement of software documentation in a modification task
+
+JAH+17.pdf (not used) d
+
+Classifying Developers into Core and Peripheral: An Empirical Study on Count and Network Metrics
+
+Names17ICPC.pdf (Avidan, done) d
+
+Effects of Variable Names on Comprehension: An Empirical Study
+
+jisa15.pdf (paper, not used) d
+
+A study on the geographical distribution of Brazil’s prestigious software developers
+
+ecoop15.pdf (cited) d
+
+The Love/Hate Relationship with the C Preprocessor: An Interview Study
+
+acs-35.pdf (emailed for more, done) d
+
+Occupations in Information Technology American Community Survey Reports
+
+6729ee5d-bfd3-45eb.pdf
+
+The work and life of indian it software engineers in japan
+
+c30717dadc8c391c938.pdf (paper, not used) d
+
+The Relevance of Application Domain Knowledge: The Case of Computer Program Comprehension
+
+ShaftVesseyJMIS1998.pdf (paper, cited) d
+
+The Relevance of Application Domain Knowledge: {Characterizing} the Computer Program Comprehension Process
+
+1404.5708.pdf (not used) d
+
+Converging Work-Talk Patterns in Online Task-Oriented Communities
+
+together.pdf (not used) d
+
+Building It Together: Synchronous Development in OSS
+
+SCAM2017.pdf (not used) d
+
+How do Scratch Programmers Name Variables and Procedures?
+
+39--persistence.pdf (emailed, lost) d
+
+Persistence of elementary programming skills
+
+Light.pdf
+
+When Computers Were Women
+
+1803.02300.pdf (not used) d
+
+A Gold Standard for Emotion Annotation in Stack Overflow
+
+icse2016.pdf (not used) d
+
+Code Review Quality: How Developers See It
+
+icse2016-report.pdf (icse2016, not used) d
+
+A Qualitative Exploratory Study of How OSS Developers Define Code Review Quality
+
+ICSME2017Felipe.pdf (not used) d
+
+Confusion Detection in Code Reviews
+
+pnas.1506047112.pdf (not used) d
+
+Motivation, values, and work design as drivers of participation in the R open source project for statistical computing
+
+productiveWorkday_TSE17.pdf
+
+The work life of developers: activities, switches and perceived productivity
+
+programmers_identity.pdf
+
+Software engineers or artists? Programmers’ identity choices
+
+ADA179392.pdf
+
+Stimulus Structures and Mental Representations In Expert Comprehension of Computer Programs
+
+2335.pdf (paper, not used) d
+
+Will They Report It? Ethical Attitude of Graduate Software Engineers in Reporting Bad News
+
+a013582.pdf (paper, done) d
+
+A Model of Human Cognitive Behavior in Writing Code for Computer Programs, vol I
+
+1707.00432.pdf (not used) d
+
+What happens when software developers are (un)happy
+
+10.1016@s0020-7.pdf
+
+An experiment using memorization/reconstruction as a measure of programmer ability
+
+1803.05741.pdf (not used) d
+
+Why We Engage in FLOSS: Answers from Core Developers
+
+saner-rene2018.pdf (not used) d
+
+How Do Scientists Develop Scientific Software?  An External Replication
+
+01658575.pdf (paper+prechelt.txt+19820068861, used other) d
+
+Modern Coding Practices and Programmer Performance
+
+ProgCompFactFinding.pdf
+
+Program Comprehension as Fact Finding
+
+miller1981.pdf
+
+Natura1 language programming: {Styles}, strategies, and contrasts
+
+699d61c21398d9feea.pdf
+
+Studying the language and structure in non-programmers’ solutions to programming problems
+
+10.1.1.198.2561.pdf
+
+The Role of Cognitive Fit in the Relationship Between Software Comprehension and Modification
+
+substantiating_variability.pdf (paper+prechelt.txt, not used) d
+
+Substantiating Programmer Variability
+
+ase_architecture_aware.pdf (not used) d
+
+Are Developers Aware of the Architectural Impact of Their Changes?
+
+icse17.pdf (not used) d
+
+Do Developers Read Compiler Error Messages?
+
+1806.07619.pdf (not used) d
+
+A Large-Scale Study on Source Code Reviewer Recommendation
+
+19820068861.pdf (paper+prechelt.txt, extracted, done) d
+
+EXPERIMENTAL RESULTS ON SOFTWARE DEBUGGING
+
+1807.06087.pdf (not used) d
+
+Towards a Theory of Software Development Expertise
+
+VakilianETAL2012.pdf (not used) d
+
+A Compositional Paradigm of Automating Refactorings
+
+contextModels_TR_0312.pdf (not used) d
+
+Supporting Search and Navigation through Code Context Models
+
+INVE_MEM_2017_276346.pdf (not used) d
+
+Empirical evaluation of the effects of experience on code quality and programmer productivity: an exploratory study
+
+Kosti_Feldt_Angelis-IST_2013.pdf
+
+Personality, Emotional Intelligence and Work Preferences in Software Engineering: An Empirical Study
+
+ijhcs99.pdf (paper, not used) d
+
+Program understanding behavior during corrective maintenance of large-scale software
+
+Hartman-PhD-91.pdf
+
+AUTOMATIC CONTROL UNDERSTANDING FOR NATURAL PROGRAMS
+
+JSEP'18-ReadabilityPaper.pdf (not used) d
+
+A Comprehensive Model for Code Readability
+
+WhoWillLeaveCompany.pdf (done) d
+
+Who will leave the company?: A large-scale industry study of developer turnover by mining monthly work report
+
+ohlsson1992.pdf (paper, done) d
+
+THE LEARNING CURVE FOR WRITING BOOKS: Evidence From Professor Asimov
+
+ipdps18.pdf (emailed, not available, ignore) d
+
+Do Developers Understand IEEE Floating Point?
+
+software-licensing.pdf (cited) d
+
+Do Software Developers Understand Open Source Licenses?
+
+icse191.pdf (not used) d
+
+How Practitioners Perceive Coding Proficiency
+
+1b96c5be192249ae.pdf
+
+Using Item Response Theory To Rate (Not Only) Programmers
+
+13_Manzoor_rev-better.pdf (paper, not used) d
+
+Analyzing Programming Contest Statistics
+
+2009thesis.pdf (emailed, and again) d
+
+Theoretical and Practical Aspects of Programming Contest Ratings
+
+Learning_Exp_SoftDev.pdf
+
+Learning from Experience in Software Development: A Multilevel Analysis
+
+BRMIC_03_insight_norms.pdf (paper, done) d
+
+Normative data for 144 compound remote associate problems
+
+1906.11072.pdf (not used) d
+
+Temporal Discounting in Software Engineering: A Replication Study
+
+TaskInterruptionsReqEng.pdf (not used) d
+
+Task Interruptions in Requirements Engineering: Reality versus Perceptions!
+
+1805.05508.pdf (not used) d
+
+Task Interruption in Software Development Projects
+
+SANER2019Felipe.pdf (not used) d
+
+Confusion in Code Reviews: Reasons, Impacts, and Coping Strategies
+
+KruegerWF+18.pdf (not used) d
+
+Do You Remember This Source Code?
+
+chi19-ifttt-cameraready.pdf chi19-ifttt-appendix.pdf (emailed) d
+
+How Users Interpret Bugs in Trigger-Action Programming
+
+IST_SMELLS.pdf (not used) d
+
+How Developers Perceive smells in Source Code: a Replicated Study
+
+Prog_comprehen_enhancement.pdf (paper, not used) d
+
+PROGRAM COMPREHENSION AND ENHANCEMENT OF SOFTWARE
+
+Baltes-PhD.pdf
+
+Software Developers’ Work Habits and Expertise Empirical Studies on Sketching, Code Plagiarism, and Expertise Development
+
+Michael_LG_T_2019.pdf
+
+Exploring the Process and Challenges of Programming with Regular Expressions
+
+PP-ind_Repo_Pair_Prog.pdf
+
+PP-ind: A Repository of Industrial Pair Programming Session Recordings
+
+Bauer19.pdf (cited) d
+
+Indentation: Simply a Matter of Style or Support for Program Comprehension?
+
+A32_Pea_etal_87.pdf
+
+The Buggy Path to The Development of Programming Expertise
+
+1910.03704.pdf (not used) d
+
+Do People Prefer “Natural” code?
+
+calikli_bener_SQJ_new.pdf (emailed) d
+
+Empirical Analysis of Factors Affecting Confirmation Bias Levels of Software Engineers
+
+2006.05060.pdf (not used) d
+
+Assessing Practitioner Beliefs about Software Engineering
+
+EndoftheMythofx10Programmer.pdf (done) d
+
+The End to the Myth of Individual Programmer Productivity
+
+emse18.pdf (not used) d
+
+Investigating Misunderstanding Code Patterns in C Open-Source Software Projects
+

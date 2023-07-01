@@ -1,0 +1,84 @@
+1ST-DIG.PDF
+
+The first-digit phenomenon
+
+CSM-349.pdf
+
+Benford's law: An empirical investigation and a novel explanation
+
+PECBEN.PDF
+
+The preculiar patterns of first digits
+
+STAT-DER.PDF
+
+A statistical derivation of the significant-digit law
+
+arno-ver10.pdf
+
+One-dimensional dynamical systems and Benford's law
+
+leemis00survival.pdf
+
+Survival distributions satisfying Benford's law
+
+benford_10_04.pdf
+
+Not the first digit! Using Benford's law to detect fraudulent scientific data
+
+0901.3047.pdf
+
+Entropy principle in direct derivation of Benford's law
+
+0906.2789v6.pdf
+
+A first-digit anomaly in the 2009 Iranian presidential election
+
+10.1.1.83.9620.pdf
+
+Data diagnostics using second order tests of Benford's law
+
+200732dkp.pdf
+
+Does Benford's law hold in economic research and forecasting?
+
+22_04_Schraepler.pdf
+
+Identification of Faked Interviews in Surveys by Means of Benford's Law
+
+Beber_Scacco_ElectionFraud.pdf
+
+What the numbers say: A digit-based test for election fraud using new data from Nigeria
+
+PHYSA_6309.ps
+
+On the nature of Benford's Law
+
+baseInvarianceBenford1995.pdf
+
+Base-invariance implies Benford's law
+
+survey-data.pdf
+
+Detecting problems in survey data using Benford's law
+
+journal.pone.0010541.pdf
+
+The Newcomb-Benford law in its relation to some common distributions
+
+newtonBenford2007.pdf
+
+Newton's method obeys Benford's law
+
+paper637.pdf 
+
+Sensitivity to statistical regularities: People (largely) follow Benford’s law
+
+tas.pdf
+
+Breaking the (Benford) Law: Statistical fraud detection in campaign finance
+
+382948.pdf
+
+Order Statistics and Benford's Law
+

@@ -1,0 +1,32 @@
+pt-hadley-wickham.pdf
+
+Practical tools for exploring data and models
+
+qplot.pdf
+
+Getting started with qplot
+
+appendices.pdf
+
+Appendices of ggplot2 book
+
+ggplot2.pdf
+
+Package 'ggplot2'
+
+Visual_Memory.pdf
+
+Survey Paper on Visual memory
+
+ISOTYPE_Visualization_CHI2015.pdf
+
+ISOTYPE Visualization - Working Memory, Performance, and Engagement with Pictographs
+
+Dobres-etal-2016-Displays.pdf
+
+The effects of Chinese typeface design, stroke weight, and contrast polarity on glance based legibility
+
+173-pap0297-bateman.pdf
+
+Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts
+

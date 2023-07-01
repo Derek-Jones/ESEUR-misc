@@ -1,0 +1,2488 @@
+IT_Proj_Man_UK_2003_04.pdf (paper, not used) d
+
+The state of IT project management in the UK 2002-2003
+
+pullingtheplug.pdf
+
+Pulling the plug: software project management and the problem of project escalation
+
+08tr024.pdf (not used) d
+
+Use and organizational effects of measurement and analysis in high maturity organizations: Results from the 2008 SEI state of measurement and analysis practice surveys
+
+10tr022.pdf (not used) d
+
+Performance effects of measurement and analysis: Perspectives from CMMI high maturity organizations and appraisers
+
+a302988.pdf (paper, not used) d
+
+An experimental investigation of the impact of conflicting project goals on staff resource allocation
+
+TSE13a.doc.pdf (not used) d
+
+Trusttrace: Mining software repositories to improve the accuracy of requirements traceability links
+
+awarchive.pdf
+
+Making Management Decisions: the Role of Intuition and Emotion
+
+PID4146349.pdf (not used) d
+
+Mining the Modern Code Review Repositories: A Dataset of People, Process and Product
+
+Ahmedshareef_PhD_2015.pdf (paper, not used) d
+
+CONTROLLING SCHEDULE DURATION DURING SOFTWARE PROJECT EXECUTION
+
+Budzier_and_Flyvbjerg.pdf (emailed) d
+
+Making-Sense of the Impact and Importance of Outliers in Project Management through the Use of Power Laws
+
+Christopher_Schofield.pdf (paper, not used) d
+
+An Empirical Investigation into Software Effort Estimation by Analogy
+
+BIR-CC-2015-05-26-Paper_16.pdf (emailed) d
+
+Reliable Customers and Credible Fixed-Price Contracts for Software Development Projects: A Study of one Supplier’s Contracts
+
+Datta2015e-preprint.pdf (not used) d
+
+The Importance of being Isolated An Empirical Study on Chromium Reviews
+
+huijgens2013.pdf (paper, extract plots?, partial) d
+
+Measuring Best-in-Class Software Releases
+
+nicta_publication_5728.pdf (paper, cited) d
+
+Analyzing Differences in Risk Perceptions between Developers and Acquirers in OTS-based Custom Software Projects Using Stakeholder Analysis
+
+chaos-model.pdf
+
+The chaos model and the chaos life cycle
+
+carmel1995.pdf
+
+A Process Model for Packaged Software Development
+
+function-point-sizing-validity.pdf (paper, not used) d
+
+Function Point Sizing: Structure, Validity and Applicability
+
+08-06.pdf
+
+Learning by Doing
+
+twitter-prog-lang-trends.pdf (done) d
+
+Which programming language should a company use? A Twitter-based analysis
+
+185.pdf (paper+file, not used) d
+
+Project managers in global software development teams: a study of the effects on productivity and performance
+
+lognormalparkinson.pdf (emailed) d
+
+Modeling Activity Times by the Parkinson Distribution with a Lognormal Core: Theory and Validation
+
+lohre_anchors_software_est.pdf
+
+Numerical anchors and their strong effects on software development effort estimates
+
+ParkinsonsLawMSOM2010.pdf
+
+Work Expands to Fill the Time Available: Capacity Estimation and Staffing under Parkinson’s Law
+
+2016 06 02 Labro Stice.pdf (emailed, confidential) d
+
+Updating Accounting Systems: Long-Run Evidence from the Health Care Sector
+
+AD0631259.pdf (paper, cited) d
+
+RESEARCH INTO THE MANAGEMENT OF COMPUTER PROGRAMMING: A TRANSITIONAL ANALYSIS OF COST ESTIMATION TECHNIQUES
+
+ahonen2015.pdf (paper, emailed, extracted, done) d
+
+Reported project management effort, project size, and contract type
+
+Educators.pdf (paper, educators, other) d
+
+Investigating Novice Programming Mistakes: Educator Beliefs vs Student Data
+
+educators.pdf (paper, email, partial) d
+
+Novice Java Programming Mistakes: Large-Scale Data vs. Educator Beliefs
+
+waterfall.pdf
+
+Managing the Development of Large Software Systems
+
+EPS2011251MKT.pdf
+
+Econometric Advances in Diffusion Models
+
+CMU-ISRI-07-103.pdf (paper, not used) d
+
+Computational and empirical explorations of work group performance
+
+ashworth_2006_whoyouknow.pdf (paper, not used) d
+
+Who You Know vs. What You Know: The Impact of Social Position and Knowledge on Team Performance
+ 
+ColinVanhouckeJCEM2015.pdf (email, faded away) d
+
+RAND_MG670.pdf
+
+Sources of Weapon System Cost Growth
+
+RAND_MG696.pdf
+
+Why has the cost of fixed-wing aircraft risen?
+
+10.1007s11219-011.pdf (extract, not used) d
+
+Identifying factors affecting software development cost and productivity
+
+FiveCompetForcesShapeStrat.pdf
+
+The Five Competitive Forces That Shape Strategy
+
+TUD-SERG-2014-012.pdf (paper, not used) d
+
+Pricing via Functional Size: A Case Study of 77 Outsourced Projects
+
+TUD-SERG-2016-004.pdf (paper, done) d
+
+Do Estimators Learn? On the Effect of a Positively Skewed Distribution of Effort Data on Software Portfolio Productivity
+
+VanhouckeJMPM2016.pdf (not used) d
+
+An overview of project data for integrated project management and control
+
+white02study.pdf
+
+Current practice in project management -- an empirical study
+
+085af20bfb4fd0a1f0922.pdf (paper, not used) d
+
+Doing Requirements Right the First Time
+
+Volstorf-PhD.pdf (fpsyg..., cited) d
+
+Against all noise On noise-robust strategies in the emergence of cooperation
+
+9780521532853ws.pdf (partial) d
+
+IT project estimation a practical guide to the costing of software
+
+journal.pone.0157104.PDF (done) d
+
+Dynamic Staffing and Rescheduling in Software Project Management: A Hybrid Approach
+
+halflife.pdf (paper, not used) d
+
+Setting Quality Goals
+
+PrinLawSoftContractsHighs.pdf
+
+Principles of the Law of Software Contracts: Some Highlights
+
+AcqhirePhenomenon.pdf
+
+Startup Firm Acquisitions as a Human Resource Strategy for Innovation: The Acqhire Phenomenon
+
+savolainen2015.pdf
+
+Knowledge lost: Challenges in changing project manager between sales and implementation in software projects
+
+2011_savolainen.pdf
+
+Software development project success and failure from the supplier's perspective: A systematic literature review
+
+PresenceCustomerSupplier.pdf
+
+The Presence of the Customer and the Supplier Perspectives in Studies on Software Development Project Success
+
+IT-Risk-Management.pdf (paper, cited) d
+
+Management of risks in information technology projects
+
+SSRN-id1471977.pdf
+
+An Empirical Examination of Business Outsourcing Transactions
+
+Utility model.pdf
+
+Utility-theory model for bid markup decisions
+
+Dirty_Little_Secret.pdf
+
+The Dirty Little Secret of Software Pricing
+
+1-s2.0-S016412121630231X-main.pdf (not used) d
+
+Analysis and selection of a regression model for the Use Case Points method using a stepwise approach
+
+e1400005.full.pdf (not used) d
+
+Systematic inequality and hierarchy in faculty hiring networks
+
+p1169.pdf (e1400005, not used) d
+
+Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks
+
+2007-MISQ-Ang1.pdf (emailed, faded away) d
+
+Turnover of information technology professionals: a narrative review, meta-analytic structural equation modeling, and model development
+
+1a79398d2da4aa68ef8.pdf (emailed, oes/, faded away) d
+
+Turnover or Turnaway? Competing Risks Analysis of Male and Female IT Professionals' Job Mobility and Relative Pay Gap
+
+TOSEM16.pdf (trouble with data, not used) d
+
+Inflow and Retention in OSS Communities with Commercial Involvement: A Case Study of Three Hybrid Projects
+
+P046_Successful_Failure.pdf
+
+Avoiding the successful failure
+
+Kossen 2010.pdf (paper, not used) d
+
+Modeling the effects of project staffing on software project performance
+
+SSOCommittees_v3.pdf (partial) d
+
+Standard Setting Committees: Consensus Governance for Shared Technology Platforms
+
+10.1.1.201.1590.pdf (SSOCommittees..., other) d
+
+Committees and the Creation of Technical Standards
+
+50790633.pdf (paper, not used) d
+
+Sources of trained computer personnel-A quantitative survey
+
+willingness.pdf
+
+What Make Long Term Contributors: Willingness and Opportunity in OSS Community
+
+shadbolt-review-CS-employability.pdf (paper, cited) d
+
+Shadbolt Review of Computer Sciences Degree Accreditation and Graduate Employability
+
+marotta-wurgler-disclos.pdf
+
+Will Increased Disclosure Help?  Evaluating the Recommendations of the ALI’s “Principles of the Law of Software Contracts”
+
+ICPC_15-LicensingSurvey.pdf (done) d
+
+License Usage and Changes: A Large-Scale Study of Java Projects on GitHub
+
+2016_OnsMlouki.pdf (cited) d
+
+On the detection of licenses violations in the android ecosystem
+
+EMSE_16-Licensing.pdf (ICPC..., done) d
+
+License Usage and Changes: A Large-Scale Study on GitHub
+
+Vendome-PhD-thesis.pdf (ICPC..., other) d
+
+Assisting Software Developers with License Compliance
+
+nbsspecialpublication500-7.pdf (paper, not used) d
+
+Computers in the federal government: a compilation of statistics
+
+nbsspecialpublication500-46.pdf (paper, not used) d
+
+Computers in the federal government: a compilation of statistics -1978
+
+job market signalling.pdf
+
+Job Market Signaling
+
+EtAlFinal.pdf (done) d
+
+Status, Quality and Attention: What’s in a (Missing) Name?
+
+07-ELD-Survey-Report.pdf (paper, not used) d
+
+2007 Electronic Licensing Survey Software & Information Industry Association Software Division
+
+539.pdf (paper, emailed) d
+
+Analyzing the Decision Criteria of Software Developers Based on Prospect Theory
+
+1702.07656.pdf (not used) d
+
+Does Quality of Requirements Specifications matter?  Combined Results of Two Empirical Studies
+
+2013AnnualReport.pdf (paper, not used) d
+
+The Software Industry Financial Report, 2013
+
+2014_Software_Industry_Financial_Report.pdf (paper, not used) d
+
+The Software Industry Financial Report, 2014
+ 
+2015_Software_Industry_Financial_Report.pdf (paper, not used) d
+
+The Software Industry Financial Report, 2015
+
+5463.pdf
+
+Ada and Beyond: Software Policies for the Department of Defense
+
+71614_1104191042511.pdf
+
+The rules of standard-setting organizations: an empirical analysis
+
+635628_tech_ipo_q42014.pdf (paper, not used) d
+
+Global Technology IPO Review Full-year and Q4 2014
+
+635931_tech_ipo_q42015.pdf (paper, cited) d
+
+Global Technology IPO Review Full-year and Q4 2015
+
+ADA415138.pdf (paper, done) d
+
+The generalizability of private sector research on software project management in two usaf organizations: an exploratory study
+
+dravhandling-yamashita.pdf (not used) d
+
+Assessing the Capability of Code Smells to Support Software Maintainability Assessments: Empirical Inquiry and Methodological Approach
+
+EMSE2016_ReviewParticipation.pdf (not used) d
+
+Review Participation in Modern Code Review An Empirical Study of the Android, Qt, and OpenStack Projects
+
+EstimationStudy.pdf (paper+file, done) d
+
+Cost and schedule estimation study report
+
+FlexeraKeyTrendsSurvey_13-14.pdf (paper, not used) d
+
+2013-14 Key Trends in Software Pricing & Licensing Survey
+
+FlexeraKeyTrendsSurvey_12.pdf (paper, not used) d
+
+2012 Key Trends in Software Pricing & Licensing Survey
+
+Followthemoney.pdf
+
+Follow the money: how does industry pay programmers' salaries when the required intellectual property is offshored?
+
+it_metrics_it_spending.pdf (paper, not used) d
+
+IT Metrics: IT Spending and Staffing Report, 2010
+
+KeyTrendsSurvey_11.pdf (paper, not used) d
+
+2011 Key Trends in Software Pricing & Licensing Survey
+
+SW_Licensing_Report_04.pdf (paper, not used) d
+
+2004 Key Trends in Software Pricing & Licensing Survey
+
+SW_Licensing_Report_06-07.pdf (paper, not used) d
+
+2006-07 Key Trends in Software Pricing & Licensing Survey
+
+eval-time-shared-usage.pdf (paper, not used) d
+
+A methodology for evaluating time-shared computer system usage
+
+peerj-preprints-1889.pdf (not used) d
+
+An empirical study on principles and practices of continuous delivery and deployment
+
+peerj-preprints-2905.pdf (cited) d
+
+An Empirical Analysis of the Docker Container Ecosystem on GitHub
+
+proj-scc-client.ben.pdf (paper, cited) d
+
+A Survey on the Characteristics of Projects with Success in Delivering Client Benefits
+
+pwc-soft-pricing-2015.pdf (paper, not used) d
+
+The Software Industry: Pricing benchmark results (2015)
+
+SEA20160100000.pdf (paper, not used) d
+
+Metrics of Real-Time Systems Based on IFPUG
+
+simplifying-ucp-ist-pre.pdf (paper+email, cited) d
+
+Simplifying effort estimation based on Use Case Points
+
+Simula.simula.2116.pdf (paper, partial) d
+
+Better Selection of Software Providers Through Trialsourcing
+
+Software_Ind_Financial_Rep_1Q16.pdf (paper, not used) d
+
+The Software Industry Financial Report Q1 2016
+
+Software_Ind_Financial_Rep_2Q16.pdf (paper, not used) d
+
+The Software Industry Financial Report Q2 2016
+
+1Q15_Software_Ind_Financial_Rep.pdf (paper, not used) d
+
+The Software Industry Financial Report Q1 2015
+
+Software_Ind_Financial_Rep_4Q15.pdf (paper, not used) d
+
+The Software Industry Financial Report Q4 2015
+
+2Q14_Software_Ind_Financial_Rep.pdf (paper, not used) d
+
+The Software Industry Financial Report Q2 2014
+
+1Q13_Software_Ind_Financial_Rep.pdf (paper, not used) d
+
+The Software Industry Financial Report Q1 2013
+
+3Q13_Software_Ind_Financial_Rep.pdf (paper, not used) d
+
+The Software Industry Financial Report Q3 2013
+
+Stein_Grimstad-01509288.pdf (paper, not used) d
+
+The Clients’ Impact on Effort Estimation Accuracy in Software Development Projects
+
+Stray_etal_2016.pdf (paper, not used) d
+
+The Daily Stand-Up Meeting: A Grounded Theory Study
+
+Stray_thesis_final.pdf (paper, not used) d
+
+An Empirical Investigation of the Daily Stand-Up Meeting in Agile Software Development Projects
+
+Sunmicrosystem.pdf (paper, not used) d
+
+Sun Microsystems, Inc.: Solaris Strategy
+
+zapdata_06.pdf (paper, not used) d
+
+Zapdata Industry Profile, January 2006
+
+82-291-1-PB.pdf (paper, emailed for more, confidential, cited) d
+
+Analyzing Trends for Maintenance Request Process Assessment: Empirical Investigation in a Very Small Software Company
+
+542d312d0cf29bbc126d1fac.pdf (paper, not used) d
+
+Towards an understanding of the causes and effects of software requirements change: two case studies
+
+10.1007s10270-015-0472-2.pdf (emailed, faded away) d
+
+Analysing the Linux kernel feature model changes using FMDiff
+
+LandersRatRaceAER1996.pdf
+
+Rat Race Reduce: {Adverse} Selection in the Determination of Work Hours in Law Firms
+
+ratracereduxadve00land.pdf
+
+Rat Race Redux Adverse Selection in the Determination of Work Hours
+
+J3.pdf (cited) d
+
+There and Back Again: Can you Compile that Snapshot?
+
+ICGSE2017.pdf (not used) d
+
+Developer Turnover in Global, Industrial Open Source Projects: Insights from Applying Survival Analysis
+
+MIT-LCS-TR-068.pdf (paper, partial) d
+
+Economies of Scale in Computer Use: {Initial} Tests and Implications for the Computer Utility
+
+Sulir16quantitative.pdf (not used) d
+
+A Quantitative Study of Java Software Buildability
+
+nr_170309_i6_review.pdf
+
+i6: a review
+
+C_a_A-195710.pdf
+
+COMPUTERS and AUTOMATION
+
+C_a_A-195805.pdf (paper, not used) d
+
+COMPUTERS and AUTOMATION (computer census)
+
+Yu.pdf (paper, done) d
+
+Managing Application Software Suppliers in Information System Development Projects
+
+1123.pdf
+
+IN RE MICROSOFT CORPORATION ANTITRUST LITIGATION * SUN MICROSYSTEMS, INC. v. MICROSOFT CORPORATION * MDL 1332 * Civil No. JFM-02-2739
+
+52923672.pdf (email conversation+file, not used) d
+
+Analyzing impact of experience curve on ROI in the software product line adoption process
+
+1610.03159.pdf
+
+THE ASTROPY PROBLEM
+
+Fisher-P-1191.pdf
+
+A COMMON PROGRAMMING LANGUAGE FOR THE DEPARTMENT OF DEFENSE -- BACKGROUND AND TECHNICAL REQUIREMENTS
+
+AD0766061.pdf (paper, partial) d
+
+Report to The President and the Secretary of Defense on the Department of Defense
+
+Fisher-IDA-P-1046.pdf (paper, not used) d
+
+AUTOMATIC DATA PROCESSING COSTS IN THE DEFENSE DEPARTMENT
+
+119738.pdf (paper, cited) d
+
+Millions In Savings Possible In Converting Programs From One Computer To Another
+
+Solganick-Software-MnA-2016.pdf (paper, done) d
+
+Software M&A Update
+
+Dynamics_Organ_Learning.pdf
+
+The Dynamics of Organizational Learning
+
+lcurve.pdf
+
+Optimal investment in learning-curve technologies
+
+bunderson2003.pdf
+
+Management Team Learning Orientation and Business Unit Performance
+
+Sadeghigivi_PhD.pdf
+
+THE EFFECT OF LEARNING, FORGETTING, FATIGUE, AND RECOVERY ON THE PERFORMANCE OF DUAL-RESOURCE CONSTRAINED (DRC) SYSTEMS
+
+67448.pdf
+
+Role of design complexity in technology improvement
+
+BFWA-SystemsFailure.pdf
+
+PATTERNS IN IT LITIGATION: SYSTEMS FAILURE (1976-2000)
+
+Milis-PhD_a.pdf Milis-PhD_b.pdf (paper+file, done) d
+
+Success factors for ICT projects
+
+UC-item-6668s4pz.pdf
+
+On the Evolution of Overconfidence and Entrepreneurs
+
+132087.pdf (paper, cited) d
+
+Federal Agencies' Maintenance Of Computer Programs: Expensive And Undermanaged
+
+submission-v1-6.pdf (partial) d
+
+Exploring Network Modelling and Strategy in the Dutch Product Software Ecosystem
+
+EngEconMOCA.pdf (paper+file, not used) d
+
+OBSOLESCENCE DRIVEN DESIGN REFRESH PLANNING FOR SUSTAINMENT-DOMINATED SYSTEMS
+
+the art of standard wars.pdf
+
+The Art of Standards Wars
+
+1703.03897.pdf (cited) d
+
+Stack Overflow: A Code Laundering Platform?
+
+1611.05994.pdf (emailed for more details, not used) d
+
+A Dissection of the Test-Driven Development Process: Does It Really Matter to Test-First or to Test-Last?
+
+01702544.pdf
+
+A General Empirical Solution to the Macro Software Sizing and Estimating Problem
+
+09-035_147543f8-48b3.pdf (emailed) d
+
+Variation in Experience and Team Familiarity: Addressing the Knowledge Acquisition-Application Problem
+
+9c71965ae0160752b9.pdf (paper, not used) d
+
+ERP Implementation Effort Estimation Using Data Envelopment Analysis
+
+10.1.1.672.5858.pdf (paper, not used) d
+
+An Empirical Evaluation of Simplified Function Point Measurement Processes
+
+1706.07196.pdf
+
+On the Status and Future of Peer Review in Software Engineering
+
+Benaroch-Chernobai-ITG.pdf
+
+Operational IT Failures, IT Value-Destruction, and Board-Level IT Governance Changes
+
+d637b841df9e1904.pdf
+
+'Rough Consensus and Running Code' and the Internet-{OSI} Standards War
+
+est_embedded_soft05999672.pdf (paper, done) d
+
+A Practical Approach to Size Estimation of Embedded Software Components
+
+Classified_Ads_IT_skill_2004.pdf (paper, not used) d
+
+Changing Patterns in IT Skill Sets 1988-2003: A Content Analysis of Classified Advertising
+
+ConstruxProfDevLadder.pdf
+
+Professional Development Ladder
+
+RE_journal_beydoun.pdf (paper, not used) d
+
+A field study of the requirements engineering practice in Australian software industry
+
+RJ-2017-006.pdf
+
+Implementing a Metapopulation Bass Diffusion Model using the R Package deSolve
+
+anchordoguy2000.pdf
+
+Japan’s software industry: a failure of institutions?
+
+Estimation-model-adapter.pdf (paper, done) d
+
+Effort Estimation with Story Points and COSMIC Function Points - An Industry Case Study
+
+optim_pess_biasing.pdf (paper, not used) d
+
+The effects of optimistic and pessimistic biasing on software project status reporting
+
+Contract-Design-Choices.pdf (emailed) d
+
+Contract Design Choices and the Balance of Ex-Ante and Ex-Post Transaction Costs in Software Development Outsourcing
+
+ungan-PhD.pdf (paper+file, not used) d
+
+A functional software measurement approach bridging the gap between problem and solution domains
+
+ERTS_2014_RENAULT-COSMIC.pdf (paper, extract, not used) d
+
+Manage the automotive embedded software development cost & productivity with the automation of a Functional Size Measurement Method (COSMIC)
+
+icsie-jorgensen-yamashita-feb5.pdf
+
+Cultural Characteristics and their Connection to Increased Risk of Software Project Failure
+
+168799_Shanling_Sept2010.pdf (emailed, not available)
+
+Why Do Software Firms Fail? Capabilities, Competitive Actions, and Firm Survival in the Software Industry from 1995 to 2007
+
+Kimman Thesis 18.pdf
+
+Pair Programming for Software Development and for the Management of Inexperienced Programmers
+
+12536707-MIT.pdf
+
+The dynamics of software development project management: an integrative system dynamics perspective
+
+10.1.1.532.4245.pdf (paper, not used) d
+
+On Vendor Preferences for Contract Types in Offshore Software Projects: The Case of Fixed Price vs. Time and Materials Contracts
+
+10.1.1.366.535.pdf
+
+A software project dynamics model for process cost, schedule and risk assessment
+
+82507128.pdf (paper+file, done) d
+
+An empirical study of maintenance and development estimation accuracy
+
+baker1972.pdf
+
+Chief programmer team management of production programming
+
+CLEANROOM.pdf (paper+file, done) d
+
+CLEANROOM Software Development: {An} Empirical Evaluation
+
+ADA083513.pdf (paper, not used) d
+
+A Matched project Evaluation of Modern Programming Practices: {Scientific} Report on the {ASTROS} Plan (Vol II)
+
+a083512.pdf
+
+A Matched project Evaluation of Modern Programming Practices: {Scientific} Report on the {ASTROS} Plan (Vol I)
+
+JorgeAranda-MSc.pdf (paper+file, partial) d
+
+Anchoring and adjustment in software estimation
+
+zelkowitz-effect.pdf zelkowitz-resource.pdf (paper+file, done) d
+
+The Effectiveness of Software Prototyping: {A} Case Study
+
+vol3no4_22.pdf (paper, mohantyi, not used) d
+
+Cost Estimation: A Survey of Well-known Historic Cost Estimation Techniques
+
+kitchenham1985.pdf (paper+file, partial) d
+
+Software Project Development Cost Estimation
+
+a053020.pdf (paper+file, done) d
+
+Cost Reporting Elements and Activity Cost Tradeoffs for Defense System Software (study results)
+
+mohanty1981.pdf (paper+file, done) d
+
+Software Cost Estimation: Present and Future
+
+02-0706.pdf (paper, not used) d
+
+Validation of Spacecraft Software Cost Estimation Models for Flight and Ground Systems
+
+mermaid.pdf
+
+The MERMAID Approach to software cost estimation
+
+Hollmann_Accuracy.pdf
+
+Estimate Accuracy: Dealing with Reality
+
+7092409.pdf (not used) d
+
+Empirical Perspective on Activity Durations for Project-Management Simulation Studies
+
+shnchen2010.pdf
+
+Pipeline management for the acquisition of industrial projects
+
+ca89c69bacfade039.pdf
+
+Iterative and Incremental Development: A Brief History
+
+c2139.pdf
+
+The Decision Making Problem in Development
+
+c2138.pdf
+
+Predictability of the Costs, Time, and Success of Development
+
+Function-Points-in-Agile.pdf (paper, not used) d
+
+Using Function Points in Agile Projects
+
+ese13.pdf (not used) d
+
+Agile vs. Structured Distributed Software Development: A Case Study
+
+Hybrid-Contracts.pdf
+
+Ex post adaptations and hybrid contracts in software development services
+
+61F.PDF.pdf 19810015279.pdf (paper, not used) d
+
+Deep space network software cost estimation model
+
+Rainer_PhD.pdf (paper, not used) d
+
+An empirical investigation of software project schedule behaviour
+
+a123818.pdf (paper, not used) d
+
+Projection of maximum software maintenance manning levels
+
+P-8280.pdf (paper, not used) d
+
+Influences on the Timing and Frequency of Cancellations and Truncations of Major Defense Acquisition Programs
+
+Characterizing_Risky_Project.pdf (paper+file, not used) d
+
+An Empirical Approach to Characterizing Risky Software Projects Based on Logistic Regression Analysis
+
+2160885.pdf (paper, not used) d
+
+Perceived causes of software project failures – An analysis of their relationships
+
+10.1080@07423.pdf
+
+Understanding the Drivers of Unethical Programming Behavior: The Inappropriate Reuse of Internet-Accessible Code
+
+Risk-software-IMDS.pdf (paper, not used) d
+
+Managing risk in software development projects: a case study
+
+e9f6828098808322e53.pdf (paper, done) d
+
+The Influence of the Information Systems Development Approach on Maintenance
+
+manage_risks_in_IS_projects.pdf (paper, not used) d
+
+When to manage risks in IS projects: An exploratory analysis of longitudinal risk reports.
+
+productivityimpa00gill.pdf (paper, not used) d
+
+Productivity Impacts of Software Complexity and Developer Experience
+
+13530502.pdf (paper, cited) d
+
+What's in a Standard Form Contract? An Empirical Analysis of Software License Agreements
+
+chatzoglou1996.pdf
+
+Requirements Capture and Analysis : A Survey of Current Practice
+
+Lessons_modeling_dynamics_soft.pdf
+
+Lessons learned from modeling the dynamics of software development
+
+phister1981.pdf
+
+A Model of the Software Development Process
+
+Paper 11_Benchmarking_2.pdf (paper, not used) d
+
+Benchmarking of project planning and success in selected industries
+
+20150926104728003.pdf
+
+Diagnosing organizational risks in software projects: Stakeholder resistance
+
+basili1981.pdf (paper, emailed, lost, extracted, done) d
+
+Can the Parr Curve Help with Manpower Distribution and Resource Estimation Problems?
+
+laumer2016.pdf
+
+Work routines as an object of resistance during information systems implementations: theoretical foundation and empirical evidence
+
+P10.pdf
+
+Analyzing medium-scale software development
+
+tse20-10.pdf (paper, cited) d
+
+Prototyping A Process Monitoring Experiment
+
+199812-Stark.pdf (paper, not used) d
+
+A micro and macro based examination of the effects of requirements changes on aerospace software maintenance
+
+Effects_Requirements_Change.pdf (paper, not used) d
+
+An Examination of the Effects of Requirements Changes on Software Maintenance Releases
+
+140528_aszoke_thesis.pdf (paper, emailed) d
+
+Models and Algorithms for Integrated Agile Software Planning and Scheduling
+
+1703.10361.pdf (paper, not used) d
+
+What Do Practitioners Vary in Using Scrum?
+
+45425db4cac286d5e.pdf (emailed) d
+
+Learning from Prior Experience: An Empirical Study of Serial Entrepreneurs in IT-enabled Crowdfunding
+
+211245.pdf (paper, not used) d
+
+AUTOMATED INFORMATION SYSTEMS Schedule Delays and Cost Overruns Plague DOD Systems
+
+249374.pdf
+
+Business Systems Modernization: {IRS} Needs to Complete Recent Efforts to Develop Policies and Procedures to Guide Requirements Development and Management
+
+Model_Resist_Info_Tech.pdf
+
+A Multilevel Model of Resistance to Information Technology Implementation
+
+Factors.pdf (extract, emailed, cited) d
+
+Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering
+
+Loconsole-PhD.pdf (paper, not used) d
+
+Definition and validation of requirements management measures
+
+iasurvey_tse_preprint.pdf iasurvey_techrep.pdf (paper, email?, cited) d
+
+An Industrial Survey of Safety Evidence Change Impact Analysis Practice
+
+deutsch_jorgensen.pdf
+
+Studying the Hidden Costs of Offshoring -- the Effect of Psychic Distance
+
+Quality_vs_risk-projects.pdf (emailed) d
+
+Quality vs risk: An investigation of their relationship in software development projects
+
+Smite20170227.pdf (paper, cited) d
+
+Calculating the Extra Costs and the Bottom-line Hourly Cost of Offshoring
+
+587361.pdf (extracted, done) d
+
+Field studies into the dynamics of product development tasks
+
+D196292.pdf (paper, not used)
+
+A model for planning the requirements capture and analysis process
+
+Ident-Managing-Proj-Risk_book.pdf
+
+Identifying and Managing Project Risk
+
+trietsch2012.pdf
+
+PERT 21: Fitting PERT/CPM for use in the 21st century
+
+Modeling_dyn_agile_soft_dev.pdf (emailed) d
+
+Modeling dynamics in agile software development
+
+60b4d52b38e929260cb.pdf (paper, not used) d
+
+An Empirical Analysis on Distribution Patterns of Software Maintenance Effort
+
+Rainer Metrics2004.pdf (paper, not used) d
+
+Identifying the causes of poor progress in software projects
+
+msr2017_manglaviti.pdf (not used) d
+
+An Empirical Study of the Personnel Overhead of Continuous Integration
+
+methodologies_emp_analysis.pdf (paper, not used) d
+
+Use of methodologies: an empirical analysis of their impact on the economics of the development process
+
+Thomas_Tan_PhD.pdf (paper, not used) d
+
+Domain-based effort distribution model for software cost estimation
+
+gopal2010.pdf (emailed, cited) d
+
+The Role of Contracts on Quality and Returns to Quality in Offshore Software Development Outsourcing
+
+parr1980.pdf
+
+An Alternative to the Rayleigh Curve Model for Software Development Effort
+
+rico04e.pdf
+
+Short History of Software Methods
+
+helena1-icssp-web.pdf (not used) d
+
+Hybrid Software and System Development in Practice: Waterfall, Scrum, and Beyond
+
+8780556.pdf (paper, cited) d
+
+Pricing Software Development Services
+
+061120.doc.pdf
+
+Why Software Projects Escalate: The Importance of Project Management Constructs
+
+berghout_et_al_evaluation.pdf
+
+Seven ways to get your favoured IT project accepted – politics in IT evaluation
+
+citerwp11_schuurman.pdf
+
+Benefits are from Venus, Costs are from Mars
+
+mahaney2010.pdf (emailed and promised) d
+
+The role of monitoring and shirking in information systems project management
+
+when-software-nightmare.pdf
+
+When the software becomes a nightmare Dealing with failed projects
+
+CSA20170500000_18573388.pdf (done) d
+
+The Effort Distribution of Software Development Phases
+
+65-CA002.pdf (emailed, not available, CSA2017050000, other) d
+
+A Study on Software Development Month Effort
+
+a301376.pdf (paper, file, not used) d
+
+CALIBRATION OF THE SOFTWARE ARCHITECTURE SIZING AND ESTIMATION TOOL (SASET)
+
+1708.02618.pdf (not used) d
+
+An Empirical Comparison of Developer Retention in the RubyGems and npm Software Ecosystems
+
+1991_003_001_15905.pdf (paper, not used) d
+
+A Comparison of ADA 83 and C++
+
+19820068869.pdf (paper, not used) d
+
+EXAMPLE OF AN EARLY SIZING, COST AND SCHEDULE ESTIMATE FOR AN APPLICATION SOFTWARE SYSTEM
+
+a116352.pdf (paper, not used) d
+
+JOVIAL/ADA MICROPROCESSOR STUDY
+
+a243998.pdf (paper, not used) d
+
+AVAILABILITY OF Ada AND C++ COMPILERS, TOOLS, EDUCATION, AND TRAINING
+
+a460316.pdf (paper, not used) d
+
+An Analysis of Earned Value Management Implementation Within the F-22 System Program Office’s Software Development
+
+10366006300bc239449.pdf (paper, file, also EstimationStudy, not used) d
+
+IMPACT OF ADA AND OBJECT-ORIENTED DESIGN IN THE FLIGHT DYNAMICS DIVISION AT GODDARD SPACE FLIGHT CENTER
+
+factoryconceptsp00cusu.pdf
+
+Factory Concepts and Practices in Software Development: An Historical Overview
+
+648750.pdf
+
+Management Handbook for the Estimation of Computer Programming Costs
+
+CS-TR-389.pdf (paper, not used) d
+
+Waiting in software projects: an exploratory study
+
+stateofpractice.pdf (not used) d
+
+The Choice of Code Review Process: A Survey on the State of the Practice
+
+rtvpp.pdf (paper, not used) d
+
+Dominance by Birthright: Entry of Prior Radio Producers and Competitive Ramifications in the U.S. Television Receiver Industry
+
+istc.pdf (paper, not used) d
+
+Industry Shakeouts and Technological Change
+
+75791.pdf
+
+Why Are Bad Products So Hard to Kill?
+
+849OSD13744-10-804Report.pdf
+
+A New Approach for Delivering Information Technology Capabilities in the Department of Defense
+
+Nandhakumar-ITP99.pdf
+
+The fiction of methodological development: a field study of information systems development
+
+jenkins1984.pdf (paper, not used) d
+
+Empirical Investigation of Systems Development Practices and Results
+
+1-s2.0-S109051381730209X.pdf (partial) d
+
+Optimising human community sizes
+
+10.1.1.94.5865.pdf
+
+A Field Study of the Software Design Process for Large Systems
+
+bgsv.pdf (not used) d
+
+The distinct e¤ects of Information Technology and Communication Technology on firm organization
+
+10.1.1.122.5074.pdf (paper, not used) d
+
+The Misalignment of Product Architecture and Organizational Structure in Complex Product Development
+
+1059.pdf
+
+Analysis of License Inconsistency in Large Collections of Open Source Projects
+
+Causes_failure_ICT-projects.pdf
+
+Common Causes for Failure in Major ICT‐enabled Programs and Projects
+
+dp10816.pdf
+
+Industrial Espionage and Productivity
+
+111e8b09e5d95bead.pdf
+
+The Rise, Fall, and Resurrection of Software as a Service
+
+7-4-255.pdf
+
+The management of a large commercial computer bureau
+
+FevoldenHistoryofComputing.pdf (emailed, lost) d
+
+The Best of Both Worlds?  A History of Time-Shared Microcomputers, 1977–1983
+
+peerj-cs-86.pdf
+
+Software citation principles
+
+PorterSiyetal.pdf
+
+An Experiment to Assess the Cost-Benefits of Code Inspections in Large Scale Software Development
+
+optimalordering.pdf (not used) d
+
+On the Optimal Order of Reading Source Code Changes for Review
+
+argote1995.pdf (paper, cited) d
+
+Group Learning Curves: The Effects of Turnover and Task Complexity on Group Performance
+
+Source_Code_China-book.pdf
+
+Source Code China The New Global Hub of IT Outsourcing
+
+the-2018-hacker-report.pdf (paper+file, done) d
+
+THE 2018 HACKER REPORT
+
+ExaminingPredictiveValidity.pdf (paper, not used) d
+
+Principles for Examining Predictive Validity: The Case of Information Systems Spending Forecasts
+
+wnuk-thesis-2012.pdf (paper, not used) d
+
+Visualizing, Analyzing and Managing the Scope of Software Releases in Large-Scale Requirements Engineering
+
+19820068858.pdf (paper, extracted, not used) d
+
+CENTRAL FLOW CONTROL SOFTWARE DEVELOPMENT: A CASE STUDY OF THE EFFECTIVENESS OF SOFTWARE ENGINEERING TECHNIQUES
+
+StaatsMilkmanFox2012.pdf neglect.pdf (emailed, confidential) d
+
+The Team Scaling Fallacy: Underestimating The Declining Efficiency of Larger Teams
+
+ASE2017.pdf (done) d
+
+The Impact of Continuous Integration on Other Software Development Practices: A Large-Scale Empirical Study
+
+1710.07980.pdf (cited) d
+
+Test them all, is it worth it? A ground truth comparison of configuration sampling strategies
+
+20180000092.pdf (paper, not used) d
+
+Evaluating Heuristics for Planning Effective and Efficient Inspections
+
+E100.D_2016EDP7222.pdf (paper+file, cited) d
+
+Industry Application of Software Development Task Measurement System : TaskPit
+
+BlowingWhistle_2001.pdf
+
+Blowing the Whistle on Troubled Software Projects
+
+How Are Software Defects Found.pdf
+
+How Are Software Defects Found? The Role of Implicit Defect Detection, Individual Responsibility, Documents, and Knowledge
+
+IST-2017.pdf (multiple emails) d
+
+Analyzing and predicting effort associated with finding & fixing software faults
+
+SharmaUpadhyayula_MSc.pdf (paper+extracted, not used) d
+
+RAPID AND FLEXIBLE PRODUCT DEVELOPMENT: AN ANALYSIS OF SOFTWARE PROJECTS AT HEWLETT PACKARD AND AGILENT
+
+Estimates or NoEstimates.pdf (not used) d
+
+To Estimate or #NoEstimates, that is the Question
+
+dmm.pdf
+
+DOES MANAGEMENT MATTER? EVIDENCE FROM INDIA
+
+Lin2017c.pdf (not used) d
+
+Reviewing Career Paths of the OpenStack Developers
+
+what-itd.pdf
+
+What is to be Done?
+
+space-systems-cost-anal-book.zip
+
+SPACE SYSTEMS COST ANALYSIS GROUP SOFTWARE METHODOLOGY HANDBOOK
+
+147525.pdf (paper, not used) d
+
+Status, Costs, and Issues Associated With Defense’s Implementation of Ada
+
+a253087.pdf (paper, not used) d
+
+ADA AND C++ BUSINESS CASE ANALYSIS
+
+jbcs_evolution_agile_br.pdf (paper, not used) d
+
+The Evolution of Agile Software Development in Brazil Education, Research, and the State-of-the-Practice
+
+akerele-agile.pdf (paper+file, not used) d
+
+Evaluating the Impact of Critical Factors in Agile Continuous Delivery Process: A System Dynamics Approach
+
+dgg-dissertation.pdf
+
+Without Borders: Addressing Legal Requirements in Multi-Jurisdictional IT Environments
+
+ericpol_icse2014.pdf (emailed) d
+
+Evidence-Based Decision Making in Lean Software Project Management
+
+GillianShapiro-PhD_1.pdf GillianShapiro-PhD_2.pdf (paper, not used) d
+
+A GENDER ANALYSIS OF THE CAREER PROGRESSION OF IT MANAGERS
+
+MC665_r28_L-3.pdf (paper, not used) d
+
+FORECAST FOR MILITARY SYSTEMS USING ELECTRONIC DIGITAL COMPUTERS
+
+MC665_r28_L-3.pdf (paper, not used) d
+
+A PLAN FOR DIGITAL INFORMATION HANDLING EQUIPMENT IN THE MILITARY ESTABLISHMENT
+
+Soft-Proj-Survival-book.pdf
+
+Software Project Survival Guide
+
+SAC2018_final.pdf (done) d
+
+An Experimental Evaluation of a De-biasing Intervention for Professional Software Developers
+
+SSRN-id1596009.pdf
+
+ETHICAL CONSIDERATIONS IN INTERNET CODE REUSE: A MODEL AND EMPIRICAL TEST
+
+Stroebeetal2012Perspectives.pdf
+
+Scientific Misconduct and the Myth of Self-Correction in Science
+
+stuck.pdf
+
+STUCK IN THE PAST: WHY MANAGERS PERSIST WITH NEW PRODUCT FAILURES
+
+WuEtAl.pdf (paper, not used) d
+
+MANAGING SHORT-LIFECYCLE TECHNOLOGY PRODUCTS FOR AGERE SYSTEMS
+
+Soft_Projects_Escalate.pdf
+
+Why Software Projects Escalate: An Empirical Analysis and Test of Four Theoretical Models
+
+10.1.1.473.1190.pdf 16-124_7ae90679.pdf
+
+The Mirroring Hypothesis: Theory, Evidence and Exceptions
+
+1802.02938.pdf (cited) d
+
+Usage and Attribution of Stack Overflow Code Snippets in GitHub Projects
+
+magazinius_distort_est.pdf
+
+Confirming Distortional Behaviors in Software Cost Estimation Practice
+
+smj879.pdf (cited) d
+
+ARE FAMILY-FRIENDLY WORKPLACE PRACTICES A VALUABLE FIRM RESOURCE?
+
+OrgDecentralizedInfo.pdf
+
+The Organization of Decentralized Information Processing
+
+SSS17 cybersecurity.pdf
+
+Cybersecurity problems in a typical hospital (and probably in all of them)
+
+grosch1953.pdf
+
+High Speed Arithmetic: The Digital Computer as a Research Tool
+
+vem2017.pdf (not used) d
+
+Who Drive Company-Owned OSS Projects: Employees or Volunteers?
+
+JBCS2018A.pdf (also vem2017, not used) d
+
+Who Drives Company-Owned OSS Projects: Internals or Externals Members?
+
+3e0a300cb35f45a4150.pdf
+
+Letting the "Computer Boys" Take Over: Technology and the Politics of Organizational Transformation
+
+1609.00489.pdf (not used) d
+
+A deep learning model for estimating story points
+
+tse2017_3.pdf (1609.00489..., not used) d
+
+Predicting Delivery Capability in Iterative Software Development
+
+1710.04037.pdf (cited) d
+
+Failures to be celebrated: an analysis of major pivots of software startups
+
+1990-hunter.pdf
+
+Individual Differences in Output Variability as a Function of Job Complexity
+
+Annales_Inst_agronom54409695.pdf
+
+RECHERCHES SUR LES MOTEURS ANIMÉS TRAVAIL DE L'HOMME
+
+ringelmann.pdf (paper, not used) d
+
+APPAREILS DE CULTURE MÉCANIQUE avec Treuils et Câbles (RÉSULTATS D'ESSAIS)
+
+ingham1974.pdf (paper, extract, not used) d
+
+The Ringelmann Effect: Studies of Group Size and Group Performance
+
+Ringelmann_Rediscovered.pdf
+
+Ringelmann Rediscovered: The Original Article
+
+journal.pone.0118494.PDF
+
+To Apply or Not to Apply: A Survey Analysis of Grant Writing Costs and Benefits
+
+lorge1955.pdf
+
+Two Models of Group Behavior in the Solution of Eureka-Type Problems
+
+bayer2006.pdf
+
+Balancing work: bidding strategies and workload dynamics in a project-based
+professional service organisation
+
+Elliott_77.pdf (extracted, done) d
+
+Life Cycle Planning for a Large Mix of Commercial Systems
+
+users.man.pdf
+
+User’s Manual as a Requirements Specification: Case Studies
+
+Staff_imp_soft_prod.pdf staff-levels.pdf
+
+Staffing Implications of Software Productivity Models
+
+283796.pdf (paper, not used) d
+
+FACTORS IN SELECTING AND TRAINING PROGRAMMERS
+
+UBC_1989_A8 E35.pdf
+
+AN EVALUATION OF BASIC COMPUTER LANGUAGE AS A PREREQUISITE TO UNIVERSITY COMPUTER SCIENCE
+
+systemdevelopmen00cusu.pdf
+
+System Development Corporation: Defining The Factory Challenge 
+
+ussoftwarefactor00cusu.pdf
+
+A U.S. "SOFTWARE FACTORY" EXPERIMENT: SYSTEM DEVELOPMENT CORPORATION
+
+10.1.1.1033.445.pdf
+
+Shifting Economies: From Craft Production to Flexible Systems and Software Factories
+
+680105.pdf (paper, not used) d
+
+Some Recent Contributions to Computer Programming Management
+
+50730419.pdf (paper, not used) d
+
+Management of computer programmers
+
+50861191.pdf (paper, not used) d
+
+Computer education in higher education- status, alternatives and needs
+
+koushik1995.pdf
+
+Modeling Coordination in Software Construction: An Analytical Approach
+
+journal.pcbi.1004829.PDF
+
+The Evolutionary Origins of Hierarchy
+
+cost_of_collab-CSCW2013.pdf (confidential) d
+
+The Cost of Collaboration for Code and Art: Evidence from a Remixing Community
+
+006120.pdf (paper, not used) d
+
+Twenty questions: efficiency in problem solving as a function of group size
+
+1-s2.0-S016412121630231X.pdf (not used) d
+
+Analysis and selection of a regression model for the Use Case Points method using a stepwise approach
+
+10.1.1.504.8129.pdf
+
+Cognitive and social comparison processes in brainstorming
+
+10.1.1.864.6248.pdf
+
+Productivity Loss In Brainstorming Groups: Toward the Solution of a Riddle
+
+compare_pypi_R_dependencies.pdf (not used) d
+
+Is Taking On Dependencies Becoming A Costly Affair?
+
+dorn-phd-thesis.pdf
+
+Optimizing Tradeoffs of Non-Functional Properties in Software
+
+DTIC_ADA048192.pdf (paper, not used) d
+
+SOFTWARE COST ESTIMATING methodology
+
+springer_pichai.pdf (paper+file, not used) d
+
+Re-estimating software effort using prior phase efforts and data mining techniques
+
+1506.00147.pdf
+
+Team Performance with Test Scores
+
+10.1145@3239235.pdf
+
+An Empirical Study of WIP in Kanban Teams
+
+10.1.1.391.5108.pdf
+
+Creative Productivity: A Predictive and Explanatory Model of Career Trajectories and Landmarks
+
+RAND_WR580.pdf
+
+The Group Matters A Review of the Effects of Group Interaction on Processes and Outcomes in Analytic Teams
+
+D_Post_SoftDevChallenges.pdf
+
+Computational Science and Engineering Software Development Challenges and Solutions
+
+ASCILessonsLearned.pdf
+
+Software Project Management and Quality Engineering Practices for Complex, Coupled Multi-Physics, Massively Parallel Computational Simulations, Lessons Learned from ASCI
+
+LA-UR-05-1593.pdf
+
+Case Study of the Falcon Code Project
+
+psp-904644.pdf
+
+Groups Perform Better Than the Best Individuals on Letters-to-Numbers Problems: Effects of Group Size
+
+ForecastingTimeComplete.pdf
+
+Forecasting Time to Complete Team Projects: An Empirical Test of Coordination Neglect in the Field and Lab
+
+unpack.pdf
+
+Unpacking Team Familiarity: The Effects of Geographic Location and Hierarchical Role
+
+08-019_0dffce35.pdf
+
+Team Familiarity, Role Experience, and Performance: Evidence from Indian Software Services
+
+fink2014.pdf
+
+Why Project Size Matters for Contract Choice in Software Development Outsourcing
+
+KeyChallSoftStartupsLifeCy.pdf (paper, not used) d
+
+Key Challenges in Software Startups Across Life Cycle Stages
+
+Top20-Reasons-Startups-Fail.pdf (paper, not used) d
+
+The Top 20 Reasons Startups Fail
+
+10.1.1.183.266.pdf
+
+An Empirical Analysis of Contract Structures in IT Outsourcing
+
+Cecot_Viscusi_Second.pdf
+
+JUDICIAL REVIEW OF AGENCY BENEFIT-COST ANALYSIS
+
+132846219.pdf (paper, not used) d
+
+Simulation of Strategic Management Process of Software Projects: A Dynamic Approach
+
+zogaan2017.pdf (not used) d
+
+Datasets from Fifteen Years of Automated Requirements Traceability Research
+
+spi.pdf (paper, not used) d
+
+Quantifying Software Process Improvement
+
+Hennie_HuijgensPhD.pdf (done) d
+
+Evidence-Based Software Portfolio Management
+
+ContractKnowNetEcon.pdf
+
+Information Technology, Contract and Knowledge in the Networked Economy: A Biography of Packaged Software for Contract Management
+
+swan17.pdf
+
+Timezone and Time-of-Day Variance in GitHub Teams: An Empirical Method and Study
+
+streobe11.pdf
+
+Why Groups are less Effective than their Members: On Productivity Losses in Idea-generating Groups
+
+10.1.1.1015.5811.pdf
+
+Many Hands Make Light the Work: The Causes and Consequences of Social Loafing
+
+96SKILLS.pdf (paper, not used) d
+
+THE END IS NIGH 1996 IT SKILLS TREND REPORT
+
+JudgesReliableNumJudgments.pdf
+
+Can Judges Make Reliable Numeric Judgments?  Distorted Damages and Skewed Sentences
+
+971dec8ed7f13b7ec.pdf (paper, not used) d
+
+Identifying Software Project Risks: An International Delphi Study
+
+1806.10277.pdf (not used) d
+
+The Impact of Human Factors on the Participation Decision of Reviewers in Modern Code Review
+
+1809.06317.pdf (not used) d
+
+Talk to Me: A Case Study on Coordinating Expertise in Large-Scale Scientific Software Projects
+
+BureaucratizationSafety.pdf
+
+The bureaucratization of safety
+
+contract-type-feb10.pdf
+
+Connections between type of contract and software project outcome
+
+Engine.pdf
+
+A New Stochastic Engine for PERT
+
+msr2018b.pdf (done) d
+
+Understanding the Usage, Impact, and Adoption of Non-OSI Approved Licenses
+
+SSRN-id2853669.pdf
+
+The Validity and Utility of Selection Methods in Personnel Psychology: Practical and Theoretical Implications of 100 Years of Research Findings
+
+smite2015.pdf (paper, not used) d
+
+What’s the true hourly cost of offshoring?
+
+shue.pdf
+
+Promotions and the Peter Principle
+
+vassalloSANER2018.pdf (not used) d
+
+Context Is King: The Developer Perspective on the Usage of Static Analysis Tools
+
+PhD_Lukasz_Kwiatkowski.pdf (paper, extract, not used) d
+
+Bit-to-board analysis for IT decision making
+
+laukkanen2017.pdf (partial) d
+
+Towards Continuous Delivery by Reducing the Feature Freeze Period: A Case Study
+
+1805.07951.pdf (not used) d
+
+Status Quo in Requirements Engineering: A Theory and a Global Family of Surveys
+
+1903.00732.pdf
+
+Research Software Development & Management in Universities: Case Studies from Manchester’s RSDS Group, Illinois’ NCSA, and Notre Dame’s CRC
+
+taudes2000-pre.pdf taudes2000.pdf (paper, not used) d
+
+HOW OPTION THINKING CAN IMPROVE SOFTWARE PLATFORM DECISIONS (Options Analysis of Software Platform Decisions: A Case Study)
+
+tam1992.pdf
+
+Capital budgeting in information systems development
+
+PERT21.pdf
+
+PERT 21: Fitting PERT/CPM for Use in the 21st Century
+
+Mingdi Xins paper.pdf
+
+IT Investment under Competition: The Role of Implementation Uncertainty
+
+sequentialrdstrategy.pdf
+
+R&D for Sequential strategy synfuels
+
+OpenSourceBargainLit.pdf
+
+Open Source Tactics: {Bargaining} Power for Strategic Litigation
+
+10.2107-40398.pdf
+
+Nearing the Threshold: An Economics Approach to Pressure on Information Systems Professionals to Separate from Their Employer
+
+journal.pone.0201596.pdf (not used) d
+
+Cost-minimizing team hires with participation constraint
+
+Acqui-hiring.pdf
+
+ACQUI-HIRING
+
+128-793-5-PB.pdf
+
+Opposing the Monetization of Linux: McHardy v.  Geniatech & Addressing Copyright “Trolling” in Germany
+
+12616.full.pdf
+
+Changing demographics of scientific careers: The rise of the temporary workforce
+
+azu_etd_2305_sip1_m.pdf
+
+Disrupting the Management Supply Chain: An Organizational Learning Model of {IT} Offshore Outsourcing
+
+cottrell.pdf
+
+Real options and competitive dynamics in software product release
+
+dixit1989.pdf
+
+Entry and Exit Decisions under Uncertainty
+
+SlaughterSoftwareContracts.pdf
+
+Are Software Contracts Effective?  The Impacts of Contract Type and Repeated Contracting on Software Development Outsourcing Outcomes
+
+qrv.pdf
+
+Quantifying requirements volatility effects
+
+The_Green_Book.pdf
+
+THE GREEN BOOK CENTRAL GOVERNMENT GUIDANCE ON APPRAISAL AND EVALUATION
+
+large-small-teams-disrupt.pdf (not used) d
+
+Large teams develop and small teams disrupt science and technology
+
+V1-N11-SEP-1990.pdf (paper, not used) d
+
+System house
+
+10.2307_23009.pdf
+
+The Effects of Time Pressure on Quality in Software Development: An Agency Model
+
+Prod-Group-Incentive.pdf (paper, extract, not used) d
+
+Productivity Under Group Incentives: An Experimental Study
+
+li1998.pdf
+
+A learning curve model with knowledge depreciation
+
+1805.09966.pdf (not used) d
+
+Prestige drives epistemic inequality in the diffusion of scientific ideas
+
+Exit2_JOEP_Publication.pdf SSRN-id2550756.pdf
+ 
+Of the stability of partnerships when individuals have outside options, or why allowing exit is inefficient
+
+shaw1932.pdf (paper+files, not used) d
+
+A Comparison of Individuals and Small Groups in the Rational Solution of Complex Problems
+
+e10eca18950c5e3265e.pdf (cited) d
+
+Designing Promotion Ladders to Mitigate Turnover of IT Professionals
+
+king1967.pdf (paper, extract, not used) d
+
+Subjective Time Estimates in Critical Path Planning—A Preliminary Analysis
+
+2014-05.pdf
+
+Beyond Productivity Loss in Brainstorming Groups: The Evolution of a Question
+
+illusion_group_productivity.pdf
+
+The illusion of group productivity: A reduction of failures explanation
+
+Group_Dynamics-book.pdf
+
+Group Dynamics
+
+stasser1987.pdf
+
+Effects of Information Load and Percentage of Shared Information on the Dissemination of Unshared Information During Group Discussion
+
+1507.08345.pdf
+
+Perceived Social Loafing in Undergraduate Software Engineering Teams
+
+44e7e9ea4813103c38b.pdf
+
+Transactive Memory Systems 1985–2010: An Integrative Framework of Key Dimensions, Antecedents, and Consequences
+
+gordon1924.pdf (paper, not used) d
+
+GROUP JUDGMENTS IN THE FIELD OF LIFTED WEIGHTS
+
+earley1989.pdf
+
+Social Loafing and Collectivism: A Comparison of the United States and the People's Republic of China
+
+NSMRL_460.pdf
+
+A comparison of individual and group learning of nonsense syllables
+
+hoppe1962.pdf (paper, not used) d
+
+MEMORIZING BY INDIVIDUALS AND GROUPS: A TEST OF THE POOLING-OF-ABILITY MODEL
+
+Competitive_advantage.pdf
+
+Competitive Advantage: {Creating} and Sustaining Superior Performance
+
+usccse86-500.pdf
+
+A Value-Chain Analysis or Sortware Productivity Components
+
+Non-Competes-Brief.pdf
+
+The Use, Abuse, and Enforceability of Non-Compete and No-Poach Agreements: A Brief Review of the Theory, Evidence, and Recent Reform Efforts
+
+yield.pdf (paper, gov, other) d
+
+Quantifying the yield of risk-bearing IT-portfolios
+
+575530.pdf (not used) d
+
+Agent-based Modelling of Transactive Memory Systems and Knowledge Processes in Agile versus Traditional Software Development Teams
+
+258207.pdf
+
+Task Dependency of Organizational Centrality: Its Behavioral Consequences
+
+0000625.pdf
+
+Individual and Group Risk-Taking in a Two-Choice Situation
+
+48609412.pdf
+
+Individual vs. Group Problem Solving: An Analysis of Processes
+
+a205062.pdf (paper, not used) d
+
+A Theory of Collective Induction
+
+mem_exp_grp_decision.pdf
+
+The effects of member expertise on group decision-making and performance
+
+pomodoro.pdf
+
+The Pomodoro Technique (The Pomodoro)
+
+Lorko-Servatka-Zhang.pdf (done) d
+
+Anchoring in project duration estimation
+
+Stroebe-groups.pdf
+
+Beyond Productivity Loss in Brainstorming Groups: The Evolution of a Question
+
+out.pdf
+
+Quantitative aspects of outsourcing deals✩
+
+SSRN-id3047193.pdf
+
+Promotions and the Peter Principle
+
+henrich_chudek_boyd_2015.pdf
+
+The Big Man Mechanism: how prestige fosters cooperation and creates prosocial leaders
+
+Akdemir_Kirmani-MSc.pdf (paper, done) d
+
+Synergy: A Synthetic Study on Teams
+
+davis1963.pdf (paper, extract?, not used) d
+
+THE ANALYSIS OF PROBLEMS AND PREDICTION OF GROUP PROBLEM SOLVING
+
+337452_1_En_13_Chapter.pdf
+
+First Results About Motivation and Impact of License Changes in Open Source Projects
+
+Diss_Anton_Pussep.pdf
+
+Firm Strategies and Business Models in the Software Industry: A Configurational Approach
+
+cruz_re_indus17.pdf (not used) d
+
+Detecting Vague Words & Phrases in Requirements Documents in a Multilingual Environment
+
+Application Flows 7 March 2017.pdf Application Flows-Chicago.pdf davis_s351.pdf (done) d
+
+
+Application Flows
+
+pentland1992.pdf
+
+Organizing Moves in Software Support Hot Lines
+
+pentland1994.pdf
+
+Organizational Routines as Grammars of Action
+
+mcdonald2005.pdf (paper, done) d
+
+The Impact of Project Planning Team Experience on Software Project Cost Estimates
+
+1906.08895.pdf (not used) d
+
+Plan-Driven Approaches Are Alive and Kicking in Agile Global Software Development
+
+11336_2005_Article.pdf
+
+REDUNDANCY IN TASK ASSIGNMENTS AND GROUP PERFORMANCE
+
+DTIC_AD0415721.pdf (paper, cited) d
+
+Management of Computer Programming for Command and Control Systems A Survey
+
+International-Treaties.pdf (paper, not used) d
+
+Are the Contents of International Treaties Copied-and-Pasted? Evidence from Preferential Trade Agreements
+
+gov.pdf (extracted, not used) d
+
+Quantifying the effects of IT-governance rules
+
+cravens.pdf (paper, not used) d
+
+A demographic and business model analysis of today’s app developer
+
+leavitt1951.pdf
+
+SOME EFFECTS OF CERTAIN COMMUNICATION PATTERNS ON GROUP PERFORMANCE
+
+Roth Erev GEB 1995.pdf
+
+Learning in Extensive-Form Games: Experimental Data and Simple Dynamic Models in the Intermediate Term
+
+PX08875.pdf (paper, partial) d
+
+Opus Developmem Postmortem
+
+1901.01621.pdf (done) d
+
+A conversation around the analysis of the SiP effort estimation dataset
+
+hill99taskduration.pdf (paper, email bounced, retired?) d
+
+Experts' estimates of task durations in software development projects
+
+23003405-est_agile_soft_dev.pdf (emailed, received, done) d
+
+Combining Data Analytics with Team Feedback to Improve the Estimation Process in Agile Software Development
+
+tamai1992.pdf (paper, cited) d
+
+Experiment on coordination within software development teams
+
+MitchellAgleWood1997.pdf
+
+Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts
+
+productiveWorkday_TSE17.pdf
+
+The work life of developers: activities, switches and perceived productivity
+
+AR-08-32.pdf
+
+Requirements Engineering Management Handbook
+
+ase2018_gallaba.pdf (done) d
+
+Noise and Heterogeneity in Historical Build Data: {An} Empirical Study of Travis CI
+
+1908.00827.pdf (not used) d
+
+The Technical Debt Dataset
+
+Lucassen.pdf
+
+Understanding User Stories
+
+gunasekaran2006.pdf
+
+Information technology and systems justification: A review for research and applications
+
+SWP-1692-12737256.pdf
+
+The Dual Ladder: Motivational Solution or Managerial Delusion?
+
+ietf-learning[v1-6].pdf
+
+Learning When to Quit: An Empirical Model of Experimentation∗
+
+dc80c19777643a08.pdf
+
+Pooling of Unshared Information in Group Decision Making: Biased Information Sampling During Discussion
+
+Webb2017Insight.pdf (file+emailed, lost interest, not used) d
+
+Once more with feeling: Normative data for the aha experience in insight and noninsight problems
+
+Time_Predictions-book.pdf
+
+Time Predictions Understanding and Avoiding Unrealism in Project Planning and Everyday Life
+
+SSRN-id3454796.pdf (not used) d
+
+Combining Probability Forecasts: 60% and 60% Is 60%, but Likely and Likely Is Very Likely
+
+SPS_2018_Peltokorpi.pdf
+
+Differences between worker pairs in manual assembly: a case study
+
+SW_Maint_Demand_ESEM2016.pdf (emailed) d
+
+Staffing Strategies for Maintenance of Critical Software Systems at the Jet Propulsion Laboratory
+
+VideoGameDevDifferent.pdf
+
+How Is Video Game Development Different from Software Development in Open Source?
+
+tddMetaAnalysis.pdf
+
+The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis
+
+DanielAlencarDaCosta_TESE.pdf
+
+Understanding the Delivery Delay of Addressed Issues in Large Software Projects
+
+fse17-hilton.pdf (not used) d
+
+Trade-Offs in Continuous Integration: Assurance, Security, and Flexibility
+
+fse19-zhang-compiler.pdf (not used) d
+
+A Large-Scale Empirical Study of Compiler Errors in Continuous Integration
+
+Thongtanunam-PhD.pdf
+
+Studying Reviewer Selection and Involvement in Modern Code Review Processes
+
+51005873-MIT.pdf
+
+System Dynamics Modeling for the Exploration of Manpower Project Staffing Decisions in the Context of a Multi-Project Enterprise
+
+fpsyg-09-00760.pdf (not used) d
+
+Knowledge of Previous Tasks: Task Similarity Influences Bias in Task Duration Predictions
+
+journal.pone.0182442.pdf (not used) d
+
+Sequential effects in preference decision: Prior preference assimilates current preference
+
+lewis_andrew_c_1972.pdf (paper+file, done) d
+
+A STUDY OF IDEA GENERATION OVER TIME
+
+KimJPSP-Passionexploitation.pdf
+
+Understanding Contemporary Forms of Exploitation: Attributions of Passion Serve to Legitimize the Poor Treatment of Workers
+
+2019-wilmot.pdf
+
+A century of research on conscientiousness at work
+
+LSA+17ase.pdf (not used) d
+
+Indicators for Merge Conflicts in the Wild: Survey and Empirical Study
+
+d5f6d2fa804c527200158.pdf (paper, not used) d
+
+Considerations of Fairness and Strategy: Experimental Data From Sequential Games
+
+journal.pone.0202288.pdf (done) d
+
+Overconfidence is universal? Elicitation of Genuine Overconfidence (EGO) procedure reveals systematic differences across domain, task knowledge, and incentives in four populations
+
+TM-2015-218590.pdf
+
+Maintaining Shared Mental Models Over Long-Duration Exploration Missions Literature Review & Operational Assessment
+
+gaudeul2017.pdf (emailed) d
+
+Better stuck together or free to go? Of the stability of cooperation when individuals have outside options
+
+SarroTOSEM18.pdf (not used) d
+
+Linear Programming as a Baseline for Software Effort Estimation
+
+81613287.pdf (paper, not used) d
+
+Key Challenges in Software Startups Across Life Cycle Stages
+
+ILSRA_2001_104_17402.pdf
+
+Behavioral Issues Associated with Long- Duration Space Expeditions: Review and Analysis of Astronaut Journals Experiment 01-E104 (Journals): Final Report
+
+norden_resource-usage.pdf
+
+Resource usage and network planning techniques
+
+samsung-lawsuit-order.pdf
+
+PLAINTIFF’S NOTICE OF UNOPPOSED MOTION AND UNOPPOSED MOTION FOR PRELIMINARY APPROVAL OF CLASS ACTION SETTLEMENT; MEMORANDUM OF POINTS AND AUTHORITIES Plaintiffs, vs.  SAMSUNG TELECOMMUNICATIONS AMERICA, LLC, a New York Corporation, and SAMSUNG ELECTRONICS AMERICA, INC., a New Jersey Corporation, Defendants.
+
+samsung-lawsuit.pdf
+
+CLASS ACTION COMPLAINT FOR: Plaintiffs, v.  SAMSUNG TELECOMMUNICATIONS AMERICA, LLC, a New York Corporation, and SAMSUNG ELECTRONICS AMERICA, INC., a New Jersey Corporation
+
+dalp-scha-brin-ayde-luca.pdf (not used) d
+
+Detecting Terminological Ambiguity in User Stories: Tool and Experimentation
+
+computer.bureau.charging.pdf
+
+A Practical Method of Comparing Computer Bureau Costs
+
+Marathon-times.pdf (done) d
+
+Reference-Dependent Preferences: Evidence from Marathon Runners
+
+2020-cerioli-SAC.pdf
+
+What 5 Million Job Advertisements Tell Us about Testing: a Preliminary Empirical Investigation
+
+2656450.2656476.pdf (not used) d
+
+Automatically Detectable Indicators of Programming Assignment Difficulty
+
+AHP_Models-book.pdf
+
+Models, Methods, Concepts & Applications of the Analytic Hierarchy Process
+
+stamps070628.pdf (not used) d
+
+A Study of the Internal Organization of a Bidding Cartel
+
+PX03096.pdf
+
+Effective Evangelism: JOE COMES, RILEY PAINT, INC., SKEFFINGON'S FORMAL WEAR, INC., PATRICIA ANNE LARSEN vs. MICROSOFT CORPORATION
+
+2001.00491.pdf (cited) d
+
+Dataset of Video Game Development Problems
+
+2003.03001.pdf (done) d
+
+The Cost and Benefits of Static Analysis During Development
+
+2018_005_001_528494.pdf (2003.03001, other) d
+
+Composing Effective Software Security Assurance Workflows
+
+3119432_5_seddon-2007.pdf
+
+Lessons from the Packaged Enterprise Application Software “Go Live” Failures at Cambridge and RMIT Universities
+
+EFSA_CommunicatingUncertainty.pdf
+
+Guidance on Communication of Uncertainty in Scientific Assessments
+
+icse2018.pdf (not used) d
+
+Almost There: A Study on Quasi-Contributors in Open Source Software Projects
+
+committees.pdf
+
+HOW DO COMMITTEES INVENT?
+
+feitelson13_devops.pdf
+
+Development and Deployment at Facebook
+
+SSRN-id3402041.pdf SSRN-id3402041_Appendix.pdf (emailed, confidential) d
+
+Updating Accounting Systems: Longitudinal Evidence from the Health Care Sector
+
+42404.42408.pdf
+
+Cost/Benefit Analysis for Incorporating Human Factors in the Software Lifecycle
+
+study-202852-2008_en_2475.pdf (paper, not used) d
+
+The strategic use of patents and its implications for enterprise and competition policies
+
+DUAN-PhD-2019.pdf
+
+TOWARD SOLVING THE SECURITY RISKS OF OPEN-SOURCE SOFTWARE USE
+
+trivial-packages-python.pdf (not used) d
+
+On the impact of using trivial packages: an empirical case study on npm and PyPI
+
+1478873.1478959.pdf (paper, not used) d
+
+Employment of trained computer personnel— A quantitative survey
+
+1142620.1142623.pdf (paper, not used) d
+
+COMPUTER PERSONNEL RESEARCH GROUP, 1966 SURVEY OF TEST USE IN COMPUTER PERSONNEL SELECTION
+
+1142648.1142655.pdf (paper, not used) d
+
+THE SELECTION AND TRAINING of COMPUTER PERSONNEL IN THE UNITED KINGDOM
+
+1142662.1142664.pdf (paper, not used) d
+
+COMPUTER PERSONNEL RESEARCH -ISSUES AND PROGRESS IN THE 60's
+
+800156.805032.pdf (paper, not used) d
+
+1971 AFIPS Information Processing Personnel Survey
+
+800259.808980.pdf
+
+COMPILING ROUTINES
+
+SSRN-id3252784.pdf
+
+Startup Acquisitions as a Hiring Strategy: Worker Choice and Turnover
+
+1499402.1499437.pdf (paper, not used) d
+
+Life cycle cost models for comparing computer family architectures
+
+367390.367404.pdf
+
+Comments from a FORTRAN User
+
+382181.382591.pdf (paper, not used) d
+
+COMPUTER MANPOWER IN THE UNITED STATES-SUPPLY AND DEMAND: AN UPDATE
+
+bystandermetaana.pdf
+
+The Bystander-Effect: A Meta-Analytic Review on Bystander Intervention in Dangerous and Non-Dangerous Emergencies
+
+Milgram.pdf
+
+Would You Deliver an Electric Shock in 2015? Obedience in the Experimental Paradigm Developed by Stanley Milgram in the 50 Years Following the Original Studies
+
+conoscenti2019.pdf (paper, cited) d
+
+Combining data analytics and developers feedback for identifying reasons of inaccurate estimations in agile software development
+
+2005.09535.pdf (available, but confidential) d
+
+Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks
+
+356622.356623.pdf (paper, not used) d
+
+Computer Selection Methodology
+
+1705.10093.pdf (paper, emailed) d
+
+A training process for improving the quality of software projects developed by a practitioner
+
+zelkowitz-resource_util.pdf (paper, not used) d
+
+Resource Utilization during Software Development
+
+zelkowitz-prototyping.pdf (paper, not used) d
+
+THE EFFECTIVENESS OF SOFTWARE PROTOTYPING: A Case Study
+
+reinventing-library-reuse.pdf (not used) d
+
+Why reinventing the wheels? An empirical study on library reuse and re-implementation
+
+U555047.pdf
+
+ESTIMATING THE EFFORT IN THE EARLY STAGES OF SOFTWARE DEVELOPMENT
+
+T115.pdf
+
+Evolving the Reuse Process at the Flight Dynamics Division (FDD) Goddard Space Flight Center
+
+Routinization_Comp-Prog-book.pdf
+
+Programmers and Managers The Routinization of Computer Programming in the United States
+
+principlesofscie00taylrich.pdf
+
+The Principles of Scientific Management
+
+pettigrew1973.pdf
+
+OCCUPATIONAL SPECIALIZATION AS AN EMERGENT PROCESS
+
+PID6349045.pdf (not used) d
+
+Debugging Hiring: What Went Rightthe Technical Interviewand What Went Wrong in Process
+
+1997AmyWetalJobs-careers.pdf
+
+Jobs, Careers, and Callings: {People's} Relations to Their Work
+
+Ind-Megaproj_Concepts-book.pdf
+
+Industrial Megaprojects Concepts, Strategies, and Practices for Success
+
+Project_Valuation-book.pdf
+
+Project Valuation Using Real Options A Practitioner’s Guide
+
+zbaracki1998.pdf
+
+The Rhetoric and Reality of Total Quality Management
+
+twerp047.pdf (paper, not used) d
+
+The effect of computerisation on the demand for labour in the U.K.
+
+Division-Of-Labor-book.pdf
+
+The Division of Labor In Society
+
+ESD-TR-68-154_Rubey.pdf (paper, not used) d
+
+SUMMARY OF LOGICON'S COMPARATIVE EVALUATION OF PL/I
+
+Brace_Yourself.pdf
+
+Brace Yourself
+
+2019-huising.pdf
+
+Moving off the Map: How Knowledge of Organizational Operations Empowers and Alienates
+
+AD0662634.pdf
+
+Organizational Design -- {An} Exploratory Study
+
+lawrence1981.pdf (paper, not used) d
+
+Programming Methodology, Organizational Environment, and Programming Productivity
+
+5537d748957c2f0a49.pdf (paper, not used) d
+
+SOFTWARE DEVELOPMENT PRODUCTIVITY OF EUROPEAN SPACE, MILITARY AND INDUSTRIAL APPLICATIONS
+
+thadhani1984.pdf (paper, not used) d
+
+Factors affecting programmer productivity during application development
+
+10.1.1.43.501.pdf
+
+UNDERSTANDING SOFTWARE PRODUCTIVITY
+
+Fundwork-measurement_book.pdf
+
+FUNDAMENTALS OF WORK MEASUREMENT What Every Engineer Should Know
+
+jeffery1987.pdf
+
+A Software Development Productivity Model for MIS Environments
+
+2002.05237.pdf (not used) d
+
+A Study of Potential Code BorrowingJava Projectsand License Violations in on GitHub
+
+2009.11685.pdf (not used) d
+
+On the Relationship between Refactoring Actions and Bugs: A Differentiated Replication
+
+Returns to Scale vs Experience.html
+
+Returns to Scale vs Experience
+
+matsumoto-PhD.pdf (paper, not used) d
+
+A Programmer Performance Model and its Measurement Environment
+
+690619a.pdf (not used) d
+
+Modeling the effects of project staffing on software project performance
+
+Pandemic_Programming_ESE1.pdf (not used) d
+
+Pandemic Programming How COVID-19 affects software developers and how their organizations can help
+
+5072210810f11f49eb.pdf
+
+Gaming against managers in incentive systems: experimental results with chinese students and chinese managers
+
+DeardenIckesSamuelsonAER.pdf
+
+To Innovate or Not to Innovate: {Incentives} and Innovation in Hierarchies
+
+Nyman-Stamer.pdf
+
+How to attract talented software developers Developing a culturally differentiated employee value proposition
+
+EconomyMachineryManufactures.pdf (paper, not used) d
+
+On the Economy of Machinery and Manufactures
+
+2011.02473.pdf (not used) d
+
+What Skills do IT Companies look for in New Developers?  A Study with Stack Overflow Jobs
+
+Design-structure-matrix.pdf
+
+Design Structure Matrix Methods and Applications
+
+Sach-PhD.pdf (paper, not used) d
+
+The Impact of Feedback on the Motivation of Software Engineers
+
+av1998113.pdf (paper, not used) d
+
+Office of Inspector General Audit Report Advance Automation System Federal Aviation Administration
+
+1-s2.0-S002210312-main.pdf
+
+Applying insights from magic to improve deception in research: The Swiss cheese model
+
+JohnsonDisney98.pdf
+
+The Personal Software Process: A Cautionary Case Study
+
+SSRN-id2189732.pdf
+
+COGNITIVE MOBILITY: LABOR MARKET RESPONSES TO SUPPLY SHOCKS IN THE SPACE OF IDEAS
+
+Nichols_Shirai_ICSSP2014.pdf (CESAW, other) d
+
+Initial evaluation of data quality in a TSP software engineering project data repository
+
+Nichols_Shirai_Project_Pat.pdf (CESAW, other) d
+
+Classification of Project Team Patterns for Benchmarking
+
+16_2.pdf (paper, not used) d
+
+A Case Study Research on Software Cost Estimation Using Experts' Estimates, Wideband Delphi, and Planning Poker Technique
+
+ahn03.pdf (paper, not used) d
+
+The software maintenance project effort estimation model based on function points
+
+EstMaint_by_Analogy.pdf (paper, not used) d
+
+Estimating Maintenance Effort by Analogy
+
+benchmark-estimate.pdf
+
+Experience: Quality benchmarking of datasets used in software effort estimation
+
+OO_Function_Points_Emp.pdf (paper, not used) d
+
+Object-Oriented Function Points: An Empirical Validation
+
+PricesQualityTrust_Britain-Japan.pdf
+
+Prices, quality and trust Inter-firm relations in Britain and Japan
+
+Planning-Wartime_Aircraft-Prod.pdf
+
+Planning in Wartime Aircraft Production in Britain, Germany and the USA
+
+ali2019.pdf
+
+A systematic literature review of software effort prediction using machine learning methods
+
+MetricsBasedSupplierSelect.pdf (paper, not used) d
+
+Metrics based software supplier selection Best practice used in the largest Dutch telecom company
+
+PracticalSoftProjEst-book.pdf
+
+Practical Software Project Estimation: A Toolkit for Estimating Software Development Effort & Duration
+
+FunctSizeMeasure-accuracy-cost.pdf (paper, not used) d
+
+Functional size measurement – accuracy versus costs – is it really worth it?
+
+04027147.pdf
+
+A Systematic Review of Software Development Cost Estimation Studies
+
+09186107.pdf
+
+An Update on Effort Estimation in Agile Software Development: A Systematic Literature Review
+
+ee62bf69ab6139854e.pdf (paper, not used) d
+
+A Case Study on Agile Estimating and Planning using Scrum
+
+Wen-software-effort-estModels.pdf
+
+Systematic literature review of machine learning based software development effort estimation models
+
+2101.12703.pdf (paper, not used) d
+
+Résumé-Driven Development: A Definition and Empirical Characterization
+
+rsos171127.pdf (not used) d
+
+Does it actually feel right? A replication attempt of the rounded price effect
+
+PMBOKGuide_5th_Ed.pdf
+
+A Guide to the Project Management Body of Knowledge
+
+Sarro-PhD.pdf
+
+Search-Based Approaches for Software Development Effort Estimation
+
+ADA288890.pdf (paper, extract) d
+
+A CORRELATIONAL STUDY OF THE SEI'S CAPABILITY MATURITY MODEL AND SOFTWARE DEVELOPMENT PERFORMANCE IN DOD CONTRACTS
+

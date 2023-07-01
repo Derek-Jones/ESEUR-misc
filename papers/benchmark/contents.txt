@@ -1,0 +1,678 @@
+10.1.1.12.7274.pdf
+
+Deconstructing SPECweb99
+
+ispass2000.pdf
+
+Commbench - a telecommunications benchmark for network processors
+
+HW_BenchmarkStaticAnalysis.pdf
+
+On establishing a benchmark for evaluating static analysis alert prioritization and classification techniques
+
+impressions-tos09.pdf
+
+Generating Realistic Impressions for File-System Benchmarking
+
+issta10-nversion.pdf (paper+emailed, no reply) d
+
+N-version disassembly: Differential testing of x86 disassembler
+
+JCCPPR~1.PDF (not used) d
+JCCPPR~2.PDF (technical report of the above)
+
+An empirical comparison of C, C++, Java, Perl, Python, Texx, and Tcl for a search/string-processing program
+
+BDTIMA~2.PDF
+
+BDTImark2000 Scores
+
+aging-JVM.pdf (paper, not used) d
+
+Characterizing aging phenomena of the java virtual machine
+
+CPU2006benchmarks.pdf
+
+SPEC CPU2006 benchmark descriptions
+
+Isen.pdf
+
+On the object orientedness of C++ programs in SPEC CPU 2006
+
+Kumar.pdf
+
+Characterization of SPECpower_ssj2008 benchmark
+
+10.1.1.68.4097.pdf
+
+Many benchmarks stress the same bottlenecks
+
+05_cpu2006_wss.pdf
+
+CPU2006 working set size
+
+04_cpu2006_rss.pdf
+
+SPEC CPU2006 memory footprint
+
+09_perfcounters.pdf
+
+Performance counters and development of SPEC CPU2006
+
+08_cpu2006_fileIO.pdf
+
+Characterization of file I/O activity for SPEC CPU2006
+
+06_cpu2006_pagesize.pdf
+
+SPEC CPU2006 sensitivity to memory page sizes
+
+01_cpu_suite_growth.pdf
+
+SPEC CPU suite growth: An historic perspective
+
+02_cpu2006_subsetting.pdf
+
+Subsetting the SPEC CPU2006 benchmark suite
+
+07_cpu2006_prof.pdf
+
+Subroutine profiling results for the CPU2006 benchmarks
+
+oopsla07-stat.pdf (emailed, faded away) d
+
+Statistically rigorous Java performance evaluation
+
+ispass11.pdf (done) d
+
+Where is the Data?  Why You Cannot Debate CPU vs. GPU Performance Without the Answer
+
+SPEC_Intel-core.pdf
+
+Performance characterization of SPEC CPU benchmarks on Intel's core microarchitecture based processor
+
+10.1.1.181.70.pdf
+
+Benchmarking Classification Models for Software Defect Prediction: A Proposed Framework and Novel Findings
+
+ispass05.pdf
+
+Measuring program simlarity: Experiments with SPEC cpu benchmark suite
+
+10.1.1.120.9040.pdf
+
+The exigency of benchmark and compiler drift: Designing tomorrow's processors with yesterday's tools
+
+10.1.1.123.6014.pdf
+
+Measuring benchmark similarity using inherent program characteristics
+
+nitin-thesis09.pdf (ms-static+emailed, done) d
+
+Representative, reproducible, and practical benchmarking of file and storage systems
+
+33_2.pdf
+
+Stochastic models for generating synthetic HTTP source traffic
+
+10.1.1.126.1106.pdf
+
+Performance prediction based on inherent program similarity
+
+10.1.1.129.4747.pdf
+
+Accurate statistical approaches for generating representative workload compositions
+
+NIST_SP_500-279.pdf
+
+Static analysis tool exposition (SATE) 2008
+
+phd_ageorges.pdf
+
+Three pitfalls in Java performance evaluation
+
+tr-2002-03.pdf (paper, not used) d
+
+A statistically rigorous approach for improving simulation methodology
+
+pek-corpora.pdf (done) d
+
+Re-engineering software corpora for simplified adoption
+
+KricodeResearchreportV2.pdf (paper, emailed, withdrawn report, confidential) d
+
+Comparative study of MISRA-C compliancy checking tools
+
+wlmod.pdf (...ac.uk/.../workload/..., paper, not used) d
+
+Workload modeling for computer systems performance evaluation
+
+MSR-TR-2012-93.pdf (cited) d
+
+Diversity [was Representativeness] in software engineering research
+
+nagappan-esecfse-2013.pdf (MSR-TR-2012, not used) d
+
+Diversity in software engineering research
+
+sate_IV-NIST.pdf (not used) d
+
+Report on the static analysis tool exposition (SATE) IV
+
+sate2010-NIST.pdf (not used) d
+
+Report on the static analysis tool exposition (SATE 2010)
+
+mislead.pdf
+
+Misleading Performance Reporting in the Supercomputer Field
+
+SPE06.pdf
+
+64-bit versus 32-bit virtual machines for Java
+
+10.1.1.151.550.pdf
+
+MisSPECulation: Partial and Misleading use of SPEC CPU2000 in Computer Architecture Conferences
+
+CCGTWH12.pdf (done) d
+
+Statistical performance comparisons of computers
+
+ECSTR12-22.pdf (done) d
+ECSTR11-06.pdf
+
+Are you incoming aliases really necessary? Counting the cost of object ownership
+
+paper3.pdf
+
+War of benchmark means: Time for a truce
+
+wwc2001.pdf (paper, not used) d
+
+An analysis of the amount of global level redundant computation in the SPEC 95 and SPEC 2000 benchmarks
+
+SAAVED~1.PDF
+
+Analysis of benchmark characteristics and benchmark performance prediction
+
+smli_tr-1993-11.pdf (paper, not used) d
+
+An analysis of MIPS and SPARC instruction set utilization on the SPEC benchmarks
+
+ucas6-paper.pdf
+
+Confusion by all means
+
+Larres-MSc.pdf (done) d
+
+Performance variance evaluation on Mozilla Firefox
+
+CRPITV135Larres.pdf
+
+A study of performance variations in the Mozilla Firefox web browser
+
+fhpm2010_weaver.pdf (paper, done) d
+
+Can hardware performance counters produce expected, deterministic results?
+
+tr1051_08.pdf (iiswc2008, done) d
+
+Can Hardware Performance Counters be Trusted?
+
+pdcs05.pdf
+
+Unification of Amdahl's law, logp and other performance models for message-passing architecture
+
+njgCMG93.pdf (pdcs05, done) d
+
+A simple capacity model of massively parallel transaction systems
+
+thereska-sigmetrics10.pdf (email, partial)) d
+
+Practical performance models for complex, popular applications
+
+Paper2.pdf (emailed, faded away) d
+
+EC2 performance analysis for resource provisioning of service-oriented applications
+
+10.1.1.104.7244.pdf (paper, not used) d
+
+Benchmarking for power and performance
+
+Kalibera-PhD.pdf (done) d
+
+Benchmark Precision and Random Initial State
+
+hocko-sipew10.pdf
+
+Reducing Performance Non-determinism via Cache-aware Page Allocation Strategies
+
+EvalStaticAnalTools.pdf (paper, not used) d
+
+Tools for static code analysis: A survey
+
+sehgal.pdf (cited) d
+
+Evaluating performance and energy in file system server workloads
+
+BabkaTuma-epew11.pdf (not used) d
+
+Can linear approximation improve performance prediction?
+
+BabkaLibicMartinecTuma-icpe12.pdf (not used) d
+
+On the accuracy of cache sharing models
+
+BabkaTumaBulej-qosa10.pdf (not used) d
+
+Validating model-driven performance predictions on random software systems
+
+GPCE2013fbm.pdf (not used) d
+
+Family-based performance measurement
+
+fsbench.pdf
+
+A nine year study of file system and storage benchmarking
+
+20120915131407232.pdf (paper+file, partial) d
+
+An empirical study on the interplay between filesystems and SSD
+
+Kim.pdf (paper, not used) d
+
+Revisiting storage for smartphones
+
+smli_tr-2007-174.pdf (confidential) d
+
+Finding representative workloads for computer system design
+
+50-241-1-PB.pdf (done) d
+
+Truth in advertising: Reporting performance of computer programs, algorithms and the impact of architecture and systems environment
+
+ismm07-kalibera.pdf
+
+Rigorous benchmarking in reasonable time
+
+apsys13-s3.pdf (not used) d
+
+The system hacker's guide to the galaxy: Energy usage in a modern smartphone
+
+Krevat.pdf (partial) d
+
+Disks are like snowflakes: No two are alike
+
+stabilizer-asplos13.pdf (not used) d
+
+Stabilizer: Statistically sound performance evaluation
+
+schad10.pdf (partial) d
+
+Runtime Measurements in the Cloud: Observing, Analysing, and Reducing Variance
+
+ngs08.pdf (paper+extracted, done) d
+
+We have it easy, but do we have it right?
+
+mytkowicz-thesis.pdf (paper, lost data) d
+
+Supporting experiments in computer systems research
+
+mytkowicz-asplos09.pdf (lost data) d
+
+Producing wrong data without doing anything obviously wrong!
+
+atc12-final129.pdf (paper, done) d
+
+Generating realistic datasets for deduplication analysis
+
+dacapo-TR-06-01.pdf (paper,email, cited) d
+
+The DaCapo benchmarks: Java benchmarking development and analysis (extended version)
+
+hal-scico12.pdf
+
+Less hazardous and more scientific research for summation algorithm computing times
+
+linpack-perf.pdf (paper, not used) d
+
+Performance of various computers using standard linear equations software
+
+pldi10.pdf
+
+Evaluating iterative optimizations across 1000 data sets
+
+VarExecTime.pdf (Mazouz..., other) d
+
+Measuring and analysing the variations of program execution times on multicore platforms: Case study
+
+NIST.TN.1826.pdf (cited) d
+
+Estimation of uncertainty in application profiles
+
+mapred_workload_vldb.pdf (not used) d
+
+Interactive analytical processing in big data systems: A cross-industry study of mapreduce workloads
+
+morebugs.pdf (not used) d
+
+moreBugs: A new dataset for benchmarking algorithms for information retrieval from software repositories
+
+rapl-final.pdf (email, rapl, other) d
+
+Beyond DVFS: A first look a performance under a hardware-enforced power bound
+
+marathe_e2sc2017.pdf (rapl..., done)d
+
+An empirical survey of performance and energy efficiency variation on Intel processors
+
+Babka-MSc.pdf (done) d
+
+Influence of Resource Sharing on Performance
+
+babka-phd-thesis.pdf (done) d
+
+Improving Accuracy of Software Performance Models on Multicore Platforms with Shared Caches
+
+Babka-tr-cpu2006-sensitivity.pdf (paper, not used) d
+
+Cache Sharing Sensitivity of SPEC CPU2006 Benchmarks
+
+Carrol_1.pdf (paper, emailed, faded away) d
+
+Unifying DVFS and Offlining in Mobile Multicores
+
+mpi_benchmarking_sahu_2014.pdf (done) d
+
+Reproducible MPI Micro-Benchmarking Isn't As Easy As You Think ∗
+
+mpi_clocksync_sahu_2015.pdf
+
+On the Impact of Synchronizing Clocks and Processes on Benchmarking MPI Collectives
+
+BabkaTuma-spec09.pdf (done) d
+
+Investigating Cache Parameters of x86 Family Processors
+
+fast15-paper-aghayev.pdf
+
+Skylight—A Window on Shingled Disk Operation
+
+37077.pdf
+
+MAO - an Extensible Micro-Architectural Optimizer
+
+CU-CS-1042-08.pdf (paper, cited) d
+
+Observer Effect and Measurement Bias in Performance Analysis
+
+hsueh.pdf (paper, not used) d
+
+Performability Modeling Based on Real Data: A Case Study
+
+tiwari-instruction-power.pdf (paper, not used) d
+
+Power Analysis of Embedded Software: A First Step Towards Software Power Minimization
+
+icpe13-datamill.pdf (partial) d
+
+DataMill: Rigorous Performance Evaluation Made Easy
+
+Oliveira_Augusto.pdf (icpe13-datamill..., other) d
+
+Measuring and Predicting Computer Software Performance: Tools and Approaches
+
+esem2014-paper.pdf (clueless, not used) d
+
+How Do Code Refactorings Affect Energy Usage?∗
+
+Giuseppe Procaccianti-PhD.pdf (not used) d
+
+Energy-Efficient Software
+
+Mazouz-Phd.pdf (done) d
+
+An Empirical Study of Program Performance of OpenMP Applications on Multicore Platforms
+
+1505.03374v1.pdf
+
+Data dependent energy modelling: A worst case perspective
+
+energy-oopsla14.pdf (emailed for non-averaged data, faded away) d
+
+An Experimental Survey of Energy Management Across the Stack
+
+dumitras05magical.pdf (not used) d
+
+Fault-Tolerant Middleware and the Magical 1%
+
+dumitras07gotpredictability.pdf (not used) d
+
+Got Predictability?  Experiences with Fault-Tolerant Middleware
+
+powervperfasplos20112.pdf (done) d
+
+Looking Back on the Language and Hardware Revolutions: ∗ Measured Power, Performance, and Scaling
+
+hbenchOS.pdf
+
+Operating System Benchmarking in the Wake of Lmbench: A Case Study of the Performance of NetBSD on the Intel x86 Architecture
+
+mhz-usenix.pdf
+
+mhz: Anatomy of a micro-benchmark
+
+NIST.TN.1855.pdf (cited) d
+
+Screening for factors affecting application performance in profiling measurements
+
+tr13-107.pdf
+
+Folklore Confirmed: Compiling for Speed = Compiling for Energy
+
+waller-PhD.pdf (not used) d
+
+Performance Benchmarking of Application Monitoring Frameworks
+
+hal-01054763.pdf (partial) d
+
+Collective mind: Towards practical and collaborative auto-tuning
+
+NIST.TN.1860.pdf (not used) d
+
+Defensive code’s impact on software performance
+
+peerj-preprints-1219.pdf (partial) d
+
+On the Impact of Sampling Frequency on Software Energy Measurements
+
+finegrained-cgo14.pdf (not used) d
+
+Fine-grained Benchmark Subsetting for System Selection
+
+thesis-Pukhkaiev.pdf (also see costof ..., cited) d
+
+Energy-efficient Benchmarking for Energy-efficient Software
+
+costofsorting-sweetspotfreq.pdf (partial) d
+
+Energy-Efficient Data Processing at Sweet Spot Frequencies
+
+EvolvingCompPerf_1963-1967.pdf (paper+file, partial) d
+
+Evolving Computer Performance 1963-1967
+
+ChangesInComputerPerf_Sep66.pdf (paper+file, partial) d
+
+Changes in Computer Performance
+
+They're (Almost) All Dirty  The State of Cheating in Android Benchmarks.htm
+
+They're (Almost) All Dirty: The State of Cheating in Android Benchmarks
+
+1505.07734.pdf
+
+MPI Benchmarking Revisited: Experimental Design and Reproducibility
+
+Address-Aliasing.pdf paper-Lars.pdf (cited) d
+
+Measurement Bias from Address Aliasing
+
+thecostofdb-sweetspotfreq.pdf (not used) d
+
+Energy-Efficient Databases using Sweet Spot Frequencies
+
+1302.0244.pdf
+
+Overview of Beyond-CMOS Devices and A Uniform Methodology for Their Benchmarking
+
+dacapo-cacm-2008.pdf (other) d
+
+Wake Up and Smell the Coffee: Evaluation Methodology for the 21st Century
+
+immix-pldi-2008.pdf (file+dacapo-cacm..., not used) d
+
+Immix: A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance
+
+RR-8875.pdf
+
+Parametric and Non-Parametric Statistics for Program Performance Analysis and Comparison
+
+rc-ismm-2012.pdf (not used) d
+
+Down for the Count?  Getting Reference Counting Back in the Ring∗
+
+yinyang-isca-2012.pdf (not used) d
+
+The Yin and Yang of Power and Performance for Asymmetric Hardware and Managed Software
+
+barrier-ismm-2012.pdf (not used) d
+
+Barriers Reconsidered, Friendlier Still! ∗
+
+1702.00719.pdf (not used) d
+
+Intel MPX Explained An Empirical Study of Intel MPX and Software-based Bounds Checking Approaches
+
+ease15-clone.pdf (not used) d
+
+An Empirical Assessment of Bellon’s Clone Benchmark
+
+Fleming_Wallace_86.pdf (paper, done) d
+
+How Not to Lie With Statistics: {The} Correct Way to Summarize Benchmark Results
+
+1602.00602.pdf (done) d
+
+Virtual Machine Warmup Blows Hot and Cold
+
+SPEC-Power_and_Perf_Method.pdf
+
+Power and Performance Benchmark Methodology V2.1
+
+hotpower14-hahnel.pdf (not used) d
+
+Heterogeneity By The Numbers A Study of the ODROID XU+E big.LITTLE Platform
+
+sec16_paper_andriesse.pdf (cited) d
+
+An In-Depth Analysis of Disassembly on Full-Scale x86/x64 Binaries
+
+1801.02381.pdf
+
+Benchmarking Crimes: An Emerging Threat in Systems Security
+
+icsme16b.pdf (cited) d
+
+Who is who in the mailing list? Comparing six disambiguation heuristics to identify multiple addresses of a participant
+
+msr18-author-version.pdf (not used) d
+
+An Evaluation of Open-Source Software Microbenchmark Suites for Continuous Performance Assessment
+
+10.1.1.713.3892.pdf
+
+On the Measurement of Test Collection Reliability
+
+1712.00242.pdf (not used) d
+
+A Systematic Evaluation of Static API-Misuse Detectors
+
+1808.06915.pdf (not used) d
+
+How is Performance Addressed in DevOps?  A Survey on Industrial Practices
+
+2017-STTT.Reliable.pdf (not used) d
+
+Reliable Benchmarking: Requirements and Solutions
+
+cseppento-micskei-stvr.pdf (not used) d
+
+Evaluating code-based test input generator tools
+
+emse_smb_cloud.pdf (not used) d
+
+Software Microbenchmarking in the Cloud.  How Bad is it Really?
+
+issre2015_SwAnalysisBench.pdf
+
+Test Suites for Benchmarks of Static Analysis Tools
+
+WRL-94-7.pdf (paper, not used) d
+
+Performance Implications of Multiple Pointer Sizes
+
+instrpop-systor19.pdf (not used) d
+
+x86-64 Instruction Usage among C/C++ Applications
+
+SATE5 Report.pdf
+
+SATE V Report: Ten Years of Static Analysis Tool Expositions
+
+fault_localization_icse17.pdf (not used) d
+
+Evaluating and improving fault localization
+
+fast20-yang.pdf (not used) d
+
+An Empirical Guide to the Behavior and Use of Scalable Persistent Memory
+
+1499402.1499434.pdf (paper, not used) d
+
+Evaluation of computer architectures via test programs
+
+364099.364334.pdf (paper, not used) d
+
+A METHOD FOR COMPARING THE INTERNAL OPERATING SPEEDS OF COMPUTERS
+
+10.1.1.137.6107.pdf (paper, not used) d
+
+Measurement and Evaluation of Alternative Computer Architectures
+
+1905.11973.pdf (not used) d
+
+Empirical Review of JavaA Large-Scale Experiment on 2,141Program Repair Tools Bugs and 23,551 Repair Attempts
+
+2006.15682.pdf
+
+A Survey on the Evaluation of Clone Detection Performance and Benchmarking
+
+EMSE-BugPrediction.pdf (not used) d
+
+Evaluating Defect Prediction Approaches: A Benchmark and an Extensive Comparison
+
+Byte-1990-Vol-15-No-11-Fall.pdf d
+
+Byte 1990 vol 15 no 11 - Byte benchmark results
+
+BYTE-1988-06.pdf
+
+Byte 1988 vol 13 no 6 - Byte benchmark described
+
+8511-b.pdf (paper, not used) d
+
+BENCHMARKING THE CLONES BYTE ran a variety of IBM pes and work-alikes through benchmark tests
+

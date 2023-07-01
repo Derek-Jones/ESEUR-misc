@@ -1,0 +1,911 @@
+filecules-journal.pdf
+
+Workload characterization in a high-energy data grid and impact on resource management
+
+p96-satyanarayanan.pdf
+
+A study of file sizes and functional lifetimes
+
+platformsTR-2007.pdf (done) d
+
+Plat_Forms 2007: The web development platform comparison - evaluation and results
+
+108709.pdf
+
+Redundant computing for exascale systems
+
+Braha_Bar-yam_07.pdf (done) d
+
+The statistical mechanics of complex product development: Empirical and analytical results
+
+Maint_Dec2005.pdf (done) d
+
+How accurately do engineers predict software maintenance tasks?
+
+YCST-2001-07.pdf (done) d
+
+Right on time: Measuring, modelling and managing time-constrained software development
+
+2010-berger.pdf (partial) d
+
+Feature-to-code mapping in two large product lines
+
+20100507a_1_WP2007E.pdf (paper, Japanese, not used) d
+
+IPA/SEC White paper 2007 on Software development projects in Japan
+
+20100507a_2_WP2008E.pdf
+
+IPA/SEC White paper 2008 on Software development projects in Japan (digest edition)
+
+20100507a_3_DataItemDef.pdf
+
+IPA/SEC white paper 20xx on software development projects in Japan (data items definition)
+
+FOSD11-final_1.pdf (not used) d
+
+A study of non-boolean constraints in variability models of an embedded operating system
+
+ossher-icsm2011.pdf (emailed twice, given up) d
+
+File Cloning in Open Source Java Projects: The Good, The Bad, and The Ugly
+
+IST12.pdf (not used) d
+IST2012.pdf (not used, refed) d
+
+Scalable prediction of non-functional properties in software product lines: Footprint and memory consumption
+
+phdNSiegmund12.pdf (IST12..., other) d
+
+Measuring and Predicting Non-Functional Properties of Customizable Programs
+
+bhecht_mobilehci2011_sleepbirds.pdf (paper, not used) d
+
+Falling asleep with angry birds, facebook and kindle - A large scale study on mobile application usage
+
+ICSE2012.pdf (not used) d
+
+Predicting performance via automated feature-interaction detection
+
+aller2003.pdf (ircache.net, not used) d
+
+New models and methods for file size distribution
+
+paper_0.pdf (done) d
+
+A comprehensive study of software forks: dates, reasons and outcomes
+
+ICPC2012-Ruiz.pdf (not used, not downloaded) d
+
+Understanding reuse in the Android market
+
+Sigmetrics1999.doc.pdf (paper+ms-static, refed) d
+
+A large-scale study of file-system contents
+
+Software.Process.Dynamics.pdf (paper+soft-proc-dyn, not used) d
+
+Software process dynamics
+
+CSD-95-887.pdf (partial) d
+
+Exploiting process lifetime distributions for dynamic load balancing
+
+soolinglim-PhD.pdf (done) d
+
+Social Networks and Collaborative Filtering for Large-Scale Requirements Elicitation
+
+costvalueapproach.pdf (paper, done) d
+
+A Cost-Value Approach for Prioritizing Requirements
+
+APSEC05_final.pdf (paper, not used) d
+
+An industrial case study on requirements volatility measures
+
+msr040-hindle.pdf
+
+What do large commits tell us?  A taxonomical study of large commits
+
+1820.02141200003F.pdf
+
+Impact of Personnel Factors on the Recovery of Delayed Software Projects: A System Dynamics Approach
+
+CMU-ISR-10-104.pdf
+
+Coordination breakdowns and their impact on development productivity and software failures
+
+DevTeamRep_Apr-11_Apr-12.pdf (7digital, done) d
+
+7digital development team performance
+
+kumfert.pdf (paper+file, not used) d
+
+Software in the DOE: The hidden overhead of "The build"
+
+0307278.pdf
+
+Hierarchical small-worlds in software architecture
+
+10.1.1.74.7731.pdf (paper, not used) d
+
+File size distribution on Unix systems - then and now
+
+10.1.1.21.56.pdf
+
+The structural cause of file size distributions
+
+Meyer.pdf
+
+A study of practical deduplication
+
+StarekThesis.pdf (ast..., partial) d
+
+A large-scale analysis of Java API usage
+
+ast-api-usage.pdf (partial) d
+ast-api-appendix.pdf (partial) d
+
+Large-scale, AST-based API-usage of open source Java projects
+
+vm-2012-berger.pdf (done) d
+vm-2013-berger.pdf
+
+Variability modeling in the systems software domain, "also as" A Study of Variability Models and Languages in the Systems Software Domain
+
+NADI_CSMR2012.pdf
+
+Mining Kbuild to detect variability anomalies in Linux
+
+Usage.pdf (paper, not used) d
+
+Eclipse API usage: The good and the bad
+
+MacLean2013b.pdf (not used) d
+
+Apache commit history in Neo4J representation
+
+MacLean2011a.pdf (not used) d
+
+Knowledge homogeneity and specialization in the Apache HTTP server project
+
+SyMake-empirical.html (not used) d
+
+Build Code Analysis with Symbolic Evaluation
+
+Wang_Wei.pdf (partial) d
+
+Toward improved understanding and management of software clones
+
+EMSE2013-VasilescuEtAl.pdf (partial) d
+
+On the variation and specialisation of workload - A case study of the Gnome ecosystem community
+
+Goeminne_PhD.pdf (EMSE2013..., partial) d
+
+Understanding the evolution of socio-technical aspects in open source ecosystems: An empirical analysis of Gnome
+
+A Taxonomy of Stakeholders.htm
+
+A Taxonomy of Stakeholders: Human Roles in System Development
+
+trad-contract-not-fit-purpose.pdf
+
+Software development: Why the traditional contract model is not fit for purpose
+
+IMSaut07pg38-43.pdf (confidential) d
+
+Understanding the Source of Information Systems Project Failure: A study in IS project failure
+
+ESECFSE_2013.pdf (cited) d
+
+API Change and Fault Proneness: A Threat to the Success of Android Apps
+
+Yifan_Final.pdf (not used) d
+
+A statistical study of file system metadata on high performance computing sites
+
+CMU-PDL-08-109.pdf (refed) d
+
+Characterizing HEC storage systems at rest
+
+CMU-PDL-12-106.pdf (not used) d
+
+Hadoop's adolescence: A Comparative workload analysis from three research clusters
+
+icse2012g.pdf (not used) d
+
+Temporal analysis of API usage concepts
+
+sabherwal-information-2006.pdf (cited) d
+
+Information system success: individual and organizational determinants
+
+case study 2.pdf (paper, partial) d
+
+An industrial case study on distributed prioritisation in market-driven requirements engineering in packaged software
+
+10.1.1.22.314.pdf (same as: case study 2.pdf, partial) d
+
+Visualization of agreement and satisfaction in distributed prioritization of market requirements
+
+Lunesu_PhD_Thesis.pdf (done) d
+
+Process software simulation model of lean-kanban approach
+
+LRK+13.pdf (cited) d
+
+Scalable analysis of variable software
+
+ibench-tocs12.pdf (cited) d
+
+A file is not a file: Understanding the I/O behavior of Apple desktop applications
+
+10.1.1.82.606.pdf (SDSC-BLUE..., not used) d
+
+Uncovering the effect of system performance on user behavior from traces of parallel systems
+
+06.pdf (disk-activity, not used) d
+
+Analysis of storage system activity
+
+mobilemal-spsm11.pdf (not used) d
+
+A survey of mobile malware in the wild
+
+Feature_Requests.pdf (not used) d
+
+Structured discussion and early failure prediction in feature requests
+
+NASA-manager-soft-dev.pdf (paper, extract, not used) d
+
+Manager's handbook for software development (rev 1, Nov 1990, NASA)
+
+bird2012www.pdf (paper+promise {but not there}, not used) d
+
+Who? Where What? Examining distributed development in two large open source orjects
+
+17_Stutzke A Mathematical.pdf
+
+A mathematical expression of Brook's law
+
+NADI_ICSE_14.pdf (not used) d
+
+Mining configuration constraints: Static analyses and empirical results
+
+main-dataset.pdf (data desc, ignore) d
+
+A dataset of feature additions and feature removals from the Linux kernal
+
+905.pdf (not used) d
+
+Extraction of product evolution tree from source code of product variants
+
+EACP_ICPC14_Interference.pdf (not used) d
+
+Identifying and locating interference issues in content management systems
+
+WCRE11a.doc.pdf (not used) d
+
+An exploratory study of macro co-changes
+
+CS-2012-10.pdf (paper+file, not used) d
+
+A qualitative study of Mozilla's process management practices
+
+whole_a.pdf
+
+Qualitative & semi-quantitative modelling and simulation of software engineering processes
+
+ADA448188.pdf (paper+file, refed) d
+
+Schedule assessment methods for ballistic missile defense ground-based software development
+
+icpc2014-teams.pdf (not used) d
+
+How the evolution of emerging collaborations relates to code changes: an empirical study
+
+pullreqs-dataset.pdf (done) d
+
+A dataset for pull request research
+
+TUD-SERG-2013-010.pdf (pullreqs-dataset..., ignore) d
+
+An Exploratory Study of the Pull-based Software Development Model
+
+RT-436.pdf (emailed, confidential) d
+
+Oops! What about a million kernel oopses?
+
+SoCBM_2010.pdf (paper, cited) d
+
+State of the computer book market in 2010
+
+msr14-robles-est-effort.pdf (not used) d
+
+Estimating development effort in free/open source software projects by mining software repositories: A case study of openstack
+
+SIREN-ICT-project.pdf
+
+Termination of the SIREN ICT project
+
+NADI_MSR_2013.pdf (paper, not used) d
+
+Linux variability anomalies: What causes them and how do they get fixed?
+
+2013-08-05_0603031.pdf
+
+A study of the evolution of low level file system features
+
+10.1.1.9.2569.pdf (partial) d
+
+A Study of Irregularities in File-Size Distributions
+
+tartler_11_eurosys.pdf (paper, not used) d
+
+Feature Consistency in Compile-Time–Configurable System Software ∗
+
+latencyAdoptions2015ERA.pdf (TODO understand data, not used) d
+
+Trusting a Library: A Study of the Latency to Adopt the Latest Maven Release
+
+MSR14-Android-reuse.pdf (not used) d
+
+Revisiting Android Reuse Studies in the Context of Code Obfuscation and Library Usages
+
+2011-TR-empirical_study_bpm.pdf (received email, partial) d
+
+An Empirical Study on Consistency Management of Business and IT Process Models
+
+sosym13.pdf (2011-TR..., partial) d
+
+A Case Study on Consistency Management of Business and IT Process Models in Banking
+ 
+nasa-ada-impact.pdf (paper+file, done) d
+
+IMPACT OF ADA AND OBJECT-ORIENTED DESIGN IN THE FLIGHT DYNAMICS DIVISION AT GODDARD SPACE FLIGHT CENTER
+
+thorsten_berger-PhD.pdf
+
+Variability Modeling in the Real
+
+199812-0-Issue.pdf (paper, not used) d
+
+An Examination of the Effects of Requirements Changes on Software Releases
+
+WU2014_01.pdf (not used) d
+
+Quantifying Structural Attributes of System Decompositions in 28 Feature-oriented Software Product Lines
+
+icse14-seip.pdf (email, not used) d
+
+Software Engineering for the Web: The State of the Practice
+
+RhGrAp+15.pdf (not used) d
+
+Presence-Condition Simplification in Highly Configurable Systems
+
+pullreqs-integrators.pdf (partial) d
+
+Work Practices and Challenges in Pull-Based Development: The Integrator’s Perspective
+
+emse2015-mcintosh.pdf (not used) d
+
+An Empirical Study of the Impact of Modern Code Review Practices on Software Quality
+
+1105.4276.pdf
+
+Community structure of complex software systems: Analysis and applications
+
+urn_nbn_de_0011-n-1015980.pdf (not used) d
+
+An Empirical Model of Software Managers’ Information Needs for Software Engineering Technology Selection
+
+Klint2013-dmr-icsm2013.pdf (refed) d
+
+Exploring the Limits of Domain Model Recovery
+
+ECS-LFCS-04-436.pdf (done) d
+
+Observational Models of Requirements Evolution
+
+icse2015-governance-validated.pdf (not used) d
+
+Enabling the Definition and Enforcement of Governance Rules in Open Source Systems
+
+TR_SERG_2007_07.pdf
+
+GENSIM 2.0: A Customizable Process Simulation Model for Software Process Evaluation
+
+fragmentation-2013.pdf (not used) d
+
+ANDROID FRAGMENTATION VISUALIZED (JULY 2013)
+
+2014_08_fragmentation_report.pdf (not used) d
+
+ANDROID FRAGMENTATION VISUALIZED (AUGUST 2014)
+
+2015_08_fragmentation_report.pdf (done) d
+
+ANDROID FRAGMENTATION VISUALIZED (AUGUST 2015)
+
+RP-91-017.pdf (done) d
+
+Long Waves, Technology Diffusion, and Substitution
+
+MMF_esem15_authorversion.pdf (not used) d
+
+Does Quality of Requirements Specifications matter?  Combined Results of Two Empirical Studies
+
+NADI_SARAH.pdf
+
+Variability Anomalies in Software Product Lines
+
+github_projects_quality_analysis.pdf (not used) d
+
+GitHub Projects.  Quality Analysis of Open-Source Software
+
+sus.pdf
+
+SUS - A quick and dirty usability scale
+
+JUS_Brooke_February_2013.pdf
+
+SUS: A Retrospective
+
+UPA2004TullisStetson.pdf
+
+A Comparison of Questionnaires for Assessing Website Usability
+
+Lewis_Sauro_HCII2009.pdf
+
+The Factor Structure of the System Usability Scale
+
+4697a0d691d34dde80864f11.pdf (not used, cited) d
+
+Software Process Improvement: Where Is the Evidence?
+
+TR2008_08.pdf (not used) d
+
+Recovering Problem Structures to Support the Evolution of Software Systems
+
+wong-jss00.pdf (paper+file, done) d
+
+Quantifying the Closeness between Program Components and Features
+
+paper.296.pdf (paper, not used) d
+
+Measuring distance between program features
+
+v74su3.6.pdf (paper, not used) d
+
+Static and dynamic distance metrics for feature-based code analysis
+
+1511.02603v3.pdf (not used) d
+
+Iterative compilation on mobile devices
+
+MSR2013-Mens.pdf (not used) d
+
+A historical dataset for GNOME contributors
+
+Viability_Quant_Assess_Soft_Services.pdf (paper, done) d
+
+On the Viability of Quantitative Assessment Methods in Software Engineering and Software Services
+
+pr_soc_lan.pdf (not used) d
+
+Quality and Productivity Outcomes Relating to Continuous Integration in GitHub
+
+integration_oss_distribution.pdf (not used) d
+
+An Empirical Study of Integration Activities in Distributions of Open Source Software
+
+ASE2015-preprint-ctdg.pdf (not used) d
+
+Predicting delays in software projects using networked classification
+
+ADA294001.pdf (paper, cited) d
+
+A survey of computer programming languages currently used in the department of defense
+
+Macho2016-buildcochanges.pdf (not used) d
+
+Predicting Build Co-Changes with Source Code Change and Commit Categories
+
+ADA288890.pdf (paper, not used) d
+
+A correlational study of the SEI's capability maturity model and software development performance in dod contracts
+
+ADA329855.pdf (paper, not used) d
+
+A preliminary study of using the SEI's capability maturity model to set statistical control bounds on dod contractor cost and schedule performance
+
+nurmulian_analysis_req_vol.pdf (paper, not used) d
+
+Analysis of Requirements Volatility during Software Development Life Cycle
+
+PNAS-2009-Jamtveit-13160-3.pdf (cited) d
+
+Scaling properties of European research units
+
+Dark_Side_SoftEng_Projects.pdf
+
+The Dark Side of Software Engineering: {Evil} on Computing Projects
+
+10.1002@smr.4360070104.pdf (partial) d
+
+An Empirical Study of Software Maintenance Tasks
+
+IS abandonment.pdf (paper, emailed, not used) d
+
+On information systems project abandonment: An exploratory study of organizational processes
+
+usccse88-500.pdf
+
+A Spiral Model of Software Development and Enhancement
+
+a165337.pdf (paper, done) d
+
+A Quantitative Analysis of Software Developed in Ada
+
+a053014.pdf
+
+Software phenomenology: working papers of the software life cycle management workshop
+
+a121058.pdf
+
+Common Modular Multimode Radar (CMMR) Software Acquisition Study
+
+2010-Ahonen.pdf
+
+Software Engineering Projects May Fail Before They Are Started: Post-Mortem Analysis of Five Cancelled Projects
+
+2015-MSR-coinstevol.pdf (partial) d
+
+A historical analysis of Debian package conflicts
+
+rothberg_16_vamos.pdf (paper, done) d
+
+Feature Models in Linux – From Symbols to Semantics∗
+
+nicta_publication_full_5474.pdf (paper, not used) d
+
+A Simulation Approach for Impact Analysis of Requirement Volatility Considering Dependency Change
+
+nelsonnd.pdf (paper, not used) d
+
+Curing the Software Requirements And Cost Estimating Blues
+
+Hellemond_2014.pdf (paper extract, emailed confidential, not used) d
+
+Firefighting in an embedded systems context
+
+syspop16.pdf (emailed, done) d
+
+A Study of Modern Linux API Usage and Compatibility: What to Support When You’re Supporting
+
+a042186.pdf (paper, not used) d
+
+SOFTWARE SYSTEMS DEVELOPMENT: A CSDL PROJECT HISTORY
+
+1998_005_001_16640.pdf (paper+file, done) d
+
+Hughes Aircraft's Widespread Deployment of a Continuously Improving Software Process
+
+icsews14wetsommain.pdf (paper+file, not used) d
+
+A Replicated Study on Correlating Agile Team Velocity Measured in Function and Story Points
+
+R2345.pdf
+
+The Use of Prototypes in Weapon System Development
+
+b40526013.pdf
+
+How Much Did The Liberty Shipbuilders Forget?
+
+liberty_ship_paper.pdf (not used) d
+
+How Much Did the Liberty Shipbuilders Learn? New Evidence for an Old Case Study
+
+c10232.pdf (extracted, not used) d
+
+Learning by New Experiences: Revisiting the Flying Fortress Learning Curve
+
+SuccessProjOrgconditions.pdf (paper, not used) d
+
+Success of projects in different organizational conditions
+
+compilation-and-linking.pdf (paper+file, not used) d
+
+A Macroscopic Profile of Program Compilation and Linking
+
+journal.pone.0103023.PDF (not used) d
+
+How Much Is the Whole Really More than the Sum of Its Parts? 1  1 = 2.5: Superlinear Productivity in Collective Group Actions
+
+nembhard2001.pdf (paper+file, emailed, extracted, done) d
+
+An Empirical Comparison of Forgetting Models
+
+nicta_publ_6307.pdf (not used) d
+
+Investigating Dependencies in Software Requirements for Change Propagation Analysis
+
+ADA562696.pdf (paper, done) d
+
+Sustaining Air Force Aging Aircraft into the 21st Century
+
+Simple-Sub-Tech-Change.pdf
+
+A Simple Substitution Model of Technological Change
+
+Marchand-2016-IJRM-Multiplayer.pdf (VGChartz/, done) d
+
+The power of an installed base to combat lifecycle decline: The case of video games
+
+Sterman_Bus_dyn-book.pdf
+
+Business Dynamics Systems Thinking and Modeling for a Complex World
+
+21917435-MIT.pdf
+
+The political economy of industrial adaptation in Silicon valley
+
+planet_scale_updates.pdf
+
+Planet Scale Software Updates
+
+Shimagaki_ICSME2016.pdf (not used) d
+
+Why are Commits being Reverted?  A Comparative Study of Industrial and Open Source Projects
+
+ziegler_16_vamos.pdf (done) d
+
+Analyzing the Impact of Feature Changes in Linux∗
+
+ols2006v1-pages-441-450.pdf
+
+Why Userspace Sucks—Or 101 Really Dumb Things Your App Shouldn't Do
+
+1401.1458.pdf
+
+Generalized friendship paradox in complex networks: The case of scientific collaboration
+
+paper-final.pdf (paper, cited) d
+
+Reverse Engineering Variability in Source Code Using Clone Detection -- A Case Study for Linux Variants of Consumer Electronic Devices
+
+IBM1401_IEEEJan2010.pdf
+
+The Legendary {IBM} 1401 Data Processing System
+
+ADA177652.pdf (paper+file, cited) d
+
+Application of halstead's timing model to predict the compilation time of ADA compilers
+
+a202737.pdf (paper, not used) d
+
+A source code analyzer to predict compilation time for avionics software using software science measures
+
+shaw1989.pdf
+
+A Software Science Model of Compile Time
+
+pccTR.pdf
+
+Reducing Build Time Through Precompilations for Evolving Large Software
+
+MSR-TR-2015-2.pdf
+
+Supercomputers: The Amazing Race (A History of Supercomputing, 1960-2020)
+
+ADA042186.pdf (paper, not used) d
+
+Software systems development : a CSDL project history
+
+fde7b5de633f3b.pdf (paper, done) d
+
+The Dependence of Operating System Size Upon Allocatable Resources
+
+10.1.1.134.2363.pdf (paper, not used) d
+
+Lock-in and the Costs of Switching Mainframe Computer Vendors: What Do Buyers See?
+
+1707.02327.pdf
+
+Why Modern Open Source Projects Fail
+
+1507.04587.pdf (done) d
+
+Lessons learned from applying social network analysis on an industrial Free/Libre/Open Source Software ecosystem
+
+10.1109@dasc.1991.17.pdf (paper, not used) d
+
+Computer software in civil aircraft
+
+5353_2791.pdf (paper, not used) d
+
+The growth and locational dynamics of the UK computer services industry,1981-1996
+
+a104212.pdf (paper, not used) d
+
+SECOND SOFTWARE LIFE CYCLE MANAGEMENT WORKSHOP
+
+ieee-article.pdf (pclint, done) d
+
+Software That Checks Software: The Impact of PC-lint
+
+ause2015-mcintosh.pdf
+
+Identifying and Understanding Header File Hotspots in C/C++ Build Processes
+
+LA-UR-05-9011.pdf
+
+Case Study of the Hawk Code Project
+
+LA-UR-05-9291.pdf
+
+Case Study of the Condor Code Project
+
+LA-UR-06-1092.pdf
+
+Case Study of the Eagle Code Project
+
+smr2013-WeiyiShang.pdf
+
+An exploratory study of the evolution of communicated information about the execution of large software systems
+
+Aeronautical-Meteorology.pdf
+
+Weathering Heights: The Emergence of Aeronautical Meteorology as an Infrastructural Science
+
+851391798-MIT.pdf
+
+System Design and the Cost of Architectural Complexity
+
+zhang_abc_2015.pdf
+
+ABC: Accelerated Building of C/C++ Projects
+
+TC-QMM-99353.pdf
+
+PNFG: {A} Framework for Computer Game Narrative Analysis
+
+EMSE2016UrgentUpdSteamPlat.pdf (emailed, wont_share) d
+
+Studying the Urgent Updates of Popular Games on the Steam Platform
+
+icsme2017_cao.pdf (emailed) d
+
+Forecasting the Duration of Incremental Build Jobs
+
+1807.11344.pdf (not used) d
+
+The REquirements TRacing On target (RETRO).NET Dataset
+
+File_Editing_Patterns.pdf (not used) d
+
+An Empirical Study of the Effect of File Editing Patterns on Software Quality
+
+McIntosh_201508_PhD.pdf (paper, not used) d
+
+STUDYING THE SOFTWARE DEVELOPMENT OVERHEAD OF BUILD SYSTEMS
+
+msrjojo.pdf (not used) d
+
+Co-evolution of Infrastructure and Source Code - An Empirical Study
+
+msr_jojo.pdf (done) d
+
+Will My Patch Make It? And How Fast?  Case Study on the Linux Kernel
+
+1802.08441.pdf (not used) d
+
+(No) Influence of Continuous Integration on the Commit Activity in GitHub Projects
+
+KaGrSi+19.pdf (cited) d
+
+Distance-Based Sampling of Software Configuration Spaces
+
+1901.01973.pdf
+
+Looking Back at Postgres
+
+1906.08058.pdf (not used) d
+
+On the abandonment and survival of open source projects: An empirical investigation
+
+Gothic_Enterprise-book.pdf
+
+The gothic enterprise A Guide to Understanding the Medieval Cathedral
+
+1602.02052.pdf
+
+A Comparison of 10 Sampling Algorithms for Configurable Systems
+
+10.1.1.423.4009.pdf
+
+Bringing Virtualization to the x86 Architecture with the Original VMware Workstation
+
+19880069935.pdf
+
+Computers in Spaceflight The NASA Experience
+
+SergiyKolesnikovDiss.pdf (not used) d
+
+Feature Interactions in Configurable Software Systems
+
+zolfagharinia2019.pdf (not used) d
+
+A study of build inflation in 30 million CPAN builds on 13 Perl versions and 10 operating systems
+
+L2019_SemanticAnnotBiases.pdf (not used) d
+
+Covert and Phantom Features in Annotations: Do They Impact Variability Analysis?
+
+2001.07808.pdf (cited) d
+
+A Comprehensive Study of Bloated Dependencies in the Maven Ecosystem
+
+1903.04075.pdf
+
+Nature of System Calls in CPU-centric Computing Paradigm
+
+hemmati2018.pdf (misc) (misc) (misc) (misc) (misc) (misc) (misc) (misc) (misc) d
+
+Utilizing Product Usage Data for Requirements Evaluation
+
+qrs_2019_zou.pdf (done) d
+
+Branch Use in Practice A Large-Scale Empirical Study of 2,923 Projects on GitHub
+
+msrCompatibilityPaper.pdf (not used) d
+
+Data-Driven Solutions to Detect API Compatibility Issues in Android: An Empirical Study
+
+ucalgary_2018_hemmati_ashkan.pdf (paper also hemmati2018, not used) d
+
+Robust Design for Feature Usage-Driven Product Improvement
+
+2163.2164.pdf
+
+The Evaluation of Text Editors: Methodology and Empirical Results
+
+MIT-LCS-TR-018.pdf
+
+An analysis of time-shared computer systems
+
+pap126.pdf (paper, not used) d
+
+Software Usage on Cray Systems across Three Centers (NICS, ORNL and CSCS)
+
+product-design-manuf-book.pdf (paper, not used) d
+
+Product Design for Manufacture and Assembly
+
+ICSME_2020.pdf (not used) d
+
+From 6.2 to 0.15 seconds – an Industrial Case Study on Mobile Web Performance
+
+msr2020_pfeiffer.pdf (done) d
+
+What constitutes Software?  An Empirical, Descriptive Study of Artifacts
+
+fse15.pdf (done) d
+
+Hey, You Have Given Me Too Many Knobs!  Understanding and Dealing with Over-Designed Configuration in System Software
+
+MSR17b.doc.pdf
+
+Do Not Trust Build Results at Face Value – An Empirical Study of 30 Million CPAN Builds
+
+msr18ci.pdf (not used) d
+
+I’m Leaving You, Travis: A Continuous Integration Breakup Story
+
+msr20flags.pdf (not used) d
+
+Capture the Feature Flag: Detecting Feature Flags in Open-Source
+

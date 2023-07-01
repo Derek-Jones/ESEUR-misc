@@ -1,0 +1,222 @@
+CODERE~1.HTM
+CODERE~2.HTM
+
+Annotated Bibliography Code Reading and Program Comprehension
+
+94-06.PDF
+
+Comprehending consistent and inconsistent causal text sequences: a construction integration analysis
+
+92-01.PDF
+
+The influence of feedback on two versions of a related text: II
+
+93-04.PDF
+
+Are good texts always better? Interactions of text coherence, background knowledge, and levels of understanding in learning from text
+
+93-05.PDF
+
+Working memory in text comprehension: interrupting difficult text
+
+EPC-19~1.PDF
+
+Towards a typology of reading goals
+
+KESS.PDF
+
+Accessing the japanese dictionary through the japanese writing system
+
+WORKIN~1.PDF
+
+Working memory capacity and the uncertainty of predictive inferences
+
+READPROG.PDF
+
+CMU instructors guide on reading computer programs
+
+LEWIST~1.PDF
+
+An architecturally based theory of human sentence comprehension
+Lewis PhD 1993
+
+JPR96.PS.gz
+
+Visual sampling during text reading
+
+HILL96~1.PDF
+
+A comma in parsing
+
+GOOD-E~1.PDF
+
+Good enough representations in language comprehension
+
+GIBSON.PS.gz
+GIBSON.PDF (later version)
+
+Linguistic complexity: locality of syntactic dependencies
+
+CUNY98.PDF
+
+The point of punctuation
+
+LEWISJ~1.PDF
+
+Interference in Short-term Memory: The Magical Number Two (or Three) in Sentence
+ Processing
+
+RECENCY.PDF
+
+Recency preference in the human sentence processing mechanism
+
+SENTEN~1.PDF
+
+Sentence comprehension is mediated by content addressable memory structures
+
+DELANG~1.PDF
+
+Performance differences between times and helvetica in a reading task
+
+BOOTHE~1.PDF
+
+The relative importance of spaces and meaning in reading
+
+EPELBO~1.PDF
+
+Fillers and spaces in text: the importance of word recognition during reading
+
+EPELBO~2.PDF
+
+Reading unspaced text: implications for theories of reading eye movements
+earlier, longer, paper of above
+
+COGSCI~1.PS
+
+Adding spaces to Thai and English: Effects on reading
+
+CHIPS2~1.PDF
+
+Mr. Cips 2002: New insights from an ideal-observer model of reading
+
+CHIPS97.PDF
+
+Mr Chips: An ideal observer model of reading
+
+reichle_2.pdf
+
+The E-Z reader model to other models of eye movement control in reading: Comparisons to other models
+
+SIEGEL.PDF
+
+Factors related to english reading performance in children with chinese as a first language: more evidence of cross language transfer of phonological processing
+
+gkconthesis.htm
+
+Legibility and Readability of Small Print: Effects of Font, Observer Age and Spatial Vision
+
+HARA97~1.PDF
+
+A comparison of reading paper and on line documents
+
+TR9608.PDF
+
+Adult second language reading research: how may it inform assessment and instruction
+
+INCOHE~1.PDF
+
+Incoherence and text comprehension: cognitive and computational models of inferential control
+
+CMU-CS~1.PS.gz
+
+The Role of Background Knowledge in Sentence Processing
+
+WHITE_~1.PDF
+
+Non-foveal text processing and fixation positions in reading
+
+readingspeed.htm
+
+Reading speed
+
+char.pdf
+
+Character complexity and redundancy in writing systems over human history
+
+Nominalizations.pdf
+
+Nominalizations vs. denominalizations:  Do they influence what readers recall?
+
+eyemovelexprobduringreading.pdf
+
+Eye movements reveal the on-line computation of lexical probabilities during reading
+
+cogsci05lewisvasishth.pdf
+
+An activation-based model of sentence processing as skilled memory retrieval
+
+MILOST~1.PDF
+
+Why johnny can read: the role of statistical regularities in reading and connectionist modeling
+list Australian and US GPC rules
+
+DehaenemodelReading.pdf
+
+The neural code for written words: a proposal
+
+readingIsCrowded113.pdf !!
+
+Reading is crowded
+
+Crowding_Letter_Confusion.pdf
+
+How crowding affects letter confusion
+
+knowl_read_skill_cohe_compre_sci.pdf
+
+Prior knowledge, reading skill, and text cohesion in the comprehension of science texts
+
+read1.pdf
+
+Psychophysics of reading: I. Normal vision
+
+read2.pdf
+
+Psychophysics of reading: II. Low vision
+
+read4.pdf
+
+Psychophysics of reading IV. Wavelength effects in normal and low vision
+
+read5.pdf
+
+Psychophysics of reading: V. The role of contrast in normal vision
+
+read6.pdf
+
+Psychophysics of reading: VI. The role of contrast in low vision
+
+read15.pdf
+
+Psychophysics of reading: XV. Font effects in normal and low vision
+
+read16.pdf
+
+Psychophysics of reading: XVI. The visual span in normal and low vision
+
+read18.pdf
+
+Psychophysics of reading: XVIII. The effect of print size on reading speed in normal peripheral vision
+
+read20.pdf
+
+Psychophysics of reading: XX. Linking letter recognition to reading speed in central and peripheral vision
+
+10.1.1.667.1628.pdf (paper, done) d
+
+Contextual Prerequisites for U nderstanding: Some Investigations of Comprehension and Recall
+
+a647846f9b90168e85.pdf (paper, extracted, done) d
+
+The Abstraction of Linguistic Ideas
+
